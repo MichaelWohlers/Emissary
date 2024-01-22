@@ -1,6 +1,0 @@
-Server: nginx
-Date: Tue, 16 Jan 2024 11:52:42 GMT
-Content-Type: text/plain;charset=utf-8
-X-Frame-Options: SAMEORIGIN
-Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
-X-Content-Type-Options: nosniff

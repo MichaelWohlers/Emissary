@@ -1,9 +1,0 @@
-Server: nginx
-Date: Tue, 16 Jan 2024 11:49:35 GMT
-Content-Type: text/html; charset=utf-8
-Vary: Accept-Encoding
-Set-Cookie: OCSESSID=480cbbe6546ae6726290cafa4a; path=/
-Set-Cookie: language=en-gb; expires=Thu, 15-Feb-2024 11:49:34 GMT; Max-Age=2592000; path=/; domain=www.ddaywear.com
-Set-Cookie: currency=CAD; expires=Thu, 15-Feb-2024 11:49:34 GMT; Max-Age=2592000; path=/; domain=www.ddaywear.com
-Strict-Transport-Security: max-age=15768000; includeSubDomains
-Content-Encoding: gzip

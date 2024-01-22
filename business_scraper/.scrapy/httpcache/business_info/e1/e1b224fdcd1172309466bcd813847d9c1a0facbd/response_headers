@@ -1,8 +1,0 @@
-Server: nginx
-Date: Tue, 16 Jan 2024 11:40:54 GMT
-Content-Type: text/plain
-Vary: Accept-Encoding
-X-Httpd-Modphp: 1
-Host-Header: 8441280b0c35cbc1147f8ba998a563a7
-X-Proxy-Cache: HIT
-Content-Encoding: gzip

@@ -1,8 +1,0 @@
-Server: nginx
-Date: Tue, 16 Jan 2024 11:48:05 GMT
-Content-Type: text/html; charset=utf-8
-Strict-Transport-Security: max-age=31536000
-Vary: Cookie
-Location: https://theposhlibrarian.com/
-X-Ac: 2.hhn _dfw MISS
-Alt-Svc: h3=":443"; ma=86400

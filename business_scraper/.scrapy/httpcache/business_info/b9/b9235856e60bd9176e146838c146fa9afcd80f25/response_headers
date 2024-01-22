@@ -1,9 +1,0 @@
-Server: nginx
-Date: Tue, 16 Jan 2024 11:50:37 GMT
-Content-Type: text/html; charset=UTF-8
-Vary: Accept-Encoding
-Link: <https://lncofashion.com/wp-json/>; rel="https://api.w.org/", <https://lncofashion.com/wp-json/wp/v2/pages/9>; rel="alternate"; type="application/json", <https://wp.me/P8RSVT-9>; rel=shortlink
-X-Httpd: 1
-Host-Header: 8441280b0c35cbc1147f8ba998a563a7
-X-Proxy-Cache: HIT
-Content-Encoding: gzip

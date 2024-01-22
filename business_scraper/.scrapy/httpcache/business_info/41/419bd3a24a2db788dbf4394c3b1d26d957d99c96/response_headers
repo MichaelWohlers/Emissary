@@ -1,6 +1,0 @@
-Server: nginx/1.25.3
-Date: Tue, 16 Jan 2024 11:37:15 GMT
-Content-Type: text/plain
-X-Middleware-Rewrite: /2461/desktop/robots.txt
-Vary: Accept-Encoding
-Content-Encoding: gzip

@@ -1,9 +1,0 @@
-Content-Length: 24
-Server: nginx
-Date: Tue, 16 Jan 2024 07:02:18 GMT
-Content-Type: text/plain
-Location: https://tinasonthestrand.com/robots.txt
-Expires: Sun, 14 Jul 2024 07:02:18 GMT
-Cache-Control: max-age=15552000
-Host-Header: 8441280b0c35cbc1147f8ba998a563a7
-X-Proxy-Cache-Info: DT:1

@@ -1,9 +1,0 @@
-Content-Length: 295
-Date: Tue, 16 Jan 2024 09:30:39 GMT
-Content-Type: text/html; charset=iso-8859-1
-Server: Apache/2.4.52 (Ubuntu)
-X-Server: ladym-2023
-Strict-Transport-Security: max-age=86400; includeSubDomains
-X-Content-Type-Options: nosniff
-Cache-Control: no-cache, no-store, must-revalidate
-Location: https://api.ladym.com/robots.txt

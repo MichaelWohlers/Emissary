@@ -1,9 +1,0 @@
-Server: nginx
-Date: Tue, 16 Jan 2024 11:44:45 GMT
-Content-Type: text/html; charset=UTF-8
-Vary: Accept-Encoding
-Link: <https://moormanclothiers.com/wp-json/>; rel="https://api.w.org/"
-Link: <https://moormanclothiers.com/wp-json/wp/v2/pages/1343>; rel="alternate"; type="application/json"
-Link: <https://moormanclothiers.com/?p=1343>; rel=shortlink
-X-Cache-Nxaccel: BYPASS
-Content-Encoding: gzip

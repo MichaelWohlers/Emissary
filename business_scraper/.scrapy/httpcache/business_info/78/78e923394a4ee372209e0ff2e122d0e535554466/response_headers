@@ -1,9 +1,0 @@
-Server: nginx
-Date: Tue, 16 Jan 2024 12:03:11 GMT
-Content-Type: text/html; charset=utf-8
-Vary: Cookie
-Access-Control-Allow-Origin: *
-Cache-Control: max-age=600
-Content-Encoding: gzip
-X-Sb-Proxy-Cache: HIT
-Strict-Transport-Security: max-age=15768000

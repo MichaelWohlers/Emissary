@@ -1,7 +1,0 @@
-Content-Length: 162
-Server: nginx
-Date: Tue, 16 Jan 2024 04:00:39 GMT
-Content-Type: text/html
-Location: https://francivintage.com/robots.txt
-X-Ac: 2.hhn _atomic_ams BYPASS
-Alt-Svc: h3=":443"; ma=86400

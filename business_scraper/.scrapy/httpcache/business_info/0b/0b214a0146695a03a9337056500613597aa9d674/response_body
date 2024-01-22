@@ -1,8 +1,0 @@
-User-agent: *
-Disallow: /Icon/
-Disallow: /bin/
-Disallow: /cgi/
-Disallow: /bellca/Icon/
-Crawl-delay: 10
-
-sitemap: http://magasins.bell.ca/sitemap.xml
