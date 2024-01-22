@@ -2,9 +2,17 @@ document.addEventListener('DOMContentLoaded', function() {
     fetchUsers();
 
     async function fetchUsers() {
-        const response = await fetch('/api/users'); // Assuming you have an API endpoint to fetch users
-        const users = await response.json();
-        populateUsers(users);
+        try {
+            const response = await fetch('/api/users');
+            if (!response.ok) {
+                throw new Error('Network response was not ok');
+            }
+            const users = await response.json(); // Parse the JSON response
+    
+            populateUsers(users); // Assuming users is an array of user objects
+        } catch (error) {
+            console.error('Error fetching users:', error);
+        }
     }
 
     function populateUsers(users) {

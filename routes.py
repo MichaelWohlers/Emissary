@@ -389,7 +389,7 @@ def configure_routes(app):
 
         users = clientUser.query.all()
         users_data = [user.to_dict() for user in users]
-        return jsonify({'users': users_data}), 200
+        return jsonify(users_data), 200  # Return an array directly
 
 
 
