@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 07:01:50 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 287
+X-Sorting-Hat-Shopid: 1511293003
+X-Storefront-Renderer-Rendered: 1
+Location: https://wewearbrazil.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 1511293003
+X-Shardid: 287
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=9, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="c2jz", requestID;desc="4fa350f7-1ebc-42ef-bab8-69fa8e1b82ab"
+Server-Timing: cfRequestDuration;dur=37.999868
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 4fa350f7-1ebc-42ef-bab8-69fa8e1b82ab
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=j6L46G5cK7GmKjpdiUlB1mWHw4d2hrVEqJoKcQ9fSa8WrC7PJchxHLBjdvNsCv%2BXRLD8ufhcsVvV6K9%2BFrvfLTsBN%2BGUN2KLN0hIbAjUW9bw0egHAO4YriHSOvHNE%2BMgLgxFO0gG"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84647d4c4d2839d9-FRA
+Alt-Svc: h3=":443"; ma=86400

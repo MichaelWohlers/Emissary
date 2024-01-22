@@ -1,0 +1,17 @@
+Content-Length: 495
+Content-Type: text/plain; charset=utf-8
+Etag: W/"1ef-Hcr/qx1f5rWeXFutTjDjrrVp3k0"
+Age: 0
+Cache-Control: private, max-age=0, must-revalidate
+Accept-Ranges: bytes
+X-Wix-Request-Id: 1705405915.6862732583644923759
+Server: Pepyaka/1.21.6
+X-Content-Type-Options: nosniff
+Date: Tue, 16 Jan 2024 11:51:55 GMT
+X-Served-By: cache-fra-etou8220054-FRA
+X-Cache: MISS
+Server-Timing: cache;desc=miss, varnish;desc=miss_miss, dc;desc=fastly_84_g
+Strict-Transport-Security: max-age=300
+X-Seen-By: yvSunuo/8ld62ehjr5B7kA==,yI4PPEXc3bvXNWfpzSkUarxkNjrXdwdgtu6E0yACibU=,m0j2EEknGIVUW/liY8BLLjO0sjRhOPEJr2NINQYU94zDa2gaReObvoMyILa0JRsy,2d58ifebGbosy5xc+FRali35411/e4zsIr7fyUqrMh5fKKEyGkLU71/HuFDvs+X0BisBHAECGuKtsx396Ntl7Q==,2UNV7KOq4oGjA5+PKsX47MFl+aAq3kv1KMK28mCi9t28ZDY613cHYLbuhNMgAom1,Sa95Q4GZdWNQrQ55uraJG44XQ2PzbNmZQioQxLEiv1M=,bfRpvjX6qZAOrvnTdnDDLHNQz7g+BCnolnv0U8oyHfw=,o6VOeTbMKY7U4brBSq2ArYsiTWYX8YBhSWxRELWJluvWePuQeeh+uvMAQsTF3h2jvMe4fGr6wlnl1+UyxTW2xFiB5QmpRe2J37zq9nDD6cs=,bfRpvjX6qZAOrvnTdnDDLHNQz7g+BCnolnv0U8oyHfw=,gldXzpR/ZMLH/+WigCe3ezg0bFLSzdfWjyCN7WhnN9g=,tznMqpp3e1oucszW+OT1FJfeSsiWIR0JNkyguypO2CYHi/b6MR/hwOP/1YV3rbgBmFn5ZaUWCfIOk9hIZXKUKN8NEqG0iizYgBEXcztUNVk=,NGA4+op+pO0k0Gabeox+q7e81MrFxRSAC7cIOQJA1b8=,mvxQ9qSAmY38asKjFCcmG1ok4xnDLUJPKsd6qD64s9Vn4mmAhgasUyBL1sCsyeRst7zUysXFFIALtwg5AkDVvw==
+Via: 1.1 google
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000

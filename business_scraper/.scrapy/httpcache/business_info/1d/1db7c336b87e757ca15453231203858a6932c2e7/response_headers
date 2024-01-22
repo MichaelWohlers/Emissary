@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 04:57:00 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 250
+X-Sorting-Hat-Shopid: 64269517051
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=8cb57a26-ce68-4d96-8a62-233d8fc616c9; path=/; expires=Tue, 16 Jan 2024 05:27:00 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 04:57:00 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 04:57:00 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 04:57:00 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=the270boutique.com; path=/; expires=Wed, 17 Jan 2024 04:57:00 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=f95d265d-d615-4eac-a89e-5fd71b7b0da9; Expires=Wed, 15-Jan-25 04:57:00 GMT; Domain=the270boutique.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=ed6e8266-95b7-4bab-aaac-c09b2a9bfe79; Expires=Tue, 16-Jan-24 05:27:00 GMT; Domain=the270boutique.com; Path=/; SameSite=Lax
+Etag: "cacheable:f116677054f7508c6583abf16760f6ad"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 64269517051
+X-Shardid: 250
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=9, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="136346894587", servedBy;desc="5cw2", requestID;desc="f46e45f9-b105-498c-be70-ecddc6485a9e"
+Server-Timing: cfRequestDuration;dur=39.999962
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: f46e45f9-b105-498c-be70-ecddc6485a9e
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=myFSpFkqKqK0qE9VHoPXKC6Y7TwFAgVMIXu0EyP92pkRY%2FKp549%2FF4qQ4XGLogwWibnxKeRuFJOSyv1mgOB74%2BDKKJqqHq2DIJtQC9VkdGyVfWKEfTUoFipL3fNAE%2BcWfOUipw%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8463c6717ff96add-FRA
+Alt-Svc: h3=":443"; ma=86400

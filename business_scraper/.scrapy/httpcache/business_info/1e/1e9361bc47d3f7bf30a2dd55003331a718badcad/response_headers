@@ -1,0 +1,8 @@
+Content-Length: 99
+Accept-Ranges: bytes
+Alt-Svc: h3=":443"; ma=2592000
+Content-Type: text/plain; charset=utf-8
+Etag: "rwps1u2r"
+Last-Modified: Fri, 23 Jun 2023 16:20:18 GMT
+Server: Caddy
+Date: Tue, 16 Jan 2024 11:43:46 GMT

@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:43:58 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 181
+X-Sorting-Hat-Shopid: 53541732534
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=0d609e64-a8b6-4250-b786-96b123328c5d; path=/; expires=Tue, 16 Jan 2024 12:13:58 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:43:58 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 11:43:58 GMT; SameSite=Lax
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:43:58 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=a-k-clothing-boutique.myshopify.com; path=/; expires=Wed, 17 Jan 2024 11:43:58 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=70fcdb46-a9fc-4538-b2fd-1cf00384fb17; Expires=Wed, 15-Jan-25 11:43:58 GMT; Domain=a-k-clothing-boutique.myshopify.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=00d39ce7-eb0b-4e5e-8841-feaf294dcafe; Expires=Tue, 16-Jan-24 12:13:58 GMT; Domain=a-k-clothing-boutique.myshopify.com; Path=/; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+Etag: "cacheable:0ad9a260160aaf6e23766fd1e8201430"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 53541732534
+X-Shardid: 181
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=31, db;dur=8, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="130140209334", servedBy;desc="67nn", requestID;desc="1a1c4069-2963-4838-8b24-47aa8c9983de"
+Server-Timing: cfRequestDuration;dur=66.999912
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 1a1c4069-2963-4838-8b24-47aa8c9983de
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=BWJFzQ7CWg9RFF%2FdE7O33n0CcmRD%2FCXWoW3w9%2F3CIfxXfjA0SwLNUifvfWRZC2uzPCxRIFRB0xBEBWvsTRp%2FItnkKATkt2bK9%2FWZF6kyiz0kz1wOoVtjcPTNCIYxCIIxUhOqoWQ%2BUjK1hj4heou89yxpE7EU"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661a9918c76957-FRA
+Alt-Svc: h3=":443"; ma=86400

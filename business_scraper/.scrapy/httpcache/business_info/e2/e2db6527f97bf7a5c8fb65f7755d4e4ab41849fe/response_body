@@ -1,0 +1,2546 @@
+<!DOCTYPE html><html class="js svg flexbox csstransforms" lang="en"><head>
+  <meta name="p:domain_verify" content="f865c03812b7141b09e3e997af3f9feb">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#f6bb8a">
+  <link rel="canonical" href="https://shopsweetapricot.com/"><title>Sweet Apricot</title><meta name="description" content="We are a women’s clothing store located in Quincy, IL. Our shop is an everyday wear boutique with a focus on quality fabrics- we are feel good fashion!"><!-- /snippets/social-meta-tags.liquid -->
+
+
+
+
+<meta property="og:site_name" content="Sweet Apricot">
+<meta property="og:url" content="https://shopsweetapricot.com/">
+<meta property="og:title" content="Sweet Apricot">
+<meta property="og:type" content="website">
+<meta property="og:description" content="We are a women’s clothing store located in Quincy, IL. Our shop is an everyday wear boutique with a focus on quality fabrics- we are feel good fashion!">
+
+<meta property="og:image" content="http://shopsweetapricot.com/cdn/shop/files/Logo_1200x1200.jpg?v=1613691139">
+<meta property="og:image:secure_url" content="https://shopsweetapricot.com/cdn/shop/files/Logo_1200x1200.jpg?v=1613691139">
+
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Sweet Apricot">
+<meta name="twitter:description" content="We are a women’s clothing store located in Quincy, IL. Our shop is an everyday wear boutique with a focus on quality fabrics- we are feel good fashion!">
+
+
+  <link href="//shopsweetapricot.com/cdn/shop/t/1/assets/theme.scss.css?v=150073343623549458521699547704" rel="stylesheet" type="text/css" media="all">
+
+  <script type="text/javascript" async="" src="https://chimpstatic.com/mcjs-connected/js/users/3bba0d307284e5d95aff58bd6/eee81d1f75434098d159494e9.js?shop=the-sweet-apricot.myshopify.com"></script><script type="text/javascript" async="" src="//shopsweetapricot.com/cdn/s/trekkie.storefront.f2da2901761ed691d459433ada0e4d90e085713c.min.js"></script><script>
+    var theme = {
+      strings: {
+        addToCart: "Add to cart",
+        soldOut: "Sold out",
+        unavailable: "Unavailable",
+        regularPrice: "Regular price",
+        sale: "Sale",
+        showMore: "Show More",
+        showLess: "Show Less",
+        addressError: "Error looking up that address",
+        addressNoResults: "No results for that address",
+        addressQueryLimit: "You have exceeded the Google API usage limit. Consider upgrading to a \u003ca href=\"https:\/\/developers.google.com\/maps\/premium\/usage-limits\"\u003ePremium Plan\u003c\/a\u003e.",
+        authError: "There was a problem authenticating your Google Maps account.",
+        newWindow: "Opens in a new window.",
+        external: "Opens external website.",
+        newWindowExternal: "Opens external website in a new window."
+      },
+      moneyFormat: "${{amount}}"
+    }
+
+    document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
+  </script><script src="//shopsweetapricot.com/cdn/shop/t/1/assets/lazysizes.js?v=68441465964607740661543604025" async="async"></script>
+  <script src="//shopsweetapricot.com/cdn/shop/t/1/assets/vendor.js?v=121857302354663160541543604026" defer="defer"></script>
+  <script src="//shopsweetapricot.com/cdn/shop/t/1/assets/theme.js?v=154510965576299843251639408275" defer="defer"></script>
+
+  <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script><meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/6839009344/digital_wallets/dialog">
+<meta name="shopify-checkout-api-token" content="4124ef880d30c8e7dadfad20952ed6a0">
+<meta id="in-context-paypal-metadata" data-shop-id="6839009344" data-venmo-supported="true" data-environment="production" data-locale="en_US" data-paypal-v4="true" data-currency="USD">
+<script async="async" src="/checkouts/internal/preloads.js?permanent-domain=the-sweet-apricot.myshopify.com&amp;locale=en-US"></script>
+<script id="apple-pay-shop-capabilities" type="application/json">{"shopId":6839009344,"countryCode":"US","currencyCode":"USD","merchantCapabilities":["supports3DS"],"merchantId":"gid:\/\/shopify\/Shop\/6839009344","merchantName":"Sweet Apricot","requiredBillingContactFields":["postalAddress","email","phone"],"requiredShippingContactFields":["postalAddress","email","phone"],"shippingType":"shipping","supportedNetworks":["visa","masterCard","amex","discover","elo","jcb"],"total":{"type":"pending","label":"Sweet Apricot","amount":"1.00"},"shopifyPaymentsEnabled":true,"supportsSubscriptions":true}</script>
+<script id="shopify-features" type="application/json">{"accessToken":"4124ef880d30c8e7dadfad20952ed6a0","betas":["rich-media-storefront-analytics"],"domain":"shopsweetapricot.com","predictiveSearch":true,"shopId":6839009344,"smart_payment_buttons_url":"https:\/\/shopsweetapricot.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js","dynamic_checkout_cart_url":"https:\/\/shopsweetapricot.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js","locale":"en","optimusEnabled":true,"optimusHidden":false,"shopPromisePDPV3Enabled":true}</script>
+<script>var Shopify = Shopify || {};
+Shopify.shop = "the-sweet-apricot.myshopify.com";
+Shopify.locale = "en";
+Shopify.currency = {"active":"USD","rate":"1.0"};
+Shopify.country = "US";
+Shopify.theme = {"name":"Debut","id":40429715520,"theme_store_id":796,"role":"main"};
+Shopify.theme.handle = "null";
+Shopify.theme.style = {"id":null,"handle":null};
+Shopify.cdnHost = "shopsweetapricot.com/cdn";
+Shopify.routes = Shopify.routes || {};
+Shopify.routes.root = "/";</script>
+<script type="module">!function(o){(o.Shopify=o.Shopify||{}).modules=!0}(window);</script>
+<script>!function(o){function n(){var o=[];function n(){o.push(Array.prototype.slice.apply(arguments))}return n.q=o,n}var t=o.Shopify=o.Shopify||{};t.loadFeatures=n(),t.autoloadFeatures=n()}(window);</script>
+<script>window.ShopifyPay = window.ShopifyPay || {};
+window.ShopifyPay.apiHost = "shop.app\/pay";</script>
+<script>
+  window.Shopify = window.Shopify || {};
+  if (!window.Shopify.featureAssets) window.Shopify.featureAssets = {};
+  window.Shopify.featureAssets['shop-js'] = {"pay-button":["modules/client.pay-button_fa7a4091.en.esm.js","modules/chunk.common_089ed268.esm.js"],"init-shop-email-lookup-coordinator":["modules/client.init-shop-email-lookup-coordinator_c4786d7f.en.esm.js","modules/chunk.common_089ed268.esm.js"],"init-customer-accounts":["modules/client.init-customer-accounts_b72e2e23.en.esm.js","modules/chunk.common_089ed268.esm.js"],"init-customer-accounts-sign-up":["modules/client.init-customer-accounts-sign-up_24bcc88f.en.esm.js","modules/chunk.common_089ed268.esm.js"],"init-shop-for-new-customer-accounts":["modules/client.init-shop-for-new-customer-accounts_d6ce5df6.en.esm.js","modules/chunk.common_089ed268.esm.js"],"shop-pay-payment-request":["modules/client.shop-pay-payment-request_44b42b1f.en.esm.js","modules/chunk.common_089ed268.esm.js","modules/chunk.shop-pay_24d0dbcb.esm.js"],"discount-app":["modules/client.discount-app_ca134bdb.en.esm.js","modules/chunk.common_089ed268.esm.js"],"login-button":["modules/client.login-button_7c13706c.en.esm.js","modules/chunk.common_089ed268.esm.js"],"payment-terms":["modules/client.payment-terms_924ece13.en.esm.js","modules/chunk.common_089ed268.esm.js"]};
+</script>
+<script>(function() {
+  function asyncLoad() {
+    var urls = ["https:\/\/chimpstatic.com\/mcjs-connected\/js\/users\/3bba0d307284e5d95aff58bd6\/eee81d1f75434098d159494e9.js?shop=the-sweet-apricot.myshopify.com"];
+    for (var i = 0; i < urls.length; i++) {
+      var s = document.createElement('script');
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = urls[i];
+      var x = document.getElementsByTagName('script')[0];
+      x.parentNode.insertBefore(s, x);
+    }
+  };
+  if(window.attachEvent) {
+    window.attachEvent('onload', asyncLoad);
+  } else {
+    window.addEventListener('load', asyncLoad, false);
+  }
+})();</script>
+<script id="__st">var __st={"a":6839009344,"offset":-21600,"reqid":"0a23571a-1cb6-4c56-b0c8-6f1bb44fac7b","pageurl":"shopsweetapricot.com\/","u":"86db8829b21b","p":"home"};</script>
+<script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
+<script>!function(o){o.addEventListener("DOMContentLoaded",function(){window.Shopify=window.Shopify||{},window.Shopify.recaptchaV3=window.Shopify.recaptchaV3||{siteKey:"6LcCR2cUAAAAANS1Gpq_mDIJ2pQuJphsSQaUEuc9"};var t=['form[action*="/contact"] input[name="form_type"][value="contact"]','form[action*="/comments"] input[name="form_type"][value="new_comment"]','form[action*="/account"] input[name="form_type"][value="customer_login"]','form[action*="/account"] input[name="form_type"][value="recover_customer_password"]','form[action*="/account"] input[name="form_type"][value="create_customer"]','form[action*="/contact"] input[name="form_type"][value="customer"]'].join(",");function n(e){e=e.target;null==e||null!=(e=function e(t,n){if(null==t.parentElement)return null;if("FORM"!=t.parentElement.tagName)return e(t.parentElement,n);for(var o=t.parentElement.action,r=0;r<n.length;r++)if(-1!==o.indexOf(n[r]))return t.parentElement;return null}(e,["/contact","/comments","/account"]))&&null!=e.querySelector(t)&&((e=o.createElement("script")).setAttribute("src","https://cdn.shopify.com/shopifycloud/storefront-recaptcha-v3/v0.6/index.js"),o.body.appendChild(e),o.removeEventListener("focus",n,!0),o.removeEventListener("change",n,!0),o.removeEventListener("click",n,!0))}o.addEventListener("click",n,!0),o.addEventListener("change",n,!0),o.addEventListener("focus",n,!0)})}(document);</script>
+<script integrity="sha256-h4dvokWvGcvRSqiG7VnGqoonxF0k3NeoHPLSMjUGIz4=" data-source-attribution="shopify.loadfeatures" defer="defer" src="//shopsweetapricot.com/cdn/shopifycloud/shopify/assets/storefront/load_feature-87876fa245af19cbd14aa886ed59c6aa8a27c45d24dcd7a81cf2d2323506233e.js" crossorigin="anonymous"></script>
+<script crossorigin="anonymous" defer="defer" src="//shopsweetapricot.com/cdn/shopifycloud/shopify/assets/shopify_pay/storefront-a2d444786d996da5634fbbaeeffe6104ee672440dfa6cdcaebfb27dceaaf9c0f.js?v=20220906"></script>
+<script integrity="sha256-HAs5a9TQVLlKuuHrahvWuke+s1UlxXohfHeoYv8G2D8=" data-source-attribution="shopify.dynamic-checkout" defer="defer" src="//shopsweetapricot.com/cdn/shopifycloud/shopify/assets/storefront/features-1c0b396bd4d054b94abae1eb6a1bd6ba47beb35525c57a217c77a862ff06d83f.js" crossorigin="anonymous"></script>
+
+
+<style id="shopify-dynamic-checkout-cart">@media screen and (min-width: 750px) {
+  #dynamic-checkout-cart {
+    min-height: 50px;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  #dynamic-checkout-cart {
+    min-height: 240px;
+  }
+}
+</style><script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.end');</script>
+<link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch">
+<script>(function(){if ("sendBeacon" in navigator && "performance" in window) {var session_token = document.cookie.match(/_shopify_s=([^;]*)/);function handle_abandonment_event(e) {var entries = performance.getEntries().filter(function(entry) {return /monorail-edge.shopifysvc.com/.test(entry.name);});if (!window.abandonment_tracked && entries.length === 0) {window.abandonment_tracked = true;var currentMs = Date.now();var navigation_start = performance.timing.navigationStart;var payload = {shop_id: 6839009344,url: window.location.href,navigation_start,duration: currentMs - navigation_start,session_token: session_token && session_token.length === 2 ? session_token[1] : "",page_type: "index"};window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({schema_id: "online_store_buyer_site_abandonment/1.1",payload: payload,metadata: {event_created_at_ms: currentMs,event_sent_at_ms: currentMs}}));}}window.addEventListener('pagehide', handle_abandonment_event);}}());</script>
+<script id="web-pixels-manager-setup">(function e(e,n,a,t,o,r,i){var s=null!==e,l=("function"==typeof BigInt&&BigInt.toString().indexOf("[native code]")?"modern":"legacy").substring(0,1),c=t.substring(0,1);if(s){window.Shopify=window.Shopify||{};var d=window.Shopify;d.analytics=d.analytics||{};var u=d.analytics;u.replayQueue=[],u.publish=function(e,n,a){u.replayQueue.push([e,n,a])};try{self.performance.mark("wpm:start")}catch(e){}}var p,f,y,h,v,m,w,g,b,_=[a,"/wpm","/",c,r,l,".js"].join("");f=(p={src:_,async:!0,onload:function(){if(e){var a=window.webPixelsManager.init(e);null==n||n(a);var t=window.Shopify.analytics;t.replayQueue.forEach((function(e){var n=e[0],t=e[1],o=e[2];a.publishCustomEvent(n,t,o)})),t.replayQueue=[],t.publish=a.publishCustomEvent,t.visitor=a.visitor}},onerror:function(){var n=(null==e?void 0:e.storefrontBaseUrl)?e.storefrontBaseUrl.replace(/\/$/,""):self.location.origin,a="".concat(n,"/.well-known/shopify/monorail/unstable/produce_batch"),t=JSON.stringify({metadata:{event_sent_at_ms:(new Date).getTime()},events:[{schema_id:"web_pixels_manager_load/2.0",payload:{version:o||"latest",page_url:self.location.href,status:"failed",error_msg:"".concat(_," has failed to load")},metadata:{event_created_at_ms:(new Date).getTime()}}]});try{if(self.navigator.sendBeacon.bind(self.navigator)(a,t))return!0}catch(e){}var r=new XMLHttpRequest;try{return r.open("POST",a,!0),r.setRequestHeader("Content-Type","text/plain"),r.send(t),!0}catch(e){console&&console.warn&&console.warn("[Web Pixels Manager] Got an unhandled error while logging a load error.")}return!1}}).src,y=p.async,h=void 0===y||y,v=p.onload,m=p.onerror,w=document.createElement("script"),g=document.head,b=document.body,w.async=h,w.src=f,v&&w.addEventListener("load",v),m&&w.addEventListener("error",m),g?g.appendChild(w):b?b.appendChild(w):console.error("Did not find a head or body element to append the script")})({shopId: 6839009344,storefrontBaseUrl: "https://shopsweetapricot.com",cdnBaseUrl: "https://shopsweetapricot.com/cdn",surface: "storefront-renderer",enabledBetaFlags: ["web_pixels_async_pixel_refactor","web_pixels_manager_performance_improvement"],webPixelsConfigList: [{"id":"shopify-app-pixel","configuration":"{}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"0570","apiClientId":"shopify-pixel","type":"APP"},{"id":"shopify-custom-pixel","eventPayloadVersion":"v1","runtimeContext":"LAX","scriptVersion":"0570","apiClientId":"shopify-pixel","type":"CUSTOM"}],initData: {"cart":null,"checkout":null,"customer":null,"productVariants":[]},},function pageEvents(webPixelsManagerAPI) {webPixelsManagerAPI.publish("page_viewed");},"https://shopsweetapricot.com/cdn","browser","0.0.415","08d9d536wbc499b5ep9e0ec6b9m18e2802a",["web_pixels_async_pixel_refactor","web_pixels_manager_performance_improvement"]);</script><script async="" src="https://shopsweetapricot.com/cdn/wpm/b08d9d536wbc499b5ep9e0ec6b9m18e2802al.js"></script>  <script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
+window.ShopifyAnalytics.meta.currency = 'USD';
+var meta = {"page":{"pageType":"home"}};
+for (var attr in meta) {
+  window.ShopifyAnalytics.meta[attr] = meta[attr];
+}</script>
+<script>window.ShopifyAnalytics.merchantGoogleAnalytics = function() {
+  
+};
+</script>
+<script class="analytics">(function () {
+    var customDocumentWrite = function(content) {
+      var jquery = null;
+
+      if (window.jQuery) {
+        jquery = window.jQuery;
+      } else if (window.Checkout && window.Checkout.$) {
+        jquery = window.Checkout.$;
+      }
+
+      if (jquery) {
+        jquery('body').append(content);
+      }
+    };
+
+    var hasLoggedConversion = function(token) {
+      if (token) {
+        return document.cookie.indexOf('loggedConversion=' + token) !== -1;
+      }
+      return false;
+    }
+
+    var setCookieIfConversion = function(token) {
+      if (token) {
+        var twoMonthsFromNow = new Date(Date.now());
+        twoMonthsFromNow.setMonth(twoMonthsFromNow.getMonth() + 2);
+
+        document.cookie = 'loggedConversion=' + token + '; expires=' + twoMonthsFromNow;
+      }
+    }
+
+    var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
+    if (trekkie.integrations) {
+      return;
+    }
+    trekkie.methods = [
+      'identify',
+      'page',
+      'ready',
+      'track',
+      'trackForm',
+      'trackLink'
+    ];
+    trekkie.factory = function(method) {
+      return function() {
+        var args = Array.prototype.slice.call(arguments);
+        args.unshift(method);
+        trekkie.push(args);
+        return trekkie;
+      };
+    };
+    for (var i = 0; i < trekkie.methods.length; i++) {
+      var key = trekkie.methods[i];
+      trekkie[key] = trekkie.factory(key);
+    }
+    trekkie.load = function(config) {
+      trekkie.config = config || {};
+      trekkie.config.initialDocumentCookie = document.cookie;
+      var first = document.getElementsByTagName('script')[0];
+      var script = document.createElement('script');
+      script.type = 'text/javascript';
+      script.onerror = function(e) {
+        var scriptFallback = document.createElement('script');
+        scriptFallback.type = 'text/javascript';
+        scriptFallback.onerror = function(error) {
+                var Monorail = {
+      produce: function produce(monorailDomain, schemaId, payload) {
+        var currentMs = new Date().getTime();
+        var event = {
+          schema_id: schemaId,
+          payload: payload,
+          metadata: {
+            event_created_at_ms: currentMs,
+            event_sent_at_ms: currentMs
+          }
+        };
+        return Monorail.sendRequest("https://" + monorailDomain + "/v1/produce", JSON.stringify(event));
+      },
+      sendRequest: function sendRequest(endpointUrl, payload) {
+        // Try the sendBeacon API
+        if (window && window.navigator && typeof window.navigator.sendBeacon === 'function' && typeof window.Blob === 'function' && !Monorail.isIos12()) {
+          var blobData = new window.Blob([payload], {
+            type: 'text/plain'
+          });
+
+          if (window.navigator.sendBeacon(endpointUrl, blobData)) {
+            return true;
+          } // sendBeacon was not successful
+
+        } // XHR beacon
+
+        var xhr = new XMLHttpRequest();
+
+        try {
+          xhr.open('POST', endpointUrl);
+          xhr.setRequestHeader('Content-Type', 'text/plain');
+          xhr.send(payload);
+        } catch (e) {
+          console.log(e);
+        }
+
+        return false;
+      },
+      isIos12: function isIos12() {
+        return window.navigator.userAgent.lastIndexOf('iPhone; CPU iPhone OS 12_') !== -1 || window.navigator.userAgent.lastIndexOf('iPad; CPU OS 12_') !== -1;
+      }
+    };
+    Monorail.produce('monorail-edge.shopifysvc.com',
+      'trekkie_storefront_load_errors/1.1',
+      {shop_id: 6839009344,
+      theme_id: 40429715520,
+      app_name: "storefront",
+      context_url: window.location.href,
+      source_url: "//shopsweetapricot.com/cdn/s/trekkie.storefront.f2da2901761ed691d459433ada0e4d90e085713c.min.js"});
+
+        };
+        scriptFallback.async = true;
+        scriptFallback.src = '//shopsweetapricot.com/cdn/s/trekkie.storefront.f2da2901761ed691d459433ada0e4d90e085713c.min.js';
+        first.parentNode.insertBefore(scriptFallback, first);
+      };
+      script.async = true;
+      script.src = '//shopsweetapricot.com/cdn/s/trekkie.storefront.f2da2901761ed691d459433ada0e4d90e085713c.min.js';
+      first.parentNode.insertBefore(script, first);
+    };
+    trekkie.load(
+      {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":6839009344,"isMerchantRequest":null,"themeId":40429715520,"themeCityHash":"17413270847837413307","contentLanguage":"en","currency":"USD"},"isServerSideCookieWritingEnabled":true,"monorailRegion":"shop_domain"},"Facebook Pixel":{"pixelIds":["303147720302611"],"agent":"plshopify1.2"},"Session Attribution":{},"S2S":{"facebookCapiEnabled":false,"facebookAppPixelId":"303147720302611","source":"trekkie-storefront-renderer"}}
+    );
+
+    var loaded = false;
+    trekkie.ready(function() {
+      if (loaded) return;
+      loaded = true;
+
+      window.ShopifyAnalytics.lib = window.trekkie;
+
+  
+      var originalDocumentWrite = document.write;
+      document.write = customDocumentWrite;
+      try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
+      document.write = originalDocumentWrite;
+
+      window.ShopifyAnalytics.lib.page(null,{"pageType":"home"});
+
+      var match = window.location.pathname.match(/checkouts\/(.+)\/(thank_you|post_purchase)/)
+      var token = match? match[1]: undefined;
+      if (!hasLoggedConversion(token)) {
+        setCookieIfConversion(token);
+        
+      }
+    });
+
+
+        var eventsListenerScript = document.createElement('script');
+        eventsListenerScript.async = true;
+        eventsListenerScript.src = "//shopsweetapricot.com/cdn/shopifycloud/shopify/assets/shop_events_listener-a7c63dba65ccddc484f77541dc8ca437e60e1e9e297fe1c3faebf6523a0ede9b.js";
+        document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
+
+})();</script><script async="" src="//shopsweetapricot.com/cdn/shopifycloud/shopify/assets/shop_events_listener-a7c63dba65ccddc484f77541dc8ca437e60e1e9e297fe1c3faebf6523a0ede9b.js"></script>
+<script class="boomerang">
+(function () {
+  if (window.BOOMR && (window.BOOMR.version || window.BOOMR.snippetExecuted)) {
+    return;
+  }
+  window.BOOMR = window.BOOMR || {};
+  window.BOOMR.snippetStart = new Date().getTime();
+  window.BOOMR.snippetExecuted = true;
+  window.BOOMR.snippetVersion = 12;
+  window.BOOMR.application = "storefront-renderer";
+  window.BOOMR.themeName = "Debut";
+  window.BOOMR.themeVersion = "11.0.3";
+  window.BOOMR.shopId = 6839009344;
+  window.BOOMR.themeId = 40429715520;
+  window.BOOMR.renderRegion = "gcp-europe-west1";
+  window.BOOMR.url =
+    "https://shopsweetapricot.com/cdn/shopifycloud/boomerang/shopify-boomerang-1.0.0.min.js";
+  var where = document.currentScript || document.getElementsByTagName("script")[0];
+  var parentNode = where.parentNode;
+  var promoted = false;
+  var LOADER_TIMEOUT = 3000;
+  function promote() {
+    if (promoted) {
+      return;
+    }
+    var script = document.createElement("script");
+    script.id = "boomr-scr-as";
+    script.src = window.BOOMR.url;
+    script.async = true;
+    parentNode.appendChild(script);
+    promoted = true;
+  }
+  function iframeLoader(wasFallback) {
+    promoted = true;
+    var dom, bootstrap, iframe, iframeStyle;
+    var doc = document;
+    var win = window;
+    window.BOOMR.snippetMethod = wasFallback ? "if" : "i";
+    bootstrap = function(parent, scriptId) {
+      var script = doc.createElement("script");
+      script.id = scriptId || "boomr-if-as";
+      script.src = window.BOOMR.url;
+      BOOMR_lstart = new Date().getTime();
+      parent = parent || doc.body;
+      parent.appendChild(script);
+    };
+    if (!window.addEventListener && window.attachEvent && navigator.userAgent.match(/MSIE [67]./)) {
+      window.BOOMR.snippetMethod = "s";
+      bootstrap(parentNode, "boomr-async");
+      return;
+    }
+    iframe = document.createElement("IFRAME");
+    iframe.src = "about:blank";
+    iframe.title = "";
+    iframe.role = "presentation";
+    iframe.loading = "eager";
+    iframeStyle = (iframe.frameElement || iframe).style;
+    iframeStyle.width = 0;
+    iframeStyle.height = 0;
+    iframeStyle.border = 0;
+    iframeStyle.display = "none";
+    parentNode.appendChild(iframe);
+    try {
+      win = iframe.contentWindow;
+      doc = win.document.open();
+    } catch (e) {
+      dom = document.domain;
+      iframe.src = "javascript:var d=document.open();d.domain='" + dom + "';void(0);";
+      win = iframe.contentWindow;
+      doc = win.document.open();
+    }
+    if (dom) {
+      doc._boomrl = function() {
+        this.domain = dom;
+        bootstrap();
+      };
+      doc.write("<body onload='document._boomrl();'>");
+    } else {
+      win._boomrl = function() {
+        bootstrap();
+      };
+      if (win.addEventListener) {
+        win.addEventListener("load", win._boomrl, false);
+      } else if (win.attachEvent) {
+        win.attachEvent("onload", win._boomrl);
+      }
+    }
+    doc.close();
+  }
+  var link = document.createElement("link");
+  if (link.relList &&
+    typeof link.relList.supports === "function" &&
+    link.relList.supports("preload") &&
+    ("as" in link)) {
+    window.BOOMR.snippetMethod = "p";
+    link.href = window.BOOMR.url;
+    link.rel = "preload";
+    link.as = "script";
+    link.addEventListener("load", promote);
+    link.addEventListener("error", function() {
+      iframeLoader(true);
+    });
+    setTimeout(function() {
+      if (!promoted) {
+        iframeLoader(true);
+      }
+    }, LOADER_TIMEOUT);
+    BOOMR_lstart = new Date().getTime();
+    parentNode.appendChild(link);
+  } else {
+    iframeLoader(false);
+  }
+  function boomerangSaveLoadTime(e) {
+    window.BOOMR_onload = (e && e.timeStamp) || new Date().getTime();
+  }
+  if (window.addEventListener) {
+    window.addEventListener("load", boomerangSaveLoadTime, false);
+  } else if (window.attachEvent) {
+    window.attachEvent("onload", boomerangSaveLoadTime);
+  }
+  if (document.addEventListener) {
+    document.addEventListener("onBoomerangLoaded", function(e) {
+      e.detail.BOOMR.init({
+        ResourceTiming: {
+          enabled: true,
+          trackedResourceTypes: ["script", "img", "css"]
+        },
+      });
+      e.detail.BOOMR.t_end = new Date().getTime();
+    });
+  } else if (document.attachEvent) {
+    document.attachEvent("onpropertychange", function(e) {
+      if (!e) e=event;
+      if (e.propertyName === "onBoomerangLoaded") {
+        e.detail.BOOMR.init({
+          ResourceTiming: {
+            enabled: true,
+            trackedResourceTypes: ["script", "img", "css"]
+          },
+        });
+        e.detail.BOOMR.t_end = new Date().getTime();
+      }
+    });
+  }
+})();</script><iframe src="about:blank" title="" style="width: 0px; height: 0px; border: 0px; display: none;"></iframe>
+<link rel="dns-prefetch preconnect" href="h"></head>
+
+<body class="template-index">
+
+  <a class="in-page-link visually-hidden skip-link" href="#MainContent">Skip to content</a>
+
+  <div id="SearchDrawer" class="search-bar drawer drawer--top" role="dialog" aria-modal="true" aria-label="Search">
+    <div class="search-bar__table">
+      <div class="search-bar__table-cell search-bar__form-wrapper">
+        <form class="search search-bar__form" action="/search" method="get" role="search">
+          <input class="search__input search-bar__input" type="search" name="q" value="" placeholder="Search" aria-label="Search">
+          <button class="search-bar__submit search__submit btn--link" type="submit">
+            <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-search" viewBox="0 0 37 40"><path d="M35.6 36l-9.8-9.8c4.1-5.4 3.6-13.2-1.3-18.1-5.4-5.4-14.2-5.4-19.7 0-5.4 5.4-5.4 14.2 0 19.7 2.6 2.6 6.1 4.1 9.8 4.1 3 0 5.9-1 8.3-2.8l9.8 9.8c.4.4.9.6 1.4.6s1-.2 1.4-.6c.9-.9.9-2.1.1-2.9zm-20.9-8.2c-2.6 0-5.1-1-7-2.9-3.9-3.9-3.9-10.1 0-14C9.6 9 12.2 8 14.7 8s5.1 1 7 2.9c3.9 3.9 3.9 10.1 0 14-1.9 1.9-4.4 2.9-7 2.9z"></path></svg>
+            <span class="icon__fallback-text">Submit</span>
+          </button>
+        </form>
+      </div>
+      <div class="search-bar__table-cell text-right">
+        <button type="button" class="btn--link search-bar__close js-drawer-close">
+          <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-close" viewBox="0 0 37 40"><path d="M21.3 23l11-11c.8-.8.8-2 0-2.8-.8-.8-2-.8-2.8 0l-11 11-11-11c-.8-.8-2-.8-2.8 0-.8.8-.8 2 0 2.8l11 11-11 11c-.8.8-.8 2 0 2.8.4.4.9.6 1.4.6s1-.2 1.4-.6l11-11 11 11c.4.4.9.6 1.4.6s1-.2 1.4-.6c.8-.8.8-2 0-2.8l-11-11z"></path></svg>
+          <span class="icon__fallback-text">Close search</span>
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <div id="shopify-section-header" class="shopify-section">
+  <style>
+    
+      .site-header__logo-image {
+        max-width: 140px;
+      }
+    
+
+    
+      .site-header__logo-image {
+        margin: 0;
+      }
+    
+  </style>
+
+
+<div data-section-id="header" data-section-type="header-section">
+  
+    
+      <style>
+        .announcement-bar {
+          background-color: #f6bb8a;
+        }
+
+        .announcement-bar--link:hover {
+          
+
+          
+            
+            background-color: #f29f59;
+          
+        }
+
+        .announcement-bar__message {
+          color: #000000;
+        }
+      </style>
+
+      
+        <div class="announcement-bar">
+      
+
+        <p class="announcement-bar__message">Use Code FREESHIP on Orders Over $150 or STOREPICKUP for in-store pickup!</p>
+
+      
+        </div>
+      
+
+    
+  
+
+  <header class="site-header border-bottom logo--left" role="banner">
+    <div class="grid grid--no-gutters grid--table site-header__mobile-nav">
+      
+
+      <div class="grid__item medium-up--one-quarter logo-align--left">
+        
+        
+          <h1 class="h2 site-header__logo">
+        
+          
+<a href="/" class="site-header__logo-image">
+              
+              <img class="js lazyautosizes lazyloaded" src="//shopsweetapricot.com/cdn/shop/files/Sweet_Apricot_Logo_w_tag_300x300.png?v=1691033839" data-widths="[180, 360, 540, 720, 900, 1080, 1296, 1512, 1728, 2048]" data-aspectratio="1.0" data-sizes="auto" alt="Sweet Apricot" style="max-width: 140px" data-srcset="//shopsweetapricot.com/cdn/shop/files/Sweet_Apricot_Logo_w_tag_180x.png?v=1691033839 180w, //shopsweetapricot.com/cdn/shop/files/Sweet_Apricot_Logo_w_tag_360x.png?v=1691033839 360w, //shopsweetapricot.com/cdn/shop/files/Sweet_Apricot_Logo_w_tag_540x.png?v=1691033839 540w, //shopsweetapricot.com/cdn/shop/files/Sweet_Apricot_Logo_w_tag_720x.png?v=1691033839 720w, //shopsweetapricot.com/cdn/shop/files/Sweet_Apricot_Logo_w_tag_900x.png?v=1691033839 900w, //shopsweetapricot.com/cdn/shop/files/Sweet_Apricot_Logo_w_tag_1080x.png?v=1691033839 1080w, //shopsweetapricot.com/cdn/shop/files/Sweet_Apricot_Logo_w_tag_1296x.png?v=1691033839 1296w, //shopsweetapricot.com/cdn/shop/files/Sweet_Apricot_Logo_w_tag_1512x.png?v=1691033839 1512w, //shopsweetapricot.com/cdn/shop/files/Sweet_Apricot_Logo_w_tag_1728x.png?v=1691033839 1728w, //shopsweetapricot.com/cdn/shop/files/Sweet_Apricot_Logo_w_tag_2048x.png?v=1691033839 2048w" sizes="140px" srcset="//shopsweetapricot.com/cdn/shop/files/Sweet_Apricot_Logo_w_tag_180x.png?v=1691033839 180w, //shopsweetapricot.com/cdn/shop/files/Sweet_Apricot_Logo_w_tag_360x.png?v=1691033839 360w, //shopsweetapricot.com/cdn/shop/files/Sweet_Apricot_Logo_w_tag_540x.png?v=1691033839 540w, //shopsweetapricot.com/cdn/shop/files/Sweet_Apricot_Logo_w_tag_720x.png?v=1691033839 720w, //shopsweetapricot.com/cdn/shop/files/Sweet_Apricot_Logo_w_tag_900x.png?v=1691033839 900w, //shopsweetapricot.com/cdn/shop/files/Sweet_Apricot_Logo_w_tag_1080x.png?v=1691033839 1080w, //shopsweetapricot.com/cdn/shop/files/Sweet_Apricot_Logo_w_tag_1296x.png?v=1691033839 1296w, //shopsweetapricot.com/cdn/shop/files/Sweet_Apricot_Logo_w_tag_1512x.png?v=1691033839 1512w, //shopsweetapricot.com/cdn/shop/files/Sweet_Apricot_Logo_w_tag_1728x.png?v=1691033839 1728w, //shopsweetapricot.com/cdn/shop/files/Sweet_Apricot_Logo_w_tag_2048x.png?v=1691033839 2048w">
+              <noscript>
+                
+                &lt;img src="//shopsweetapricot.com/cdn/shop/files/Sweet_Apricot_Logo_w_tag_140x.png?v=1691033839"
+                     srcset="//shopsweetapricot.com/cdn/shop/files/Sweet_Apricot_Logo_w_tag_140x.png?v=1691033839 1x, //shopsweetapricot.com/cdn/shop/files/Sweet_Apricot_Logo_w_tag_140x@2x.png?v=1691033839 2x"
+                     alt="Sweet Apricot"
+                     style="max-width: 140px;"&gt;
+              </noscript>
+            </a>
+          
+        
+          </h1>
+        
+      </div>
+
+      
+        <nav class="grid__item medium-up--one-half small--hide" id="AccessibleNav" role="navigation">
+          <ul class="site-nav list--inline " id="SiteNav">
+  
+
+
+
+    
+      <li>
+        <a href="/collections/accessories" class="site-nav__link site-nav__link--main">
+          <span class="site-nav__label">Accessories</span>
+        </a>
+      </li>
+    
+  
+
+
+
+    
+      <li>
+        <a href="/collections/tops" class="site-nav__link site-nav__link--main">
+          <span class="site-nav__label">Tops</span>
+        </a>
+      </li>
+    
+  
+
+
+
+    
+      <li>
+        <a href="/collections/bottoms" class="site-nav__link site-nav__link--main">
+          <span class="site-nav__label">Bottoms</span>
+        </a>
+      </li>
+    
+  
+
+
+
+    
+      <li>
+        <a href="/collections/dresses-rompers" class="site-nav__link site-nav__link--main">
+          <span class="site-nav__label">Dresses &amp; Rompers</span>
+        </a>
+      </li>
+    
+  
+
+
+
+    
+      <li>
+        <a href="/collections/coats-and-vests" class="site-nav__link site-nav__link--main">
+          <span class="site-nav__label">Coats and Vests</span>
+        </a>
+      </li>
+    
+  
+
+
+
+    
+      <li>
+        <a href="/collections/lounge" class="site-nav__link site-nav__link--main">
+          <span class="site-nav__label">Lounge</span>
+        </a>
+      </li>
+    
+  
+
+
+
+    
+      <li>
+        <a href="/collections/home" class="site-nav__link site-nav__link--main">
+          <span class="site-nav__label">Home and Garden</span>
+        </a>
+      </li>
+    
+  
+
+
+
+    
+      <li>
+        <a href="/collections/jewelry" class="site-nav__link site-nav__link--main">
+          <span class="site-nav__label">Jewelry</span>
+        </a>
+      </li>
+    
+  
+
+
+
+    
+      <li>
+        <a href="/collections/shoes" class="site-nav__link site-nav__link--main">
+          <span class="site-nav__label">Shoes</span>
+        </a>
+      </li>
+    
+  
+
+
+
+    
+      <li>
+        <a href="/collections/gifts" class="site-nav__link site-nav__link--main">
+          <span class="site-nav__label">Gifts</span>
+        </a>
+      </li>
+    
+  
+
+
+
+    
+      <li>
+        <a href="/collections/gift-card" class="site-nav__link site-nav__link--main">
+          <span class="site-nav__label">Gift Card</span>
+        </a>
+      </li>
+    
+  
+
+
+
+    
+      <li>
+        <a href="/collections/clearance" class="site-nav__link site-nav__link--main">
+          <span class="site-nav__label">Clearance</span>
+        </a>
+      </li>
+    
+  
+</ul>
+
+        </nav>
+      
+
+      <div class="grid__item medium-up--one-quarter text-right site-header__icons site-header__icons--plus">
+        <div class="site-header__icons-wrapper">
+          <div class="site-header__search site-header__icon">
+            <form action="/search" method="get" class="search-header search" role="search">
+  <input class="search-header__input search__input" type="search" name="q" placeholder="Search" aria-label="Search">
+  <button class="search-header__submit search__submit btn--link site-header__icon" type="submit">
+    <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-search" viewBox="0 0 37 40"><path d="M35.6 36l-9.8-9.8c4.1-5.4 3.6-13.2-1.3-18.1-5.4-5.4-14.2-5.4-19.7 0-5.4 5.4-5.4 14.2 0 19.7 2.6 2.6 6.1 4.1 9.8 4.1 3 0 5.9-1 8.3-2.8l9.8 9.8c.4.4.9.6 1.4.6s1-.2 1.4-.6c.9-.9.9-2.1.1-2.9zm-20.9-8.2c-2.6 0-5.1-1-7-2.9-3.9-3.9-3.9-10.1 0-14C9.6 9 12.2 8 14.7 8s5.1 1 7 2.9c3.9 3.9 3.9 10.1 0 14-1.9 1.9-4.4 2.9-7 2.9z"></path></svg>
+    <span class="icon__fallback-text">Submit</span>
+  </button>
+</form>
+
+          </div>
+
+          <button type="button" class="btn--link site-header__icon site-header__search-toggle js-drawer-open-top" aria-controls="SearchDrawer" aria-expanded="false" aria-haspopup="dialog">
+            <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-search" viewBox="0 0 37 40"><path d="M35.6 36l-9.8-9.8c4.1-5.4 3.6-13.2-1.3-18.1-5.4-5.4-14.2-5.4-19.7 0-5.4 5.4-5.4 14.2 0 19.7 2.6 2.6 6.1 4.1 9.8 4.1 3 0 5.9-1 8.3-2.8l9.8 9.8c.4.4.9.6 1.4.6s1-.2 1.4-.6c.9-.9.9-2.1.1-2.9zm-20.9-8.2c-2.6 0-5.1-1-7-2.9-3.9-3.9-3.9-10.1 0-14C9.6 9 12.2 8 14.7 8s5.1 1 7 2.9c3.9 3.9 3.9 10.1 0 14-1.9 1.9-4.4 2.9-7 2.9z"></path></svg>
+            <span class="icon__fallback-text">Search</span>
+          </button>
+
+          
+            
+              <a href="/account/login" class="site-header__icon site-header__account">
+                <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-login" viewBox="0 0 28.33 37.68"><path d="M14.17 14.9a7.45 7.45 0 1 0-7.5-7.45 7.46 7.46 0 0 0 7.5 7.45zm0-10.91a3.45 3.45 0 1 1-3.5 3.46A3.46 3.46 0 0 1 14.17 4zM14.17 16.47A14.18 14.18 0 0 0 0 30.68c0 1.41.66 4 5.11 5.66a27.17 27.17 0 0 0 9.06 1.34c6.54 0 14.17-1.84 14.17-7a14.18 14.18 0 0 0-14.17-14.21zm0 17.21c-6.3 0-10.17-1.77-10.17-3a10.17 10.17 0 1 1 20.33 0c.01 1.23-3.86 3-10.16 3z"></path></svg>
+                <span class="icon__fallback-text">Log in</span>
+              </a>
+            
+          
+
+          <a href="/cart" class="site-header__icon site-header__cart">
+            <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-cart" viewBox="0 0 37 40"><path d="M36.5 34.8L33.3 8h-5.9C26.7 3.9 23 .8 18.5.8S10.3 3.9 9.6 8H3.7L.5 34.8c-.2 1.5.4 2.4.9 3 .5.5 1.4 1.2 3.1 1.2h28c1.3 0 2.4-.4 3.1-1.3.7-.7 1-1.8.9-2.9zm-18-30c2.2 0 4.1 1.4 4.7 3.2h-9.5c.7-1.9 2.6-3.2 4.8-3.2zM4.5 35l2.8-23h2.2v3c0 1.1.9 2 2 2s2-.9 2-2v-3h10v3c0 1.1.9 2 2 2s2-.9 2-2v-3h2.2l2.8 23h-28z"></path></svg>
+            <span class="icon__fallback-text">Cart</span>
+            
+          </a>
+
+          
+
+          
+            <button type="button" class="btn--link site-header__icon site-header__menu js-mobile-nav-toggle mobile-nav--open" aria-controls="MobileNav" aria-expanded="false" aria-label="Menu">
+              <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-hamburger" viewBox="0 0 37 40"><path d="M33.5 25h-30c-1.1 0-2-.9-2-2s.9-2 2-2h30c1.1 0 2 .9 2 2s-.9 2-2 2zm0-11.5h-30c-1.1 0-2-.9-2-2s.9-2 2-2h30c1.1 0 2 .9 2 2s-.9 2-2 2zm0 23h-30c-1.1 0-2-.9-2-2s.9-2 2-2h30c1.1 0 2 .9 2 2s-.9 2-2 2z"></path></svg>
+              <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-close" viewBox="0 0 37 40"><path d="M21.3 23l11-11c.8-.8.8-2 0-2.8-.8-.8-2-.8-2.8 0l-11 11-11-11c-.8-.8-2-.8-2.8 0-.8.8-.8 2 0 2.8l11 11-11 11c-.8.8-.8 2 0 2.8.4.4.9.6 1.4.6s1-.2 1.4-.6l11-11 11 11c.4.4.9.6 1.4.6s1-.2 1.4-.6c.8-.8.8-2 0-2.8l-11-11z"></path></svg>
+            </button>
+          
+        </div>
+
+      </div>
+    </div>
+
+    <nav class="mobile-nav-wrapper medium-up--hide" role="navigation">
+      <ul id="MobileNav" class="mobile-nav">
+        
+<li class="mobile-nav__item border-bottom">
+            
+              <a href="/collections/accessories" class="mobile-nav__link">
+                <span class="mobile-nav__label">Accessories</span>
+              </a>
+            
+          </li>
+        
+<li class="mobile-nav__item border-bottom">
+            
+              <a href="/collections/tops" class="mobile-nav__link">
+                <span class="mobile-nav__label">Tops</span>
+              </a>
+            
+          </li>
+        
+<li class="mobile-nav__item border-bottom">
+            
+              <a href="/collections/bottoms" class="mobile-nav__link">
+                <span class="mobile-nav__label">Bottoms</span>
+              </a>
+            
+          </li>
+        
+<li class="mobile-nav__item border-bottom">
+            
+              <a href="/collections/dresses-rompers" class="mobile-nav__link">
+                <span class="mobile-nav__label">Dresses &amp; Rompers</span>
+              </a>
+            
+          </li>
+        
+<li class="mobile-nav__item border-bottom">
+            
+              <a href="/collections/coats-and-vests" class="mobile-nav__link">
+                <span class="mobile-nav__label">Coats and Vests</span>
+              </a>
+            
+          </li>
+        
+<li class="mobile-nav__item border-bottom">
+            
+              <a href="/collections/lounge" class="mobile-nav__link">
+                <span class="mobile-nav__label">Lounge</span>
+              </a>
+            
+          </li>
+        
+<li class="mobile-nav__item border-bottom">
+            
+              <a href="/collections/home" class="mobile-nav__link">
+                <span class="mobile-nav__label">Home and Garden</span>
+              </a>
+            
+          </li>
+        
+<li class="mobile-nav__item border-bottom">
+            
+              <a href="/collections/jewelry" class="mobile-nav__link">
+                <span class="mobile-nav__label">Jewelry</span>
+              </a>
+            
+          </li>
+        
+<li class="mobile-nav__item border-bottom">
+            
+              <a href="/collections/shoes" class="mobile-nav__link">
+                <span class="mobile-nav__label">Shoes</span>
+              </a>
+            
+          </li>
+        
+<li class="mobile-nav__item border-bottom">
+            
+              <a href="/collections/gifts" class="mobile-nav__link">
+                <span class="mobile-nav__label">Gifts</span>
+              </a>
+            
+          </li>
+        
+<li class="mobile-nav__item border-bottom">
+            
+              <a href="/collections/gift-card" class="mobile-nav__link">
+                <span class="mobile-nav__label">Gift Card</span>
+              </a>
+            
+          </li>
+        
+<li class="mobile-nav__item">
+            
+              <a href="/collections/clearance" class="mobile-nav__link">
+                <span class="mobile-nav__label">Clearance</span>
+              </a>
+            
+          </li>
+        
+        
+      </ul>
+    </nav>
+  </header>
+
+  
+</div>
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "name": "Sweet Apricot",
+  
+    
+    "logo": "https://shopsweetapricot.com/cdn/shop/files/Sweet_Apricot_Logo_w_tag_500x.png?v=1691033839",
+  
+  "sameAs": [
+    "",
+    "https://www.facebook.com/TheSweetApricot",
+    "",
+    "https://www.instagram.com/thesweetapricot/",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "url": "https://shopsweetapricot.com"
+}
+</script>
+
+
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "WebSite",
+      "name": "Sweet Apricot",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://shopsweetapricot.com/search?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      },
+      "url": "https://shopsweetapricot.com"
+    }
+  </script>
+
+
+
+</div>
+
+  <div class="page-container drawer-page-content" id="PageContainer">
+
+    <main class="main-content js-focus-hidden" id="MainContent" role="main" tabindex="-1">
+      <!-- BEGIN content_for_index --><div id="shopify-section-featured-collections" class="shopify-section index-section"><div class="page-width">
+  
+    <div class="section-header text-center">
+      <h2>Bottoms</h2>
+    </div>
+  
+
+<ul class="grid grid--uniform grid--view-items">
+    
+      <li class="grid__item grid__item--featured-collections small--one-half medium-up--one-fifth">
+        <div class="grid-view-item product-card">
+  <a class="grid-view-item__link grid-view-item__image-container full-width-link" href="/collections/bottoms/products/sweet-apricot-gift-card">
+    <span class="visually-hidden">Sweet Apricot Gift Card $25-$200</span>
+  </a>
+
+  
+  
+
+
+  <div id="ProductCardImageWrapper-featured-collections-2894646476864" class="grid-view-item__image-wrapper product-card__image-wrapper js">
+    <div style="padding-top:100%;">
+      <img id="ProductCardImage-featured-collections-2894646476864" class="grid-view-item__image lazyautosizes lazyloaded" src="//shopsweetapricot.com/cdn/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_300x300.gif" data-widths="[180, 360, 540, 720, 900, 1080, 1296, 1512, 1728, 2048]" data-aspectratio="" data-sizes="auto" alt="" data-srcset="//shopsweetapricot.com/cdn/shopifycloud/shopify/assets/no-image-50-3d8cc48bd078edcd544c8d60f929ed2d8800a3fc52e0f602e84b1767e392bfcd_180x.gif 180w, //shopsweetapricot.com/cdn/shopifycloud/shopify/assets/no-image-50-3d8cc48bd078edcd544c8d60f929ed2d8800a3fc52e0f602e84b1767e392bfcd_360x.gif 360w, //shopsweetapricot.com/cdn/shopifycloud/shopify/assets/no-image-50-3d8cc48bd078edcd544c8d60f929ed2d8800a3fc52e0f602e84b1767e392bfcd_540x.gif 540w, //shopsweetapricot.com/cdn/shopifycloud/shopify/assets/no-image-50-3d8cc48bd078edcd544c8d60f929ed2d8800a3fc52e0f602e84b1767e392bfcd_720x.gif 720w, //shopsweetapricot.com/cdn/shopifycloud/shopify/assets/no-image-50-3d8cc48bd078edcd544c8d60f929ed2d8800a3fc52e0f602e84b1767e392bfcd_900x.gif 900w, //shopsweetapricot.com/cdn/shopifycloud/shopify/assets/no-image-50-3d8cc48bd078edcd544c8d60f929ed2d8800a3fc52e0f602e84b1767e392bfcd_1080x.gif 1080w, //shopsweetapricot.com/cdn/shopifycloud/shopify/assets/no-image-50-3d8cc48bd078edcd544c8d60f929ed2d8800a3fc52e0f602e84b1767e392bfcd_1296x.gif 1296w, //shopsweetapricot.com/cdn/shopifycloud/shopify/assets/no-image-50-3d8cc48bd078edcd544c8d60f929ed2d8800a3fc52e0f602e84b1767e392bfcd_1512x.gif 1512w, //shopsweetapricot.com/cdn/shopifycloud/shopify/assets/no-image-50-3d8cc48bd078edcd544c8d60f929ed2d8800a3fc52e0f602e84b1767e392bfcd_1728x.gif 1728w, //shopsweetapricot.com/cdn/shopifycloud/shopify/assets/no-image-50-3d8cc48bd078edcd544c8d60f929ed2d8800a3fc52e0f602e84b1767e392bfcd_2048x.gif 2048w" sizes="159px" srcset="//shopsweetapricot.com/cdn/shopifycloud/shopify/assets/no-image-50-3d8cc48bd078edcd544c8d60f929ed2d8800a3fc52e0f602e84b1767e392bfcd_180x.gif 180w, //shopsweetapricot.com/cdn/shopifycloud/shopify/assets/no-image-50-3d8cc48bd078edcd544c8d60f929ed2d8800a3fc52e0f602e84b1767e392bfcd_360x.gif 360w, //shopsweetapricot.com/cdn/shopifycloud/shopify/assets/no-image-50-3d8cc48bd078edcd544c8d60f929ed2d8800a3fc52e0f602e84b1767e392bfcd_540x.gif 540w, //shopsweetapricot.com/cdn/shopifycloud/shopify/assets/no-image-50-3d8cc48bd078edcd544c8d60f929ed2d8800a3fc52e0f602e84b1767e392bfcd_720x.gif 720w, //shopsweetapricot.com/cdn/shopifycloud/shopify/assets/no-image-50-3d8cc48bd078edcd544c8d60f929ed2d8800a3fc52e0f602e84b1767e392bfcd_900x.gif 900w, //shopsweetapricot.com/cdn/shopifycloud/shopify/assets/no-image-50-3d8cc48bd078edcd544c8d60f929ed2d8800a3fc52e0f602e84b1767e392bfcd_1080x.gif 1080w, //shopsweetapricot.com/cdn/shopifycloud/shopify/assets/no-image-50-3d8cc48bd078edcd544c8d60f929ed2d8800a3fc52e0f602e84b1767e392bfcd_1296x.gif 1296w, //shopsweetapricot.com/cdn/shopifycloud/shopify/assets/no-image-50-3d8cc48bd078edcd544c8d60f929ed2d8800a3fc52e0f602e84b1767e392bfcd_1512x.gif 1512w, //shopsweetapricot.com/cdn/shopifycloud/shopify/assets/no-image-50-3d8cc48bd078edcd544c8d60f929ed2d8800a3fc52e0f602e84b1767e392bfcd_1728x.gif 1728w, //shopsweetapricot.com/cdn/shopifycloud/shopify/assets/no-image-50-3d8cc48bd078edcd544c8d60f929ed2d8800a3fc52e0f602e84b1767e392bfcd_2048x.gif 2048w">
+    </div>
+  </div>
+
+  <noscript>
+    
+    &lt;img class="grid-view-item__image" src="//shopsweetapricot.com/cdn/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_195x195@2x.gif" alt="" style="max-width: 0px;"&gt;
+  </noscript>
+
+  <div class="h4 grid-view-item__title product-card__title" aria-hidden="true">Sweet Apricot Gift Card $25-$200</div>
+
+  <!-- snippet/product-price.liquid -->
+
+<dl class="price" data-price="">
+
+  
+
+  <div class="price__regular">
+    <dt>
+      <span class="visually-hidden visually-hidden--inline">Regular price</span>
+    </dt>
+    <dd>
+      <span class="price-item price-item--regular" data-regular-price="">
+        
+          
+            $25.00
+          
+        
+      </span>
+    </dd>
+  </div>
+  <div class="price__sale">
+    <dt>
+      <span class="visually-hidden visually-hidden--inline">Sale price</span>
+    </dt>
+    <dd>
+      <span class="price-item price-item--sale" data-sale-price="">
+        $25.00
+      </span>
+      <span class="price-item__label" aria-hidden="true">Sale</span>
+    </dd>
+  </div>
+</dl>
+
+
+</div>
+
+      </li>
+    
+      <li class="grid__item grid__item--featured-collections small--one-half medium-up--one-fifth">
+        <div class="grid-view-item grid-view-item--sold-out product-card">
+  <a class="grid-view-item__link grid-view-item__image-container full-width-link" href="/collections/bottoms/products/barbara-skinny-bfac">
+    <span class="visually-hidden">Barbara Skinny - BFAC</span>
+  </a>
+
+  
+  
+
+    <style>
+  
+  
+  @media screen and (min-width: 750px) { 
+    #ProductCardImage-featured-collections-6742726377625 {
+      max-width: 131.50115473441107px;
+      max-height: 195px;
+    }
+    #ProductCardImageWrapper-featured-collections-6742726377625 {
+      max-width: 131.50115473441107px;
+      max-height: 195px;
+    }
+   } 
+  
+  
+    
+    @media screen and (max-width: 749px) {
+      #ProductCardImage-featured-collections-6742726377625 {
+        max-width: 505.77367205542726px;
+        max-height: 750px;
+      }
+      #ProductCardImageWrapper-featured-collections-6742726377625 {
+        max-width: 505.77367205542726px;
+      }
+    }
+  
+</style>
+
+  
+
+  <div id="ProductCardImageWrapper-featured-collections-6742726377625" class="grid-view-item__image-wrapper product-card__image-wrapper js">
+    <div style="padding-top:148.28767123287673%;">
+      <img id="ProductCardImage-featured-collections-6742726377625" class="grid-view-item__image lazyautosizes lazyloaded" src="//shopsweetapricot.com/cdn/shop/products/5C81C276-DA0C-4489-A977-F54B899FCA53_300x300.jpg?v=1620151460" data-widths="[180, 360, 540, 720, 900, 1080, 1296, 1512, 1728, 2048]" data-aspectratio="0.674364896073903" data-sizes="auto" alt="" data-srcset="//shopsweetapricot.com/cdn/shop/products/5C81C276-DA0C-4489-A977-F54B899FCA53_180x.jpg?v=1620151460 180w, //shopsweetapricot.com/cdn/shop/products/5C81C276-DA0C-4489-A977-F54B899FCA53_360x.jpg?v=1620151460 360w, //shopsweetapricot.com/cdn/shop/products/5C81C276-DA0C-4489-A977-F54B899FCA53_540x.jpg?v=1620151460 540w, //shopsweetapricot.com/cdn/shop/products/5C81C276-DA0C-4489-A977-F54B899FCA53_720x.jpg?v=1620151460 720w, //shopsweetapricot.com/cdn/shop/products/5C81C276-DA0C-4489-A977-F54B899FCA53_900x.jpg?v=1620151460 900w, //shopsweetapricot.com/cdn/shop/products/5C81C276-DA0C-4489-A977-F54B899FCA53_1080x.jpg?v=1620151460 1080w, //shopsweetapricot.com/cdn/shop/products/5C81C276-DA0C-4489-A977-F54B899FCA53_1296x.jpg?v=1620151460 1296w, //shopsweetapricot.com/cdn/shop/products/5C81C276-DA0C-4489-A977-F54B899FCA53_1512x.jpg?v=1620151460 1512w, //shopsweetapricot.com/cdn/shop/products/5C81C276-DA0C-4489-A977-F54B899FCA53_1728x.jpg?v=1620151460 1728w, //shopsweetapricot.com/cdn/shop/products/5C81C276-DA0C-4489-A977-F54B899FCA53_2048x.jpg?v=1620151460 2048w" sizes="132px" srcset="//shopsweetapricot.com/cdn/shop/products/5C81C276-DA0C-4489-A977-F54B899FCA53_180x.jpg?v=1620151460 180w, //shopsweetapricot.com/cdn/shop/products/5C81C276-DA0C-4489-A977-F54B899FCA53_360x.jpg?v=1620151460 360w, //shopsweetapricot.com/cdn/shop/products/5C81C276-DA0C-4489-A977-F54B899FCA53_540x.jpg?v=1620151460 540w, //shopsweetapricot.com/cdn/shop/products/5C81C276-DA0C-4489-A977-F54B899FCA53_720x.jpg?v=1620151460 720w, //shopsweetapricot.com/cdn/shop/products/5C81C276-DA0C-4489-A977-F54B899FCA53_900x.jpg?v=1620151460 900w, //shopsweetapricot.com/cdn/shop/products/5C81C276-DA0C-4489-A977-F54B899FCA53_1080x.jpg?v=1620151460 1080w, //shopsweetapricot.com/cdn/shop/products/5C81C276-DA0C-4489-A977-F54B899FCA53_1296x.jpg?v=1620151460 1296w, //shopsweetapricot.com/cdn/shop/products/5C81C276-DA0C-4489-A977-F54B899FCA53_1512x.jpg?v=1620151460 1512w, //shopsweetapricot.com/cdn/shop/products/5C81C276-DA0C-4489-A977-F54B899FCA53_1728x.jpg?v=1620151460 1728w, //shopsweetapricot.com/cdn/shop/products/5C81C276-DA0C-4489-A977-F54B899FCA53_2048x.jpg?v=1620151460 2048w">
+    </div>
+  </div>
+
+  <noscript>
+    
+    &lt;img class="grid-view-item__image" src="//shopsweetapricot.com/cdn/shop/products/5C81C276-DA0C-4489-A977-F54B899FCA53_195x195@2x.jpg?v=1620151460" alt="Barbara Skinny - BFAC" style="max-width: 131.50115473441107px;"&gt;
+  </noscript>
+
+  <div class="h4 grid-view-item__title product-card__title" aria-hidden="true">Barbara Skinny - BFAC</div>
+
+  <!-- snippet/product-price.liquid -->
+
+<dl class="price" data-price="">
+
+  
+
+  <div class="price__regular">
+    <dt>
+      <span class="visually-hidden visually-hidden--inline">Regular price</span>
+    </dt>
+    <dd>
+      <span class="price-item price-item--regular" data-regular-price="">
+        
+          Sold out
+        
+      </span>
+    </dd>
+  </div>
+  <div class="price__sale">
+    <dt>
+      <span class="visually-hidden visually-hidden--inline">Sale price</span>
+    </dt>
+    <dd>
+      <span class="price-item price-item--sale" data-sale-price="">
+        $175.00
+      </span>
+      <span class="price-item__label" aria-hidden="true">Sale</span>
+    </dd>
+  </div>
+</dl>
+
+
+</div>
+
+      </li>
+    
+      <li class="grid__item grid__item--featured-collections small--one-half medium-up--one-fifth">
+        <div class="grid-view-item product-card">
+  <a class="grid-view-item__link grid-view-item__image-container full-width-link" href="/collections/bottoms/products/holly-flare-gravity">
+    <span class="visually-hidden">Holly Flare - Gravity</span>
+  </a>
+
+  
+  
+
+    <style>
+  
+  
+  @media screen and (min-width: 750px) { 
+    #ProductCardImage-featured-collections-7576723423385 {
+      max-width: 130.0px;
+      max-height: 195px;
+    }
+    #ProductCardImageWrapper-featured-collections-7576723423385 {
+      max-width: 130.0px;
+      max-height: 195px;
+    }
+   } 
+  
+  
+    
+    @media screen and (max-width: 749px) {
+      #ProductCardImage-featured-collections-7576723423385 {
+        max-width: 499.99999999999994px;
+        max-height: 750px;
+      }
+      #ProductCardImageWrapper-featured-collections-7576723423385 {
+        max-width: 499.99999999999994px;
+      }
+    }
+  
+</style>
+
+  
+
+  <div id="ProductCardImageWrapper-featured-collections-7576723423385" class="grid-view-item__image-wrapper product-card__image-wrapper js">
+    <div style="padding-top:150.00000000000003%;">
+      <img id="ProductCardImage-featured-collections-7576723423385" class="grid-view-item__image lazyautosizes lazyloaded" src="//shopsweetapricot.com/cdn/shop/products/997A8B68-DA56-4E0E-999C-6546FE0F279C_300x300.webp?v=1668792570" data-widths="[180, 360, 540, 720, 900, 1080, 1296, 1512, 1728, 2048]" data-aspectratio="0.6666666666666666" data-sizes="auto" alt="" data-srcset="//shopsweetapricot.com/cdn/shop/products/997A8B68-DA56-4E0E-999C-6546FE0F279C_180x.webp?v=1668792570 180w, //shopsweetapricot.com/cdn/shop/products/997A8B68-DA56-4E0E-999C-6546FE0F279C_360x.webp?v=1668792570 360w, //shopsweetapricot.com/cdn/shop/products/997A8B68-DA56-4E0E-999C-6546FE0F279C_540x.webp?v=1668792570 540w, //shopsweetapricot.com/cdn/shop/products/997A8B68-DA56-4E0E-999C-6546FE0F279C_720x.webp?v=1668792570 720w, //shopsweetapricot.com/cdn/shop/products/997A8B68-DA56-4E0E-999C-6546FE0F279C_900x.webp?v=1668792570 900w, //shopsweetapricot.com/cdn/shop/products/997A8B68-DA56-4E0E-999C-6546FE0F279C_1080x.webp?v=1668792570 1080w, //shopsweetapricot.com/cdn/shop/products/997A8B68-DA56-4E0E-999C-6546FE0F279C_1296x.webp?v=1668792570 1296w, //shopsweetapricot.com/cdn/shop/products/997A8B68-DA56-4E0E-999C-6546FE0F279C_1512x.webp?v=1668792570 1512w, //shopsweetapricot.com/cdn/shop/products/997A8B68-DA56-4E0E-999C-6546FE0F279C_1728x.webp?v=1668792570 1728w, //shopsweetapricot.com/cdn/shop/products/997A8B68-DA56-4E0E-999C-6546FE0F279C_2048x.webp?v=1668792570 2048w" sizes="130px" srcset="//shopsweetapricot.com/cdn/shop/products/997A8B68-DA56-4E0E-999C-6546FE0F279C_180x.webp?v=1668792570 180w, //shopsweetapricot.com/cdn/shop/products/997A8B68-DA56-4E0E-999C-6546FE0F279C_360x.webp?v=1668792570 360w, //shopsweetapricot.com/cdn/shop/products/997A8B68-DA56-4E0E-999C-6546FE0F279C_540x.webp?v=1668792570 540w, //shopsweetapricot.com/cdn/shop/products/997A8B68-DA56-4E0E-999C-6546FE0F279C_720x.webp?v=1668792570 720w, //shopsweetapricot.com/cdn/shop/products/997A8B68-DA56-4E0E-999C-6546FE0F279C_900x.webp?v=1668792570 900w, //shopsweetapricot.com/cdn/shop/products/997A8B68-DA56-4E0E-999C-6546FE0F279C_1080x.webp?v=1668792570 1080w, //shopsweetapricot.com/cdn/shop/products/997A8B68-DA56-4E0E-999C-6546FE0F279C_1296x.webp?v=1668792570 1296w, //shopsweetapricot.com/cdn/shop/products/997A8B68-DA56-4E0E-999C-6546FE0F279C_1512x.webp?v=1668792570 1512w, //shopsweetapricot.com/cdn/shop/products/997A8B68-DA56-4E0E-999C-6546FE0F279C_1728x.webp?v=1668792570 1728w, //shopsweetapricot.com/cdn/shop/products/997A8B68-DA56-4E0E-999C-6546FE0F279C_2048x.webp?v=1668792570 2048w">
+    </div>
+  </div>
+
+  <noscript>
+    
+    &lt;img class="grid-view-item__image" src="//shopsweetapricot.com/cdn/shop/products/997A8B68-DA56-4E0E-999C-6546FE0F279C_195x195@2x.webp?v=1668792570" alt="Holly Flare - Gravity" style="max-width: 130.0px;"&gt;
+  </noscript>
+
+  <div class="h4 grid-view-item__title product-card__title" aria-hidden="true">Holly Flare - Gravity</div>
+
+  <!-- snippet/product-price.liquid -->
+
+<dl class="price" data-price="">
+
+  
+
+  <div class="price__regular">
+    <dt>
+      <span class="visually-hidden visually-hidden--inline">Regular price</span>
+    </dt>
+    <dd>
+      <span class="price-item price-item--regular" data-regular-price="">
+        
+          
+            $195.00
+          
+        
+      </span>
+    </dd>
+  </div>
+  <div class="price__sale">
+    <dt>
+      <span class="visually-hidden visually-hidden--inline">Sale price</span>
+    </dt>
+    <dd>
+      <span class="price-item price-item--sale" data-sale-price="">
+        $195.00
+      </span>
+      <span class="price-item__label" aria-hidden="true">Sale</span>
+    </dd>
+  </div>
+</dl>
+
+
+</div>
+
+      </li>
+    
+      <li class="grid__item grid__item--featured-collections small--one-half medium-up--one-fifth">
+        <div class="grid-view-item product-card">
+  <a class="grid-view-item__link grid-view-item__image-container full-width-link" href="/collections/bottoms/products/barbara-hi-rise-bootcut-night-sky">
+    <span class="visually-hidden">Barbara Hi Rise Bootcut - Night Sky</span>
+  </a>
+
+  
+  
+
+    <style>
+  
+  
+  @media screen and (min-width: 750px) { 
+    #ProductCardImage-featured-collections-7594542596249 {
+      max-width: 130.0px;
+      max-height: 195px;
+    }
+    #ProductCardImageWrapper-featured-collections-7594542596249 {
+      max-width: 130.0px;
+      max-height: 195px;
+    }
+   } 
+  
+  
+    
+    @media screen and (max-width: 749px) {
+      #ProductCardImage-featured-collections-7594542596249 {
+        max-width: 499.99999999999994px;
+        max-height: 750px;
+      }
+      #ProductCardImageWrapper-featured-collections-7594542596249 {
+        max-width: 499.99999999999994px;
+      }
+    }
+  
+</style>
+
+  
+
+  <div id="ProductCardImageWrapper-featured-collections-7594542596249" class="grid-view-item__image-wrapper product-card__image-wrapper js">
+    <div style="padding-top:150.00000000000003%;">
+      <img id="ProductCardImage-featured-collections-7594542596249" class="grid-view-item__image lazyautosizes lazyloaded" src="//shopsweetapricot.com/cdn/shop/products/16922680-00CB-4923-BD46-EB3EBC9023D2_300x300.webp?v=1671559360" data-widths="[180, 360, 540, 720, 900, 1080, 1296, 1512, 1728, 2048]" data-aspectratio="0.6666666666666666" data-sizes="auto" alt="" data-srcset="//shopsweetapricot.com/cdn/shop/products/16922680-00CB-4923-BD46-EB3EBC9023D2_180x.webp?v=1671559360 180w, //shopsweetapricot.com/cdn/shop/products/16922680-00CB-4923-BD46-EB3EBC9023D2_360x.webp?v=1671559360 360w, //shopsweetapricot.com/cdn/shop/products/16922680-00CB-4923-BD46-EB3EBC9023D2_540x.webp?v=1671559360 540w, //shopsweetapricot.com/cdn/shop/products/16922680-00CB-4923-BD46-EB3EBC9023D2_720x.webp?v=1671559360 720w, //shopsweetapricot.com/cdn/shop/products/16922680-00CB-4923-BD46-EB3EBC9023D2_900x.webp?v=1671559360 900w, //shopsweetapricot.com/cdn/shop/products/16922680-00CB-4923-BD46-EB3EBC9023D2_1080x.webp?v=1671559360 1080w, //shopsweetapricot.com/cdn/shop/products/16922680-00CB-4923-BD46-EB3EBC9023D2_1296x.webp?v=1671559360 1296w, //shopsweetapricot.com/cdn/shop/products/16922680-00CB-4923-BD46-EB3EBC9023D2_1512x.webp?v=1671559360 1512w, //shopsweetapricot.com/cdn/shop/products/16922680-00CB-4923-BD46-EB3EBC9023D2_1728x.webp?v=1671559360 1728w, //shopsweetapricot.com/cdn/shop/products/16922680-00CB-4923-BD46-EB3EBC9023D2_2048x.webp?v=1671559360 2048w" sizes="130px" srcset="//shopsweetapricot.com/cdn/shop/products/16922680-00CB-4923-BD46-EB3EBC9023D2_180x.webp?v=1671559360 180w, //shopsweetapricot.com/cdn/shop/products/16922680-00CB-4923-BD46-EB3EBC9023D2_360x.webp?v=1671559360 360w, //shopsweetapricot.com/cdn/shop/products/16922680-00CB-4923-BD46-EB3EBC9023D2_540x.webp?v=1671559360 540w, //shopsweetapricot.com/cdn/shop/products/16922680-00CB-4923-BD46-EB3EBC9023D2_720x.webp?v=1671559360 720w, //shopsweetapricot.com/cdn/shop/products/16922680-00CB-4923-BD46-EB3EBC9023D2_900x.webp?v=1671559360 900w, //shopsweetapricot.com/cdn/shop/products/16922680-00CB-4923-BD46-EB3EBC9023D2_1080x.webp?v=1671559360 1080w, //shopsweetapricot.com/cdn/shop/products/16922680-00CB-4923-BD46-EB3EBC9023D2_1296x.webp?v=1671559360 1296w, //shopsweetapricot.com/cdn/shop/products/16922680-00CB-4923-BD46-EB3EBC9023D2_1512x.webp?v=1671559360 1512w, //shopsweetapricot.com/cdn/shop/products/16922680-00CB-4923-BD46-EB3EBC9023D2_1728x.webp?v=1671559360 1728w, //shopsweetapricot.com/cdn/shop/products/16922680-00CB-4923-BD46-EB3EBC9023D2_2048x.webp?v=1671559360 2048w">
+    </div>
+  </div>
+
+  <noscript>
+    
+    &lt;img class="grid-view-item__image" src="//shopsweetapricot.com/cdn/shop/products/16922680-00CB-4923-BD46-EB3EBC9023D2_195x195@2x.webp?v=1671559360" alt="Barbara Hi Rise Bootcut - Night Sky" style="max-width: 130.0px;"&gt;
+  </noscript>
+
+  <div class="h4 grid-view-item__title product-card__title" aria-hidden="true">Barbara Hi Rise Bootcut - Night Sky</div>
+
+  <!-- snippet/product-price.liquid -->
+
+<dl class="price" data-price="">
+
+  
+
+  <div class="price__regular">
+    <dt>
+      <span class="visually-hidden visually-hidden--inline">Regular price</span>
+    </dt>
+    <dd>
+      <span class="price-item price-item--regular" data-regular-price="">
+        
+          
+            $195.00
+          
+        
+      </span>
+    </dd>
+  </div>
+  <div class="price__sale">
+    <dt>
+      <span class="visually-hidden visually-hidden--inline">Sale price</span>
+    </dt>
+    <dd>
+      <span class="price-item price-item--sale" data-sale-price="">
+        $195.00
+      </span>
+      <span class="price-item__label" aria-hidden="true">Sale</span>
+    </dd>
+  </div>
+</dl>
+
+
+</div>
+
+      </li>
+    
+      <li class="grid__item grid__item--featured-collections small--one-half medium-up--one-fifth">
+        <div class="grid-view-item product-card">
+  <a class="grid-view-item__link grid-view-item__image-container full-width-link" href="/collections/bottoms/products/monroe-hi-rise-cigarette-crop-kauai">
+    <span class="visually-hidden">Monroe Hi Rise Cigarette Crop - Kauai</span>
+  </a>
+
+  
+  
+
+    <style>
+  
+  
+  @media screen and (min-width: 750px) { 
+    #ProductCardImage-featured-collections-7615017713817 {
+      max-width: 130.15834348355662px;
+      max-height: 195px;
+    }
+    #ProductCardImageWrapper-featured-collections-7615017713817 {
+      max-width: 130.15834348355662px;
+      max-height: 195px;
+    }
+   } 
+  
+  
+    
+    @media screen and (max-width: 749px) {
+      #ProductCardImage-featured-collections-7615017713817 {
+        max-width: 500.6090133982947px;
+        max-height: 750px;
+      }
+      #ProductCardImageWrapper-featured-collections-7615017713817 {
+        max-width: 500.6090133982947px;
+      }
+    }
+  
+</style>
+
+  
+
+  <div id="ProductCardImageWrapper-featured-collections-7615017713817" class="grid-view-item__image-wrapper product-card__image-wrapper js">
+    <div style="padding-top:149.8175182481752%;">
+      <img id="ProductCardImage-featured-collections-7615017713817" class="grid-view-item__image lazyautosizes lazyloaded" src="//shopsweetapricot.com/cdn/shop/products/B3E27C91-DDF0-4ECE-A7FF-B5817757A340_300x300.jpg?v=1675271149" data-widths="[180, 360, 540, 720, 900, 1080, 1296, 1512, 1728, 2048]" data-aspectratio="0.6674786845310596" data-sizes="auto" alt="" data-srcset="//shopsweetapricot.com/cdn/shop/products/B3E27C91-DDF0-4ECE-A7FF-B5817757A340_180x.jpg?v=1675271149 180w, //shopsweetapricot.com/cdn/shop/products/B3E27C91-DDF0-4ECE-A7FF-B5817757A340_360x.jpg?v=1675271149 360w, //shopsweetapricot.com/cdn/shop/products/B3E27C91-DDF0-4ECE-A7FF-B5817757A340_540x.jpg?v=1675271149 540w, //shopsweetapricot.com/cdn/shop/products/B3E27C91-DDF0-4ECE-A7FF-B5817757A340_720x.jpg?v=1675271149 720w, //shopsweetapricot.com/cdn/shop/products/B3E27C91-DDF0-4ECE-A7FF-B5817757A340_900x.jpg?v=1675271149 900w, //shopsweetapricot.com/cdn/shop/products/B3E27C91-DDF0-4ECE-A7FF-B5817757A340_1080x.jpg?v=1675271149 1080w, //shopsweetapricot.com/cdn/shop/products/B3E27C91-DDF0-4ECE-A7FF-B5817757A340_1296x.jpg?v=1675271149 1296w, //shopsweetapricot.com/cdn/shop/products/B3E27C91-DDF0-4ECE-A7FF-B5817757A340_1512x.jpg?v=1675271149 1512w, //shopsweetapricot.com/cdn/shop/products/B3E27C91-DDF0-4ECE-A7FF-B5817757A340_1728x.jpg?v=1675271149 1728w, //shopsweetapricot.com/cdn/shop/products/B3E27C91-DDF0-4ECE-A7FF-B5817757A340_2048x.jpg?v=1675271149 2048w" sizes="130px" srcset="//shopsweetapricot.com/cdn/shop/products/B3E27C91-DDF0-4ECE-A7FF-B5817757A340_180x.jpg?v=1675271149 180w, //shopsweetapricot.com/cdn/shop/products/B3E27C91-DDF0-4ECE-A7FF-B5817757A340_360x.jpg?v=1675271149 360w, //shopsweetapricot.com/cdn/shop/products/B3E27C91-DDF0-4ECE-A7FF-B5817757A340_540x.jpg?v=1675271149 540w, //shopsweetapricot.com/cdn/shop/products/B3E27C91-DDF0-4ECE-A7FF-B5817757A340_720x.jpg?v=1675271149 720w, //shopsweetapricot.com/cdn/shop/products/B3E27C91-DDF0-4ECE-A7FF-B5817757A340_900x.jpg?v=1675271149 900w, //shopsweetapricot.com/cdn/shop/products/B3E27C91-DDF0-4ECE-A7FF-B5817757A340_1080x.jpg?v=1675271149 1080w, //shopsweetapricot.com/cdn/shop/products/B3E27C91-DDF0-4ECE-A7FF-B5817757A340_1296x.jpg?v=1675271149 1296w, //shopsweetapricot.com/cdn/shop/products/B3E27C91-DDF0-4ECE-A7FF-B5817757A340_1512x.jpg?v=1675271149 1512w, //shopsweetapricot.com/cdn/shop/products/B3E27C91-DDF0-4ECE-A7FF-B5817757A340_1728x.jpg?v=1675271149 1728w, //shopsweetapricot.com/cdn/shop/products/B3E27C91-DDF0-4ECE-A7FF-B5817757A340_2048x.jpg?v=1675271149 2048w">
+    </div>
+  </div>
+
+  <noscript>
+    
+    &lt;img class="grid-view-item__image" src="//shopsweetapricot.com/cdn/shop/products/B3E27C91-DDF0-4ECE-A7FF-B5817757A340_195x195@2x.jpg?v=1675271149" alt="Monroe Hi Rise Cigarette Crop - Kauai" style="max-width: 130.15834348355662px;"&gt;
+  </noscript>
+
+  <div class="h4 grid-view-item__title product-card__title" aria-hidden="true">Monroe Hi Rise Cigarette Crop - Kauai</div>
+
+  <!-- snippet/product-price.liquid -->
+
+<dl class="price" data-price="">
+
+  
+
+  <div class="price__regular">
+    <dt>
+      <span class="visually-hidden visually-hidden--inline">Regular price</span>
+    </dt>
+    <dd>
+      <span class="price-item price-item--regular" data-regular-price="">
+        
+          
+            $148.00
+          
+        
+      </span>
+    </dd>
+  </div>
+  <div class="price__sale">
+    <dt>
+      <span class="visually-hidden visually-hidden--inline">Sale price</span>
+    </dt>
+    <dd>
+      <span class="price-item price-item--sale" data-sale-price="">
+        $148.00
+      </span>
+      <span class="price-item__label" aria-hidden="true">Sale</span>
+    </dd>
+  </div>
+</dl>
+
+
+</div>
+
+      </li>
+    
+      <li class="grid__item grid__item--featured-collections small--one-half medium-up--one-fifth">
+        <div class="grid-view-item product-card">
+  <a class="grid-view-item__link grid-view-item__image-container full-width-link" href="/collections/bottoms/products/charlie-straight-leg-wave">
+    <span class="visually-hidden">Charlie Straight Leg - Wave</span>
+  </a>
+
+  
+  
+
+    <style>
+  
+  
+  @media screen and (min-width: 750px) { 
+    #ProductCardImage-featured-collections-7649466286233 {
+      max-width: 135.10714285714283px;
+      max-height: 195px;
+    }
+    #ProductCardImageWrapper-featured-collections-7649466286233 {
+      max-width: 135.10714285714283px;
+      max-height: 195px;
+    }
+   } 
+  
+  
+    
+    @media screen and (max-width: 749px) {
+      #ProductCardImage-featured-collections-7649466286233 {
+        max-width: 519.6428571428571px;
+        max-height: 750px;
+      }
+      #ProductCardImageWrapper-featured-collections-7649466286233 {
+        max-width: 519.6428571428571px;
+      }
+    }
+  
+</style>
+
+  
+
+  <div id="ProductCardImageWrapper-featured-collections-7649466286233" class="grid-view-item__image-wrapper product-card__image-wrapper js">
+    <div style="padding-top:144.32989690721652%;">
+      <img id="ProductCardImage-featured-collections-7649466286233" class="grid-view-item__image lazyautosizes lazyloaded" src="//shopsweetapricot.com/cdn/shop/products/FC847200-D808-47F9-8087-264855249CCA_300x300.jpg?v=1681398410" data-widths="[180, 360, 540, 720, 900, 1080, 1296, 1512, 1728, 2048]" data-aspectratio="0.6928571428571428" data-sizes="auto" alt="" data-srcset="//shopsweetapricot.com/cdn/shop/products/FC847200-D808-47F9-8087-264855249CCA_180x.jpg?v=1681398410 180w, //shopsweetapricot.com/cdn/shop/products/FC847200-D808-47F9-8087-264855249CCA_360x.jpg?v=1681398410 360w, //shopsweetapricot.com/cdn/shop/products/FC847200-D808-47F9-8087-264855249CCA_540x.jpg?v=1681398410 540w, //shopsweetapricot.com/cdn/shop/products/FC847200-D808-47F9-8087-264855249CCA_720x.jpg?v=1681398410 720w, //shopsweetapricot.com/cdn/shop/products/FC847200-D808-47F9-8087-264855249CCA_900x.jpg?v=1681398410 900w, //shopsweetapricot.com/cdn/shop/products/FC847200-D808-47F9-8087-264855249CCA_1080x.jpg?v=1681398410 1080w, //shopsweetapricot.com/cdn/shop/products/FC847200-D808-47F9-8087-264855249CCA_1296x.jpg?v=1681398410 1296w, //shopsweetapricot.com/cdn/shop/products/FC847200-D808-47F9-8087-264855249CCA_1512x.jpg?v=1681398410 1512w, //shopsweetapricot.com/cdn/shop/products/FC847200-D808-47F9-8087-264855249CCA_1728x.jpg?v=1681398410 1728w, //shopsweetapricot.com/cdn/shop/products/FC847200-D808-47F9-8087-264855249CCA_2048x.jpg?v=1681398410 2048w" sizes="135px" srcset="//shopsweetapricot.com/cdn/shop/products/FC847200-D808-47F9-8087-264855249CCA_180x.jpg?v=1681398410 180w, //shopsweetapricot.com/cdn/shop/products/FC847200-D808-47F9-8087-264855249CCA_360x.jpg?v=1681398410 360w, //shopsweetapricot.com/cdn/shop/products/FC847200-D808-47F9-8087-264855249CCA_540x.jpg?v=1681398410 540w, //shopsweetapricot.com/cdn/shop/products/FC847200-D808-47F9-8087-264855249CCA_720x.jpg?v=1681398410 720w, //shopsweetapricot.com/cdn/shop/products/FC847200-D808-47F9-8087-264855249CCA_900x.jpg?v=1681398410 900w, //shopsweetapricot.com/cdn/shop/products/FC847200-D808-47F9-8087-264855249CCA_1080x.jpg?v=1681398410 1080w, //shopsweetapricot.com/cdn/shop/products/FC847200-D808-47F9-8087-264855249CCA_1296x.jpg?v=1681398410 1296w, //shopsweetapricot.com/cdn/shop/products/FC847200-D808-47F9-8087-264855249CCA_1512x.jpg?v=1681398410 1512w, //shopsweetapricot.com/cdn/shop/products/FC847200-D808-47F9-8087-264855249CCA_1728x.jpg?v=1681398410 1728w, //shopsweetapricot.com/cdn/shop/products/FC847200-D808-47F9-8087-264855249CCA_2048x.jpg?v=1681398410 2048w">
+    </div>
+  </div>
+
+  <noscript>
+    
+    &lt;img class="grid-view-item__image" src="//shopsweetapricot.com/cdn/shop/products/FC847200-D808-47F9-8087-264855249CCA_195x195@2x.jpg?v=1681398410" alt="Charlie Straight Leg - Wave" style="max-width: 135.10714285714283px;"&gt;
+  </noscript>
+
+  <div class="h4 grid-view-item__title product-card__title" aria-hidden="true">Charlie Straight Leg - Wave</div>
+
+  <!-- snippet/product-price.liquid -->
+
+<dl class="price" data-price="">
+
+  
+
+  <div class="price__regular">
+    <dt>
+      <span class="visually-hidden visually-hidden--inline">Regular price</span>
+    </dt>
+    <dd>
+      <span class="price-item price-item--regular" data-regular-price="">
+        
+          
+            $148.00
+          
+        
+      </span>
+    </dd>
+  </div>
+  <div class="price__sale">
+    <dt>
+      <span class="visually-hidden visually-hidden--inline">Sale price</span>
+    </dt>
+    <dd>
+      <span class="price-item price-item--sale" data-sale-price="">
+        $148.00
+      </span>
+      <span class="price-item__label" aria-hidden="true">Sale</span>
+    </dd>
+  </div>
+</dl>
+
+
+</div>
+
+      </li>
+    
+      <li class="grid__item grid__item--featured-collections small--one-half medium-up--one-fifth">
+        <div class="grid-view-item product-card">
+  <a class="grid-view-item__link grid-view-item__image-container full-width-link" href="/collections/bottoms/products/catriona-skirt">
+    <span class="visually-hidden">Catriona Skirt</span>
+  </a>
+
+  
+  
+
+    <style>
+  
+  
+  @media screen and (min-width: 750px) { 
+    #ProductCardImage-featured-collections-7670691332249 {
+      max-width: 149.65116279069767px;
+      max-height: 195px;
+    }
+    #ProductCardImageWrapper-featured-collections-7670691332249 {
+      max-width: 149.65116279069767px;
+      max-height: 195px;
+    }
+   } 
+  
+  
+    
+    @media screen and (max-width: 749px) {
+      #ProductCardImage-featured-collections-7670691332249 {
+        max-width: 575.5813953488372px;
+        max-height: 750px;
+      }
+      #ProductCardImageWrapper-featured-collections-7670691332249 {
+        max-width: 575.5813953488372px;
+      }
+    }
+  
+</style>
+
+  
+
+  <div id="ProductCardImageWrapper-featured-collections-7670691332249" class="grid-view-item__image-wrapper product-card__image-wrapper js">
+    <div style="padding-top:130.3030303030303%;">
+      <img id="ProductCardImage-featured-collections-7670691332249" class="grid-view-item__image lazyautosizes lazyloaded" src="//shopsweetapricot.com/cdn/shop/files/Heartloom_04824_234rh3p_catriona_skirt_A_front_300x300.jpg?v=1685503607" data-widths="[180, 360, 540, 720, 900, 1080, 1296, 1512, 1728, 2048]" data-aspectratio="0.7674418604651163" data-sizes="auto" alt="" data-srcset="//shopsweetapricot.com/cdn/shop/files/Heartloom_04824_234rh3p_catriona_skirt_A_front_180x.jpg?v=1685503607 180w, //shopsweetapricot.com/cdn/shop/files/Heartloom_04824_234rh3p_catriona_skirt_A_front_360x.jpg?v=1685503607 360w, //shopsweetapricot.com/cdn/shop/files/Heartloom_04824_234rh3p_catriona_skirt_A_front_540x.jpg?v=1685503607 540w, //shopsweetapricot.com/cdn/shop/files/Heartloom_04824_234rh3p_catriona_skirt_A_front_720x.jpg?v=1685503607 720w, //shopsweetapricot.com/cdn/shop/files/Heartloom_04824_234rh3p_catriona_skirt_A_front_900x.jpg?v=1685503607 900w, //shopsweetapricot.com/cdn/shop/files/Heartloom_04824_234rh3p_catriona_skirt_A_front_1080x.jpg?v=1685503607 1080w, //shopsweetapricot.com/cdn/shop/files/Heartloom_04824_234rh3p_catriona_skirt_A_front_1296x.jpg?v=1685503607 1296w, //shopsweetapricot.com/cdn/shop/files/Heartloom_04824_234rh3p_catriona_skirt_A_front_1512x.jpg?v=1685503607 1512w, //shopsweetapricot.com/cdn/shop/files/Heartloom_04824_234rh3p_catriona_skirt_A_front_1728x.jpg?v=1685503607 1728w, //shopsweetapricot.com/cdn/shop/files/Heartloom_04824_234rh3p_catriona_skirt_A_front_2048x.jpg?v=1685503607 2048w" sizes="150px" srcset="//shopsweetapricot.com/cdn/shop/files/Heartloom_04824_234rh3p_catriona_skirt_A_front_180x.jpg?v=1685503607 180w, //shopsweetapricot.com/cdn/shop/files/Heartloom_04824_234rh3p_catriona_skirt_A_front_360x.jpg?v=1685503607 360w, //shopsweetapricot.com/cdn/shop/files/Heartloom_04824_234rh3p_catriona_skirt_A_front_540x.jpg?v=1685503607 540w, //shopsweetapricot.com/cdn/shop/files/Heartloom_04824_234rh3p_catriona_skirt_A_front_720x.jpg?v=1685503607 720w, //shopsweetapricot.com/cdn/shop/files/Heartloom_04824_234rh3p_catriona_skirt_A_front_900x.jpg?v=1685503607 900w, //shopsweetapricot.com/cdn/shop/files/Heartloom_04824_234rh3p_catriona_skirt_A_front_1080x.jpg?v=1685503607 1080w, //shopsweetapricot.com/cdn/shop/files/Heartloom_04824_234rh3p_catriona_skirt_A_front_1296x.jpg?v=1685503607 1296w, //shopsweetapricot.com/cdn/shop/files/Heartloom_04824_234rh3p_catriona_skirt_A_front_1512x.jpg?v=1685503607 1512w, //shopsweetapricot.com/cdn/shop/files/Heartloom_04824_234rh3p_catriona_skirt_A_front_1728x.jpg?v=1685503607 1728w, //shopsweetapricot.com/cdn/shop/files/Heartloom_04824_234rh3p_catriona_skirt_A_front_2048x.jpg?v=1685503607 2048w">
+    </div>
+  </div>
+
+  <noscript>
+    
+    &lt;img class="grid-view-item__image" src="//shopsweetapricot.com/cdn/shop/files/Heartloom_04824_234rh3p_catriona_skirt_A_front_195x195@2x.jpg?v=1685503607" alt="Catriona Skirt" style="max-width: 149.65116279069767px;"&gt;
+  </noscript>
+
+  <div class="h4 grid-view-item__title product-card__title" aria-hidden="true">Catriona Skirt</div>
+
+  <!-- snippet/product-price.liquid -->
+
+<dl class="price" data-price="">
+
+  
+
+  <div class="price__regular">
+    <dt>
+      <span class="visually-hidden visually-hidden--inline">Regular price</span>
+    </dt>
+    <dd>
+      <span class="price-item price-item--regular" data-regular-price="">
+        
+          
+            $109.00
+          
+        
+      </span>
+    </dd>
+  </div>
+  <div class="price__sale">
+    <dt>
+      <span class="visually-hidden visually-hidden--inline">Sale price</span>
+    </dt>
+    <dd>
+      <span class="price-item price-item--sale" data-sale-price="">
+        $109.00
+      </span>
+      <span class="price-item__label" aria-hidden="true">Sale</span>
+    </dd>
+  </div>
+</dl>
+
+
+</div>
+
+      </li>
+    
+      <li class="grid__item grid__item--featured-collections small--one-half medium-up--one-fifth">
+        <div class="grid-view-item product-card">
+  <a class="grid-view-item__link grid-view-item__image-container full-width-link" href="/collections/bottoms/products/hudson-remi-high-rise-straight-canal">
+    <span class="visually-hidden">Hudson Remi High-Rise Straight - Canal</span>
+  </a>
+
+  
+  
+
+    <style>
+  
+  
+  @media screen and (min-width: 750px) { 
+    #ProductCardImage-featured-collections-7683643867289 {
+      max-width: 130.0px;
+      max-height: 195px;
+    }
+    #ProductCardImageWrapper-featured-collections-7683643867289 {
+      max-width: 130.0px;
+      max-height: 195px;
+    }
+   } 
+  
+  
+    
+    @media screen and (max-width: 749px) {
+      #ProductCardImage-featured-collections-7683643867289 {
+        max-width: 499.99999999999994px;
+        max-height: 750px;
+      }
+      #ProductCardImageWrapper-featured-collections-7683643867289 {
+        max-width: 499.99999999999994px;
+      }
+    }
+  
+</style>
+
+  
+
+  <div id="ProductCardImageWrapper-featured-collections-7683643867289" class="grid-view-item__image-wrapper product-card__image-wrapper js">
+    <div style="padding-top:150.00000000000003%;">
+      <img id="ProductCardImage-featured-collections-7683643867289" class="grid-view-item__image lazyautosizes lazyloaded" src="//shopsweetapricot.com/cdn/shop/files/IMG_7875_300x300.webp?v=1687989612" data-widths="[180, 360, 540, 720, 900, 1080, 1296, 1512, 1728, 2048]" data-aspectratio="0.6666666666666666" data-sizes="auto" alt="" data-srcset="//shopsweetapricot.com/cdn/shop/files/IMG_7875_180x.webp?v=1687989612 180w, //shopsweetapricot.com/cdn/shop/files/IMG_7875_360x.webp?v=1687989612 360w, //shopsweetapricot.com/cdn/shop/files/IMG_7875_540x.webp?v=1687989612 540w, //shopsweetapricot.com/cdn/shop/files/IMG_7875_720x.webp?v=1687989612 720w, //shopsweetapricot.com/cdn/shop/files/IMG_7875_900x.webp?v=1687989612 900w, //shopsweetapricot.com/cdn/shop/files/IMG_7875_1080x.webp?v=1687989612 1080w, //shopsweetapricot.com/cdn/shop/files/IMG_7875_1296x.webp?v=1687989612 1296w, //shopsweetapricot.com/cdn/shop/files/IMG_7875_1512x.webp?v=1687989612 1512w, //shopsweetapricot.com/cdn/shop/files/IMG_7875_1728x.webp?v=1687989612 1728w, //shopsweetapricot.com/cdn/shop/files/IMG_7875_2048x.webp?v=1687989612 2048w" sizes="130px" srcset="//shopsweetapricot.com/cdn/shop/files/IMG_7875_180x.webp?v=1687989612 180w, //shopsweetapricot.com/cdn/shop/files/IMG_7875_360x.webp?v=1687989612 360w, //shopsweetapricot.com/cdn/shop/files/IMG_7875_540x.webp?v=1687989612 540w, //shopsweetapricot.com/cdn/shop/files/IMG_7875_720x.webp?v=1687989612 720w, //shopsweetapricot.com/cdn/shop/files/IMG_7875_900x.webp?v=1687989612 900w, //shopsweetapricot.com/cdn/shop/files/IMG_7875_1080x.webp?v=1687989612 1080w, //shopsweetapricot.com/cdn/shop/files/IMG_7875_1296x.webp?v=1687989612 1296w, //shopsweetapricot.com/cdn/shop/files/IMG_7875_1512x.webp?v=1687989612 1512w, //shopsweetapricot.com/cdn/shop/files/IMG_7875_1728x.webp?v=1687989612 1728w, //shopsweetapricot.com/cdn/shop/files/IMG_7875_2048x.webp?v=1687989612 2048w">
+    </div>
+  </div>
+
+  <noscript>
+    
+    &lt;img class="grid-view-item__image" src="//shopsweetapricot.com/cdn/shop/files/IMG_7875_195x195@2x.webp?v=1687989612" alt="Hudson Remi High-Rise Straight - Canal" style="max-width: 130.0px;"&gt;
+  </noscript>
+
+  <div class="h4 grid-view-item__title product-card__title" aria-hidden="true">Hudson Remi High-Rise Straight - Canal</div>
+
+  <!-- snippet/product-price.liquid -->
+
+<dl class="price" data-price="">
+
+  
+
+  <div class="price__regular">
+    <dt>
+      <span class="visually-hidden visually-hidden--inline">Regular price</span>
+    </dt>
+    <dd>
+      <span class="price-item price-item--regular" data-regular-price="">
+        
+          
+            $195.00
+          
+        
+      </span>
+    </dd>
+  </div>
+  <div class="price__sale">
+    <dt>
+      <span class="visually-hidden visually-hidden--inline">Sale price</span>
+    </dt>
+    <dd>
+      <span class="price-item price-item--sale" data-sale-price="">
+        $195.00
+      </span>
+      <span class="price-item__label" aria-hidden="true">Sale</span>
+    </dd>
+  </div>
+</dl>
+
+
+</div>
+
+      </li>
+    
+      <li class="grid__item grid__item--featured-collections small--one-half medium-up--one-fifth">
+        <div class="grid-view-item product-card">
+  <a class="grid-view-item__link grid-view-item__image-container full-width-link" href="/collections/bottoms/products/free-reign-vegan-shorts">
+    <span class="visually-hidden">Free Reign Vegan Shorts</span>
+  </a>
+
+  
+  
+
+    <style>
+  
+  
+  @media screen and (min-width: 750px) { 
+    #ProductCardImage-featured-collections-7685618630809 {
+      max-width: 163.0078125px;
+      max-height: 195px;
+    }
+    #ProductCardImageWrapper-featured-collections-7685618630809 {
+      max-width: 163.0078125px;
+      max-height: 195px;
+    }
+   } 
+  
+  
+    
+    @media screen and (max-width: 749px) {
+      #ProductCardImage-featured-collections-7685618630809 {
+        max-width: 626.953125px;
+        max-height: 750px;
+      }
+      #ProductCardImageWrapper-featured-collections-7685618630809 {
+        max-width: 626.953125px;
+      }
+    }
+  
+</style>
+
+  
+
+  <div id="ProductCardImageWrapper-featured-collections-7685618630809" class="grid-view-item__image-wrapper product-card__image-wrapper js">
+    <div style="padding-top:119.62616822429906%;">
+      <img id="ProductCardImage-featured-collections-7685618630809" class="grid-view-item__image lazyautosizes lazyloaded" src="//shopsweetapricot.com/cdn/shop/files/IMG_8940_300x300.jpg?v=1691013573" data-widths="[180, 360, 540, 720, 900, 1080, 1296, 1512, 1728, 2048]" data-aspectratio="0.8359375" data-sizes="auto" alt="" data-srcset="//shopsweetapricot.com/cdn/shop/files/IMG_8940_180x.jpg?v=1691013573 180w, //shopsweetapricot.com/cdn/shop/files/IMG_8940_360x.jpg?v=1691013573 360w, //shopsweetapricot.com/cdn/shop/files/IMG_8940_540x.jpg?v=1691013573 540w, //shopsweetapricot.com/cdn/shop/files/IMG_8940_720x.jpg?v=1691013573 720w, //shopsweetapricot.com/cdn/shop/files/IMG_8940_900x.jpg?v=1691013573 900w, //shopsweetapricot.com/cdn/shop/files/IMG_8940_1080x.jpg?v=1691013573 1080w, //shopsweetapricot.com/cdn/shop/files/IMG_8940_1296x.jpg?v=1691013573 1296w, //shopsweetapricot.com/cdn/shop/files/IMG_8940_1512x.jpg?v=1691013573 1512w, //shopsweetapricot.com/cdn/shop/files/IMG_8940_1728x.jpg?v=1691013573 1728w, //shopsweetapricot.com/cdn/shop/files/IMG_8940_2048x.jpg?v=1691013573 2048w" sizes="159px" srcset="//shopsweetapricot.com/cdn/shop/files/IMG_8940_180x.jpg?v=1691013573 180w, //shopsweetapricot.com/cdn/shop/files/IMG_8940_360x.jpg?v=1691013573 360w, //shopsweetapricot.com/cdn/shop/files/IMG_8940_540x.jpg?v=1691013573 540w, //shopsweetapricot.com/cdn/shop/files/IMG_8940_720x.jpg?v=1691013573 720w, //shopsweetapricot.com/cdn/shop/files/IMG_8940_900x.jpg?v=1691013573 900w, //shopsweetapricot.com/cdn/shop/files/IMG_8940_1080x.jpg?v=1691013573 1080w, //shopsweetapricot.com/cdn/shop/files/IMG_8940_1296x.jpg?v=1691013573 1296w, //shopsweetapricot.com/cdn/shop/files/IMG_8940_1512x.jpg?v=1691013573 1512w, //shopsweetapricot.com/cdn/shop/files/IMG_8940_1728x.jpg?v=1691013573 1728w, //shopsweetapricot.com/cdn/shop/files/IMG_8940_2048x.jpg?v=1691013573 2048w">
+    </div>
+  </div>
+
+  <noscript>
+    
+    &lt;img class="grid-view-item__image" src="//shopsweetapricot.com/cdn/shop/files/IMG_8940_195x195@2x.jpg?v=1691013573" alt="Free Reign Vegan Shorts" style="max-width: 163.0078125px;"&gt;
+  </noscript>
+
+  <div class="h4 grid-view-item__title product-card__title" aria-hidden="true">Free Reign Vegan Shorts</div>
+
+  <!-- snippet/product-price.liquid -->
+
+<dl class="price" data-price="">
+
+  
+
+  <div class="price__regular">
+    <dt>
+      <span class="visually-hidden visually-hidden--inline">Regular price</span>
+    </dt>
+    <dd>
+      <span class="price-item price-item--regular" data-regular-price="">
+        
+          
+            $88.00
+          
+        
+      </span>
+    </dd>
+  </div>
+  <div class="price__sale">
+    <dt>
+      <span class="visually-hidden visually-hidden--inline">Sale price</span>
+    </dt>
+    <dd>
+      <span class="price-item price-item--sale" data-sale-price="">
+        $88.00
+      </span>
+      <span class="price-item__label" aria-hidden="true">Sale</span>
+    </dd>
+  </div>
+</dl>
+
+
+</div>
+
+      </li>
+    
+      <li class="grid__item grid__item--featured-collections small--one-half medium-up--one-fifth">
+        <div class="grid-view-item product-card">
+  <a class="grid-view-item__link grid-view-item__image-container full-width-link" href="/collections/bottoms/products/hudson-harlow-ultra-high-rise-cigarette-ankle-lakeside">
+    <span class="visually-hidden">Hudson Harlow Ultra High-Rise Cigarette Ankle - Lakeside</span>
+  </a>
+
+  
+  
+
+    <style>
+  
+  
+  @media screen and (min-width: 750px) { 
+    #ProductCardImage-featured-collections-7688565457049 {
+      max-width: 145.8740359897172px;
+      max-height: 195px;
+    }
+    #ProductCardImageWrapper-featured-collections-7688565457049 {
+      max-width: 145.8740359897172px;
+      max-height: 195px;
+    }
+   } 
+  
+  
+    
+    @media screen and (max-width: 749px) {
+      #ProductCardImage-featured-collections-7688565457049 {
+        max-width: 561.0539845758354px;
+        max-height: 750px;
+      }
+      #ProductCardImageWrapper-featured-collections-7688565457049 {
+        max-width: 561.0539845758354px;
+      }
+    }
+  
+</style>
+
+  
+
+  <div id="ProductCardImageWrapper-featured-collections-7688565457049" class="grid-view-item__image-wrapper product-card__image-wrapper js">
+    <div style="padding-top:133.67697594501718%;">
+      <img id="ProductCardImage-featured-collections-7688565457049" class="grid-view-item__image lazyload" src="//shopsweetapricot.com/cdn/shop/files/image_bb67afad-a59e-4e90-be09-ccd5dcfaf623_300x300.jpg?v=1689265375" data-src="//shopsweetapricot.com/cdn/shop/files/image_bb67afad-a59e-4e90-be09-ccd5dcfaf623_{width}x.jpg?v=1689265375" data-widths="[180, 360, 540, 720, 900, 1080, 1296, 1512, 1728, 2048]" data-aspectratio="0.7480719794344473" data-sizes="auto" alt="">
+    </div>
+  </div>
+
+  <noscript>
+    
+    &lt;img class="grid-view-item__image" src="//shopsweetapricot.com/cdn/shop/files/image_bb67afad-a59e-4e90-be09-ccd5dcfaf623_195x195@2x.jpg?v=1689265375" alt="Hudson Harlow Ultra High-Rise Cigarette Ankle - Lakeside" style="max-width: 145.8740359897172px;"&gt;
+  </noscript>
+
+  <div class="h4 grid-view-item__title product-card__title" aria-hidden="true">Hudson Harlow Ultra High-Rise Cigarette Ankle - Lakeside</div>
+
+  <!-- snippet/product-price.liquid -->
+
+<dl class="price" data-price="">
+
+  
+
+  <div class="price__regular">
+    <dt>
+      <span class="visually-hidden visually-hidden--inline">Regular price</span>
+    </dt>
+    <dd>
+      <span class="price-item price-item--regular" data-regular-price="">
+        
+          
+            $195.00
+          
+        
+      </span>
+    </dd>
+  </div>
+  <div class="price__sale">
+    <dt>
+      <span class="visually-hidden visually-hidden--inline">Sale price</span>
+    </dt>
+    <dd>
+      <span class="price-item price-item--sale" data-sale-price="">
+        $195.00
+      </span>
+      <span class="price-item__label" aria-hidden="true">Sale</span>
+    </dd>
+  </div>
+</dl>
+
+
+</div>
+
+      </li>
+    
+      <li class="grid__item grid__item--featured-collections small--one-half medium-up--one-fifth">
+        <div class="grid-view-item product-card">
+  <a class="grid-view-item__link grid-view-item__image-container full-width-link" href="/collections/bottoms/products/pamela-pants">
+    <span class="visually-hidden">Pamela Pants</span>
+  </a>
+
+  
+  
+
+    <style>
+  
+  
+  @media screen and (min-width: 750px) { 
+    #ProductCardImage-featured-collections-7690765467801 {
+      max-width: 130.0px;
+      max-height: 195px;
+    }
+    #ProductCardImageWrapper-featured-collections-7690765467801 {
+      max-width: 130.0px;
+      max-height: 195px;
+    }
+   } 
+  
+  
+    
+    @media screen and (max-width: 749px) {
+      #ProductCardImage-featured-collections-7690765467801 {
+        max-width: 499.99999999999994px;
+        max-height: 750px;
+      }
+      #ProductCardImageWrapper-featured-collections-7690765467801 {
+        max-width: 499.99999999999994px;
+      }
+    }
+  
+</style>
+
+  
+
+  <div id="ProductCardImageWrapper-featured-collections-7690765467801" class="grid-view-item__image-wrapper product-card__image-wrapper js">
+    <div style="padding-top:150.00000000000003%;">
+      <img id="ProductCardImage-featured-collections-7690765467801" class="grid-view-item__image lazyload" src="//shopsweetapricot.com/cdn/shop/files/PAMELA_DARKOLIVE_3508_300x300.jpg?v=1690643774" data-src="//shopsweetapricot.com/cdn/shop/files/PAMELA_DARKOLIVE_3508_{width}x.jpg?v=1690643774" data-widths="[180, 360, 540, 720, 900, 1080, 1296, 1512, 1728, 2048]" data-aspectratio="0.6666666666666666" data-sizes="auto" alt="">
+    </div>
+  </div>
+
+  <noscript>
+    
+    &lt;img class="grid-view-item__image" src="//shopsweetapricot.com/cdn/shop/files/PAMELA_DARKOLIVE_3508_195x195@2x.jpg?v=1690643774" alt="Pamela Pants" style="max-width: 130.0px;"&gt;
+  </noscript>
+
+  <div class="h4 grid-view-item__title product-card__title" aria-hidden="true">Pamela Pants</div>
+
+  <!-- snippet/product-price.liquid -->
+
+<dl class="price" data-price="">
+
+  
+
+  <div class="price__regular">
+    <dt>
+      <span class="visually-hidden visually-hidden--inline">Regular price</span>
+    </dt>
+    <dd>
+      <span class="price-item price-item--regular" data-regular-price="">
+        
+          
+            $138.00
+          
+        
+      </span>
+    </dd>
+  </div>
+  <div class="price__sale">
+    <dt>
+      <span class="visually-hidden visually-hidden--inline">Sale price</span>
+    </dt>
+    <dd>
+      <span class="price-item price-item--sale" data-sale-price="">
+        $138.00
+      </span>
+      <span class="price-item__label" aria-hidden="true">Sale</span>
+    </dd>
+  </div>
+</dl>
+
+
+</div>
+
+      </li>
+    
+      <li class="grid__item grid__item--featured-collections small--one-half medium-up--one-fifth">
+        <div class="grid-view-item product-card">
+  <a class="grid-view-item__link grid-view-item__image-container full-width-link" href="/collections/bottoms/products/hudson-rosie-high-rise-wide-leg">
+    <span class="visually-hidden">Hudson Rosie High-Rise Wide Leg</span>
+  </a>
+
+  
+  
+
+    <style>
+  
+  
+  @media screen and (min-width: 750px) { 
+    #ProductCardImage-featured-collections-7723432181913 {
+      max-width: 130.0px;
+      max-height: 195px;
+    }
+    #ProductCardImageWrapper-featured-collections-7723432181913 {
+      max-width: 130.0px;
+      max-height: 195px;
+    }
+   } 
+  
+  
+    
+    @media screen and (max-width: 749px) {
+      #ProductCardImage-featured-collections-7723432181913 {
+        max-width: 499.99999999999994px;
+        max-height: 750px;
+      }
+      #ProductCardImageWrapper-featured-collections-7723432181913 {
+        max-width: 499.99999999999994px;
+      }
+    }
+  
+</style>
+
+  
+
+  <div id="ProductCardImageWrapper-featured-collections-7723432181913" class="grid-view-item__image-wrapper product-card__image-wrapper js">
+    <div style="padding-top:150.00000000000003%;">
+      <img id="ProductCardImage-featured-collections-7723432181913" class="grid-view-item__image lazyload" src="//shopsweetapricot.com/cdn/shop/files/IMG_0477_300x300.webp?v=1695759565" data-src="//shopsweetapricot.com/cdn/shop/files/IMG_0477_{width}x.webp?v=1695759565" data-widths="[180, 360, 540, 720, 900, 1080, 1296, 1512, 1728, 2048]" data-aspectratio="0.6666666666666666" data-sizes="auto" alt="">
+    </div>
+  </div>
+
+  <noscript>
+    
+    &lt;img class="grid-view-item__image" src="//shopsweetapricot.com/cdn/shop/files/IMG_0477_195x195@2x.webp?v=1695759565" alt="Hudson Rosie High-Rise Wide Leg" style="max-width: 130.0px;"&gt;
+  </noscript>
+
+  <div class="h4 grid-view-item__title product-card__title" aria-hidden="true">Hudson Rosie High-Rise Wide Leg</div>
+
+  <!-- snippet/product-price.liquid -->
+
+<dl class="price" data-price="">
+
+  
+
+  <div class="price__regular">
+    <dt>
+      <span class="visually-hidden visually-hidden--inline">Regular price</span>
+    </dt>
+    <dd>
+      <span class="price-item price-item--regular" data-regular-price="">
+        
+          
+            $195.00
+          
+        
+      </span>
+    </dd>
+  </div>
+  <div class="price__sale">
+    <dt>
+      <span class="visually-hidden visually-hidden--inline">Sale price</span>
+    </dt>
+    <dd>
+      <span class="price-item price-item--sale" data-sale-price="">
+        $195.00
+      </span>
+      <span class="price-item__label" aria-hidden="true">Sale</span>
+    </dd>
+  </div>
+</dl>
+
+
+</div>
+
+      </li>
+    
+      <li class="grid__item grid__item--featured-collections small--one-half medium-up--one-fifth">
+        <div class="grid-view-item product-card">
+  <a class="grid-view-item__link grid-view-item__image-container full-width-link" href="/collections/bottoms/products/hudson-jade-high-rise-straight-loose-fit">
+    <span class="visually-hidden">Hudson Jade High-Rise Straight Loose Fit</span>
+  </a>
+
+  
+  
+
+    <style>
+  
+  
+  @media screen and (min-width: 750px) { 
+    #ProductCardImage-featured-collections-7723432706201 {
+      max-width: 146.25px;
+      max-height: 195px;
+    }
+    #ProductCardImageWrapper-featured-collections-7723432706201 {
+      max-width: 146.25px;
+      max-height: 195px;
+    }
+   } 
+  
+  
+    
+    @media screen and (max-width: 749px) {
+      #ProductCardImage-featured-collections-7723432706201 {
+        max-width: 562.5px;
+        max-height: 750px;
+      }
+      #ProductCardImageWrapper-featured-collections-7723432706201 {
+        max-width: 562.5px;
+      }
+    }
+  
+</style>
+
+  
+
+  <div id="ProductCardImageWrapper-featured-collections-7723432706201" class="grid-view-item__image-wrapper product-card__image-wrapper js">
+    <div style="padding-top:133.33333333333334%;">
+      <img id="ProductCardImage-featured-collections-7723432706201" class="grid-view-item__image lazyload" src="//shopsweetapricot.com/cdn/shop/files/jadefront_300x300.jpg?v=1694367949" data-src="//shopsweetapricot.com/cdn/shop/files/jadefront_{width}x.jpg?v=1694367949" data-widths="[180, 360, 540, 720, 900, 1080, 1296, 1512, 1728, 2048]" data-aspectratio="0.75" data-sizes="auto" alt="">
+    </div>
+  </div>
+
+  <noscript>
+    
+    &lt;img class="grid-view-item__image" src="//shopsweetapricot.com/cdn/shop/files/jadefront_195x195@2x.jpg?v=1694367949" alt="Hudson Jade High-Rise Straight Loose Fit" style="max-width: 146.25px;"&gt;
+  </noscript>
+
+  <div class="h4 grid-view-item__title product-card__title" aria-hidden="true">Hudson Jade High-Rise Straight Loose Fit</div>
+
+  <!-- snippet/product-price.liquid -->
+
+<dl class="price" data-price="">
+
+  
+
+  <div class="price__regular">
+    <dt>
+      <span class="visually-hidden visually-hidden--inline">Regular price</span>
+    </dt>
+    <dd>
+      <span class="price-item price-item--regular" data-regular-price="">
+        
+          
+            $225.00
+          
+        
+      </span>
+    </dd>
+  </div>
+  <div class="price__sale">
+    <dt>
+      <span class="visually-hidden visually-hidden--inline">Sale price</span>
+    </dt>
+    <dd>
+      <span class="price-item price-item--sale" data-sale-price="">
+        $225.00
+      </span>
+      <span class="price-item__label" aria-hidden="true">Sale</span>
+    </dd>
+  </div>
+</dl>
+
+
+</div>
+
+      </li>
+    
+      <li class="grid__item grid__item--featured-collections small--one-half medium-up--one-fifth">
+        <div class="grid-view-item product-card">
+  <a class="grid-view-item__link grid-view-item__image-container full-width-link" href="/collections/bottoms/products/hudson-barbara-baby-boot-cut-with-slit">
+    <span class="visually-hidden">Hudson Barbara High-Rise Baby Boot Cut with Slit</span>
+  </a>
+
+  
+  
+
+    <style>
+  
+  
+  @media screen and (min-width: 750px) { 
+    #ProductCardImage-featured-collections-7723433066649 {
+      max-width: 130.0px;
+      max-height: 195px;
+    }
+    #ProductCardImageWrapper-featured-collections-7723433066649 {
+      max-width: 130.0px;
+      max-height: 195px;
+    }
+   } 
+  
+  
+    
+    @media screen and (max-width: 749px) {
+      #ProductCardImage-featured-collections-7723433066649 {
+        max-width: 499.99999999999994px;
+        max-height: 750px;
+      }
+      #ProductCardImageWrapper-featured-collections-7723433066649 {
+        max-width: 499.99999999999994px;
+      }
+    }
+  
+</style>
+
+  
+
+  <div id="ProductCardImageWrapper-featured-collections-7723433066649" class="grid-view-item__image-wrapper product-card__image-wrapper js">
+    <div style="padding-top:150.00000000000003%;">
+      <img id="ProductCardImage-featured-collections-7723433066649" class="grid-view-item__image lazyload" src="//shopsweetapricot.com/cdn/shop/files/IMG_0468_300x300.webp?v=1695758555" data-src="//shopsweetapricot.com/cdn/shop/files/IMG_0468_{width}x.webp?v=1695758555" data-widths="[180, 360, 540, 720, 900, 1080, 1296, 1512, 1728, 2048]" data-aspectratio="0.6666666666666666" data-sizes="auto" alt="">
+    </div>
+  </div>
+
+  <noscript>
+    
+    &lt;img class="grid-view-item__image" src="//shopsweetapricot.com/cdn/shop/files/IMG_0468_195x195@2x.webp?v=1695758555" alt="Hudson Barbara High-Rise Baby Boot Cut with Slit" style="max-width: 130.0px;"&gt;
+  </noscript>
+
+  <div class="h4 grid-view-item__title product-card__title" aria-hidden="true">Hudson Barbara High-Rise Baby Boot Cut with Slit</div>
+
+  <!-- snippet/product-price.liquid -->
+
+<dl class="price" data-price="">
+
+  
+
+  <div class="price__regular">
+    <dt>
+      <span class="visually-hidden visually-hidden--inline">Regular price</span>
+    </dt>
+    <dd>
+      <span class="price-item price-item--regular" data-regular-price="">
+        
+          
+            $195.00
+          
+        
+      </span>
+    </dd>
+  </div>
+  <div class="price__sale">
+    <dt>
+      <span class="visually-hidden visually-hidden--inline">Sale price</span>
+    </dt>
+    <dd>
+      <span class="price-item price-item--sale" data-sale-price="">
+        $195.00
+      </span>
+      <span class="price-item__label" aria-hidden="true">Sale</span>
+    </dd>
+  </div>
+</dl>
+
+
+</div>
+
+      </li>
+    
+      <li class="grid__item grid__item--featured-collections small--one-half medium-up--one-fifth">
+        <div class="grid-view-item product-card">
+  <a class="grid-view-item__link grid-view-item__image-container full-width-link" href="/collections/bottoms/products/hudson-barbara-high-rise-baby-boot-with-cf-vent">
+    <span class="visually-hidden">Hudson Barbara High-Rise Baby Boot with CF Vent</span>
+  </a>
+
+  
+  
+
+    <style>
+  
+  
+  @media screen and (min-width: 750px) { 
+    #ProductCardImage-featured-collections-7723434147993 {
+      max-width: 130.0px;
+      max-height: 195px;
+    }
+    #ProductCardImageWrapper-featured-collections-7723434147993 {
+      max-width: 130.0px;
+      max-height: 195px;
+    }
+   } 
+  
+  
+    
+    @media screen and (max-width: 749px) {
+      #ProductCardImage-featured-collections-7723434147993 {
+        max-width: 499.99999999999994px;
+        max-height: 750px;
+      }
+      #ProductCardImageWrapper-featured-collections-7723434147993 {
+        max-width: 499.99999999999994px;
+      }
+    }
+  
+</style>
+
+  
+
+  <div id="ProductCardImageWrapper-featured-collections-7723434147993" class="grid-view-item__image-wrapper product-card__image-wrapper js">
+    <div style="padding-top:150.00000000000003%;">
+      <img id="ProductCardImage-featured-collections-7723434147993" class="grid-view-item__image lazyload" src="//shopsweetapricot.com/cdn/shop/files/IMG_0461_300x300.webp?v=1695758102" data-src="//shopsweetapricot.com/cdn/shop/files/IMG_0461_{width}x.webp?v=1695758102" data-widths="[180, 360, 540, 720, 900, 1080, 1296, 1512, 1728, 2048]" data-aspectratio="0.6666666666666666" data-sizes="auto" alt="">
+    </div>
+  </div>
+
+  <noscript>
+    
+    &lt;img class="grid-view-item__image" src="//shopsweetapricot.com/cdn/shop/files/IMG_0461_195x195@2x.webp?v=1695758102" alt="Hudson Barbara High-Rise Baby Boot with CF Vent" style="max-width: 130.0px;"&gt;
+  </noscript>
+
+  <div class="h4 grid-view-item__title product-card__title" aria-hidden="true">Hudson Barbara High-Rise Baby Boot with CF Vent</div>
+
+  <!-- snippet/product-price.liquid -->
+
+<dl class="price" data-price="">
+
+  
+
+  <div class="price__regular">
+    <dt>
+      <span class="visually-hidden visually-hidden--inline">Regular price</span>
+    </dt>
+    <dd>
+      <span class="price-item price-item--regular" data-regular-price="">
+        
+          
+            $195.00
+          
+        
+      </span>
+    </dd>
+  </div>
+  <div class="price__sale">
+    <dt>
+      <span class="visually-hidden visually-hidden--inline">Sale price</span>
+    </dt>
+    <dd>
+      <span class="price-item price-item--sale" data-sale-price="">
+        $195.00
+      </span>
+      <span class="price-item__label" aria-hidden="true">Sale</span>
+    </dd>
+  </div>
+</dl>
+
+
+</div>
+
+      </li>
+    
+  </ul>
+
+  
+    <hr class="hr--invisible" aria-hidden="true">
+    <div class="text-center">
+      <a href="/collections/bottoms" class="btn" aria-label="View all products in the Bottoms collection">
+        View all
+      </a>
+    </div>
+  
+
+</div>
+
+
+
+
+</div><div id="shopify-section-slideshow" class="shopify-section index-section index-section--flush index-section--slideshow"><div data-section-id="slideshow" data-section-type="slideshow-section"><div id="SlideshowWrapper-slideshow" class="slideshow-wrapper" role="region" aria-label="slideshow" aria-describedby="slideshow-info" tabindex="-1">
+      <div class="slideshow slideshow--large slick-initialized slick-slider slick-dotted" id="Slideshow-slideshow" data-autorotate="false" data-speed="5000" data-adapt-height="false" data-slide-nav-a11y="Load slide [slide_number]"><div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 5120px;"><div class="slideshow__slide slideshow__slide--slideshow-0 slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false" id="slickSlide00" tabindex="-1" style="width: 1024px; position: relative; left: 0px; top: 0px; z-index: 999; opacity: 1;">
+            
+              <div class="slideshow__image box ratio-container lazyload js" data-bgset="//shopsweetapricot.com/cdn/shop/files/1CEA8232-2FDD-4370-9CC1-B4079FCC0259_180x.jpg?v=1646939529 180w 151h,
+    //shopsweetapricot.com/cdn/shop/files/1CEA8232-2FDD-4370-9CC1-B4079FCC0259_360x.jpg?v=1646939529 360w 302h,
+    //shopsweetapricot.com/cdn/shop/files/1CEA8232-2FDD-4370-9CC1-B4079FCC0259_540x.jpg?v=1646939529 540w 453h,
+    //shopsweetapricot.com/cdn/shop/files/1CEA8232-2FDD-4370-9CC1-B4079FCC0259_720x.jpg?v=1646939529 720w 604h,
+    //shopsweetapricot.com/cdn/shop/files/1CEA8232-2FDD-4370-9CC1-B4079FCC0259_900x.jpg?v=1646939529 900w 756h,
+    //shopsweetapricot.com/cdn/shop/files/1CEA8232-2FDD-4370-9CC1-B4079FCC0259_1080x.jpg?v=1646939529 1080w 907h,
+    //shopsweetapricot.com/cdn/shop/files/1CEA8232-2FDD-4370-9CC1-B4079FCC0259_1296x.jpg?v=1646939529 1296w 1088h,
+    //shopsweetapricot.com/cdn/shop/files/1CEA8232-2FDD-4370-9CC1-B4079FCC0259_1512x.jpg?v=1646939529 1512w 1269h,
+    //shopsweetapricot.com/cdn/shop/files/1CEA8232-2FDD-4370-9CC1-B4079FCC0259_1728x.jpg?v=1646939529 1728w 1451h,
+    //shopsweetapricot.com/cdn/shop/files/1CEA8232-2FDD-4370-9CC1-B4079FCC0259_1950x.jpg?v=1646939529 1950w 1637h,
+    //shopsweetapricot.com/cdn/shop/files/1CEA8232-2FDD-4370-9CC1-B4079FCC0259_2100x.jpg?v=1646939529 2100w 1763h,
+    //shopsweetapricot.com/cdn/shop/files/1CEA8232-2FDD-4370-9CC1-B4079FCC0259_2260x.jpg?v=1646939529 2260w 1897h,
+    //shopsweetapricot.com/cdn/shop/files/1CEA8232-2FDD-4370-9CC1-B4079FCC0259_2450x.jpg?v=1646939529 2450w 2057h,
+    //shopsweetapricot.com/cdn/shop/files/1CEA8232-2FDD-4370-9CC1-B4079FCC0259_2700x.jpg?v=1646939529 2700w 2267h,
+    //shopsweetapricot.com/cdn/shop/files/1CEA8232-2FDD-4370-9CC1-B4079FCC0259_3000x.jpg?v=1646939529 3000w 2518h,
+    //shopsweetapricot.com/cdn/shop/files/1CEA8232-2FDD-4370-9CC1-B4079FCC0259_3350x.jpg?v=1646939529 3350w 2812h,
+    
+    
+    //shopsweetapricot.com/cdn/shop/files/1CEA8232-2FDD-4370-9CC1-B4079FCC0259.jpg?v=1646939529 3588w 3012h" data-sizes="auto" data-parent-fit="contain" style="background-position: center center;
+                          background-image: url('//shopsweetapricot.com/cdn/shop/files/1CEA8232-2FDD-4370-9CC1-B4079FCC0259_300x300.jpg?v=1646939529');">
+                <div class="slideshow__overlay"></div>
+              </div>
+            
+
+            <noscript>
+              &lt;div class="slideshow__image" style="background-image: url('//shopsweetapricot.com/cdn/shop/files/1CEA8232-2FDD-4370-9CC1-B4079FCC0259_2048x.jpg?v=1646939529'); background-position: center center;"&gt;
+                
+              &lt;/div&gt;
+            </noscript>
+
+            <div class="slideshow__text-wrap slideshow__text-wrap--desktop">
+              <div class="slideshow__text-content slideshow__text-content--vertical-top text-center">
+                <div class="page-width">
+                  
+</div>
+              </div>
+            </div>
+          </div><div class="slideshow__slide slideshow__slide--1547166782348 slick-slide" data-slick-index="1" aria-hidden="true" id="slickSlide01" tabindex="-1" style="width: 1024px; position: relative; left: -1024px; top: 0px; z-index: 998; opacity: 0;">
+            
+              <div class="slideshow__image box ratio-container lazyload lazypreload js" data-bgset="//shopsweetapricot.com/cdn/shop/files/E8152F75-5F6A-4709-9344-1938B03FC03C_180x.jpg?v=1645735319 180w 135h,
+    //shopsweetapricot.com/cdn/shop/files/E8152F75-5F6A-4709-9344-1938B03FC03C_360x.jpg?v=1645735319 360w 271h,
+    //shopsweetapricot.com/cdn/shop/files/E8152F75-5F6A-4709-9344-1938B03FC03C_540x.jpg?v=1645735319 540w 406h,
+    //shopsweetapricot.com/cdn/shop/files/E8152F75-5F6A-4709-9344-1938B03FC03C_720x.jpg?v=1645735319 720w 541h,
+    //shopsweetapricot.com/cdn/shop/files/E8152F75-5F6A-4709-9344-1938B03FC03C_900x.jpg?v=1645735319 900w 676h,
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    //shopsweetapricot.com/cdn/shop/files/E8152F75-5F6A-4709-9344-1938B03FC03C.jpg?v=1645735319 962w 723h" data-sizes="auto" data-parent-fit="contain" style="background-position: center top;
+                          background-image: url('//shopsweetapricot.com/cdn/shop/files/E8152F75-5F6A-4709-9344-1938B03FC03C_300x300.jpg?v=1645735319');">
+                <div class="slideshow__overlay"></div>
+              </div>
+            
+
+            <noscript>
+              &lt;div class="slideshow__image" style="background-image: url('//shopsweetapricot.com/cdn/shop/files/E8152F75-5F6A-4709-9344-1938B03FC03C_2048x.jpg?v=1645735319'); background-position: center top;"&gt;
+                
+              &lt;/div&gt;
+            </noscript>
+
+            <div class="slideshow__text-wrap slideshow__text-wrap--desktop">
+              <div class="slideshow__text-content slideshow__text-content--vertical-top text-center">
+                <div class="page-width">
+                  
+</div>
+              </div>
+            </div>
+          </div><div class="slideshow__slide slideshow__slide--slideshow-1 slick-slide" data-slick-index="2" aria-hidden="true" id="slickSlide02" tabindex="-1" style="width: 1024px; position: relative; left: -2048px; top: 0px; z-index: 998; opacity: 0;">
+            
+              <div class="slideshow__image box ratio-container lazyload lazypreload js" data-bgset="//shopsweetapricot.com/cdn/shop/files/F03A46BA-F04B-4A5F-805F-D9F799811435_180x.jpg?v=1613594937 180w 222h,
+    //shopsweetapricot.com/cdn/shop/files/F03A46BA-F04B-4A5F-805F-D9F799811435_360x.jpg?v=1613594937 360w 443h,
+    //shopsweetapricot.com/cdn/shop/files/F03A46BA-F04B-4A5F-805F-D9F799811435_540x.jpg?v=1613594937 540w 665h,
+    //shopsweetapricot.com/cdn/shop/files/F03A46BA-F04B-4A5F-805F-D9F799811435_720x.jpg?v=1613594937 720w 886h,
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    //shopsweetapricot.com/cdn/shop/files/F03A46BA-F04B-4A5F-805F-D9F799811435.jpg?v=1613594937 822w 1012h" data-sizes="auto" data-parent-fit="contain" style="background-position: center center;
+                          background-image: url('//shopsweetapricot.com/cdn/shop/files/F03A46BA-F04B-4A5F-805F-D9F799811435_300x300.jpg?v=1613594937');">
+                <div class="slideshow__overlay"></div>
+              </div>
+            
+
+            <noscript>
+              &lt;div class="slideshow__image" style="background-image: url('//shopsweetapricot.com/cdn/shop/files/F03A46BA-F04B-4A5F-805F-D9F799811435_2048x.jpg?v=1613594937'); background-position: center center;"&gt;
+                
+              &lt;/div&gt;
+            </noscript>
+
+            <div class="slideshow__text-wrap slideshow__text-wrap--desktop">
+              <div class="slideshow__text-content slideshow__text-content--vertical-top text-center">
+                <div class="page-width">
+                  
+</div>
+              </div>
+            </div>
+          </div><div class="slideshow__slide slideshow__slide--1550080628041 slick-slide" data-slick-index="3" aria-hidden="true" id="slickSlide03" tabindex="-1" style="width: 1024px; position: relative; left: -3072px; top: 0px; z-index: 998; opacity: 0;">
+            
+              <div class="slideshow__image box ratio-container lazyload lazypreload js" data-bgset="//shopsweetapricot.com/cdn/shop/files/3F92C42D-F379-4012-920D-AE4054C7519E_180x.jpg?v=1633119808 180w 220h,
+    //shopsweetapricot.com/cdn/shop/files/3F92C42D-F379-4012-920D-AE4054C7519E_360x.jpg?v=1633119808 360w 441h,
+    //shopsweetapricot.com/cdn/shop/files/3F92C42D-F379-4012-920D-AE4054C7519E_540x.jpg?v=1633119808 540w 661h,
+    //shopsweetapricot.com/cdn/shop/files/3F92C42D-F379-4012-920D-AE4054C7519E_720x.jpg?v=1633119808 720w 882h,
+    //shopsweetapricot.com/cdn/shop/files/3F92C42D-F379-4012-920D-AE4054C7519E_900x.jpg?v=1633119808 900w 1102h,
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    //shopsweetapricot.com/cdn/shop/files/3F92C42D-F379-4012-920D-AE4054C7519E.jpg?v=1633119808 1045w 1280h" data-sizes="auto" data-parent-fit="contain" style="background-position: center center;
+                          background-image: url('//shopsweetapricot.com/cdn/shop/files/3F92C42D-F379-4012-920D-AE4054C7519E_300x300.jpg?v=1633119808');">
+                <div class="slideshow__overlay"></div>
+              </div>
+            
+
+            <noscript>
+              &lt;div class="slideshow__image" style="background-image: url('//shopsweetapricot.com/cdn/shop/files/3F92C42D-F379-4012-920D-AE4054C7519E_2048x.jpg?v=1633119808'); background-position: center center;"&gt;
+                
+              &lt;/div&gt;
+            </noscript>
+
+            <div class="slideshow__text-wrap slideshow__text-wrap--desktop">
+              <div class="slideshow__text-content slideshow__text-content--vertical-top text-center">
+                <div class="page-width">
+                  
+</div>
+              </div>
+            </div>
+          </div><div class="slideshow__slide slideshow__slide--1543611594416 slick-slide" data-slick-index="4" aria-hidden="true" id="slickSlide04" tabindex="-1" style="width: 1024px; position: relative; left: -4096px; top: 0px; z-index: 998; opacity: 0;">
+            
+              <div class="slideshow__image box ratio-container lazyload lazypreload js" data-bgset="//shopsweetapricot.com/cdn/shop/files/380BFC82-26D2-4E06-8A3C-CD1399ED53A8_180x.jpg?v=1645735633 180w 182h,
+    //shopsweetapricot.com/cdn/shop/files/380BFC82-26D2-4E06-8A3C-CD1399ED53A8_360x.jpg?v=1645735633 360w 364h,
+    //shopsweetapricot.com/cdn/shop/files/380BFC82-26D2-4E06-8A3C-CD1399ED53A8_540x.jpg?v=1645735633 540w 546h,
+    //shopsweetapricot.com/cdn/shop/files/380BFC82-26D2-4E06-8A3C-CD1399ED53A8_720x.jpg?v=1645735633 720w 728h,
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    //shopsweetapricot.com/cdn/shop/files/380BFC82-26D2-4E06-8A3C-CD1399ED53A8.jpg?v=1645735633 750w 758h" data-sizes="auto" data-parent-fit="contain" style="background-position: center center;
+                          background-image: url('//shopsweetapricot.com/cdn/shop/files/380BFC82-26D2-4E06-8A3C-CD1399ED53A8_300x300.jpg?v=1645735633');">
+                <div class="slideshow__overlay"></div>
+              </div>
+            
+
+            <noscript>
+              &lt;div class="slideshow__image" style="background-image: url('//shopsweetapricot.com/cdn/shop/files/380BFC82-26D2-4E06-8A3C-CD1399ED53A8_2048x.jpg?v=1645735633'); background-position: center center;"&gt;
+                
+              &lt;/div&gt;
+            </noscript>
+
+            <div class="slideshow__text-wrap slideshow__text-wrap--desktop">
+              <div class="slideshow__text-content slideshow__text-content--vertical-top text-center">
+                <div class="page-width">
+                  
+</div>
+              </div>
+            </div>
+          </div></div></div></div>
+      <div class="slideshow__controls"><div class="slideshow__arrows" style="width:185px">
+            <button class="slideshow__arrow slideshow__arrow-left" aria-label="Previous slide"><svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-chevron-left" viewBox="0 0 7 11"><path d="M5.5.037a1.5 1.5 0 0 1 1.06 2.56l-2.94 2.94 2.94 2.94a1.5 1.5 0 0 1-2.12 2.12l-4-4a1.5 1.5 0 0 1 0-2.12l4-4A1.5 1.5 0 0 1 5.5.037z" fill="#fff" class="layer"></path></svg></button>
+            <button class="slideshow__arrow slideshow__arrow-right" aria-label="Next slide"><svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-chevron-right" viewBox="0 0 7 11"><path d="M1.5 11A1.5 1.5 0 0 1 .44 8.44L3.38 5.5.44 2.56A1.5 1.5 0 0 1 2.56.44l4 4a1.5 1.5 0 0 1 0 2.12l-4 4A1.5 1.5 0 0 1 1.5 11z" fill="#fff"></path></svg></button>
+          <ul class="slick-dots" style="display: block;"><li class="slick-active" aria-hidden="false" id="slickDot00"><a href="#SlideshowWrapper-slideshow" aria-label="Load slide 1" data-slide-number="0" aria-current="true" aria-controls="slickSlide00"></a></li><li id="slickDot01"><a href="#SlideshowWrapper-slideshow" aria-label="Load slide 2" data-slide-number="1" aria-controls="slickSlide01"></a></li><li id="slickDot02"><a href="#SlideshowWrapper-slideshow" aria-label="Load slide 3" data-slide-number="2" aria-controls="slickSlide02"></a></li><li id="slickDot03"><a href="#SlideshowWrapper-slideshow" aria-label="Load slide 4" data-slide-number="3" aria-controls="slickSlide03"></a></li><li id="slickDot04"><a href="#SlideshowWrapper-slideshow" aria-label="Load slide 5" data-slide-number="4" aria-controls="slickSlide04"></a></li></ul></div></div>
+    </div>
+    <div class="slideshow__text-wrap slideshow__text-wrap--mobile" style="display: block;">
+      
+        <div class="slideshow__arrows slideshow__arrows--mobile">
+          <button class="slideshow__arrow slideshow__arrow-left" aria-label="Previous slide"><svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-chevron-left" viewBox="0 0 7 11"><path d="M5.5.037a1.5 1.5 0 0 1 1.06 2.56l-2.94 2.94 2.94 2.94a1.5 1.5 0 0 1-2.12 2.12l-4-4a1.5 1.5 0 0 1 0-2.12l4-4A1.5 1.5 0 0 1 5.5.037z" fill="#fff" class="layer"></path></svg></button>
+          <button class="slideshow__arrow slideshow__arrow-right" aria-label="Next slide"><svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-chevron-right" viewBox="0 0 7 11"><path d="M1.5 11A1.5 1.5 0 0 1 .44 8.44L3.38 5.5.44 2.56A1.5 1.5 0 0 1 2.56.44l4 4a1.5 1.5 0 0 1 0 2.12l-4 4A1.5 1.5 0 0 1 1.5 11z" fill="#fff"></path></svg></button>
+        <ul class="slick-dots" style="display: block;"><li class="slick-active-mobile" id="slickDot05"><a href="#SlideshowWrapper-slideshow" aria-label="Load slide 1" data-slide-number="0" aria-controls="slickSlide05"></a></li><li id="slickDot06"><a href="#SlideshowWrapper-slideshow" aria-label="Load slide 2" data-slide-number="1" aria-controls="slickSlide06"></a></li><li id="slickDot07"><a href="#SlideshowWrapper-slideshow" aria-label="Load slide 3" data-slide-number="2" aria-controls="slickSlide07"></a></li><li id="slickDot08"><a href="#SlideshowWrapper-slideshow" aria-label="Load slide 4" data-slide-number="3" aria-controls="slickSlide08"></a></li><li id="slickDot09"><a href="#SlideshowWrapper-slideshow" aria-label="Load slide 5" data-slide-number="4" aria-controls="slickSlide09"></a></li></ul></div>
+      
+</div>
+</div>
+
+
+</div><div id="shopify-section-1548195373089" class="shopify-section index-section"><div class="page-width rich-text">
+  <div class="grid">
+    <div class="grid__item  medium-up--two-thirds medium-up--push-one-sixth">
+      
+        <div class="rich-text__heading--medium text-center">
+          <h2 class="h3">About Sweet Apricot</h2>
+        </div>
+      
+      
+        <div class="rich-text__text--medium rte-setting text-center"><p>With a love of fabric and all things quality, the Sweet Apricot offers everyday wear that you truly love wearing everyday. We are Feel Good Fashion.</p><p><a href="/blogs/visit-the-sweet-apricot/visit-the-sweet-apricot" title="Visit The Sweet Apricot... A Special Place!">Visit Sweet Apricot at 129 N. 6th Street Quincy, IL and find out what makes us special.</a></p></div>
+      
+    </div>
+  </div>
+</div>
+
+
+
+
+</div><!-- END content_for_index -->
+
+    </main>
+
+    <div id="shopify-section-footer" class="shopify-section">
+<style>
+  .site-footer__hr {
+    border-bottom: 1px solid #ffdbb3;
+  }
+
+  .site-footer a,
+  .site-footer h4,
+  .site-footer__rte p,
+  .site-footer small {
+    color: #3d4246;
+  }
+
+  .site-footer {
+    background-color: #fff3e6;
+  }
+
+  .site-footer a:hover {
+    color: #61696f;
+  }
+</style>
+
+<footer class="site-footer" role="contentinfo">
+  <div class="page-width">
+    <div class="site-footer__content"><div class="site-footer__item
+                    
+                    site-footer__item--one-half
+                    ">
+          <div class="site-footer__item-inner site-footer__item-inner--text"><h4></h4></div>
+        </div><div class="site-footer__item
+                    
+                    site-footer__item--one-half
+                    ">
+          <div class="site-footer__item-inner site-footer__item-inner--newsletter"><h4>Email Newsletter (I promise I won't send you anything unless it's pretty cool or important! Pinky Swear)</h4><div class="site-footer__newsletter
+                          "><form method="post" action="/contact#ContactFooter" id="ContactFooter" accept-charset="UTF-8" class="contact-form" novalidate="novalidate"><input type="hidden" name="form_type" value="customer"><input type="hidden" name="utf8" value="✓">
+<input type="hidden" name="contact[tags]" value="newsletter">
+                    <div class="input-group ">
+                      <input type="email" name="contact[email]" id="ContactFooter-email" class="input-group__field newsletter__input" value="" placeholder="Email address" aria-label="Email address" aria-required="true" required="" autocorrect="off" autocapitalize="off">
+                      <span class="input-group__btn">
+                        <button type="submit" class="btn newsletter__submit" name="commit" id="Subscribe">
+                          <span class="newsletter__submit-text--large">Subscribe</span>
+                        </button>
+                      </span>
+                    </div>
+                    
+                  </form>
+                </div></div>
+        </div></div>
+  </div>
+
+  <hr class="site-footer__hr">
+
+  <div class="page-width">
+    <div class="grid grid--no-gutters small--text-center">
+      <div class="grid__item one-half small--one-whole"><ul class="list--inline site-footer__social-icons social-icons site-footer__icon-list"><li>
+                <a class="social-icons__link" href="https://www.facebook.com/TheSweetApricot" aria-describedby="a11y-external-message"><svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-facebook" viewBox="0 0 20 20"><path fill="#444" d="M18.05.811q.439 0 .744.305t.305.744v16.637q0 .439-.305.744t-.744.305h-4.732v-7.221h2.415l.342-2.854h-2.757v-1.83q0-.659.293-1t1.073-.342h1.488V3.762q-.976-.098-2.171-.098-1.634 0-2.635.964t-1 2.72V9.47H7.951v2.854h2.415v7.221H1.413q-.439 0-.744-.305t-.305-.744V1.859q0-.439.305-.744T1.413.81H18.05z"></path></svg><span class="icon__fallback-text">Facebook</span>
+                </a>
+              </li><li>
+                <a class="social-icons__link" href="https://www.instagram.com/thesweetapricot/" aria-describedby="a11y-external-message"><svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-instagram" viewBox="0 0 512 512"><path d="M256 49.5c67.3 0 75.2.3 101.8 1.5 24.6 1.1 37.9 5.2 46.8 8.7 11.8 4.6 20.2 10 29 18.8s14.3 17.2 18.8 29c3.4 8.9 7.6 22.2 8.7 46.8 1.2 26.6 1.5 34.5 1.5 101.8s-.3 75.2-1.5 101.8c-1.1 24.6-5.2 37.9-8.7 46.8-4.6 11.8-10 20.2-18.8 29s-17.2 14.3-29 18.8c-8.9 3.4-22.2 7.6-46.8 8.7-26.6 1.2-34.5 1.5-101.8 1.5s-75.2-.3-101.8-1.5c-24.6-1.1-37.9-5.2-46.8-8.7-11.8-4.6-20.2-10-29-18.8s-14.3-17.2-18.8-29c-3.4-8.9-7.6-22.2-8.7-46.8-1.2-26.6-1.5-34.5-1.5-101.8s.3-75.2 1.5-101.8c1.1-24.6 5.2-37.9 8.7-46.8 4.6-11.8 10-20.2 18.8-29s17.2-14.3 29-18.8c8.9-3.4 22.2-7.6 46.8-8.7 26.6-1.3 34.5-1.5 101.8-1.5m0-45.4c-68.4 0-77 .3-103.9 1.5C125.3 6.8 107 11.1 91 17.3c-16.6 6.4-30.6 15.1-44.6 29.1-14 14-22.6 28.1-29.1 44.6-6.2 16-10.5 34.3-11.7 61.2C4.4 179 4.1 187.6 4.1 256s.3 77 1.5 103.9c1.2 26.8 5.5 45.1 11.7 61.2 6.4 16.6 15.1 30.6 29.1 44.6 14 14 28.1 22.6 44.6 29.1 16 6.2 34.3 10.5 61.2 11.7 26.9 1.2 35.4 1.5 103.9 1.5s77-.3 103.9-1.5c26.8-1.2 45.1-5.5 61.2-11.7 16.6-6.4 30.6-15.1 44.6-29.1 14-14 22.6-28.1 29.1-44.6 6.2-16 10.5-34.3 11.7-61.2 1.2-26.9 1.5-35.4 1.5-103.9s-.3-77-1.5-103.9c-1.2-26.8-5.5-45.1-11.7-61.2-6.4-16.6-15.1-30.6-29.1-44.6-14-14-28.1-22.6-44.6-29.1-16-6.2-34.3-10.5-61.2-11.7-27-1.1-35.6-1.4-104-1.4z"></path><path d="M256 126.6c-71.4 0-129.4 57.9-129.4 129.4s58 129.4 129.4 129.4 129.4-58 129.4-129.4-58-129.4-129.4-129.4zm0 213.4c-46.4 0-84-37.6-84-84s37.6-84 84-84 84 37.6 84 84-37.6 84-84 84z"></path><circle cx="390.5" cy="121.5" r="30.2"></circle></svg><span class="icon__fallback-text">Instagram</span>
+                </a>
+              </li></ul></div>
+
+      <div class="grid__item one-half small--one-whole">
+        
+      </div>
+      <div class="grid__item">
+        <small class="site-footer__copyright-content">© 2024, <a href="/" title="">Sweet Apricot</a></small>
+        <small class="site-footer__copyright-content site-footer__copyright-content--powered-by"><a target="_blank" rel="nofollow noopener" href="https://www.shopify.com?utm_campaign=poweredby&amp;utm_medium=shopify&amp;utm_source=onlinestore" aria-describedby="a11y-new-window-external-message">Powered by Shopify</a></small>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+
+
+</div>
+
+    <div id="slideshow-info" class="visually-hidden" aria-hidden="true">Use left/right arrows to navigate the slideshow or swipe left/right if using a mobile device</div>
+
+  </div>
+
+  <ul hidden="">
+    <li id="a11y-refresh-page-message">choosing a selection results in a full page refresh</li>
+  </ul>
+
+
+<ul hidden="true"><li id="a11y-new-window-message">Opens in a new window.</li><li id="a11y-external-message">Opens external website.</li><li id="a11y-new-window-external-message">Opens external website in a new window.</li></ul><div id="WebPixelsManagerSandboxContainer"><iframe src="https://shopsweetapricot.com/wpm@08d9d536wbc499b5ep9e0ec6b9m18e2802a/web-pixel-shopify-custom-pixel@0570/sandbox/legacy/" id="web-pixel-sandbox-CUSTOM-shopify-custom-pixel-LAX-08d9d536wbc499b5ep9e0ec6b9m18e2802a" name="web-pixel-sandbox-CUSTOM-shopify-custom-pixel-LAX-08d9d536wbc499b5ep9e0ec6b9m18e2802a" sandbox="allow-scripts allow-forms" tabindex="-1" aria-hidden="true" style="display:none; height:0; width:0; visibility: hidden;"></iframe></div></body></html>

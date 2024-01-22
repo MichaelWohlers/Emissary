@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 12:03:40 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 46
+X-Sorting-Hat-Shopid: 13048250432
+X-Storefront-Renderer-Rendered: 1
+Location: https://www.annabellacreation.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 13048250432
+X-Shardid: 46
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=9, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="9vmx", requestID;desc="76d47498-33fe-4c51-b0b7-337f99139e66"
+Server-Timing: cfRequestDuration;dur=46.999931
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 76d47498-33fe-4c51-b0b7-337f99139e66
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=1kNccYWE8yHwOfPT0n2y49oyqZMQ8kABb1hdwf%2FuqfJt0ex92PqRxpSQARMPFUWltF8ywl82KdWcH8cLN2LDfPd%2BtIbyoxDywnsvKvUGHWloEaIKjrXwheRkRpQPRo4q16Bvu2RhaQXfvIU%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8466377249615c38-FRA
+Alt-Svc: h3=":443"; ma=86400

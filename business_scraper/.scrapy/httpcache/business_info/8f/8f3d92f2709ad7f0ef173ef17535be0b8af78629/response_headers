@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:57:41 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 220
+X-Sorting-Hat-Shopid: 64865566941
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=d1b69b5d-89cc-4d59-b997-52aa8802aae3; path=/; expires=Tue, 16 Jan 2024 12:27:40 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:57:41 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:57:41 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:57:41 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Afalse%2C%22a%22%3Afalse%2C%22m%22%3Afalse%2C%22t%22%3Afalse%7D%2C%22display_banner%22%3Atrue%2C%22sale_of_data_region%22%3Afalse%7D; domain=amberdarlenedesigns.com; path=/; expires=Wed, 17 Jan 2024 11:57:41 GMT; SameSite=Lax
+Set-Cookie: _tracking_consent=%7B%22region%22%3A%22DERP%22%2C%22reg%22%3A%22GDPR%22%2C%22con%22%3A%7B%22CMP%22%3A%7B%22s%22%3A%22%22%2C%22m%22%3A%22%22%2C%22a%22%3A%22%22%2C%22p%22%3A%22%22%7D%7D%2C%22v%22%3A%222.1%22%2C%22lim%22%3A%5B%22CCPA%22%2C%22GDPR_BLOCK_ALL%22%5D%7D; Expires=Wed, 15-Jan-25 11:57:41 GMT; Domain=amberdarlenedesigns.com; Path=/; SameSite=Lax
+Etag: "cacheable:f31e3b7d0752a90994d678f212e7f0b7"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Access-Control-Allow-Origin: *
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 64865566941
+X-Shardid: 220
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=9, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="136740077789", pageType;desc="page", servedBy;desc="qr7c", requestID;desc="577de2d1-c182-4556-9533-4cfbd2ff1b24"
+Server-Timing: cfRequestDuration;dur=45.000076
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 577de2d1-c182-4556-9533-4cfbd2ff1b24
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Jh6KNyg6dsV0IP9zMwpLT%2Fawgj08KCSzdPnOmWouMxVvqM3affe6eYdR%2BNHkZr%2FNBS6ZwkIHERi5alGClYVDq8l9bamNBoSyDSnZ3ugzrp1nSJbsyBf8%2FovqUVrhZ7XIy0%2FC15Qt945K"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84662eab09984d86-FRA
+Alt-Svc: h3=":443"; ma=86400

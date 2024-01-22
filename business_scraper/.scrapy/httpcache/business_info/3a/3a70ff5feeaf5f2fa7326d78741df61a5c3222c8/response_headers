@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 09:30:08 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 162
+X-Sorting-Hat-Shopid: 46387429539
+X-Storefront-Renderer-Rendered: 1
+Location: https://daddy.boutique/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 46387429539
+X-Shardid: 162
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=11, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="7htk", requestID;desc="b5c95813-29be-4308-9e2e-93b2ae5dd1eb"
+Server-Timing: cfRequestDuration;dur=46.999931
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: b5c95813-29be-4308-9e2e-93b2ae5dd1eb
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Mb4gLl0UpAl5PDaHrU8svPVDeCmCPzCkWC3x4xIw4o6CaaGzty8MVS%2BuRgZCM%2BlO2ZWkVwHmw1OsGXzUNtdwSqtvtDx%2FX5zgl%2FI8PmtFrCRb9H8yuePUNS7rIlPfb1deBQmW1A%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84655689dbfb5d46-FRA
+Alt-Svc: h3=":443"; ma=86400

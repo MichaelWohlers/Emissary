@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:38:09 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 315
+X-Sorting-Hat-Shopid: 14548234
+X-Storefront-Renderer-Rendered: 1
+Location: https://adornedongold.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 14548234
+X-Shardid: 315
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=9, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="6kmk", requestID;desc="e51d7e05-6541-480d-80ac-a6c73772dfee"
+Server-Timing: cfRequestDuration;dur=35.999775
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: e51d7e05-6541-480d-80ac-a6c73772dfee
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=N3pWvUJuBj8sejNXwnIp%2BR726qvMcvpC9l9v3CINJV%2Fu5fZWr1pf%2Fid0ESdZTad5v4l1NqRD9I9iCTIOpwi0K8lOOhN8zAQmFebSJgcwo34p6SNDYjU7dTOOIVsHW%2F%2B4z0igyMpCXw%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846612139dda8fd6-FRA
+Alt-Svc: h3=":443"; ma=86400

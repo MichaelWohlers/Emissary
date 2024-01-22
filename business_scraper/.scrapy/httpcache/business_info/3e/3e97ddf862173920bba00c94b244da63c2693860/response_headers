@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:42:11 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 250
+X-Sorting-Hat-Shopid: 301367353
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=6b3a2e3d-105e-4637-9849-bce1bb91ee78; path=/; expires=Tue, 16 Jan 2024 12:12:11 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:42:11 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 11:42:11 GMT
+Set-Cookie: cart_currency=EUR; path=/; expires=Tue, 30 Jan 2024 11:42:11 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=loventhreads.com; path=/; expires=Wed, 17 Jan 2024 11:42:11 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=976ae8dc-b0a6-4179-a804-d4002620a8fd; Expires=Wed, 15-Jan-25 11:42:11 GMT; Domain=loventhreads.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=ce3f895b-a7ad-445f-a152-f43b039544ea; Expires=Tue, 16-Jan-24 12:12:11 GMT; Domain=loventhreads.com; Path=/; SameSite=Lax
+Etag: "cacheable:68ad3d842cdfdcd9403ec598172ec3d1"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 301367353
+X-Shardid: 250
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=13, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="32516276281", servedBy;desc="vfm8", requestID;desc="10726fa7-e8ed-4fa7-9122-cc77584d3918"
+Server-Timing: cfRequestDuration;dur=48.000097
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 10726fa7-e8ed-4fa7-9122-cc77584d3918
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=YraRy6G95yafXrk1JuIv%2BcxMj7BDceOPq2tIjmMtQqHeyRi%2F%2F9vxQNU06t2mh0J0khbzsAToUEXSpMK3otAt2%2FgMnM9DykUAMVtbeotSIXetShm4IlxZWUh4k35ZQ8hXGpI%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846617fc5a6965bd-FRA
+Alt-Svc: h3=":443"; ma=86400

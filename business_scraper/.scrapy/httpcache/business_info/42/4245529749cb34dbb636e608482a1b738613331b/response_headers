@@ -1,0 +1,46 @@
+Content-Length: 0
+Age: 0
+Cache-Control: private, max-age=0, proxy-revalidate, no-store, no-cache, must-revalidate
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 846612c8f892416b-LHR
+Content-Type: text/html;charset=UTF-8
+Date: Tue, 16 Jan 2024 11:38:39 GMT
+Expires: Thu, 20 Jul 2023 11:24:37 GMT
+Location: /ca/home?brandId=garage&utm_campaign=gmb&utm_medium=local&utm_source=google
+Pragma: no-cache
+Rtss: 2-13-164
+Server: Apache
+Server-Timing: layer0-cache;desc="MISS", edge_pop;desc=lhr, country;desc=GB, xrj;desc="%7B%7D", asn;desc=15570
+Set-Cookie: SSID=CQAekh0qAAAAAAC-aqZlz7sAKb5qpmUBAAAAAAAAAAAAvmqmZQCZyEYxAQEzbiYAvmqmZQEAuicBA46HJQC-aqZlAQA0OAEBHycnAL5qpmUBAA; path=/; domain=.garageclothing.com; expires=Wed, 15-Jan-2025 11:38:38 GMT
+Set-Cookie: SSSC=846.G7324659208928934863.1|75706.2459534:78150.2518579:79924.2565919; path=/; domain=.garageclothing.com
+Set-Cookie: SSRT=vmqmZQAAAA; path=/; domain=.garageclothing.com; expires=Wed, 15-Jan-2025 11:38:38 GMT
+Set-Cookie: layer0_bucket=78; SameSite=Lax; Path=/; Max-Age=2147483647; HttpOnly
+Set-Cookie: dw_dnt=0; Path=/; Secure; SameSite=None
+Set-Cookie: cquid=||; Path=/; Secure; SameSite=None
+Set-Cookie: __cq_dnt=0; Path=/; Secure; SameSite=None
+Set-Cookie: dwsecuretoken_c29231b084f687fdef0d5b140222077b=""; Path=/; Secure; SameSite=None
+Set-Cookie: edgioCountry=ca; Path=/
+Set-Cookie: cc-nx-g=M0ZX9qshnnOM4t-S-w33F7H8bargqaASNLF2CSAhrDM; Expires=Mon, 15 Apr 2024 11:38:39 GMT; Path=/; Secure; SameSite=None
+Set-Cookie: dwanonymous_c29231b084f687fdef0d5b140222077b=abxro0ludJl0wRxKoZxGYYlXhK; Version=1; Max-Age=15552000; Expires=Sun, 14 Jul 2024 11:38:39 GMT; Path=/; Secure; SameSite=None
+Set-Cookie: layer0_environment_id_info=b07740fd-305d-49e5-8ee8-2da343a3f189; SameSite=Strict; Path=/
+Set-Cookie: dwsid=vZYkNr7Tnej70G_QI2T-HkfDCHG5mv-ZcNWRMwNK1zGGR4CRsEkRC2xPtc-4cjgsLeavIW9Y-SuuFPh_ImVizg==; Path=/; Secure; HttpOnly; SameSite=None
+Set-Cookie: sid=9UcKEVjoGE0Sgxbl3k63jPwkQy_Skm-4vTM; Path=/; Secure; SameSite=None
+Set-Cookie: dwac_2e7b8bc32bd3a74b0b2524fd88=9UcKEVjoGE0Sgxbl3k63jPwkQy_Skm-4vTM%3D|dw-only|||CAD|false|Canada%2FEastern|true; Path=/; Secure; SameSite=None
+Set-Cookie: layer0_destination=Layer0Traditional; SameSite=Strict; Path=/
+Set-Cookie: dwpersonalization_c29231b084f687fdef0d5b140222077b=e6d142756b6511ee9d898c55e620240127070000000; Expires=Sun, 14 Jul 2024 11:38:39 GMT; Path=/; Secure; SameSite=None
+Set-Cookie: cc-sg=1; Expires=Tue, 16 Jan 2024 12:08:39 GMT; Path=/; Secure; SameSite=None
+Set-Cookie: cqcid=abY5qlXQZcF2nEZYbp36wDUiRo; Path=/; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Vary: accept-encoding,user-agent
+Via: 1.1 varnish (Varnish/6.6), HTTP/1.1 Layer0
+X-0-Cache-Hash: 9e374a5edc33a8bffceea914b2cd4d02a255ee6faa63f2504b8a7c8dde959c8d
+X-0-Caching-Status: disabled
+X-0-Components: eh=1.2.2,c=4.19.4,e=lhr,ec=1.9.12,ed=1.4.6,b=origin
+X-0-Status: eh=302,ed=302
+X-0-T: eh=447,ect=444,ecc=pass,edt=441,edd=0,edf=440
+X-0-Version: 260 4.19.4 28 2024-01-11T12:03:20.135Z 1.7.3
+X-Dwsid-Samesite: None
+X-Dwsid-Samesite: None
+X-Edgio-Set: 3.5
+X-Matched-Routes: 4,25,26,53
+X-Request-Id: 20ba6b899eedc8e8547d5f77fa72421ef87f28ef

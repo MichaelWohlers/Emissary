@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:02:30 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 137
+X-Sorting-Hat-Shopid: 37197152394
+X-Storefront-Renderer-Rendered: 1
+Location: https://thefashionspot-tx.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 37197152394
+X-Shardid: 137
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=12, db;dur=7, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="7htk", requestID;desc="26222246-fe2f-4e24-b589-dd034c8bc762"
+Server-Timing: cfRequestDuration;dur=58.999777
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 26222246-fe2f-4e24-b589-dd034c8bc762
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=S4yzAxhrmSWSrX38YshwejWkAr%2Bpl3cHVr5SnHMGnXO35cnmBrsoEz2jGhTsxK%2Bzju5zFg%2BaQzpYExxVqXWElM27gTeF0%2F5PHrd9zYnzvP6okTMRVwHpSgjdmwvgSVtxt1BtQs3tSw%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8465ddda48f192b7-FRA
+Alt-Svc: h3=":443"; ma=86400

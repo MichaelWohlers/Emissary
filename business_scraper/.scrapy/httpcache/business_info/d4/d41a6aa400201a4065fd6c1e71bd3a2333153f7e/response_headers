@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 07:06:27 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 58
+X-Sorting-Hat-Shopid: 37155274811
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=6304e4de-5a94-4d5a-8c88-f6004b8b67cb; path=/; expires=Tue, 16 Jan 2024 07:36:27 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 07:06:27 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 07:06:27 GMT; SameSite=Lax
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 07:06:27 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=shophauteboutique.com; path=/; expires=Wed, 17 Jan 2024 07:06:27 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=0f4e3fa5-8f4d-4408-9690-5fc19bd01b1a; Expires=Wed, 15-Jan-25 07:06:27 GMT; Domain=shophauteboutique.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=65107460-babc-4e71-8321-2ca68d38c15f; Expires=Tue, 16-Jan-24 07:36:27 GMT; Domain=shophauteboutique.com; Path=/; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+Etag: "cacheable:b6b91aa2f38ba9d9dd1c66cf2c5c3b9f"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 37155274811
+X-Shardid: 58
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=14, db;dur=5, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="122084458555", servedBy;desc="g57p", requestID;desc="45fd7002-0c88-4f46-a666-920c0b5ce9f5"
+Server-Timing: cfRequestDuration;dur=39.000034
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 45fd7002-0c88-4f46-a666-920c0b5ce9f5
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Gi5R98brCFxniobPEozQOZQ6sR30zDjdIAHm3dQ9vJdk0qAFtbMB63%2Bf4XAmWPSXcp1c4E2SU0RdJ%2BYx5nSoVGZduCjmHKPokY1AcII0B8o562ndRjXtFJgFgHcql6dO4ud2aiVtnw%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8464840f7b201e4c-FRA
+Alt-Svc: h3=":443"; ma=86400

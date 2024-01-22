@@ -1,0 +1,11 @@
+Content-Length: 69
+Date: Tue, 16 Jan 2024 11:56:47 GMT
+Server: nginx/1.23.4
+Content-Type: text/plain; charset=utf-8
+Link: <https://projecteverybodybeautiful.com/wp-json/>; rel="https://api.w.org/"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Referrer-Policy: no-referrer-when-downgrade
+Access-Control-Allow-Origin: *
+X-Server-Cache: true
+X-Proxy-Cache: EXPIRED

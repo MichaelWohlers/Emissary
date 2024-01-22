@@ -1,0 +1,11 @@
+Set-Cookie: PHPSESSID=347b8d6c26ef5fefcc747043661b1d83; path=/; secure
+Set-Cookie: countryCode=DE; expires=Thu, 15-Feb-2024 11:21:19 GMT; Max-Age=2592000; path=/; secure; HttpOnly; SameSite=None
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Content-Encoding: gzip
+Vary: Accept-Encoding,User-Agent
+Date: Tue, 16 Jan 2024 11:21:19 GMT
+X-Xss-Protection: 1; mode=block

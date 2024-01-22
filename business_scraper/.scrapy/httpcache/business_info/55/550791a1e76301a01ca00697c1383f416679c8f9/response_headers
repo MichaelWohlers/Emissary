@@ -1,0 +1,26 @@
+Date: Tue, 16 Jan 2024 11:49:05 GMT
+Content-Type: text/html;charset=utf-8
+P3P: CP="ALL PUR DSP CUR ADMi DEVi CONi OUR COR IND"
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Ua-Compatible: IE=Edge,chrome=1
+X-Xss-Protection: 1; mode=block
+Set-Cookie: session_id=5d41c416ff58f2c77e6e0a0e409b5a6d; expires=Tue, 16-Jan-2024 12:19:00 GMT; Max-Age=1795; path=/; secure; HttpOnly; SameSite=none
+Set-Cookie: COOKIELAW=optin; expires=Thu, 16-Jan-2025 11:49:05 GMT; Max-Age=31622400; path=/; secure; SameSite=none
+Set-Cookie: COOKIELAW_SOCIAL=1; expires=Thu, 16-Jan-2025 11:49:05 GMT; Max-Age=31622400; path=/; secure; SameSite=none
+Set-Cookie: COOKIELAW_STATS=1; expires=Thu, 16-Jan-2025 11:49:05 GMT; Max-Age=31622400; path=/; secure; SameSite=none
+Set-Cookie: COOKIELAW_ADS=1; expires=Thu, 16-Jan-2025 11:49:05 GMT; Max-Age=31622400; path=/; secure; SameSite=none
+Set-Cookie: __cf_bm=kXnijQBSCb7jNsxgiHHyPvt2WXG9_ApwrHNqKX8X.aw-1705405745-1-AVHXNRbpo+Ltd0WXiLd9bnHnGYOof5LekltDLDE6cmmNMPzZyuocgwVVjUBmTNF2Wtjd/04d2jHg/gCztm8t3og=; path=/; expires=Tue, 16-Jan-24 12:19:05 GMT; domain=.www.westshoreclothing.com; HttpOnly; Secure; SameSite=None
+X-Developer: Page: 63.2ms, Render: 17.9ms, Mem: 2,048kB, Cache: 0Q (0.0ms), DB: 10Q (27.7ms), Prop: 0Q (0.0ms)
+X-Runtime: 0.108905
+X-Shop-Id: 634656
+Cache-Control: no-cache
+Vary: Accept-Encoding
+X-Request-Id: e5469bab3bf000a94741e76a6cc738f7
+X-Envoy-Upstream-Service-Time: 116
+Cf-Cache-Status: DYNAMIC
+Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
+Server: cloudflare
+Cf-Ray: 846622154c6e9bf5-FRA
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400

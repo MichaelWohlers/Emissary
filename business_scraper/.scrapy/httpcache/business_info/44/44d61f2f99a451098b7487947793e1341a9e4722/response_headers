@@ -1,0 +1,19 @@
+Date: Tue, 16 Jan 2024 11:47:58 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+X-Cache-Enabled: True
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Link: <https://primsage.com/wp-json/>; rel="https://api.w.org/"
+Link: <https://primsage.com/wp-json/wp/v2/pages/17>; rel="alternate"; type="application/json"
+Link: <https://primsage.com/>; rel=shortlink
+X-Httpd-Modphp: 1
+Host-Header: 8441280b0c35cbc1147f8ba998a563a7
+X-Proxy-Cache: HIT
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=IN0ghqKNqy6UTWshy1scFwSq7fn4M%2F8F0TIuYouy8EvmnSFDKrgvSDLomUNhZL%2B4lTGfxvVz7S8tB9l0Q2SISuob9MYO4bFP55pweHkSrp7%2FwIyFuvP7mdOP9TiptTY%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846620708a3b6f06-CDG
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400

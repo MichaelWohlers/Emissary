@@ -1,0 +1,24 @@
+Content-Length: 31602
+Cache-Control: public, max-age=600
+Content-Encoding: gzip
+Content-Type: text/html; charset=UTF-8
+Expect-Ct: enforce; max-age=2592000;
+Link: <https://www.destinationtomans.com/wp-json/>; rel="https://api.w.org/"
+Link: <https://www.destinationtomans.com/wp-json/wp/v2/pages/4>; rel="alternate"; type="application/json"
+Link: <https://www.destinationtomans.com/>; rel=shortlink
+Referrer-Policy: yes
+Server: nginx
+Strict-Transport-Security: max-age=2592000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+X-Pantheon-Styx-Hostname: styx-fe3-b-68b948c8df-mzxqb
+X-Styx-Req-Id: 014df0a7-b465-11ee-8f1e-bad97ec77f98
+X-Xss-Protection: 1; mode=block
+Date: Tue, 16 Jan 2024 11:47:20 GMT
+X-Served-By: cache-chi-klot8100159-CHI, cache-fra-eddf8230127-FRA
+X-Cache: MISS, MISS
+X-Cache-Hits: 0, 0
+X-Timer: S1705405640.103808,VS0,VE588
+Vary: Accept-Encoding, Cookie, Cookie
+Age: 0
+Accept-Ranges: bytes
+Via: 1.1 varnish, 1.1 varnish

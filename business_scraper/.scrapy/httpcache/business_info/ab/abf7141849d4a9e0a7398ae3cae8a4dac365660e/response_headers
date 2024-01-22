@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:51:00 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 256
+X-Sorting-Hat-Shopid: 46333427866
+X-Storefront-Renderer-Rendered: 1
+Location: https://www.simplyposhboutique.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 46333427866
+X-Shardid: 256
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=6, db;dur=2, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="q558", requestID;desc="64da53d3-0f9b-46a3-a80a-25afbc0985ee"
+Server-Timing: cfRequestDuration;dur=31.999826
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 64da53d3-0f9b-46a3-a80a-25afbc0985ee
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=acd%2FQVm1LIZ5hZi4RoCvx%2BHZ3boqkN%2BrJGBZIQ9EisAtt4QLN84tZVnFB3lnKBTe4mGpp99lUzJ1vRIKhXFR1gvJ4HsDvo5m3pxpSLfr%2FL%2BFE7uncm90zk0L0RCQVCEFnXfeZAsasVs2M1gv"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846624e37c229143-FRA
+Alt-Svc: h3=":443"; ma=86400

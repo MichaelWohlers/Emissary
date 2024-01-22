@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 07:06:15 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 52
+X-Sorting-Hat-Shopid: 26802847797
+X-Storefront-Renderer-Rendered: 1
+Location: https://www.hellobeautifulboutique.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 26802847797
+X-Shardid: 52
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=8, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="gzq9", requestID;desc="64fafa97-af4c-4c06-830a-21be41a44eb2"
+Server-Timing: cfRequestDuration;dur=38.999796
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 64fafa97-af4c-4c06-830a-21be41a44eb2
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=gyd0SUlNDJttoRylyMCvzMaELf9NMrmM5nDRxlK514VisYhlRErssjkAC15R%2FMZQObMe9NGcp3xRNTfYDkI68wigPtHlTw9k%2BHN5f7CwNB0afXD%2BO6Bdze0Ikh0%2BNp5Aww5b9I2GW%2FCpnQ2IQIWsyA%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846483c6fd208ff8-FRA
+Alt-Svc: h3=":443"; ma=86400

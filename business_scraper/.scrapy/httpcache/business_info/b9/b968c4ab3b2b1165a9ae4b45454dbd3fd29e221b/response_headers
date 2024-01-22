@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:48:23 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 173
+X-Sorting-Hat-Shopid: 40898494628
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=f8a8ce2d-1d71-4b3e-b5c9-0b94cbbd8488; path=/; expires=Tue, 16 Jan 2024 12:18:23 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:48:23 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=CA; path=/; expires=Thu, 16 Jan 2025 11:48:23 GMT
+Set-Cookie: cart_currency=CAD; path=/; expires=Tue, 30 Jan 2024 11:48:23 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=joycehancock.com; path=/; expires=Wed, 17 Jan 2024 11:48:23 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=4bda1bff-ee2b-420c-adbe-4958b92a5a9a; Expires=Wed, 15-Jan-25 11:48:23 GMT; Domain=joycehancock.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=5744c64b-5dfb-4d7e-af87-0b1ef20d916b; Expires=Tue, 16-Jan-24 12:18:23 GMT; Domain=joycehancock.com; Path=/; SameSite=Lax
+Etag: "cacheable:837f367219d275a9bd1e1313b17f0ce0"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 40898494628
+X-Shardid: 173
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=10, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="101489246372", servedBy;desc="vfm8", requestID;desc="0f1203ff-06b2-4557-8730-9c5d00845553"
+Server-Timing: cfRequestDuration;dur=60.999870
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 0f1203ff-06b2-4557-8730-9c5d00845553
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=erGZEbMWGGujGDws79yDc3sdxasUqArdighMgmlJ3ydwPzkJMuNQbrziP%2Bna7sQdIfu2m4Jz80o1vpWEDP79BCqvpOSLahMAp1%2Btl2znsPffr8xZXmf2k%2FkI4G6h7ws1AG4%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8466210c5c2b9219-FRA
+Alt-Svc: h3=":443"; ma=86400

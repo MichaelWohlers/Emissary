@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 12:04:18 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 251
+X-Sorting-Hat-Shopid: 5582454887
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=b180014e-2bea-4d69-8770-9dc26d07a995; path=/; expires=Tue, 16 Jan 2024 12:34:18 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 12:04:18 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 12:04:18 GMT
+Set-Cookie: cart_currency=EUR; path=/; expires=Tue, 30 Jan 2024 12:04:18 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=marsclothing.ca; path=/; expires=Wed, 17 Jan 2024 12:04:18 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=db74dc92-0d68-4acd-9787-adfeb5c61994; Expires=Wed, 15-Jan-25 12:04:18 GMT; Domain=marsclothing.ca; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=d484a7b9-3936-4d33-9725-9671caa577eb; Expires=Tue, 16-Jan-24 12:34:18 GMT; Domain=marsclothing.ca; Path=/; SameSite=Lax
+Etag: "cacheable:1a1e336f7ffb6846ce38f4db2e60734e"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 5582454887
+X-Shardid: 251
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=12, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="138803806460", servedBy;desc="l2p5", requestID;desc="9ab772b4-5da5-48c5-b13a-8db11a89fd0f"
+Server-Timing: cfRequestDuration;dur=53.999901
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 9ab772b4-5da5-48c5-b13a-8db11a89fd0f
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=X9NUB1r7A4d0t99Tjmzz1ogCMk2aA3aMZKAn%2BPN7wAt%2BS41gqkN9LvLf2iBj9z8APgjZg5EkC3pmwZUUZirPUWnNCBkjpWTUaIvgphTVvsp2qyURQgrYyeBkHzXQC80fmA%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84663860caa19a00-FRA
+Alt-Svc: h3=":443"; ma=86400

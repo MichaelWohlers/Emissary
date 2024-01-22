@@ -1,0 +1,41 @@
+Date: Tue, 16 Jan 2024 11:39:55 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 214
+X-Sorting-Hat-Shopid: 379977780
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=62bee192-eeba-4dec-9efe-76ecee9740a8; path=/; expires=Tue, 16 Jan 2024 12:09:55 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:39:55 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 11:39:55 GMT; SameSite=Lax
+Set-Cookie: cart_currency=EUR; path=/; expires=Tue, 30 Jan 2024 11:39:55 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=mktclothing.com; path=/; expires=Wed, 17 Jan 2024 11:39:55 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=01223bf9-f9d3-4174-8cd5-64aa4c1e4765; Expires=Wed, 15-Jan-25 11:39:55 GMT; Domain=mktclothing.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=1c1ed3ff-4683-4fa2-8423-e0ec7f17d194; Expires=Tue, 16-Jan-24 12:09:55 GMT; Domain=mktclothing.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 11:39:55 GMT; Domain=mktclothing.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2F; Expires=Tue, 30-Jan-24 11:39:55 GMT; Domain=mktclothing.com; Path=/; HttpOnly; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin, <//mktclothing.com/cdn/shop/t/12/assets/component-localization-form.css?v=143319823105703127341701882555>; as="style"; rel="preload"
+Etag: "cacheable:74efc69a8e56a1dfba219f95028e22e9"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 379977780
+X-Shardid: 214
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=250, db;dur=18, fetch;dur=74, render;dur=96, wasm, wasmDownload;dur=75, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="138579607767", pageType;desc="index", servedBy;desc="w7lw", requestID;desc="d7efc29e-2898-4b0f-a5ff-97dc35f3a0d0"
+Server-Timing: cfRequestDuration;dur=280.999899
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: d7efc29e-2898-4b0f-a5ff-97dc35f3a0d0
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=cY6Oer%2F%2BpGpXvM%2FyNvjNhcqxvqrIMXfqSu7y%2FU9eO9yt8a6Dr3OWWO1SHcd76A6Iy0i377dbYxao0R8biulZv5KYCwZ4oDJZGhlChPb0oYvP7ha42nigc9hwt34iXxKSlw%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846614a5a8085c62-FRA
+Alt-Svc: h3=":443"; ma=86400

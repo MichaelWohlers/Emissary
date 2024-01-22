@@ -1,0 +1,41 @@
+Date: Tue, 16 Jan 2024 11:44:50 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 278
+X-Sorting-Hat-Shopid: 11033420
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=9a18e050-bc03-4981-b706-422811dc609e; path=/; expires=Tue, 16 Jan 2024 12:14:49 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:44:50 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 11:44:50 GMT; SameSite=Lax
+Set-Cookie: cart_currency=EUR; path=/; expires=Tue, 30 Jan 2024 11:44:50 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=shoptrendsetters.com; path=/; expires=Wed, 17 Jan 2024 11:44:50 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=82e86f25-78f3-43ba-b028-dc4579a3df87; Expires=Wed, 15-Jan-25 11:44:50 GMT; Domain=shoptrendsetters.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=cb581547-715d-4c5c-84c1-98deaa0d4c3c; Expires=Tue, 16-Jan-24 12:14:50 GMT; Domain=shoptrendsetters.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 11:44:50 GMT; Domain=shoptrendsetters.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2F; Expires=Tue, 30-Jan-24 11:44:50 GMT; Domain=shoptrendsetters.com; Path=/; HttpOnly; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+Etag: "cacheable:25ca6eb952b9cfee7fec7b5146d8631a"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 11033420
+X-Shardid: 278
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=417;desc="gc:25", db;dur=109, parse;dur=1, render;dur=174, wasm, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="122350796881", pageType;desc="index", servedBy;desc="pqvk", requestID;desc="41870b87-b6fe-4e0e-aa31-914d0f8028fe"
+Server-Timing: cfRequestDuration;dur=446.999788
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 41870b87-b6fe-4e0e-aa31-914d0f8028fe
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=vvs1d9qzqj1jmtip9Yu4AonZvDCN7DF4%2BAmbu17nHLbaqz%2BntFEW%2FgoBiBjsUws503CUYaMq2krRQK1LUdI%2FJN2%2B35v%2BQ%2FcTFg%2FOG9fKkbNWvQHotmZJMKaib%2B9z5KwYONGjNeQB"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661bd70ce99229-FRA
+Alt-Svc: h3=":443"; ma=86400

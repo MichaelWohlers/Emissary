@@ -1,0 +1,38 @@
+Date: Tue, 16 Jan 2024 11:55:11 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 278
+X-Sorting-Hat-Shopid: 13549575
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=24958810-00a7-424b-83e8-4d358cbb4ca3; path=/; expires=Tue, 16 Jan 2024 12:25:11 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:55:11 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 11:55:11 GMT
+Set-Cookie: cart_currency=EUR; path=/; expires=Tue, 30 Jan 2024 11:55:11 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Afalse%2C%22a%22%3Afalse%2C%22m%22%3Afalse%2C%22t%22%3Afalse%7D%2C%22display_banner%22%3Atrue%2C%22sale_of_data_region%22%3Afalse%7D; domain=wolfecoapparel.com; path=/; expires=Wed, 17 Jan 2024 11:55:11 GMT; SameSite=Lax
+Set-Cookie: _tracking_consent=%7B%22con%22%3A%7B%22CMP%22%3A%7B%22m%22%3A%22%22%2C%22a%22%3A%22%22%2C%22p%22%3A%22%22%2C%22s%22%3A%22%22%7D%7D%2C%22lim%22%3A%5B%22CCPA%22%2C%22GDPR_BLOCK_ALL%22%5D%2C%22v%22%3A%222.1%22%2C%22region%22%3A%22DERP%22%2C%22reg%22%3A%22GDPR%22%7D; Expires=Wed, 15-Jan-25 11:55:11 GMT; Domain=wolfecoapparel.com; Path=/; SameSite=Lax
+Etag: "cacheable:473afb3f4c80ff504ce7ce7715da2bc3"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 13549575
+X-Shardid: 278
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=12, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="143778349335", servedBy;desc="mp9s", requestID;desc="fdf1feb4-8731-4318-9bfa-16ed1aa9f101"
+Server-Timing: cfRequestDuration;dur=43.999910
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: fdf1feb4-8731-4318-9bfa-16ed1aa9f101
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=7qIgcFWG3%2Btl4dNONd%2F02Py7IWNnmr2Vs9qSHzvC4ysnTdrY8yDVJTv%2BeC%2BM8eC3%2Fg%2BMZdvtL7Z7zWWJy3g2YQb%2FQ6CkFIXxVcsRHPWmsnf7LjXMnWsji9kEnYgTqce%2F4l4Raw%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84662b05fa5d4db1-FRA
+Alt-Svc: h3=":443"; ma=86400

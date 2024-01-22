@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 09:30:55 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 82
+X-Sorting-Hat-Shopid: 21463401
+X-Storefront-Renderer-Rendered: 1
+Location: https://tucciboutique.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 21463401
+X-Shardid: 82
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=15, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="cd2j", requestID;desc="5abdfc43-c67c-4270-8f33-9c9d9d762adf"
+Server-Timing: cfRequestDuration;dur=41.999817
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 5abdfc43-c67c-4270-8f33-9c9d9d762adf
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=HFTN6AOrowBrYVdM8lwK4c9wHuIVSswVPyo35%2B%2FE4uV3JYtFKJMJ29mxr03OfyCjcLb0eO5A28U%2F0oIcpQADHAKYOp%2B6fzS7OCnhWshMoPOhT5VXo%2FhPzISfEDwDU58l4msB60OKdQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846557b35bab2c2e-FRA
+Alt-Svc: h3=":443"; ma=86400

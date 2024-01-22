@@ -1,0 +1,29 @@
+Date: Tue, 16 Jan 2024 11:57:17 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 86
+X-Sorting-Hat-Shopid: 3790340169
+X-Storefront-Renderer-Rendered: 1
+Location: https://behumblefashion.com/robots.txt
+X-Redirect-Reason: canonical_host_redirection
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 3790340169
+X-Shardid: 86
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=14, db;dur=7, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="zz65", requestID;desc="b6bfa07a-6c3d-4c24-8034-45bf67c4f6ca"
+Server-Timing: cfRequestDuration;dur=53.999901
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: b6bfa07a-6c3d-4c24-8034-45bf67c4f6ca
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=QSQb0f4Z0pAo%2BtloI1Mh5rsT0CCkcj0b%2FJCgRSYAg802vzF71VGddweCoJmObs4cD6V1pHnlU4u2SPpB7rudWVzKzpRR9OVYYW5t%2Fn4GAzereAvWarjMI3KMQZrmMuDOmStt2ObCpwCL"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84662e161dc1bbf5-FRA
+Alt-Svc: h3=":443"; ma=86400

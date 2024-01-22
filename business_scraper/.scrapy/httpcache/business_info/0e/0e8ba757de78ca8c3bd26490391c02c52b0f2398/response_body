@@ -1,0 +1,86 @@
+<!DOCTYPE html><html class="js" lang="en"><head>
+        <title>Women's Clothing, Dresses, Jewelry, Accessories &amp; Gifts</title>
+        <link rel="dns-prefetch preconnect" href="https://cdn11.bigcommerce.com/s-wn2v0pw28v" crossorigin="">
+                    <meta name="description" content="Shop francesca's curated collection of boutique clothing, dresses, sweaters, jewelry, shoes, &amp; unique gifts! FREE Standard Shipping on order $65+!">
+                        <meta rel="canonical" href="https://francescas.com/"><meta name="platform" content="bigcommerce.stencil">
+        
+         
+
+        <link href="https://cdn11.bigcommerce.com/s-wn2v0pw28v/product_images/apple-touch-icon.png?t=1684350576" rel="shortcut icon">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <script>
+            document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
+        </script>
+
+        <script>
+    function browserSupportsAllFeatures() {
+        return window.Promise
+            && window.fetch
+            && window.URL
+            && window.URLSearchParams
+            && window.WeakMap
+            // object-fit support
+            && ('objectFit' in document.documentElement.style);
+    }
+
+    function loadScript(src) {
+        var js = document.createElement('script');
+        js.src = src;
+        js.onerror = function () {
+            console.error('Failed to load polyfill script ' + src);
+        };
+        document.head.appendChild(js);
+    }
+
+    if (!browserSupportsAllFeatures()) {
+        loadScript('https://cdn11.bigcommerce.com/s-wn2v0pw28v/stencil/3fc5e4e0-782f-013c-4a3d-0a3d15e0713c/e/c9e6bb40-4f3c-013c-0440-422bdad47970/dist/theme-bundle.polyfills.js');
+    }
+</script><script src="https://cdn11.bigcommerce.com/s-wn2v0pw28v/stencil/3fc5e4e0-782f-013c-4a3d-0a3d15e0713c/e/c9e6bb40-4f3c-013c-0440-422bdad47970/dist/theme-bundle.polyfills.js"></script>
+        <script>window.consentManagerTranslations = `{"locale":"en","locales":{"consent_manager.data_collection_warning":"en","consent_manager.accept_all_cookies":"en","consent_manager.gdpr_settings":"en","consent_manager.data_collection_preferences":"en","consent_manager.manage_data_collection_preferences":"en","consent_manager.use_data_by_cookies":"en","consent_manager.data_categories_table":"en","consent_manager.allow":"en","consent_manager.accept":"en","consent_manager.deny":"en","consent_manager.dismiss":"en","consent_manager.reject_all":"en","consent_manager.category":"en","consent_manager.purpose":"en","consent_manager.functional_category":"en","consent_manager.functional_purpose":"en","consent_manager.analytics_category":"en","consent_manager.analytics_purpose":"en","consent_manager.targeting_category":"en","consent_manager.advertising_category":"en","consent_manager.advertising_purpose":"en","consent_manager.essential_category":"en","consent_manager.esential_purpose":"en","consent_manager.yes":"en","consent_manager.no":"en","consent_manager.not_available":"en","consent_manager.cancel":"en","consent_manager.save":"en","consent_manager.back_to_preferences":"en","consent_manager.close_without_changes":"en","consent_manager.unsaved_changes":"en","consent_manager.by_using":"en","consent_manager.agree_on_data_collection":"en","consent_manager.change_preferences":"en","consent_manager.cancel_dialog_title":"en","consent_manager.privacy_policy":"en","consent_manager.allow_category_tracking":"en","consent_manager.disallow_category_tracking":"en"},"translations":{"consent_manager.data_collection_warning":"We use cookies (and other similar technologies) to collect data to improve your shopping experience.","consent_manager.accept_all_cookies":"Accept All Cookies","consent_manager.gdpr_settings":"Settings","consent_manager.data_collection_preferences":"Website Data Collection Preferences","consent_manager.manage_data_collection_preferences":"Manage Website Data Collection Preferences","consent_manager.use_data_by_cookies":" uses data collected by cookies and JavaScript libraries to improve your shopping experience.","consent_manager.data_categories_table":"The table below outlines how we use this data by category. To opt out of a category of data collection, select 'No' and save your preferences.","consent_manager.allow":"Allow","consent_manager.accept":"Accept","consent_manager.deny":"Deny","consent_manager.dismiss":"Dismiss","consent_manager.reject_all":"Reject all","consent_manager.category":"Category","consent_manager.purpose":"Purpose","consent_manager.functional_category":"Functional","consent_manager.functional_purpose":"Enables enhanced functionality, such as videos and live chat. If you do not allow these, then some or all of these functions may not work properly.","consent_manager.analytics_category":"Analytics","consent_manager.analytics_purpose":"Provide statistical information on site usage, e.g., web analytics so we can improve this website over time.","consent_manager.targeting_category":"Targeting","consent_manager.advertising_category":"Advertising","consent_manager.advertising_purpose":"Used to create profiles or personalize content to enhance your shopping experience.","consent_manager.essential_category":"Essential","consent_manager.esential_purpose":"Essential for the site and any requested services to work, but do not perform any additional or secondary function.","consent_manager.yes":"Yes","consent_manager.no":"No","consent_manager.not_available":"N/A","consent_manager.cancel":"Cancel","consent_manager.save":"Save","consent_manager.back_to_preferences":"Back to Preferences","consent_manager.close_without_changes":"You have unsaved changes to your data collection preferences. Are you sure you want to close without saving?","consent_manager.unsaved_changes":"You have unsaved changes","consent_manager.by_using":"By using our website, you're agreeing to our","consent_manager.agree_on_data_collection":"By using our website, you're agreeing to the collection of data as described in our ","consent_manager.change_preferences":"You can change your preferences at any time","consent_manager.cancel_dialog_title":"Are you sure you want to cancel?","consent_manager.privacy_policy":"Privacy Policy","consent_manager.allow_category_tracking":"Allow [CATEGORY_NAME] tracking","consent_manager.disallow_category_tracking":"Disallow [CATEGORY_NAME] tracking"}}`;</script>
+
+        <script>
+            window.lazySizesConfig = window.lazySizesConfig || {};
+            window.lazySizesConfig.loadMode = 1;
+        </script>
+        <script async="" src="https://cdn11.bigcommerce.com/s-wn2v0pw28v/stencil/3fc5e4e0-782f-013c-4a3d-0a3d15e0713c/e/c9e6bb40-4f3c-013c-0440-422bdad47970/dist/theme-bundle.head_async.js"></script>
+        
+        
+        
+        <link rel="preload" href="https://cdn11.bigcommerce.com/s-wn2v0pw28v/stencil/3fc5e4e0-782f-013c-4a3d-0a3d15e0713c/e/c9e6bb40-4f3c-013c-0440-422bdad47970/dist/theme-bundle.font.js" as="script">
+        <script async="" src="https://cdn11.bigcommerce.com/s-wn2v0pw28v/stencil/3fc5e4e0-782f-013c-4a3d-0a3d15e0713c/e/c9e6bb40-4f3c-013c-0440-422bdad47970/dist/theme-bundle.font.js"></script>
+        
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+        
+        <style type="text/css" media="screen, print">
+            @font-face {
+                font-family: "ProximaNovaReg";
+                src: url("https://cdn11.bigcommerce.com/s-wn2v0pw28v/content/fonts/ProximaNova-Reg.otf") format("opentype");
+            }
+            @font-face {
+                font-family: "ProximaNovaBold";
+                src: url("https://cdn11.bigcommerce.com/s-wn2v0pw28v/content/fonts/ProximaNova-Bold.otf") format("opentype");
+            }
+            @font-face {
+                font-family: "ProximaNovaSemiBold";
+                src: url("https://cdn11.bigcommerce.com/s-wn2v0pw28v/content/fonts/ProximaNova-Sbold.otf") format("opentype");
+            }
+            @font-face {
+                font-family: "ProximaNovaThin";
+                src: url("https://cdn11.bigcommerce.com/s-wn2v0pw28v/content/fonts/ProximaNova-Thin.otf") format("opentype");
+            }
+        </style>
+        
+        <link data-stencil-stylesheet="" href="https://cdn11.bigcommerce.com/s-wn2v0pw28v/stencil/3fc5e4e0-782f-013c-4a3d-0a3d15e0713c/e/c9e6bb40-4f3c-013c-0440-422bdad47970/css/theme-27c58200-960f-013c-02e5-362651d2d45e.css" rel="stylesheet">
+
+        
+<script type="text/javascript" src="https://checkout-sdk.bigcommerce.com/v1/loader.js" defer=""></script>
+<script type="text/javascript">
+(function () {
+    var xmlHttp = new XMLHttpRequest();
+
+    xmlHttp.open('POST', 'https://bes.gcp.data.bigcommerce.com/nobot');
+    xmlHttp.setRequestHeader('Content-Type', 'application/json');
+    xmlHttp.send('{"store_id":"1002495505","timezone_offset":"-6","timestamp":"2024-01-16T04:46:46.89226900Z","visit_id":"b1dcb80e-a204-4f77-b7fa-3331532e2185","channel_id":1}');
+})();
+</script></head></html>

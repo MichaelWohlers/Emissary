@@ -1,0 +1,41 @@
+Date: Tue, 16 Jan 2024 11:02:27 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 314
+X-Sorting-Hat-Shopid: 13179855
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=fec6888c-7c7c-4ea6-8c2e-3706297ef7c9; path=/; expires=Tue, 16 Jan 2024 11:32:27 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:02:27 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:02:27 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:02:27 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=heelsnspurs.com; path=/; expires=Wed, 17 Jan 2024 11:02:27 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=92dbdaf8-51b7-41f9-a2f7-3366b9fcdef2; Expires=Wed, 15-Jan-25 11:02:27 GMT; Domain=heelsnspurs.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=1a769a58-d88e-4af6-8560-8fd757c9de2b; Expires=Tue, 16-Jan-24 11:32:27 GMT; Domain=heelsnspurs.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 11:02:27 GMT; Domain=heelsnspurs.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2F; Expires=Tue, 30-Jan-24 11:02:27 GMT; Domain=heelsnspurs.com; Path=/; HttpOnly; SameSite=Lax
+Etag: "cacheable:771f8f1977d32a736e42d46bb9a4d899"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 13179855
+X-Shardid: 314
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=12, db;dur=5, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="81653235799", pageType;desc="index", servedBy;desc="l8v4", requestID;desc="8680f16f-ff20-490c-a8d7-9551e1b9105d"
+Server-Timing: cfRequestDuration;dur=35.000086
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 8680f16f-ff20-490c-a8d7-9551e1b9105d
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=UBDznigmqtI38PChlH9c9HEbN9egko3BkCZl%2FOxkWR3ABCVq%2BwoN9OsLtWhmmczn2LfBx0LEHX4g0T8GEOx1pdd%2BvAPVoROa55Snuvwc%2FrjWlpDRApnQngpyQ9Ki1UVCt0rtwGk%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8465ddc49e8668fd-FRA
+Alt-Svc: h3=":443"; ma=86400

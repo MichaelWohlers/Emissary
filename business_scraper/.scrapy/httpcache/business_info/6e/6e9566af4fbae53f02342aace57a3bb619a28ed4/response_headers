@@ -1,0 +1,38 @@
+Date: Tue, 16 Jan 2024 11:38:35 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 316
+X-Sorting-Hat-Shopid: 71866024253
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=6e1e2de5-32ec-49be-a68c-bfb3e3229b1d; path=/; expires=Tue, 16 Jan 2024 12:08:35 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:38:35 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 11:38:35 GMT; SameSite=Lax
+Set-Cookie: cart_currency=EUR; path=/; expires=Tue, 30 Jan 2024 11:38:35 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Afalse%2C%22a%22%3Afalse%2C%22m%22%3Afalse%2C%22t%22%3Afalse%7D%2C%22display_banner%22%3Atrue%2C%22sale_of_data_region%22%3Afalse%7D; domain=cowhideandconchos.com; path=/; expires=Wed, 17 Jan 2024 11:38:35 GMT; SameSite=Lax
+Set-Cookie: _tracking_consent=%7B%22reg%22%3A%22GDPR%22%2C%22con%22%3A%7B%22CMP%22%3A%7B%22a%22%3A%22%22%2C%22p%22%3A%22%22%2C%22s%22%3A%22%22%2C%22m%22%3A%22%22%7D%7D%2C%22lim%22%3A%5B%22CCPA%22%2C%22GDPR_BLOCK_ALL%22%5D%2C%22v%22%3A%222.1%22%2C%22region%22%3A%22DERP%22%7D; Expires=Wed, 15-Jan-25 11:38:35 GMT; Domain=cowhideandconchos.com; Path=/; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin, <//cowhideandconchos.com/cdn/shop/t/17/assets/swiper-bundle.min.css?v=182597874344001773031687875894>; as="style"; rel="preload", <//cowhideandconchos.com/cdn/shop/t/17/assets/component-slider.css?v=150574779368086077671687875894>; as="style"; rel="preload", <//cowhideandconchos.com/cdn/shop/t/17/assets/component-deferred-media.css?v=52983110410295034971687875894>; as="style"; rel="preload", <//cowhideandconchos.com/cdn/shop/t/17/assets/base.css?v=155391599167771522911687875894>; as="style"; rel="preload", <//cowhideandconchos.com/cdn/shop/t/17/assets/custom.css?v=159369455944089318601687876648>; as="style"; rel="preload", <//cowhideandconchos.com/cdn/shop/t/17/assets/responsive.css?v=58140722178109663551687876971>; as="style"; rel="preload", <//cowhideandconchos.com/cdn/shop/t/17/assets/section-cookie-banner.css?v=157372851207991915871687875894>; as="style"; rel="preload", <//cowhideandconchos.com/cdn/shop/t/17/assets/section-announcement-bar.css?v=8797523392194886831687875894>; as="style"; rel="preload", <//cowhideandconchos.com/cdn/shop/t/17/assets/component-newsletter-form.css?v=14905579386739687921687875894>; as="style"; rel="preload", <//cowhideandconchos.com/cdn/shop/t/17/assets/component-form-elements.css?v=47241833797938898771687875894>; as="style"; rel="preload"
+Etag: "cacheable:9e69ff58becbec40a251165f830e295e"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 71866024253
+X-Shardid: 316
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=765;desc="gc:76", db;dur=183, fetch;dur=145, render;dur=312, wasm, wasmDownload;dur=146, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="153339134269", pageType;desc="index", servedBy;desc="w7lw", requestID;desc="c3e8822e-51d8-4c3d-a77d-a8602daf8c28"
+Server-Timing: cfRequestDuration;dur=790.000200
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: c3e8822e-51d8-4c3d-a77d-a8602daf8c28
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=CIQSMsafFRUooTLUCjvgJfNVVxvzn%2BryaX%2FA8I4vy8QAOznc25HJfZZvzW5ZPrQi6HZdMGavo3qdgeR0ttAIINpfGzlnjAuUnHfJMHYY6mOYkVviMp7A9q5VNZeagZHTjJHI%2FA0fMQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846612b0da392bb9-FRA
+Alt-Svc: h3=":443"; ma=86400

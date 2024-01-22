@@ -1,0 +1,42 @@
+Date: Tue, 16 Jan 2024 11:34:46 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 238
+X-Sorting-Hat-Shopid: 6376554567
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=2a9de278-76b5-466f-a70c-f032326fd688; path=/; expires=Tue, 16 Jan 2024 12:04:46 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:34:46 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:34:46 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:34:46 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=charmedboutique.com; path=/; expires=Wed, 17 Jan 2024 11:34:46 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=d87e8597-7f20-4efb-bc5f-4693447ec882; Expires=Wed, 15-Jan-25 11:34:46 GMT; Domain=charmedboutique.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=233bf9b4-c956-4ee2-87c5-9ab567e4af90; Expires=Tue, 16-Jan-24 12:04:46 GMT; Domain=charmedboutique.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=https%3A%2F%2Fcharmedboutique.com%2F; Expires=Tue, 30-Jan-24 11:34:46 GMT; Domain=charmedboutique.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2Fpages%2Fcontact-us; Expires=Tue, 30-Jan-24 11:34:46 GMT; Domain=charmedboutique.com; Path=/; HttpOnly; SameSite=Lax
+Etag: "cacheable:0176959d76d0a7267290475a5b1f3916"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin, <//charmedboutique.com/cdn/shop/t/20/assets/theme.css?v=39256650138295225621696291499>; as="style"; rel="preload", <//charmedboutique.com/cdn/shop/files/Header_Logo_d1f23e19-d4a8-4c0c-9dff-deeeccdacd72.png?v=1686152890&width=260>; as="image"; rel="preload"; imagesrcset="//charmedboutique.com/cdn/shop/files/Header_Logo_d1f23e19-d4a8-4c0c-9dff-deeeccdacd72.png?v=1686152890&width=130 130w, //charmedboutique.com/cdn/shop/files/Header_Logo_d1f23e19-d4a8-4c0c-9dff-deeeccdacd72.png?v=1686152890&width=260 260w"; imagesizes="130px", <//charmedboutique.com/cdn/shop/files/Header_Logo_d1f23e19-d4a8-4c0c-9dff-deeeccdacd72.png?v=1686152890&width=180>; as="image"; rel="preload"; imagesrcset="//charmedboutique.com/cdn/shop/files/Header_Logo_d1f23e19-d4a8-4c0c-9dff-deeeccdacd72.png?v=1686152890&width=90 90w, //charmedboutique.com/cdn/shop/files/Header_Logo_d1f23e19-d4a8-4c0c-9dff-deeeccdacd72.png?v=1686152890&width=180 180w"; imagesizes="90px"
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Access-Control-Allow-Origin: *
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 6376554567
+X-Shardid: 238
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=12, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="131967910127", pageType;desc="page", servedBy;desc="gskx", requestID;desc="d4fc5214-db2b-4580-9473-afd9003d8ff1"
+Server-Timing: cfRequestDuration;dur=39.999962
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: d4fc5214-db2b-4580-9473-afd9003d8ff1
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=BMaSyL%2BwbdzOIBypYYAbUS1%2BcN9irU%2BcYyd01vNqTav2NT9gyUQd3r%2B5a1s%2BDOEMsIeG%2F9jkL5qPx1jb5e218f9oeZsXUB4LsgUXoB0IjVbG6uIuyKZiPodi%2B%2FQ0r6ZkVQDu5pA%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84660d1c6fb235f9-FRA
+Alt-Svc: h3=":443"; ma=86400

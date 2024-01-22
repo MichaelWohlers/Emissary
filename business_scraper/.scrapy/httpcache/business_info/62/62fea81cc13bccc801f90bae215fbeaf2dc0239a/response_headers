@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:57:18 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 224
+X-Sorting-Hat-Shopid: 14383022180
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=f7bdc1af-3a64-4b95-81dd-b400beca7529; path=/; expires=Tue, 16 Jan 2024 12:27:18 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:57:18 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 11:57:18 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:57:18 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=thesydneycollection.com; path=/; expires=Wed, 17 Jan 2024 11:57:18 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=8c4a9654-0b13-49b0-bd25-9bb49f089156; Expires=Wed, 15-Jan-25 11:57:18 GMT; Domain=thesydneycollection.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=e7b69ad2-b71e-470d-a27d-9062927fde5a; Expires=Tue, 16-Jan-24 12:27:18 GMT; Domain=thesydneycollection.com; Path=/; SameSite=Lax
+Etag: "cacheable:732e63f58793d88b1886bf1f418306ec"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 14383022180
+X-Shardid: 224
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=14, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="138353737953", servedBy;desc="67nn", requestID;desc="e8fd8b2a-9680-468f-8af7-2913f60cfa5a"
+Server-Timing: cfRequestDuration;dur=55.000067
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: e8fd8b2a-9680-468f-8af7-2913f60cfa5a
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=7E%2F4BTMcK5VOMsLGpzNgfbwwzu13fw2D9udDalHpMUPhJTAThsTzBL8bp5mYglCGrGELTLT2tRSu2rANW9hBr%2Bmupz3D3MkMXm51pdgsPT7Xorx0TtfD%2FwVEcGIlAL5YmnOG%2B4iUPRwA"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84662e1dbdf591e4-FRA
+Alt-Svc: h3=":443"; ma=86400

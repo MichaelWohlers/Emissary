@@ -1,0 +1,41 @@
+Date: Tue, 16 Jan 2024 11:48:26 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 235
+X-Sorting-Hat-Shopid: 51105005735
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=e9ca4642-9c68-406c-b39f-46c53ce3bce4; path=/; expires=Tue, 16 Jan 2024 12:18:26 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:48:26 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:48:26 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:48:26 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=daveenah.com; path=/; expires=Wed, 17 Jan 2024 11:48:26 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=1dbddb59-ecd8-4fd7-997b-db0afe39f7af; Expires=Wed, 15-Jan-25 11:48:26 GMT; Domain=daveenah.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=00e646ac-45b1-4b04-ba25-9e63c4daf63e; Expires=Tue, 16-Jan-24 12:18:26 GMT; Domain=daveenah.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 11:48:26 GMT; Domain=daveenah.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2F; Expires=Tue, 30-Jan-24 11:48:26 GMT; Domain=daveenah.com; Path=/; HttpOnly; SameSite=Lax
+Etag: "cacheable:5222e708783e589628c2d3dce61e2bfd"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 51105005735
+X-Shardid: 235
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=23;desc="gc:2", db;dur=9, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="136397586668", pageType;desc="index", servedBy;desc="zkgl", requestID;desc="dab703d9-e46a-40be-bbcf-698dbdcd8708"
+Server-Timing: cfRequestDuration;dur=298.000097
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: dab703d9-e46a-40be-bbcf-698dbdcd8708
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=4Y4Nsr9lMPp9RUR%2F7oYirlxXAcyowfOSg5iktZ82ZkJdSsv%2FbE4mocKbv9w%2FNsNFOVAWlp8xxmhtfL%2F9dHW%2BDgoudzNLThB37%2BVjdrUH%2B%2Bz4wre%2F6CavbTkwmnbAew%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8466212049e81c1e-FRA
+Alt-Svc: h3=":443"; ma=86400

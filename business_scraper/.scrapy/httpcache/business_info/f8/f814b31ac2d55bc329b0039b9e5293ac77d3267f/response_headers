@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:55:28 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 167
+X-Sorting-Hat-Shopid: 60921512104
+X-Storefront-Renderer-Rendered: 1
+Location: https://olliebirchmn.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 60921512104
+X-Shardid: 167
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=7, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="cjvg", requestID;desc="fdae5440-5710-4ed4-b17b-e10cda2fc481"
+Server-Timing: cfRequestDuration;dur=39.999962
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: fdae5440-5710-4ed4-b17b-e10cda2fc481
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=DjLHvY9cYBIXeDEwHlk1zclX7cQbdER%2FIeJgof3Tx1nH9Nrf4g0E%2F2vQVUjIf2NSBX6T2GDjJDttwXUVh1ICoJuB4Ee7gJnCuOc3Vq6GDGpN0mNG%2FUbafpKFJjHrKT%2F0u2cBNcKC"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84662b6faaec914d-FRA
+Alt-Svc: h3=":443"; ma=86400

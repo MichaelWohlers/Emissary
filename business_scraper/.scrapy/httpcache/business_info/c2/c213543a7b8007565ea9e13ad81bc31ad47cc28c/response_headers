@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:02:43 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 52
+X-Sorting-Hat-Shopid: 7295107125
+X-Storefront-Renderer-Rendered: 1
+Location: https://rosevineboutique.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 7295107125
+X-Shardid: 52
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=13, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="6kmk", requestID;desc="3bef2b63-08fa-47f9-8d04-5d9d0daeb30a"
+Server-Timing: cfRequestDuration;dur=38.000107
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 3bef2b63-08fa-47f9-8d04-5d9d0daeb30a
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=E73P1QUSy%2FcdOClR2TV41okO6VmQ8h8StTrzOEUdCWn48TmkfxVcj1JX0miHcQwhC9m510Oh3N6jqpDivVQFiEP1%2BCfJsrl3H9fYycSZD%2BuYW9tLPHk9XHHpa2VkvgeIBPcoLEJy%2BHgcMg%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8465de2a5a5c8fca-FRA
+Alt-Svc: h3=":443"; ma=86400

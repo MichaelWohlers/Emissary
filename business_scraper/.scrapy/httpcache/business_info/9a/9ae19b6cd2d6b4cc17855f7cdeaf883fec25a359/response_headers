@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:45:34 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 230
+X-Sorting-Hat-Shopid: 1408172084
+X-Storefront-Renderer-Rendered: 1
+Location: https://www.shiftflint.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 1408172084
+X-Shardid: 230
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=5, db;dur=2, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="tnnw", requestID;desc="926014fb-3c50-438e-9562-32e046da77da"
+Server-Timing: cfRequestDuration;dur=50.999880
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 926014fb-3c50-438e-9562-32e046da77da
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=kGGAyYm5ih9ilFz8lXuo%2Fa6UEhRnUazYvJfnYLwI8OG4qIE%2BhGu%2FWwW1RgTdcFu6hX73rA%2B84IHhVIMU2LNS%2BHSm%2B%2BojXGYY%2BDf5PQsHJJFez%2BYHPJFwGte5aHvxZRncY%2F3OqQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661cf12c8f71cd-FRA
+Alt-Svc: h3=":443"; ma=86400

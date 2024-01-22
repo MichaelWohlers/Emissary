@@ -1,0 +1,22 @@
+Content-Encoding: gzip
+Set-Cookie: csrftoken=EG92ak2tg05KYH3PCzdXN4; expires=Tue, 14-Jan-2025 12:00:22 GMT; Max-Age=31449600; path=/; domain=.instagram.com; secure; SameSite=None
+Accept-Ch-Lifetime: 4838400
+Accept-Ch: viewport-width,dpr,Sec-CH-Prefers-Color-Scheme,Sec-CH-UA-Full-Version-List,Sec-CH-UA-Platform-Version,Sec-CH-UA-Model
+Pragma: no-cache
+Cache-Control: private, no-cache, no-store, must-revalidate
+Expires: Sat, 01 Jan 2000 00:00:00 GMT
+Content-Security-Policy-Report-Only: default-src *.facebook.com *.fbcdn.net *.instagram.com data: blob:;script-src *.facebook.com *.fbcdn.net *.facebook.net 'unsafe-inline' 'unsafe-eval' blob: data: 'self' *.instagram.com static.cdninstagram.com;style-src data: blob: 'unsafe-inline' *.fbcdn.net *.facebook.com *.instagram.com static.cdninstagram.com;connect-src *.facebook.com facebook.com *.fbcdn.net *.facebook.net wss://*.facebook.com:* blob: *.instagram.com *.cdninstagram.com wss://*.instagram.com:* 'self' wss://edge-chat.instagram.com connect.facebook.net;font-src *.facebook.com data: *.fbcdn.net *.instagram.com static.cdninstagram.com *.intern.facebook.com;img-src *.instagram.com *.facebook.com *.fbcdn.net data: blob: *.cdninstagram.com *.fbsbx.com android-webview-video-poster:;media-src *.facebook.com *.fbcdn.net *.instagram.com *.cdninstagram.com cdn.fbsbx.com data: blob:;frame-src *.instagram.com *.facebook.com *.fbsbx.com fbsbx.com data:;worker-src *.instagram.com/static_resources/webworker_v1/init_script/ *.instagram.com/static_resources/webworker/init_script/ *.instagram.com/static_resources/sharedworker/init_script/ *.instagram.com/www-service-worker.js;block-all-mixed-content;report-uri https://www.facebook.com/csp/reporting/?m=c&minimize=0;
+Content-Security-Policy: default-src *.facebook.com *.fbcdn.net *.instagram.com data: blob:;script-src *.facebook.com *.fbcdn.net *.facebook.net 'unsafe-inline' 'unsafe-eval' blob: data: 'self' *.instagram.com static.cdninstagram.com;style-src data: blob: 'unsafe-inline' *.fbcdn.net *.facebook.com *.instagram.com static.cdninstagram.com;connect-src *.facebook.com facebook.com *.fbcdn.net *.facebook.net wss://*.facebook.com:* blob: *.instagram.com *.cdninstagram.com wss://*.instagram.com:* 'self' wss://edge-chat.instagram.com connect.facebook.net;font-src *.facebook.com data: *.fbcdn.net *.instagram.com static.cdninstagram.com *.intern.facebook.com;img-src *.instagram.com *.facebook.com *.fbcdn.net data: blob: *.cdninstagram.com *.fbsbx.com android-webview-video-poster: *.oculuscdn.com *.whatsapp.net;media-src *.facebook.com *.fbcdn.net *.instagram.com *.cdninstagram.com cdn.fbsbx.com data: blob:;frame-src *.instagram.com *.facebook.com *.fbsbx.com fbsbx.com data:;block-all-mixed-content;upgrade-insecure-requests;report-uri https://www.facebook.com/csp/reporting/?m=c&minimize=0;
+Report-To: {"max_age":259200,"endpoints":[{"url":"https:\/\/www.instagram.com\/error\/ig_web_error_reports\/?device_level=unknown"}]}
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 0
+Reporting-Endpoints: default="https://www.instagram.com/error/ig_web_error_reports/?device_level=unknown"
+Cross-Origin-Opener-Policy: same-origin-allow-popups
+Vary: Sec-Fetch-Site, Sec-Fetch-Mode
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=15552000
+Content-Type: text/html; charset="utf-8"
+X-Fb-Debug: KgxStJGGdHAdeyxRGX4nTOxz5AgO3mZLXisqSrfTSlbTTGr23j/mwrtjXxc3+ejKA6/Wu/Ol6hnNrXAvKA/BmA==
+Date: Tue, 16 Jan 2024 12:00:22 GMT
+Alt-Svc: h3=":443"; ma=86400

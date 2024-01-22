@@ -1,0 +1,41 @@
+Date: Tue, 16 Jan 2024 11:02:42 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 227
+X-Sorting-Hat-Shopid: 9158590524
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=259c3dd7-9d48-40c0-a059-86925f5e0f92; path=/; expires=Tue, 16 Jan 2024 11:32:42 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:02:42 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:02:42 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:02:42 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=mmvboutique.com; path=/; expires=Wed, 17 Jan 2024 11:02:42 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=2f779d43-2a2e-44d2-9d1c-d6756421ccf0; Expires=Wed, 15-Jan-25 11:02:42 GMT; Domain=mmvboutique.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=28f24eb2-b752-4df8-b478-5efd818fc6f0; Expires=Tue, 16-Jan-24 11:32:42 GMT; Domain=mmvboutique.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 11:02:42 GMT; Domain=mmvboutique.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2F; Expires=Tue, 30-Jan-24 11:02:42 GMT; Domain=mmvboutique.com; Path=/; HttpOnly; SameSite=Lax
+Etag: "cacheable:239b0b191244f519aa64f834a2fd059e"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 9158590524
+X-Shardid: 227
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=9, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="135014514916", pageType;desc="index", servedBy;desc="zfqf", requestID;desc="f0d50386-cafb-43cf-bd07-3b8e4560a4fb"
+Server-Timing: cfRequestDuration;dur=36.000013
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: f0d50386-cafb-43cf-bd07-3b8e4560a4fb
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=DtVamDGYnpyY1BmGFwhuri2MGio6xK78PpONGgkYVclo6Qd8%2BSSmpaXEmPAEyh2tlp4lkP25D6ZwVc1LZi%2FnEdINeFQkHAIZgnhNy%2F6jhRa0G87jCCSzEiHQOdvs3shfGFgW2ns%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8465de249ad89277-FRA
+Alt-Svc: h3=":443"; ma=86400

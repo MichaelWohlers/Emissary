@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 12:00:49 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 88
+X-Sorting-Hat-Shopid: 24743654
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=c0cde501-4678-44e1-b0c9-cc29617a9f37; path=/; expires=Tue, 16 Jan 2024 12:30:49 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 12:00:49 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 12:00:49 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 12:00:49 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=fyhboutique.com; path=/; expires=Wed, 17 Jan 2024 12:00:49 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=be89aac4-c3bf-41d9-a074-8d38540c9192; Expires=Wed, 15-Jan-25 12:00:49 GMT; Domain=fyhboutique.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=622f583e-7ae9-43ad-8d08-a2e3f742460d; Expires=Tue, 16-Jan-24 12:30:49 GMT; Domain=fyhboutique.com; Path=/; SameSite=Lax
+Etag: "cacheable:c76751e07d00dcad995f817686a4d33c"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 24743654
+X-Shardid: 88
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=13, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="7492239388", servedBy;desc="4n6h", requestID;desc="f0a1faea-d0a4-4fb2-9ead-39feaf5dc575"
+Server-Timing: cfRequestDuration;dur=42.999983
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: f0a1faea-d0a4-4fb2-9ead-39feaf5dc575
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=vaI8f1FFVRY73qtzpkYDNWh%2Fghy7LcrOZuMHGnVx2YsFKc%2Fp18ojQ7wOMQ5pX1%2BPSfg0sNB%2BD1iWzuxJX3LuvdMnEIHTexPVVXxbXFlxlQH40F5Ij9AERhsWI6iqITf%2FCQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846633430a83699b-FRA
+Alt-Svc: h3=":443"; ma=86400

@@ -1,0 +1,41 @@
+Date: Tue, 16 Jan 2024 11:46:13 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 226
+X-Sorting-Hat-Shopid: 12606817
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=db8a7c54-08e3-4a14-a944-01f4d3e8216a; path=/; expires=Tue, 16 Jan 2024 12:16:13 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:46:13 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:46:13 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:46:13 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=peytonandpeppyboutique.com; path=/; expires=Wed, 17 Jan 2024 11:46:13 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=316ac012-eeb1-4b0e-a9ad-79eb627195e9; Expires=Wed, 15-Jan-25 11:46:13 GMT; Domain=peytonandpeppyboutique.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=ed9fe38a-a5ae-484e-b717-ae3a13703418; Expires=Tue, 16-Jan-24 12:16:13 GMT; Domain=peytonandpeppyboutique.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 11:46:13 GMT; Domain=peytonandpeppyboutique.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2F; Expires=Tue, 30-Jan-24 11:46:13 GMT; Domain=peytonandpeppyboutique.com; Path=/; HttpOnly; SameSite=Lax
+Etag: "cacheable:1cff3c15133f2bef9da3769f1c76b400"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 12606817
+X-Shardid: 226
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=15, db;dur=5, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="136105263331", pageType;desc="index", servedBy;desc="r7gg", requestID;desc="1f62f0de-d2a8-42c4-b315-dd3e1fc9caa2"
+Server-Timing: cfRequestDuration;dur=250.000000
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 1f62f0de-d2a8-42c4-b315-dd3e1fc9caa2
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=UF%2BfUVolQkzrLeTYbk9bAM8xfoNxBbqEuaiYs%2BMApKTxhOOEVGc8z4vjBCgRum6UH0LUw6jcMQyJEELZatfyiUoKrzpsgpxC9%2F9PNU1ZeWTnmJRXOvMtaaePXrMpWMek3EbXwX%2B%2FLCWrcUs0"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661de27b185c5c-FRA
+Alt-Svc: h3=":443"; ma=86400

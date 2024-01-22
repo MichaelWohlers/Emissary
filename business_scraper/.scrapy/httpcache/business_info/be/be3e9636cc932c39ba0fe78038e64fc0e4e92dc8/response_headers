@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:45:22 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 235
+X-Sorting-Hat-Shopid: 30466974
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=57d5dfaf-aa8e-4454-be42-ce6696ab9945; path=/; expires=Tue, 16 Jan 2024 12:15:22 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:45:22 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 11:45:22 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:45:22 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=azaleaparkfashion.com; path=/; expires=Wed, 17 Jan 2024 11:45:22 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=cad140b8-cefc-4f6f-83f0-42af11b846a4; Expires=Wed, 15-Jan-25 11:45:22 GMT; Domain=azaleaparkfashion.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=67fa2810-59d9-46a7-86d8-cc2b66b34348; Expires=Tue, 16-Jan-24 12:15:22 GMT; Domain=azaleaparkfashion.com; Path=/; SameSite=Lax
+Etag: "cacheable:532c4c3a6b9f034d9c1906c28d3379ce"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 30466974
+X-Shardid: 235
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=11, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="115193938098", servedBy;desc="xhlr", requestID;desc="3959d193-08a2-4ad9-b4d3-bb35608f08c9"
+Server-Timing: cfRequestDuration;dur=36.999941
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 3959d193-08a2-4ad9-b4d3-bb35608f08c9
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=EE7ripW1ASFB6IcsKZthtiPjysqdtKHgwJfwClTeFo8kimO0nHRvMe51jehI10PYePAjG6%2BvmXlVnJSizPe4JnQZfZDvyxjPecKimQ4fRC%2F%2FWXBqhsGL%2FIIne2XQvjxIPCYb1iBATA%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661ca3cbcf4d7a-FRA
+Alt-Svc: h3=":443"; ma=86400

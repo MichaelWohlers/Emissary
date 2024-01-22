@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:48:20 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 173
+X-Sorting-Hat-Shopid: 40898494628
+X-Storefront-Renderer-Rendered: 1
+Location: https://joycehancock.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 40898494628
+X-Shardid: 173
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=6, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="vfm8", requestID;desc="daf8d602-ea18-4a4e-b4f4-5ded8c291f25"
+Server-Timing: cfRequestDuration;dur=44.999838
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: daf8d602-ea18-4a4e-b4f4-5ded8c291f25
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=5D9iSUydd4%2BC06P%2By06FQFxQnhsaWQWWZ7ayU1quOH6h0gmagadNgptyBo9EmNhYVPR3N7A62DIkNuoq%2FV%2FtxPYO3XAkPGYvRbwrAJvlbYEStTK8om2KC1dWJtK7%2BsLC4rU%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846620fdca7d65b0-FRA
+Alt-Svc: h3=":443"; ma=86400

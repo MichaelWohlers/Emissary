@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:38:37 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 211
+X-Sorting-Hat-Shopid: 16232183
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=ebf5404d-06c5-4806-bc73-ce0d4cfa6ec7; path=/; expires=Tue, 16 Jan 2024 12:08:37 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:38:37 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:38:37 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:38:37 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=metromarketdsm.com; path=/; expires=Wed, 17 Jan 2024 11:38:37 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=1af71e67-825a-4e6f-accd-d3701eb67865; Expires=Wed, 15-Jan-25 11:38:37 GMT; Domain=metromarketdsm.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=756c51a2-ede0-49d2-a6ee-f6eccb2a5f75; Expires=Tue, 16-Jan-24 12:08:37 GMT; Domain=metromarketdsm.com; Path=/; SameSite=Lax
+Etag: "cacheable:f2bce54e1e0a874c19d455732477ecdd"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 16232183
+X-Shardid: 211
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=10, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="153528261", servedBy;desc="vfm8", requestID;desc="a8c1dd14-7f78-472c-9cb2-ec717aa8f741"
+Server-Timing: cfRequestDuration;dur=55.999994
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: a8c1dd14-7f78-472c-9cb2-ec717aa8f741
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=LSc4eOv0%2BOgB1D8YBiFkab5hWYKZCxhYu7p0p5rM6442HjrQRIq%2F8uonRg1IUR1wfsh%2FaMCUms6Erw%2BGo7gNWNzW5GD1CXmTzirHrHM8HdUrnkiR%2F%2FzFhcKonYEkpC9guKo7qhidUN4%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846612be2b639b5d-FRA
+Alt-Svc: h3=":443"; ma=86400

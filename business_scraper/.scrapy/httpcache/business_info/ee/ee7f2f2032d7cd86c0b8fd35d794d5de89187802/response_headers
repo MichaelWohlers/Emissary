@@ -1,0 +1,16 @@
+Date: Tue, 16 Jan 2024 11:35:13 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding,Cookie
+X-Cacheable: SHORT
+Cache-Control: max-age=600, must-revalidate
+X-Cache: HIT: 2
+X-Cache-Group: normal
+Content-Encoding: gzip
+Cf-Cache-Status: DYNAMIC
+Set-Cookie: __cf_bm=zRuMQsNJd4l3YTYbk1Q8Yj4sN4id11fwStnND8mJouA-1705404913-1-AWV9ChMrqUCTRnjLMNUqV/8kBoSqG96TN+51aDcTnulYwEnYeLgALytt7vawVUB1h27HZodC6lor1F/IMxe6e74=; path=/; expires=Tue, 16-Jan-24 12:05:13 GMT; domain=.jimsoldfashionservice.com; HttpOnly; Secure; SameSite=None
+Server: cloudflare
+Cf-Ray: 84660dc51da66ae2-FRA
+Alt-Svc: h3=":443"; ma=86400

@@ -1,0 +1,29 @@
+Date: Tue, 16 Jan 2024 11:57:07 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 252
+X-Sorting-Hat-Shopid: 53762228407
+X-Storefront-Renderer-Rendered: 1
+Location: https://www.happyrockboutique.com/robots.txt
+X-Redirect-Reason: canonical_host_redirection
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 53762228407
+X-Shardid: 252
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=16, db;dur=7, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="s74x", requestID;desc="379a4fef-2c08-4ca7-8ef7-de3bd627510f"
+Server-Timing: cfRequestDuration;dur=246.000051
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 379a4fef-2c08-4ca7-8ef7-de3bd627510f
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=0mjgIgNoSja41acUGzkHS%2B90VQgCCYv0bCEeighW3Sef7ByTOFpdIpB9FZm3NIL6yO9NU6vgze%2Fq%2BSOyyvPQykxUwl3XQJXfZXCZRcodMut4U4NDAbCFQZAiIrA6dz5kDPGIMPQ2MQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84662dd67f6fbbf2-FRA
+Alt-Svc: h3=":443"; ma=86400

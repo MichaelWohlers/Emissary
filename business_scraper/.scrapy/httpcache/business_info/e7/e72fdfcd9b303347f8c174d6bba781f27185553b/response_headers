@@ -1,0 +1,15 @@
+Content-Length: 0
+Location: https://www.melanieannsboutique.com/
+Strict-Transport-Security: max-age=3600
+X-Wix-Request-Id: 1705402956.78627253993979305
+Age: 0
+Cache-Control: no-cache
+Server: Pepyaka/1.21.6
+X-Content-Type-Options: nosniff
+Accept-Ranges: bytes
+Date: Tue, 16 Jan 2024 11:02:36 GMT
+X-Served-By: cache-fra-etou8220108-FRA
+X-Cache: MISS
+Server-Timing: cache;desc=miss, varnish;desc=miss_miss, dc;desc=fastly_84_g
+X-Seen-By: yvSunuo/8ld62ehjr5B7kA==,GilIRCy+Ky2nI9KZaDKzWLxkNjrXdwdgtu6E0yACibU=,m0j2EEknGIVUW/liY8BLLk1Uxi5aVwrmRyfWZ8T7SgCdv/c7uH0ky0wFkt5EFvml,2d58ifebGbosy5xc+FRaltNBFYaMq3gjB0n85s6KtGt7rbG7peQL6mPex38lSE6lPL907opAYJXx655/lq4jwA==,2UNV7KOq4oGjA5+PKsX47ColFAsYHzhwVraIJxv2pmy8ZDY613cHYLbuhNMgAom1,oH45haSb+jN5pZFE/dwLjR2i6CKpmfCUVdCrCjv2j+g=,NGA4+op+pO0k0Gabeox+q7e81MrFxRSAC7cIOQJA1b8=,2jmwVdffH1Py+LoakQW9nXMM8T8+fZkr0ZgSfoOnR0H6SQnt+S+3AKf5ilNGIMeKAR05t0SpwbCOaf9rKUzxMA==
+Via: 1.1 google

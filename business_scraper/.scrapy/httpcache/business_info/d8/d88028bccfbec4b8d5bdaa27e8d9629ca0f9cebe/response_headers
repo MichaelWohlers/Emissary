@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:38:56 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 276
+X-Sorting-Hat-Shopid: 1555267695
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=7c1836a8-fd08-4c7a-9d35-8e10d10c398b; path=/; expires=Tue, 16 Jan 2024 12:08:56 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:38:56 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 11:38:56 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:38:56 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=lurooco.com; path=/; expires=Wed, 17 Jan 2024 11:38:56 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=5278d46b-8a2c-43a8-9bb4-175145c78496; Expires=Wed, 15-Jan-25 11:38:56 GMT; Domain=lurooco.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=7189f8cb-fe71-4d6a-b01f-19ebbadf5c05; Expires=Tue, 16-Jan-24 12:08:56 GMT; Domain=lurooco.com; Path=/; SameSite=Lax
+Etag: "cacheable:96da7118ce09261610dc08eb8df6c7a2"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 1555267695
+X-Shardid: 276
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=11, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="44222775407", servedBy;desc="c2jz", requestID;desc="aa342e00-3ee8-425a-b735-1b0379f8b336"
+Server-Timing: cfRequestDuration;dur=46.999931
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: aa342e00-3ee8-425a-b735-1b0379f8b336
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=e1ThmiQMH4aTV6pVstPXn%2FBnwcVMbWi0nV63Fi5n6mxRdLBfNf0%2FgwlGJ1mThWkPT6WTJ53adp7PDxp7aVjGDpbHhy%2FQYhkzhrtnqzytvfXONNjdY2YYi%2FAZOFmH"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661336e8009bd0-FRA
+Alt-Svc: h3=":443"; ma=86400

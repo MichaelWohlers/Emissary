@@ -1,0 +1,10 @@
+Content-Length: 0
+Server: AkamaiGHost
+Location: https://www.omegawatches.com/de-de/store/storedetails/5920
+Expires: Wed, 17 Jan 2024 11:20:03 GMT
+Date: Tue, 16 Jan 2024 11:20:03 GMT
+Set-Cookie: first_visit_auto_redirect=1; path=/; domain=.www.omegawatches.com; secure; HttpOnly; SameSite=None
+X-Redirect: auto-ecom
+Cache-Control: no-cache
+X-Instance: CH
+Strict-Transport-Security: max-age=86400 ; preload

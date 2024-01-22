@@ -1,0 +1,27 @@
+Date: Tue, 16 Jan 2024 11:58:43 GMT
+Content-Type: text/plain; charset=utf-8
+Cache-Control: max-age=0, s-maxage=7200, must-revalidate
+Content-Encoding: gzip
+Etag: "787cf72efc3659ac9d3b02ea28137417"-gzip
+Expires: Tue, 16 Jan 2024 11:57:25 GMT
+Last-Modified: Tue, 23 May 2023 18:02:55 GMT
+Owner: sitescog-314
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Surrogate-Key: l.macys.com l.macys.com%2Frobots.txt
+Vary: Accept-Encoding
+X-Goog-Generation: 1684864975849034
+X-Goog-Hash: md5=eHz3Lvw2WaydOwLqKBN0Fw==
+X-Goog-Metageneration: 1
+X-Goog-Reserved-Source-Generation: 1637206865536374
+X-Goog-Storage-Class: STANDARD
+X-Goog-Stored-Content-Encoding: identity
+X-Goog-Stored-Content-Length: 54
+X-Guploader-Uploadid: ABPtcPp6fChyjjXsNZnQC79-j_KztO2NWVhv0UbDdjYuo2zDvN8UKcZq1fZRMKBHWQ3EB5Bh69k
+X-Yext-Site: ne2
+X-Yext-Subendpoint: static
+Via: 1.1 google
+Alt-Svc: h3=":443"; ma=86400
+Cf-Cache-Status: HIT
+Set-Cookie: __cf_bm=MyorRW1VQBt1SQBgt0fmXQkfVYlpCkw1uJfv0wglU5U-1705406323-1-AZyTyFBmMfW/OLart93A/2zFP6UVMD4Tf2CzJM67p8XYsRh45M6NDDdQfdhT6kY3SnskL9kmFOQEZ+HfyA/YaSg=; path=/; expires=Tue, 16-Jan-24 12:28:43 GMT; domain=.l.macys.com; HttpOnly; Secure; SameSite=None
+Server: cloudflare
+Cf-Ray: 846630302fb303f0-FRA

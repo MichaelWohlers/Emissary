@@ -1,0 +1,14 @@
+Content-Length: 97
+Date: Tue, 16 Jan 2024 11:50:16 GMT
+Content-Type: text/html; charset=UTF-8
+Location: https://www.bwear.com/
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: f0bee325dda91a0e21d89d9b1cceae8b
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=1QAd1aDIZbE0LBZKBFeSNPhUYPf4ixLDX7bvIdaPwn2QbDC5XhzRMi0O1AaysHcp5ZODoi1zoDbqR5w7RC6ITXOLTBVKwQsAX29KS1rbIRAvHfDKyO9vBSM2uUBTj24%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Bc-Ray: 1
+Server: cloudflare
+Cf-Ray: 846623ce2f2b9162-FRA
+Alt-Svc: h3=":443"; ma=86400

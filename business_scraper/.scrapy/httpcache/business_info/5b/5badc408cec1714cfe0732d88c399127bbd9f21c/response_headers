@@ -1,0 +1,25 @@
+Date: Tue, 16 Jan 2024 11:40:47 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Set-Cookie: fornax_anonymousId=28689918-31c6-406c-889e-99a6c8ec462e; Expires=Thu, 15 Jan 2026 11:40:47 GMT; Path=/; Secure; SameSite=None
+Set-Cookie: athena_short_visit_id=b37a4447-a5e3-4406-9d65-017b62fbbe8e:1705405247; Expires=Tue, 16 Jan 2024 12:10:47 GMT; Path=/; Secure; HttpOnly; SameSite=None
+Set-Cookie: Shopper-Pref=1DCFE9430E93AE69F1F6AB335F3190D8EA9E2767-1706010047598-x%7B%22cur%22%3A%22USD%22%7D; Expires=Tue, 23 Jan 2024 11:40:47 GMT; Path=/; HttpOnly
+Set-Cookie: XSRF-TOKEN=5dcb9afaf5fc90fc8867775b133985d6085279cb83b7f70a48b45e9097709beb; path=/; Secure; SameSite=none
+Set-Cookie: SHOP_SESSION_TOKEN=71af3a81-0778-4dba-bd21-2d0fe383101f; Expires=Tue, 23 Jan 2024 11:40:47 GMT; Path=/; Secure; HttpOnly; SameSite=None
+Link: <https://static.klaviyo.com/onsite/js/klaviyo.js?company_id=YvetaH>; rel=preload; as=script, <https://bwp.codisto.com/js/co_bwp.js>; rel=preload; as=script
+Link: <https://cdn11.bigcommerce.com/s-1gu0oev>; rel=preconnect; as=font; crossorigin=anonymous, <https://fonts.googleapis.com/>; rel=preconnect; as=font; crossorigin=anonymous, <https://fonts.gstatic.com/>; rel=preconnect; as=font; crossorigin=anonymous, <https://cdn11.bigcommerce.com/s-1gu0oev/stencil/95b1b710-3397-013c-d190-76de3a9dc8b5/e/4f803930-6759-013c-40e1-3e3a3b6675b7/dist/theme-bundle.head_async.js>; rel=preload; as=script, <https://fonts.googleapis.com/css?family=Jost:700,500,400,600&display=block>; rel=preload; as=style, <https://cdn11.bigcommerce.com/s-1gu0oev/stencil/95b1b710-3397-013c-d190-76de3a9dc8b5/e/4f803930-6759-013c-40e1-3e3a3b6675b7/css/theme-d77901c0-6b75-013c-f2c6-56f3459d9788.css>; rel=preload; as=style, <https://cdn11.bigcommerce.com/s-1gu0oev/stencil/95b1b710-3397-013c-d190-76de3a9dc8b5/e/4f803930-6759-013c-40e1-3e3a3b6675b7/dist/theme-bundle.main.js>; rel=preload; as=script
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Strict-Transport-Security: max-age=0
+X-Request-Id: 39bfdbf538aab791720c7db278c92fc4
+Content-Encoding: gzip
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=fMxk9k64U223Tv50IC0ciY8FN0ZhH1J7c%2FBCaOMCSoZXBXJ4Ut7ZBUFCvEwFvjkWGIQ7E2bMF7fubfNSvaqOGCa1hZes%2FM4rdVkXdK0uI3lDm6OS21idVDvuId4NRjW%2FvUSgH%2BymP2ZzwZs%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Bc-Ray: 1
+Server: cloudflare
+Cf-Ray: 846615eb5a9e9bac-FRA
+Alt-Svc: h3=":443"; ma=86400

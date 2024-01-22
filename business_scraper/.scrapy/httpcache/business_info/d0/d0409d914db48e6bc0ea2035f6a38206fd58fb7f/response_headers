@@ -1,0 +1,13 @@
+Date: Tue, 16 Jan 2024 11:59:23 GMT
+Content-Type: text/html
+Lookup-Cache-Hit: 1
+Location: https://www.tangledtailsbyponygurl.com/robots.txt
+X-Hrouter: hrouter3
+Cf-Cache-Status: MISS
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=W51xTPgOukFQAz5GnFMHPOYIBBUcYjpdYtW8JynF6BOzwXsFmPggJoU%2FOZUxCvgAKO%2F2pdPe48Fy2ATNHCs8QM%2B%2FDPS554J6PR0FS8LYz69e2rFYOkvRcwfbsWaHnWhDPhLjBK89%2FVUBSdYw0w%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+Server: cloudflare
+Cf-Ray: 8466312859de664c-AMS
+Alt-Svc: h3=":443"; ma=86400

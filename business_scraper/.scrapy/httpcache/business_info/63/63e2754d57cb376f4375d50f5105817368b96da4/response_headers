@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:39:35 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 255
+X-Sorting-Hat-Shopid: 20083409
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=d7aa3d48-d09d-41c5-8a3b-b4fa728580ec; path=/; expires=Tue, 16 Jan 2024 12:09:35 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:39:35 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:39:35 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:39:35 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=oohlalucy.com; path=/; expires=Wed, 17 Jan 2024 11:39:35 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=7b430c7c-0102-4aad-af5a-d798cf2ebe00; Expires=Wed, 15-Jan-25 11:39:35 GMT; Domain=oohlalucy.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=964bb167-b8ce-441f-bd57-fb96934f4523; Expires=Tue, 16-Jan-24 12:09:35 GMT; Domain=oohlalucy.com; Path=/; SameSite=Lax
+Etag: "cacheable:a120ef8a8cc9f018f5aa6b9a585fc485"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 20083409
+X-Shardid: 255
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=11, db;dur=5, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="136959885568", servedBy;desc="qr7c", requestID;desc="b3e9bdca-f39e-4e65-b13c-7a935714f690"
+Server-Timing: cfRequestDuration;dur=62.000036
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: b3e9bdca-f39e-4e65-b13c-7a935714f690
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=QABBhjsRi817dJ50yl6ibtMGxBhKa8Cf6wmuSbdukWZR4q%2Fb%2FTUMGu%2FUjKZzoMqhJ2qZiPdvD1GiqQrQdFE%2BYW5t%2FDZ26M6OpZucPz3hy48ciUspI7uQy6EqHkasyoByRfIa"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8466142d8e17362d-FRA
+Alt-Svc: h3=":443"; ma=86400

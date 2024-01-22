@@ -1,0 +1,10 @@
+Content-Length: 11214
+Date: Tue, 16 Jan 2024 04:00:30 GMT
+Server: Apache
+Link: <https://www.prairiegardens.com/wp-json/>; rel="https://api.w.org/"
+Link: <https://www.prairiegardens.com/wp-json/wp/v2/pages/16>; rel="alternate"; type="application/json"
+Link: <https://www.prairiegardens.com/?p=16>; rel=shortlink
+Vary: Accept-Encoding
+Content-Encoding: gzip
+X-Frame-Options: sameorigin
+Content-Type: text/html; charset=UTF-8

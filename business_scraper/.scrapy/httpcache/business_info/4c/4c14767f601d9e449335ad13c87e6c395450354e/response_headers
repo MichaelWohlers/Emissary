@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:47:12 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 276
+X-Sorting-Hat-Shopid: 78517928213
+X-Storefront-Renderer-Rendered: 1
+Location: https://topnotch2.store/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 78517928213
+X-Shardid: 276
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=25, db;dur=5, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="s74x", requestID;desc="33b9c061-976f-434c-9671-f32cbf569d51"
+Server-Timing: cfRequestDuration;dur=200.999975
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 33b9c061-976f-434c-9671-f32cbf569d51
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=o5TvAgIBK4p6Fgc4uXttv%2BPZinf%2FZcLnHYCqiSHIev5uzLEy%2F%2Fz9EbUnSQKfKX8Mv%2FDGLSsBtjSjrxPjVTcyjTwDP7aGF8%2BKM2BNZH6DZVO1J51lFu38oFdBLefceii2J7NIYoo%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661f51a82cbbf1-FRA
+Alt-Svc: h3=":443"; ma=86400

@@ -1,0 +1,38 @@
+Date: Tue, 16 Jan 2024 11:45:15 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 315
+X-Sorting-Hat-Shopid: 55755473091
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=fd3eaf50-5030-41ea-9608-3fe46376aeba; path=/; expires=Tue, 16 Jan 2024 12:15:15 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:45:15 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 11:45:15 GMT; SameSite=Lax
+Set-Cookie: cart_currency=EUR; path=/; expires=Tue, 30 Jan 2024 11:45:15 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Afalse%2C%22a%22%3Afalse%2C%22m%22%3Afalse%2C%22t%22%3Afalse%7D%2C%22display_banner%22%3Atrue%2C%22sale_of_data_region%22%3Afalse%7D; domain=alisonandcoboutique.com; path=/; expires=Wed, 17 Jan 2024 11:45:15 GMT; SameSite=Lax
+Set-Cookie: _tracking_consent=%7B%22region%22%3A%22DERP%22%2C%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.1%22%2C%22con%22%3A%7B%22CMP%22%3A%7B%22m%22%3A%22%22%2C%22a%22%3A%22%22%2C%22s%22%3A%22%22%2C%22p%22%3A%22%22%7D%7D%2C%22lim%22%3A%5B%22GDPR_BLOCK_ALL%22%5D%7D; Expires=Wed, 15-Jan-25 11:45:15 GMT; Domain=alisonandcoboutique.com; Path=/; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin, <//alisonandcoboutique.com/cdn/shop/files/4E282487-2898-442A-ABC4-6B100F3C9FBE.png?v=1687829779&width=600>; as="image"; rel="preload"; imagesrcset="//alisonandcoboutique.com/cdn/shop/files/4E282487-2898-442A-ABC4-6B100F3C9FBE.png?v=1687829779&width=120 120w, //alisonandcoboutique.com/cdn/shop/files/4E282487-2898-442A-ABC4-6B100F3C9FBE.png?v=1687829779&width=180 180w, //alisonandcoboutique.com/cdn/shop/files/4E282487-2898-442A-ABC4-6B100F3C9FBE.png?v=1687829779&width=240 240w"; imagesizes="(max-width: 240px) 50vw, 120px"
+Etag: "cacheable:86f94b6643af31022495fc4643a65401"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 55755473091
+X-Shardid: 315
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=305, db;dur=119, render;dur=149, wasm, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="148748173628", pageType;desc="index", servedBy;desc="g577", requestID;desc="e294d420-4ffc-4bb7-8822-fc4a290a4c5d"
+Server-Timing: cfRequestDuration;dur=351.000071
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: e294d420-4ffc-4bb7-8822-fc4a290a4c5d
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=l9LSVXXES3vJrQC4DqW%2FYGg7Wte1p4kwdQAs2XE00kisJxZeeje8NZhZTYxmdRpjjbgsTfHwvukAf6%2Fana1NxuqDfpnq3PVwsQSEali6F4Rb%2FXWHz%2Bapn0XE1sL8ae4waSCmQdENlhh9"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661c78c96135fa-FRA
+Alt-Svc: h3=":443"; ma=86400

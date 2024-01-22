@@ -1,0 +1,41 @@
+Date: Tue, 16 Jan 2024 11:59:23 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 64
+X-Sorting-Hat-Shopid: 10722556
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=b5f3adba-965b-4dbc-9d52-1b32637f5b3e; path=/; expires=Tue, 16 Jan 2024 12:29:23 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:59:23 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:59:23 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:59:23 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=ihanametals.com; path=/; expires=Wed, 17 Jan 2024 11:59:23 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=65dd6274-85c7-4892-81e3-24afc8006a35; Expires=Wed, 15-Jan-25 11:59:23 GMT; Domain=ihanametals.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=ddb3ca6f-4382-4da5-bb86-428bf37d80d1; Expires=Tue, 16-Jan-24 12:29:23 GMT; Domain=ihanametals.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 11:59:23 GMT; Domain=ihanametals.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2F; Expires=Tue, 30-Jan-24 11:59:23 GMT; Domain=ihanametals.com; Path=/; HttpOnly; SameSite=Lax
+Etag: "cacheable:37b4b75ae53e83391dc1cecfd370246c"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 10722556
+X-Shardid: 64
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=25;desc="gc:1", db;dur=9, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="78859993153", pageType;desc="index", servedBy;desc="h7h8", requestID;desc="2d6083f3-96e2-450d-8663-a78d7f586dfa"
+Server-Timing: cfRequestDuration;dur=75.999975
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 2d6083f3-96e2-450d-8663-a78d7f586dfa
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=EYgZbxH7GocY%2BZMH5BB42cz%2Bqi7%2B7ew%2B0%2BvPqfeSVp2IzaIMBZ5Nz0b7LmiaxnLXyoMli7Sf1N3DFuPB0lOk3no%2FZ6dHVz1%2B%2FKrXDWJdUW5er8Z6Pllhnb47AnQ3JvtQocHWLhg%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8466312d8a979214-FRA
+Alt-Svc: h3=":443"; ma=86400

@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:46:05 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 315
+X-Sorting-Hat-Shopid: 75285725500
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=4487d02f-dc3d-4f54-ad86-3e8b4d9a3716; path=/; expires=Tue, 16 Jan 2024 12:16:05 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:46:05 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:46:05 GMT; SameSite=Lax
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:46:05 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=thefieldfortville.com; path=/; expires=Wed, 17 Jan 2024 11:46:05 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=bc9abae0-537a-4e76-8463-22754698593e; Expires=Wed, 15-Jan-25 11:46:05 GMT; Domain=thefieldfortville.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=8b6df33e-856a-4068-b58d-9942964c69d5; Expires=Tue, 16-Jan-24 12:16:05 GMT; Domain=thefieldfortville.com; Path=/; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+Etag: "cacheable:87162952e57d990078ccba931b413e7a"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 75285725500
+X-Shardid: 315
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=16, db;dur=5, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="149454389564", servedBy;desc="wbt8", requestID;desc="563ad94b-dbf4-4be0-9888-68ff93587841"
+Server-Timing: cfRequestDuration;dur=46.000004
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 563ad94b-dbf4-4be0-9888-68ff93587841
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=18Ahv7z%2FftgrJtUsg%2FXoz6%2BD3olW%2Bgl0NvU%2F9uAqq4YNNI5S4hB7dUJHghlB7HrjYGaoTZ819AHBJp5fbdpgLk0MwJAfzUe3IieiqqvGR8H%2B%2B5u8mVTdDsIR2CVuLNZ7miM6aDTNoqXBMAM%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661db19ab2bbb9-FRA
+Alt-Svc: h3=":443"; ma=86400

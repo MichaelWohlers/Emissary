@@ -1,0 +1,38 @@
+Date: Tue, 16 Jan 2024 11:40:59 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 220
+X-Sorting-Hat-Shopid: 64533004509
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=11ca305a-12ea-4a68-9a31-834fa37d4708; path=/; expires=Tue, 16 Jan 2024 12:10:58 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:40:59 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:40:59 GMT; SameSite=Lax
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:40:59 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Afalse%2C%22a%22%3Afalse%2C%22m%22%3Afalse%2C%22t%22%3Afalse%7D%2C%22display_banner%22%3Atrue%2C%22sale_of_data_region%22%3Afalse%7D; domain=shopsweetsouthern.com; path=/; expires=Wed, 17 Jan 2024 11:40:59 GMT; SameSite=Lax
+Set-Cookie: _tracking_consent=%7B%22region%22%3A%22DERP%22%2C%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.1%22%2C%22con%22%3A%7B%22CMP%22%3A%7B%22m%22%3A%22%22%2C%22a%22%3A%22%22%2C%22s%22%3A%22%22%2C%22p%22%3A%22%22%7D%7D%2C%22lim%22%3A%5B%22CCPA%22%2C%22GDPR_BLOCK_ALL%22%5D%7D; Expires=Wed, 15-Jan-25 11:40:59 GMT; Domain=shopsweetsouthern.com; Path=/; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+Etag: "cacheable:4e7ad2616d2fcbad544f0a607f3e8804"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 64533004509
+X-Shardid: 220
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=485;desc="gc:81", db;dur=128, render;dur=204, wasm, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="136851718365", pageType;desc="index", servedBy;desc="zqhd", requestID;desc="fbfed769-765f-4255-8a96-8e08f0025584"
+Server-Timing: cfRequestDuration;dur=523.000002
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: fbfed769-765f-4255-8a96-8e08f0025584
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=zGj27%2BBAagoPNY3Jzn7lXhNIDg0Nu%2FeaxZLPdMhGLgSbVegrRJe0cJvfkcGB4x0LE27unGx8s9gki5J8D7pUp590iDmDyuaxoRiW1iSqyHNVWCM%2B6EPjnKnW6yykbMZAG3jmgIPEFA%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846616345a9a5ca4-FRA
+Alt-Svc: h3=":443"; ma=86400

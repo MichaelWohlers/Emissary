@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:50:35 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 54
+X-Sorting-Hat-Shopid: 26376273975
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=66412273-8615-43b6-b3f6-426a3626e28f; path=/; expires=Tue, 16 Jan 2024 12:20:35 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:50:35 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 11:50:35 GMT; SameSite=Lax
+Set-Cookie: cart_currency=EUR; path=/; expires=Tue, 30 Jan 2024 11:50:35 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=gritandgraceclothing.com; path=/; expires=Wed, 17 Jan 2024 11:50:35 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=182dd45d-c359-48c8-aee7-1e4446991be9; Expires=Wed, 15-Jan-25 11:50:35 GMT; Domain=gritandgraceclothing.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=4eda0110-786c-4323-81a1-7007cb9e52d0; Expires=Tue, 16-Jan-24 12:20:35 GMT; Domain=gritandgraceclothing.com; Path=/; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+Etag: "cacheable:29154aab2af27bdffa88fc9c86383aea"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 26376273975
+X-Shardid: 54
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=40;desc="gc:16", db;dur=25, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="122284441655", servedBy;desc="cnml", requestID;desc="c08ae3a0-c36f-4669-a0ce-96961ad33961"
+Server-Timing: cfRequestDuration;dur=76.999903
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: c08ae3a0-c36f-4669-a0ce-96961ad33961
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=mDcFI9zuYEuxbnYxCiavuaDqPHy0H0kt4UOm9PmEDnDn3LVT%2F%2BlXPkOUT2uMMUmgnpDZSc6L%2BHeG6YvRcuz1xr3O1izXSFScU4wrIWH47uTmoODK5SnPJRG1%2B%2FtsNyz12q4K3DtwyrAFlw%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8466244a384a4d5e-FRA
+Alt-Svc: h3=":443"; ma=86400

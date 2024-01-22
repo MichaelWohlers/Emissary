@@ -1,0 +1,38 @@
+Date: Tue, 16 Jan 2024 11:51:07 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 242
+X-Sorting-Hat-Shopid: 6396477558
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=08d89b97-b278-4a26-a4b0-26de02936eb5; path=/; expires=Tue, 16 Jan 2024 12:21:07 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:51:07 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 11:51:07 GMT
+Set-Cookie: cart_currency=EUR; path=/; expires=Tue, 30 Jan 2024 11:51:07 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Afalse%2C%22a%22%3Afalse%2C%22m%22%3Afalse%2C%22t%22%3Afalse%7D%2C%22display_banner%22%3Atrue%2C%22sale_of_data_region%22%3Afalse%7D; domain=fabartonstuff.com; path=/; expires=Wed, 17 Jan 2024 11:51:07 GMT; SameSite=Lax
+Set-Cookie: _tracking_consent=%7B%22reg%22%3A%22GDPR%22%2C%22con%22%3A%7B%22CMP%22%3A%7B%22p%22%3A%22%22%2C%22s%22%3A%22%22%2C%22m%22%3A%22%22%2C%22a%22%3A%22%22%7D%7D%2C%22lim%22%3A%5B%22GDPR_BLOCK_ALL%22%5D%2C%22region%22%3A%22DERP%22%2C%22v%22%3A%222.1%22%7D; Expires=Wed, 15-Jan-25 11:51:07 GMT; Domain=fabartonstuff.com; Path=/; SameSite=Lax
+Etag: "cacheable:4595339a5ec69c5c6d2338a425bc1a57"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin, <//fabartonstuff.com/cdn/shop/t/7/assets/pagefly-main.css?v=138619814827216269861661450125>; as="style"; rel="preload"
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 6396477558
+X-Shardid: 242
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=13, db;dur=5, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="133710348531", pageType;desc="index", servedBy;desc="2jm5", requestID;desc="b552f241-1ec9-4ed7-be91-eff963a54be2"
+Server-Timing: cfRequestDuration;dur=39.999962
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: b552f241-1ec9-4ed7-be91-eff963a54be2
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=XFrXT7OOWcJQI6XAfTv8X7TdOoazoxkANpLWSY3eFPhcqLRfw4i7Txz6QPkmzxHE5NsTacj1ZUi8pIwJNKmXh3QIoeo3wl7kAGBwWM%2Bq2Dot4iQe4r45oQtLnrYe%2FkPwtav2"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8466250f1a70901f-FRA
+Alt-Svc: h3=":443"; ma=86400

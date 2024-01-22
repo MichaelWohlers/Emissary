@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:39:22 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 307
+X-Sorting-Hat-Shopid: 19226511
+X-Storefront-Renderer-Rendered: 1
+Location: https://farmhousefreshhome.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 19226511
+X-Shardid: 307
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=6, db;dur=2, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="p9hw", requestID;desc="21fcfb93-fb42-4963-9a3f-86c04f15054e"
+Server-Timing: cfRequestDuration;dur=52.999973
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 21fcfb93-fb42-4963-9a3f-86c04f15054e
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=k2kP5vc33k%2FEn86hP5A0nfz2BRZrdv1myFTjEyEbTYZZLWvbSSzwPxgcAlT4gYdZs%2Fw8x%2Fa5Mtxc0JSjkW1qD5UnauLGZRT0KFkmQBvrlNNnX7i6QqLqk%2FkFOWpjd%2BJZKtLYC%2ByA1y%2FUOnw8"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846613db0cd83828-FRA
+Alt-Svc: h3=":443"; ma=86400

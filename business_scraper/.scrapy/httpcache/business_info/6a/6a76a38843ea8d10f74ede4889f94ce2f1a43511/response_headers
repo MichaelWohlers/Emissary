@@ -1,0 +1,41 @@
+Date: Tue, 16 Jan 2024 11:53:22 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 231
+X-Sorting-Hat-Shopid: 64344752360
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=a86b37bb-f003-4e3c-b6f3-b34a8debe0c3; path=/; expires=Tue, 16 Jan 2024 12:23:22 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:53:22 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:53:22 GMT; SameSite=Lax
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:53:22 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=traditionalmamaco.com; path=/; expires=Wed, 17 Jan 2024 11:53:22 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=8e27c993-f0ce-424e-af18-5b47c43b6b64; Expires=Wed, 15-Jan-25 11:53:22 GMT; Domain=traditionalmamaco.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=1de8ac01-82ff-420b-85c1-268ed518d2fb; Expires=Tue, 16-Jan-24 12:23:22 GMT; Domain=traditionalmamaco.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 11:53:22 GMT; Domain=traditionalmamaco.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2F; Expires=Tue, 30-Jan-24 11:53:22 GMT; Domain=traditionalmamaco.com; Path=/; HttpOnly; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin, <//www.traditionalmamaco.com/cdn/shop/files/Traditional_Facebook_Post.png?v=1658580770&width=600>; as="image"; rel="preload"; imagesrcset="//www.traditionalmamaco.com/cdn/shop/files/Traditional_Facebook_Post.png?v=1658580770&width=80 80w, //www.traditionalmamaco.com/cdn/shop/files/Traditional_Facebook_Post.png?v=1658580770&width=120 120w, //www.traditionalmamaco.com/cdn/shop/files/Traditional_Facebook_Post.png?v=1658580770&width=160 160w"; imagesizes="(max-width: 160px) 50vw, 80px"
+Etag: "cacheable:76fef50c357d9a5c79323668a7393b05"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 64344752360
+X-Shardid: 231
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=229, db;dur=81, render;dur=84, wasm, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="136593637608", pageType;desc="index", servedBy;desc="rtwn", requestID;desc="61a40106-dbab-4110-9297-353c3bc36786"
+Server-Timing: cfRequestDuration;dur=259.999990
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 61a40106-dbab-4110-9297-353c3bc36786
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=vMDto6ybylV1xJd0Va%2BMWsnQhavlEHNU1B88QyhRhuzuhMIJa%2Fdl%2Bj0yw6f7mP3NBmOk6U%2FMU3%2Fs93RVyZxRjh5dLRh1t6cYWnhIvEyNQfEWc%2B2HZJBHCPSjsmMilJjWIwT%2FbxvmMZxN0aw%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8466285998b86964-FRA
+Alt-Svc: h3=":443"; ma=86400

@@ -1,0 +1,18 @@
+Alt-Svc: h3=":443"; ma=2592000
+Cache-Control: max-age=0, private, must-revalidate
+Content-Encoding: gzip
+Content-Type: text/html; charset=utf-8
+Etag: W/"88577a19876850e59857084a4d4f6be0"
+Referrer-Policy: strict-origin-when-cross-origin
+Server: Caddy
+Set-Cookie: _gal_fashion_session=RTNqnMs2%2FbVn4KGfd9CXrj4Kay8CvQFVucIjT8lS61J1YPucJtT5Atfix5cYXgpmZ83qhO1cA1yNFzcuOdOdUUH%2BSogxTJsGehJ6OHCpnrO2on6Pp97A9h7Ws%2F%2FVoJKVHcsiVNRP4XOGVd1I2XGWHumgimL0r0hgGnp5VO87wvLk3Er%2F77MiaEbsP%2F02bwH40n9rc5tBOquO9C7%2BsHG3rdC4V6YxnoAGDl4hzg4k%2FjJuONSSOCRfNzc0%2BAc8M7ziCkCGTmJ7GLq%2BagEdTXUCEj6er%2BdJmUAAqF0lYg%3D%3D--Mzto0iBBAYx3wmo4--PDSMyYOQaL1KqCfxL4FJvA%3D%3D; path=/; secure; HttpOnly
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: b30e94ea-f564-49b7-a3e1-7aa191982013
+X-Runtime: 0.031987
+X-Xss-Protection: 1; mode=block
+Date: Tue, 16 Jan 2024 11:43:53 GMT

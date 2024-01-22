@@ -1,0 +1,41 @@
+Date: Tue, 16 Jan 2024 11:47:13 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 296
+X-Sorting-Hat-Shopid: 19999301
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=083660c8-e051-4e65-9192-c803adcccea9; path=/; expires=Tue, 16 Jan 2024 12:17:13 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:47:13 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:47:13 GMT; SameSite=Lax
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:47:13 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=wildloveapparel.com; path=/; expires=Wed, 17 Jan 2024 11:47:13 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=73aeb6e9-5069-4f60-9f55-246d85c6fc25; Expires=Wed, 15-Jan-25 11:47:13 GMT; Domain=wildloveapparel.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=3bb5af33-02b6-43c7-b002-d517d4386eb0; Expires=Tue, 16-Jan-24 12:17:13 GMT; Domain=wildloveapparel.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 11:47:13 GMT; Domain=wildloveapparel.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2F; Expires=Tue, 30-Jan-24 11:47:13 GMT; Domain=wildloveapparel.com; Path=/; HttpOnly; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin, <//wildloveapparel.com/cdn/shop/t/29/assets/theme.css?v=25812866994279378901698950455>; as="style"; rel="preload", <//wildloveapparel.com/cdn/shop/files/8.png?v=1704223724&width=2400>; as="image"; rel="preload"; imagesrcset="//wildloveapparel.com/cdn/shop/files/8.png?v=1704223724&width=352 352w, //wildloveapparel.com/cdn/shop/files/8.png?v=1704223724&width=832 832w, //wildloveapparel.com/cdn/shop/files/8.png?v=1704223724&width=1200 1200w, //wildloveapparel.com/cdn/shop/files/8.png?v=1704223724&width=1920 1920w"; imagesizes="100vw"
+Etag: "cacheable:d2373c30d94b8e70f6d53fa9b37a813e"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 19999301
+X-Shardid: 296
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=203, db;dur=85, render;dur=87, wasm, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="155282997545", pageType;desc="index", servedBy;desc="dt4r", requestID;desc="9d4f3d91-af3f-476a-bbcc-5788f288f927"
+Server-Timing: cfRequestDuration;dur=233.000040
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 9d4f3d91-af3f-476a-bbcc-5788f288f927
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=xUlFxaT6sRMPItlz82gJe7kloLKDiKoDu5GoU60oCtuSGPsDDCISzm7DcDBzKCq83ZdhkoyEVt6GWVOpYSJjvURUDQe%2F%2BNiBr7%2B7CUdf2yXBdSAZJb%2Bvk1nUJzw7kokkHnIBfBM%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661f58a9a2bba3-FRA
+Alt-Svc: h3=":443"; ma=86400

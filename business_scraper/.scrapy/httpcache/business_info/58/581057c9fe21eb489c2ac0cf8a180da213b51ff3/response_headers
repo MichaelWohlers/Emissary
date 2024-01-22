@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:37:53 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 66
+X-Sorting-Hat-Shopid: 26481150
+X-Storefront-Renderer-Rendered: 1
+Location: https://tribalmtn.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 26481150
+X-Shardid: 66
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=9, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="w7sd", requestID;desc="fb6a909d-1718-48da-930c-674e1ac7ada2"
+Server-Timing: cfRequestDuration;dur=40.999889
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: fb6a909d-1718-48da-930c-674e1ac7ada2
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=oZNcV%2FSIe629bXhKyHL4e0kdSJffkIDLomsTVAxdIyzFnqSKF0E47%2Fm5Ly1rtXcyWeaEfaLYEawe4ZwM79SabDOa7iVQR1ndu%2Ft0nl4VOMLPOVySTetKaO%2B9Rc80JOY%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846611ae7c7d5bf5-FRA
+Alt-Svc: h3=":443"; ma=86400

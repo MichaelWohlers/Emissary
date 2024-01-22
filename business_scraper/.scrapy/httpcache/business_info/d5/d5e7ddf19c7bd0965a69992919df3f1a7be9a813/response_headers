@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 07:05:04 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 47
+X-Sorting-Hat-Shopid: 2360639555
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=1a6a6707-9f95-422a-bca1-76141f3c6e94; path=/; expires=Tue, 16 Jan 2024 07:35:04 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 07:05:04 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 07:05:04 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 07:05:04 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=shopdeadwoodsouthboutique.com; path=/; expires=Wed, 17 Jan 2024 07:05:04 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=6501586f-07d4-46a2-b680-0a15f5d5b59e; Expires=Wed, 15-Jan-25 07:05:04 GMT; Domain=shopdeadwoodsouthboutique.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=3cf43945-ef21-4291-a3c2-aac856d07c05; Expires=Tue, 16-Jan-24 07:35:04 GMT; Domain=shopdeadwoodsouthboutique.com; Path=/; SameSite=Lax
+Etag: "cacheable:045de8fcef422aed27bf126d37e1deee"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 2360639555
+X-Shardid: 47
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=14, db;dur=6, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="125394354224", servedBy;desc="zkgl", requestID;desc="f05165af-a7fa-4edc-93f1-55308bfb5daa"
+Server-Timing: cfRequestDuration;dur=42.999983
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: f05165af-a7fa-4edc-93f1-55308bfb5daa
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=WVb089u7sYjro%2FSaIHeBw9NEVAYOrxgS80XWkgWuEYEPNv%2FddIKgTG%2FGbr%2FZbOsUsNbG%2FcplbIFwktd0bTR8sEp1qg97vo23X7PGVfhoA2Pvti%2FWtdRhP87uz2GWLS1SAFlXmz6odVsvpP9TTKqX"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8464820dab586939-FRA
+Alt-Svc: h3=":443"; ma=86400

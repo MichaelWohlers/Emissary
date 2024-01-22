@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:45:36 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 92
+X-Sorting-Hat-Shopid: 57868812381
+X-Storefront-Renderer-Rendered: 1
+Location: https://fashioncultureshop.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 57868812381
+X-Shardid: 92
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=13, db;dur=5, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="bjmm", requestID;desc="a6c05705-1e94-4678-9ed2-5d66eb91b529"
+Server-Timing: cfRequestDuration;dur=42.999744
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: a6c05705-1e94-4678-9ed2-5d66eb91b529
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=iaAKc34nzxBUmf0BdbwUAOeQc%2B%2FuKKE3IL%2Ba3JubdYdW7u8fDiQUAxHUTX9ORlVEQM1RC9AKyG8pm9uLOYCxOszYjIZv16%2F6VU%2BA3o6Bl2TffTT8YU%2FPCbkKtXzbpn9wxHJCZlKuBkI%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661cf7ef21382e-FRA
+Alt-Svc: h3=":443"; ma=86400

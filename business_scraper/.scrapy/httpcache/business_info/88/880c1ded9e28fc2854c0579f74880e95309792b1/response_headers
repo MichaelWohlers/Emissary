@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:39:54 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 224
+X-Sorting-Hat-Shopid: 2209362
+X-Storefront-Renderer-Rendered: 1
+Location: https://www.pistolsnvixens.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 2209362
+X-Shardid: 224
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=8, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="l2p5", requestID;desc="198c835b-4cd1-4979-9b7d-67f84d8d18b6"
+Server-Timing: cfRequestDuration;dur=35.000086
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 198c835b-4cd1-4979-9b7d-67f84d8d18b6
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=vDHpL6O3jtolSFAE7MvfhsKxwjxHukm%2FNuwc0fCDt29x0pcOcY%2BZqi8gToRlj7%2Bpa1WTXsGoWvrjl7TS9EeNApF0idEkP8stnySXWviQ2hyZoMYeHFYphcGpUecb1fLib1v9QFWmP48%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8466149fa84f9247-FRA
+Alt-Svc: h3=":443"; ma=86400

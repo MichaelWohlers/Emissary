@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:49:49 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 224
+X-Sorting-Hat-Shopid: 62113480929
+X-Storefront-Renderer-Rendered: 1
+Location: https://slateboutiqueandgifts.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 62113480929
+X-Shardid: 224
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=12, db;dur=6, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="mp9s", requestID;desc="67a788a4-7acb-4bb5-ac1a-74d7420f5f7d"
+Server-Timing: cfRequestDuration;dur=36.999941
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 67a788a4-7acb-4bb5-ac1a-74d7420f5f7d
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=vw6%2FQPXM8ru035cSPtmR3%2FagN6QrVvai2r2lb%2BUohyJmHmPgAw4MM2Yj2TmXdl8O%2BbBanD5W7CvPRjPcPn7ppQ5BKUaTmq4NqGoKeZr1jEo9miWRi0rZW6J98KQEYDYQngJ0HH%2FSI3xVJ8tdpXmO"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8466232729d09b5e-FRA
+Alt-Svc: h3=":443"; ma=86400

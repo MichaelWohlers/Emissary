@@ -1,0 +1,40 @@
+Date: Tue, 16 Jan 2024 11:59:46 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 176
+X-Sorting-Hat-Shopid: 27094548577
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=6ad948af-f3ec-4c77-9935-99aa1f269d65; path=/; expires=Tue, 16 Jan 2024 12:29:46 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:59:46 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 11:59:46 GMT
+Set-Cookie: _shopify_country=Germany; path=/; expires=Tue, 16 Jan 2024 12:29:46 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:59:46 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=shoptsmidwestboutique.com; path=/; expires=Wed, 17 Jan 2024 11:59:46 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=552394a5-3e3d-4bd8-940f-bc5f8f32020f; Expires=Wed, 15-Jan-25 11:59:46 GMT; Domain=shoptsmidwestboutique.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=cad017e8-34c6-49f4-bd25-8a66e89e868d; Expires=Tue, 16-Jan-24 12:29:46 GMT; Domain=shoptsmidwestboutique.com; Path=/; SameSite=Lax
+Etag: "cacheable:89c31e9e69e0a958d2129be9651814a1"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 27094548577
+X-Shardid: 176
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=13, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="79119777889", servedBy;desc="l8v4", requestID;desc="1f6b8c8d-1876-4b47-9ab5-3d5f33c44b26"
+Server-Timing: cfRequestDuration;dur=39.000034
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 1f6b8c8d-1876-4b47-9ab5-3d5f33c44b26
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=%2B1JhHWWpZAHvqXdxSKTrcOsJ2cnGZB6yhi35n%2FsoxlUNbwarNjCd6doZ21Ub63touaXykmYpzQnWNFF9kzPK3CSCbFX3pvV4ez1C4%2F3LJTB2B5bqdfG6dCOz1MkbGmz4OI1iaKnfRodv9g8RMUm%2F"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846631bbcb908fe0-FRA
+Alt-Svc: h3=":443"; ma=86400

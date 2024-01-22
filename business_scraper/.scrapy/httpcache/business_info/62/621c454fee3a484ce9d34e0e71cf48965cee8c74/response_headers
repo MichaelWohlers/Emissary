@@ -1,0 +1,13 @@
+Server: nginx
+Date: Tue, 16 Jan 2024 11:54:50 GMT
+Content-Type: text/plain; charset=utf-8
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding
+Vary: Cookie
+X-Hacker: Want root?  Visit join.a8c.com and mention this header.
+Host-Header: WordPress.com
+X-Robots-Tag: noindex, follow
+Link: <https://aboveandbeyondps.ca/wp-json/>; rel="https://api.w.org/"
+Content-Encoding: gzip
+X-Ac: 2.hhn _atomic_ams HIT
+Alt-Svc: h3=":443"; ma=86400

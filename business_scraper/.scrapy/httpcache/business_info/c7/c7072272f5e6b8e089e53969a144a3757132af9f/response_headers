@@ -1,0 +1,38 @@
+Date: Tue, 16 Jan 2024 11:02:34 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 79
+X-Sorting-Hat-Shopid: 6827313
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=ea19578d-d8d9-4c06-a6b5-68bd06b6a9a9; path=/; expires=Tue, 16 Jan 2024 11:32:34 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:02:34 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 11:02:34 GMT
+Set-Cookie: cart_currency=EUR; path=/; expires=Tue, 30 Jan 2024 11:02:34 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Afalse%2C%22a%22%3Afalse%2C%22m%22%3Afalse%2C%22t%22%3Afalse%7D%2C%22display_banner%22%3Atrue%2C%22sale_of_data_region%22%3Afalse%7D; domain=jessleaboutique.com; path=/; expires=Wed, 17 Jan 2024 11:02:34 GMT; SameSite=Lax
+Set-Cookie: _tracking_consent=%7B%22region%22%3A%22DERP%22%2C%22reg%22%3A%22GDPR%22%2C%22con%22%3A%7B%22CMP%22%3A%7B%22m%22%3A%22%22%2C%22a%22%3A%22%22%2C%22p%22%3A%22%22%2C%22s%22%3A%22%22%7D%7D%2C%22lim%22%3A%5B%22CCPA%22%2C%22GDPR_BLOCK_ALL%22%5D%2C%22v%22%3A%222.1%22%7D; Expires=Wed, 15-Jan-25 11:02:34 GMT; Domain=jessleaboutique.com; Path=/; SameSite=Lax
+Etag: "cacheable:b3ddc02a06af3ec05210b02ac9348eaf"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin, <https://cdn.shopify.com/extensions/f5d16ae3-fbfd-478b-8e74-b4e1ec3eb753/smart-product-filter-search-72/assets/globo.search.css>; as="style"; rel="preload", <https://cdn.shopify.com/extensions/f5d16ae3-fbfd-478b-8e74-b4e1ec3eb753/smart-product-filter-search-72/assets/globo.filter.js>; as="script"; rel="preload", <https://cdn.shopify.com/extensions/f5d16ae3-fbfd-478b-8e74-b4e1ec3eb753/smart-product-filter-search-72/assets/globo.filter.search.min.js>; as="script"; rel="preload"
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 6827313
+X-Shardid: 79
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=14;desc="gc:1", db;dur=5, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="120761483344", pageType;desc="index", servedBy;desc="67nn", requestID;desc="c1f3369b-9cf5-45ab-86ee-021c27f36847"
+Server-Timing: cfRequestDuration;dur=40.999889
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: c1f3369b-9cf5-45ab-86ee-021c27f36847
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Ot%2BTcstx3FWw2Pw%2BLtnQHqxRby7amUrp7nQIAVyOOYIq8SI93UKlP33Wky81wMR%2Bgvu%2Fb7DcC%2F5St6J%2Bnu8izqJ1urW5F5dP3C1zU9ATaMcmBbHk6MpZflUqZYM%2B4oHAYCYAUqh9m29u"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8465ddef4f090418-FRA
+Alt-Svc: h3=":443"; ma=86400

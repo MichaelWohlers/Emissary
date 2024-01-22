@@ -1,0 +1,29 @@
+Content-Type: text/html;charset=UTF-8
+Date: Tue, 16 Jan 2024 11:37:31 GMT
+Strict-Transport-Security: max-age=3600;includeSubDomains
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+X-Dot-Server: dotcms-jostens-prod-2|48d2ba1083
+X-Jostens-Dotcms: uat-20230330
+Cache-Control: max-age=1440
+Expires: Wed, 17 January 2024 06:37:31 EST
+Content-Encoding: gzip
+Vary: accept-encoding
+Vary: Origin
+X-Cache: Hit from cloudfront
+Via: 1.1 ea33fd0df6ee9c8577d105b9161314f0.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: MSP50-P2
+Alt-Svc: h3=":443"; ma=86400
+X-Amz-Cf-Id: Fm7iijT5V7GuZr1xQgQWL1H75Jtgle169NE3Gser3DxfxDiIe7IHrw==
+Age: 48
+Referrer-Policy: strict-origin-when-cross-origin
+Content-Security-Policy: default-src f5 'self' 'unsafe-eval' 'unsafe-inline' blob: data: wss://*.atl.five9.com wss://app-atl.five9.com wss://*.five9.com *.akamaihd.net *.amazonaws.com *.attentivemobile.com *.attn.tv *.clarity.ms *.cvent.com *.cookielaw.org *.doubleclick.net *.issuu.com *.jostens.com *.evgnet.com *.five9.com *.paypal.com *.paywithmybank.com *.onetrust.com *.photorank.me *.pinterest.com *.salesforce.com *.salesforceliveagent.com *.trustly.com *.webspellchecker.net analytics.tiktok.com bat.bing.com calendly.com collectors.us2.sumologic.com fonts.gstatic.com fonts.googleapis.com insight.adsrvr.org jostensinc.us-5.evergage.com paywithmybank.com player.vimeo.com tr.snapchat.com sc-static.net www.paypalobjects.com www.facebook.com connect.facebook.net www.google-analytics.com www.google.com www.googleadservices.com www.googletagmanager.com www.paypalobjects.com www.shopgradframes.com www.youtube.com www.universityframes.com *.usabilla.com https://d6tizftlrpuof.cloudfront.net/; img-src * data:; frame-ancestors 'self' *.jostens.com;
+Content-Security-Policy-Report-Only: default-src * data: blob: filesystem: about: ws: wss: 'unsafe-inline' 'unsafe-eval';
+X-Jostens-Fref: 30
+Set-Cookie: AWSALB=wkZURUGirZrg8Tx0dwjh+KLXuOcllycrBU1U53Zks+wJqdWBhoAnNF+4kkVIqyhFfhuOjX/WMXAT/5BV6yXWMvNL4xpHKtSShU1xs6XUUN28vIZ4Uh+ApRaGnaP6; Expires=Tue, 23 Jan 2024 11:37:31 GMT; Path=/; Secure; SameSite=None
+Set-Cookie: AWSALBCORS=wkZURUGirZrg8Tx0dwjh+KLXuOcllycrBU1U53Zks+wJqdWBhoAnNF+4kkVIqyhFfhuOjX/WMXAT/5BV6yXWMvNL4xpHKtSShU1xs6XUUN28vIZ4Uh+ApRaGnaP6; Expires=Tue, 23 Jan 2024 11:37:31 GMT; Path=/; SameSite=None; Secure
+Set-Cookie: JSESSIONID=79F43DDB7ADE72FAED0CF21F23DAA416; Path=/; Secure; HttpOnly; SameSite=Lax
+Set-Cookie: opvc=6fcbec92-6b6e-4c3d-9151-b3a6c1221789; Path=/; Secure; SameSite=Lax
+Set-Cookie: sitevisitscookie=1; Max-Age=153792000; Expires=Thu, 30-Nov-2028 11:37:31 GMT; Path=/; Secure; SameSite=Lax
+Set-Cookie: dmid=dda898c5-2ca8-4e55-9ec2-710d71376ff5; Max-Age=153792000; Expires=Thu, 30-Nov-2028 11:37:31 GMT; Path=/; Secure; SameSite=Lax

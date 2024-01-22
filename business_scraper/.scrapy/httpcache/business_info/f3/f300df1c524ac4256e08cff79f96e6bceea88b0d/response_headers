@@ -1,0 +1,41 @@
+Date: Tue, 16 Jan 2024 11:34:04 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 239
+X-Sorting-Hat-Shopid: 29893623892
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=1fc6e28b-9f32-4ead-99a8-84fd8f7ea240; path=/; expires=Tue, 16 Jan 2024 12:04:04 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:34:04 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:34:04 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:34:04 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=jfybrand.com; path=/; expires=Wed, 17 Jan 2024 11:34:04 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=946cdd0d-eec9-4b87-9242-ab7b623eb1d5; Expires=Wed, 15-Jan-25 11:34:04 GMT; Domain=jfybrand.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=0e16a4f1-2441-4226-84cb-38802adf4ee6; Expires=Tue, 16-Jan-24 12:04:04 GMT; Domain=jfybrand.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 11:34:04 GMT; Domain=jfybrand.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2F; Expires=Tue, 30-Jan-24 11:34:04 GMT; Domain=jfybrand.com; Path=/; HttpOnly; SameSite=Lax
+Etag: "cacheable:96a923510ee8e698489cce275610ed36"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin, <//jfybrand.com/cdn/shop/t/42/assets/base.css?v=41688619235726636391685698856>; as="style"; rel="preload", <//jfybrand.com/cdn/shop/t/42/assets/custom.css?v=145227440661306281151704330256>; as="style"; rel="preload"
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 29893623892
+X-Shardid: 239
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=11, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="136298004720", pageType;desc="index", servedBy;desc="8zc8", requestID;desc="63eac124-f796-440d-8093-778adc9dccf1"
+Server-Timing: cfRequestDuration;dur=49.999952
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 63eac124-f796-440d-8093-778adc9dccf1
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=SkQ8Ak7MnHk8opo%2B3bc0KupgWCCdi%2FO6Yl2CZ8xW6lEMl7lOa8A1xFLJOw%2Bj6JrDGRRJ0ZXIhuZxsk8BJ6cT28o1NdkpanrF0%2B5KtD%2FhmfChIsunpzB%2F%2BoHW7qM%2BEQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84660c15c8be91e9-FRA
+Alt-Svc: h3=":443"; ma=86400

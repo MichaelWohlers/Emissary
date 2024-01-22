@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 07:03:53 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 137
+X-Sorting-Hat-Shopid: 55415242890
+X-Storefront-Renderer-Rendered: 1
+Location: https://modchiccouture.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 55415242890
+X-Shardid: 137
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=10, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="xdmm", requestID;desc="c26e67eb-7044-4d29-ad01-be8f2cc79987"
+Server-Timing: cfRequestDuration;dur=58.000088
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: c26e67eb-7044-4d29-ad01-be8f2cc79987
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=1X7Izh8lKnjpy%2FSUtb%2FrGhJZb16APZnPJOSADsZCkN9qQkZPVu1wtwqGgaAKz2Jt3z0AwiMZoiFFXJvUFg7mr%2Bybuyb%2FIRTBtA2cFQsWsKNJdgGOYpVvohHPrPCWp0Jr9DDuQbQLoRw%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8464804beedf364d-FRA
+Alt-Svc: h3=":443"; ma=86400

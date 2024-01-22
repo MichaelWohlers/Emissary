@@ -1,0 +1,41 @@
+Date: Tue, 16 Jan 2024 11:53:11 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 294
+X-Sorting-Hat-Shopid: 1845985350
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=11be720c-4171-4224-97da-9ca0b7979989; path=/; expires=Tue, 16 Jan 2024 12:23:11 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:53:11 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:53:11 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:53:11 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=eandcoclothing.com; path=/; expires=Wed, 17 Jan 2024 11:53:11 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=8ee67ef5-0677-4732-acc5-915c3a4647c4; Expires=Wed, 15-Jan-25 11:53:11 GMT; Domain=eandcoclothing.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=d4303d1a-d8de-4a71-bbfa-ba3a6167ecc3; Expires=Tue, 16-Jan-24 12:23:11 GMT; Domain=eandcoclothing.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 11:53:11 GMT; Domain=eandcoclothing.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2F; Expires=Tue, 30-Jan-24 11:53:11 GMT; Domain=eandcoclothing.com; Path=/; HttpOnly; SameSite=Lax
+Etag: "cacheable:a064277fb982fdee628e106a3448dd1e"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin, <//eandcoclothing.com/cdn/shop/t/40/assets/theme.css?v=168705840611691154911697169591>; as="style"; rel="preload", <//eandcoclothing.com/cdn/shop/t/40/assets/hm.css?v=131874119361813136181657620944>; as="style"; rel="preload"
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 1845985350
+X-Shardid: 294
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=10;desc="gc:1", db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="122649280593", pageType;desc="index", servedBy;desc="5474", requestID;desc="92afd676-96a4-44f4-a942-4ff624a5a69b"
+Server-Timing: cfRequestDuration;dur=191.999912
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 92afd676-96a4-44f4-a942-4ff624a5a69b
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=cP8LVC2wuCfr8TYXjWLxAoBfsesxx5r8JBGmA5vbZbRQqkvr8lKd7KGo5s2EixFtMj9lxzXuOd%2FubYgAgDTOVfATf50BAVrvdKarg1p%2BeKMFhQFR%2Bq70WAYSzU%2B%2FO2Abqm9ayw%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8466281558cc1e4b-FRA
+Alt-Svc: h3=":443"; ma=86400

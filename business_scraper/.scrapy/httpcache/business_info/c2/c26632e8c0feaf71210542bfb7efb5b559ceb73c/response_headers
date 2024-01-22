@@ -1,0 +1,42 @@
+Date: Tue, 16 Jan 2024 11:34:35 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 50
+X-Sorting-Hat-Shopid: 7088537651
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=4a088293-0148-44fb-bbda-751aa53c2ad4; path=/; expires=Tue, 16 Jan 2024 12:04:34 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:34:35 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:34:35 GMT; SameSite=Lax
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:34:35 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=windsorstore.com; path=/; expires=Wed, 17 Jan 2024 11:34:35 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=076a4255-f727-4015-9fa1-afbfe91c2978; Expires=Wed, 15-Jan-25 11:34:35 GMT; Domain=windsorstore.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=2ffc5cbb-22aa-4944-8626-d645d6dd3e68; Expires=Tue, 16-Jan-24 12:04:35 GMT; Domain=windsorstore.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 11:34:35 GMT; Domain=windsorstore.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2Fpages%2Fmi-okemos-okemos-meridian-mall%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dretail; Expires=Tue, 30-Jan-24 11:34:35 GMT; Domain=windsorstore.com; Path=/; HttpOnly; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+Etag: "cacheable:f1b64b1769bacc863b66da5d8eac3140"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Access-Control-Allow-Origin: *
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 7088537651
+X-Shardid: 50
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=383;desc="gc:78", db;dur=64, render;dur=205, wasm, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="126644191283", pageType;desc="page", servedBy;desc="w66h", requestID;desc="17de993a-2907-4f16-bef7-d28b0110ecc9"
+Server-Timing: cfRequestDuration;dur=410.999775
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 17de993a-2907-4f16-bef7-d28b0110ecc9
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=tabI61ojOWu5WxmXqSw05ggLltLMpMaYlD5YM6InYmUtnLu0UFXJDZvrE%2FuwkAzUIJR30AHHBQU8HQUn5F3a6eHrLVzXsKwc%2BMPb2oPVzYT5FEkXadUoEzKs%2F43Gr%2BqoQyD7w937"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84660cd3d92537d4-FRA
+Alt-Svc: h3=":443"; ma=86400

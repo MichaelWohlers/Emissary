@@ -1,0 +1,25 @@
+Content-Length: 131
+Content-Type: text/html; charset=utf-8
+Abseg_Different: true
+Location: https://oldnavy.gap.com/CookieFailure.do
+Mybrand: on
+X-Page-Speed: 1.13.35.2-0
+X-Request-Host: oldnavy.gap.com
+X-Vcap-Request-Id: 26dc0513-a10a-4001-410b-65dd00759bd1
+X-E-Dc: azeus
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Tue, 16 Jan 2024 11:40:35 GMT
+Set-Cookie: s-prlb=e; path=/; domain=.gap.com
+Set-Cookie: prlb=e; path=/; domain=.gap.com
+Set-Cookie: AKA_A2=A; expires=Tue, 16-Jan-2024 12:40:35 GMT; path=/; domain=gap.com; secure; HttpOnly
+Set-Cookie: _abck=E19991CF9A8A57F1083686F42089662B~-1~YAAQg9AXAjugF/WMAQAAb78SEgskNfwhpNLmst6fYu5sh7sByNh2Yv5RyOiGm6LS0XDXPfQOJ3ThJHiciZcqv2QHBNSLZb3f9ryOMcnLJr7CjaH5xa/+nKO8kRIhIayoPhe0qUln2EVxC9VZSU94Lzh8tetDI8d6ZTU6y9WLnWlk0/Cs10fRntttYPTv0vlcLaVgl3oekASYS4EKJWwSk239V8w5Omd0xxxhlN/iB9QflE2XXlw27WdQm3LU2jTz1QkmaHVgLM/XAVgng1tFRQyKrHGzC+9uySxnUXVNtlFJIsbS6dAaXdUZq2ROahl9F2vcltTs/Uvp/9kgqjO8wjaQD8KO66iDkDePUBQY5dtJ0i7CZhwzTS8=~-1~-1~-1; Domain=.gap.com; Path=/; Expires=Wed, 15 Jan 2025 11:40:35 GMT; Max-Age=31536000; Secure
+Set-Cookie: bm_sz=DAEBF913A7FD0B2A36E321CE367A4F76~YAAQg9AXAjygF/WMAQAAb78SEhY4oVUQVsfumsWitzk2bT/HUkoReV9xhJgaP3vL9Iwpx8qQRoGhl/4vGFrRs6/OuVsedqd7g7eXqCK9mUSh3UTj3yChgWjS0yghnt5kTapdaUaEcwU0Ua2tPi266v/xrazpIS6ulbuyAqAmQ0EfcQHiLx339uctEUK9+1TMNMLVuIqz1xBqH9DDFo/HbreqZsWRoHwTSWjsUxKqVqv0jRbFEHvzIvc0Gyl2ICfaGbVxxkGCrFGg6B2xNGz3n1ldA89FtPU0lo7xZHmkUpuOtrBXQT1f80wr2JwpJQPfT+L60VTFqVcB~3686722~3422520; Domain=.gap.com; Path=/; Expires=Tue, 16 Jan 2024 15:40:34 GMT; Max-Age=14399
+Server-Timing: cdn-cache; desc=MISS
+Server-Timing: edge; dur=123
+Server-Timing: origin; dur=36
+Server-Timing: ak_p; desc="1705405234877_35115139_334703636_15845_19290_45_0_-";dur=1
+X-Akam-Sw-Version: 0.5.0
+Link: <https://oldnavy.gap.com/static_content/onesitecategory/components/mfe/sitewide-app/static/d23d96ae.woff2>;rel="preload";as="font";type="font/woff2";crossorigin,<https://oldnavy.gap.com/static_content/onesitecategory/components/mfe/sitewide-app/static/7fa96aa0.woff2>;rel="preload";as="font";type="font/woff2";crossorigin
+Strict-Transport-Security: max-age=2628000 ; includeSubDomains
+Akamai-Grn: 0.83d01702.1705405234.13f32c14

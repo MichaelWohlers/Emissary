@@ -1,0 +1,41 @@
+Date: Tue, 16 Jan 2024 12:00:41 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 257
+X-Sorting-Hat-Shopid: 55353835684
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=50937255-6dfd-4587-a69f-c900372a5f3e; path=/; expires=Tue, 16 Jan 2024 12:30:41 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 12:00:41 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 12:00:41 GMT; SameSite=Lax
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 12:00:41 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=kimberlylaneboutique.com; path=/; expires=Wed, 17 Jan 2024 12:00:41 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=ed460ac4-b833-4294-9609-c84da46608d6; Expires=Wed, 15-Jan-25 12:00:41 GMT; Domain=kimberlylaneboutique.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=0c31bd98-4fd4-48bd-a4a7-072bb32a5f24; Expires=Tue, 16-Jan-24 12:30:41 GMT; Domain=kimberlylaneboutique.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 12:00:41 GMT; Domain=kimberlylaneboutique.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2F; Expires=Tue, 30-Jan-24 12:00:41 GMT; Domain=kimberlylaneboutique.com; Path=/; HttpOnly; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+Etag: "cacheable:44f27e3a35c07be9053351f7b3605e4f"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 55353835684
+X-Shardid: 257
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=71, db;dur=21, parse;dur=7, render;dur=31, wasm, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="120855855268", pageType;desc="index", servedBy;desc="x4n2", requestID;desc="ed5f8c72-a007-47c9-88fd-0e97cd03855c"
+Server-Timing: cfRequestDuration;dur=103.000164
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: ed5f8c72-a007-47c9-88fd-0e97cd03855c
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=r6GQn%2Byb62RFBdJjnhy4LD2B7oQ3gX3L6hEsjdNRW1%2FFZtGhPbURO8HkjbeJlvyF5OVx5A4BzvzCa7%2F%2Bo%2Fb048q5%2BYi65p0WCyxbFcO1wGxIw4ZJDo762huKnCUL99xfBfrpP6T185OzNQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846633149b8471d3-FRA
+Alt-Svc: h3=":443"; ma=86400

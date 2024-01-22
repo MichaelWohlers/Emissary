@@ -1,0 +1,10 @@
+Content-Length: 0
+Date: Tue, 16 Jan 2024 04:00:10 GMT
+Location: https://www.ctuxes.com/
+Strict-Transport-Security: max-age=3600
+Age: 7935
+Server-Timing: cache;desc=hit, varnish;desc=hit, dc;desc=84
+X-Seen-By: REmTqJKTo7BM/eF7JdTbUrxkNjrXdwdgtu6E0yACibU=,m0j2EEknGIVUW/liY8BLLqRuPvfvC6RzOgH6bZ0UWxkFJmEKNgQ96+wiTVoMq713,2d58ifebGbosy5xc+FRalomBsPn+5fEB8yE3B5URHeVlPWUsgCJ4GLEoqG9fJPgAPBWPHLk/Rndo3v3AEohwew==,2UNV7KOq4oGjA5+PKsX47HgIR8CKb9pzx2qB/ovqFLO8ZDY613cHYLbuhNMgAom1
+Cache-Control: no-cache
+X-Wix-Request-Id: 1705377609.988266513559218802
+X-Content-Type-Options: nosniff

@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:40:17 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 104
+X-Sorting-Hat-Shopid: 1529315402
+X-Storefront-Renderer-Rendered: 1
+Location: https://sister2sisterfashion.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 1529315402
+X-Shardid: 104
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=9, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="xhlr", requestID;desc="a7a1a3ea-5dfe-45ef-9045-ea379cfe0517"
+Server-Timing: cfRequestDuration;dur=69.000006
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: a7a1a3ea-5dfe-45ef-9045-ea379cfe0517
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=xu%2Fer38IyyIz7f8hFSUXlA4PLd2FXcR16KH2kj1cz%2Fna2f7H55WKybKLp4iBwyC8icfZomZFyfSATsf07dIlx1YaJrLhDy%2BLejHe%2BSodjh%2FwGVTMZr0ea26QKZd21pEWREFWNmpharzaCsu%2FVP4%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8466152ea88e90e8-FRA
+Alt-Svc: h3=":443"; ma=86400

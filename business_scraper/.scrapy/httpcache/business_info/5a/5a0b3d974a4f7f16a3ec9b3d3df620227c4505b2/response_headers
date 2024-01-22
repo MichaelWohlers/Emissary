@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:51:30 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 244
+X-Sorting-Hat-Shopid: 26768703667
+X-Storefront-Renderer-Rendered: 1
+Location: https://wilddaisiesboutique.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 26768703667
+X-Shardid: 244
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=11, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="qw2t", requestID;desc="87281a1e-ebb9-4b63-8450-d5087ac2aced"
+Server-Timing: cfRequestDuration;dur=45.000076
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 87281a1e-ebb9-4b63-8450-d5087ac2aced
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=X2LCRA2OmOIApw5xu668kNfvprF06z%2FH1p1F5omQUFjPGr30D9vLVoqgwLM7%2B0TSMYmehWIt9cXO%2FpLeQdUAX7jD%2Fc7%2BBWV8GZV%2B7wjmkLKw13JdXe86SeOGTYGDVfWVXip7xGrJpgyMl2wlvQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8466259cce5a3832-FRA
+Alt-Svc: h3=":443"; ma=86400

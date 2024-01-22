@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:39:01 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 319
+X-Sorting-Hat-Shopid: 68468539712
+X-Storefront-Renderer-Rendered: 1
+Location: https://www.littlebluestemshop.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 68468539712
+X-Shardid: 319
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=11, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="8zbg", requestID;desc="1d0e1618-ce99-4340-a37e-3e6004b349a3"
+Server-Timing: cfRequestDuration;dur=39.999962
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 1d0e1618-ce99-4340-a37e-3e6004b349a3
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=YUCUlvCYRFOdY1K7cCqsENpbCWdFqfbmG68X0BTaRLS2SsEPNdGdkyCIIZtfGTNVf65IJXOId%2Bl7zHx5f5wx3dacOgPgjHX%2Bt350bpOzXhu2%2FI3e%2BicgJZjal3a7vIQlbIEa%2Brd%2FWgPWELJy"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661354ba4d900d-FRA
+Alt-Svc: h3=":443"; ma=86400

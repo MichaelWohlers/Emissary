@@ -1,0 +1,31 @@
+Content-Type: text/html; charset=utf-8
+Edge-Cache-Tag: store-us-tcp-prod-v2
+Etag: "bd7gz8derwxosq"
+X-Powered-By: Next.js
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Akamai-Transformed: 9 205008 0 pmb=mTOE,1mRUM,2
+Content-Encoding: gzip
+Cache-Control: private, must-revalidate, max-age=300
+Expires: Tue, 16 Jan 2024 11:44:40 GMT
+Date: Tue, 16 Jan 2024 11:39:40 GMT
+X-Cache: TCP_MISS from a2-16-240-136.deploy.akamaitechnologies.com (AkamaiGHost/11.4.0.1-53785976) (-)
+Vary: Accept-Encoding
+X-Cache-Remote: TCP_MISS from a23-223-35-157.deploy.akamaitechnologies.com (AkamaiGHost/11.4.0.1-53785976) (-)
+Set-Cookie: iShippingCookie=US|en_US|USD|1.0|1.0; path=/; domain=.childrensplace.com
+Set-Cookie: tcpCountryDetail=DE; path=/; domain=.childrensplace.com; secure
+Set-Cookie: tcpState=HE; path=/; domain=.childrensplace.com; secure
+Set-Cookie: feregion=west-2; path=/; secure
+Set-Cookie: _abck=CE3C0A7675A60531998E9CC6DA3F0384~-1~YAAQiPAQAtP5fPSMAQAAJOkREgtYC9aUi13Kd6sSRmL0MP+VF5JoDagNgTeFPptNceZiZYSacuQNJFpI4pZYm8qpLVWRHEvgXyhd+gJelNuNp25EAgLgBYdiZtVpg5tHIuc0H4ITGsDb7TzH+/+YpUCd50oUowU4KCJoBMNqB/cEDRPHaSAjSSroCSN6LNYbwL7xhaCq4EDSgysG3+jKOW6KY+W7kr+7LvQammtoYp1SZ5v1/4xGLXS5FClWh0eW/Uz1J5baYIjtqP/26q+zUYEqTdJ7ipmmVM5mEjanS81bUvX6KvylSgsfImBAAAJWBG7nVqptWb2Nnh27YqXaOS7lo2OSL5VwTpVnOcFc+b+Clxtp3Sg/UCi8NazRzY/79t9IEg==~-1~-1~1705408716; Domain=.childrensplace.com; Path=/; Expires=Wed, 15 Jan 2025 11:39:40 GMT; Max-Age=31536000; Secure
+Set-Cookie: bm_sz=3AC7753A275A6456364750D849E8E47B~YAAQiPAQAtT5fPSMAQAAJOkREhYuVVGMc6y0X0QQEcqkxTEQTsZzehwPMEYVFbau37oPX8gAO37eCWMGQrkz0Fqg1DMmTWzSgs6I4o9BCPBIsEz+SJuB49cL6LxCf5NdiwjfEgbv2HqeX8zMEoesYTXBxr1SmEUy9IyxzaVBzCT2qA3JAlVz1+itZa62+GOsvZ1nOwrfgyPyta30JaZJDjjVMqFQiDDk5XrgMdb484W+dfb1V/Di7i7CunxSAovIKMPwL2FLJaZnSFeT0LGck/NFSqW3tLBZtAGN0hG3ypCuoZP7cC2v40aCwyxQtbVh5qzwZ+YvN+YwD67EbvK0um3omSWi~4605232~4605251; Domain=.childrensplace.com; Path=/; Expires=Tue, 16 Jan 2024 15:39:39 GMT; Max-Age=14399
+Server-Timing: cdn-cache; desc=MISS
+Server-Timing: edge; dur=155
+Server-Timing: origin; dur=441
+Server-Timing: ak_p; desc="1705405179493_34664584_474028958_59458_71175_57_36_-";dur=1
+X-Origin-Sls: WEST
+Cached-Timestamp: 1705405180
+Strict-Transport-Security: max-age=15768000 ; includeSubDomains
+Content-Security-Policy: default-src blob: 'self' 'unsafe-inline' ws: wss: data: 'unsafe-eval' *.gymboree.com *.childrensplace.com *.rewardstyle.com dpm.demdex.net tcp.demdex.net *.xtlo.net *.akstat.io *.akamaihd.net *.go-mpulse.net *.adobedtm.com *.google.com *.googleapis.com *.bazaarvoice.com *.getcandid.com *.candid.io *.quantummetric.com *.omniture.com *.vibescm.com search.unbxd.io *.braintreegateway.com *.braintree-api.com *.borderfree.com *.briteverify.com *.raygun.io *.gstatic.com *.theplace.com *.omtrdc.net *.paypal.com *.paypalobjects.com *.iperceptions.com *.melissadata.net *.facebook.net *.facebook.com *.stylitics.com stylitics-ampersand-production.sfo2.cdn.digitaloceanspaces.com comenity.net *.netdna-ssl.com *.comenity.net *.fiftyone.com *.omtrdc.net *.demdex.net *.channeladvisor.com *.impactradius-event.com *.googletagmanager.com *.micpn.com *.bing.com *.filepicker.io *.cloudinary.com *.cloudfront.net *.theplace.com *.netdna-ssl.com *.filepicker.io *.iesnare.com *.googleadservices.com *.steelhousemedia.com *.impactradius-event.com *.channeladvisor.com *.amazonaws.com *.kaptcha.com thechildrensplace.ay6u.net gymboree.fhsxpf.net sugarjade.sjv.io *.unbxdapi.com *.dotomi.com match.prod.bidr.io *.adsrvr.org *.pegacloud.net *.doubleclick.net *.forter.com *.monetate.net *.google-analytics.com *.adroll.com *.wufoo.com *.mapbox.com search-dr.unbxd.io *.afterpay.com *.speedcurve.com *.us.afterpay.com *.cloudflare.com  unpkg.com *.unpkg.com tag.wknd.ai *.bounceexchange.com events.bouncex.net *.cdnwidget.com *.cdnbasket.net *.tiktok.com *.paysecure.acculynk.net cnstrc.com smbh.dev *.cnstrc.com *.smbh.dev *.syteapi.com syteapi.com *.pinterest.com s.pinimg.com pj-place.sjv.io utt.impactcdn.com *.criteo.com *.criteo.net childrensplace.promo.eprize.com *.pega.digital  js.appboycdn.com sdk.iad-05.braze.com www.thebestschooldayever.com braze-images.com *.raygun.com *.turnto.com *.ytimg.com *.pixlee.co *.edgecastcdn.net *.rokt.com *.tcpholidaycountdown.com rest.iad-05.braze.com; worker-src 'self' blob:
+Akamai-Grn: 0.88f01002.1705405179.1c411b9e

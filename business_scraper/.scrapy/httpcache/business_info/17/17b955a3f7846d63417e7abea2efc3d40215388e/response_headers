@@ -1,0 +1,16 @@
+Content-Length: 7616
+Date: Tue, 16 Jan 2024 11:41:51 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Type: text/html; charset=utf-8
+Content-Security-Policy: frame-ancestors 'self' godaddy.com *.godaddy.com test-godaddy.com *.test-godaddy.com dev-godaddy.com *.dev-godaddy.com *.dev-godaddy.com:8443
+Etag: W/"089ef3b16f577658e26c801e0ef7d836-gzip"
+Cache-Control: max-age=0, private, must-revalidate
+X-Request-Id: 8116b680-d483-4571-94c5-5223a28b25b6
+X-Runtime: 0.079748
+Set-Cookie: _nemo_session=bG5xenNBVVMza2I1bG1aWk9vMXVvNXpzbGlPK05YaU5zZXJMOG0zaFMzM08xUkhhTFVzNWdpY2c2bjRUekVSMXhhRno3TFZPQzYrQWUvQnVPN3Z4UnM3cnlnMklvdG5naXNKU3VLMWhLSDVaOTdwZmdkMUV2aUJyWDhQb2ZqblAxYko2dXpGWE14YjZFQnlaOWpvVWtEb0J5ckFINnNrdnN2Y0dXNEtCZlVUQTA0a3NVSXRXQjlYQk9DSjJacmdELS1YeHJNL1V2c0ordEpnZU44QjZKcFZnPT0%3D--2509bbdb613af9dd4a305fd77fecf38ea1b0780b; path=/; HttpOnly
+Via: 1.1 mysimplestore.com
+Vary: Accept-Encoding
+Content-Encoding: gzip

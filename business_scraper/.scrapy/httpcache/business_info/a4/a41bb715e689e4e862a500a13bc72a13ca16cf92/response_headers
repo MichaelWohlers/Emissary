@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:20:13 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 238
+X-Sorting-Hat-Shopid: 62798987503
+X-Storefront-Renderer-Rendered: 1
+Location: https://shopcupidsli.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 62798987503
+X-Shardid: 238
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=8, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="5hs5", requestID;desc="bbebc071-496a-41c3-b39d-e9d6e2664332"
+Server-Timing: cfRequestDuration;dur=36.999941
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: bbebc071-496a-41c3-b39d-e9d6e2664332
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=4VAF%2Fgi9jjMCdE6308HX6Cbpae3pAITRGGyhLiLzI9ClfuVX60AqKpgiTLw4M9vtqmXbfvQeHOTfL6MpWRhKSf1ftFaSrb4HSBYXBSXAlZiVJulpWaaw2xtFDP7M%2BQn0sgA%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8465f7ccb8b76ae8-FRA
+Alt-Svc: h3=":443"; ma=86400

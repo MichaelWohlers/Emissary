@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:47:14 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 272
+X-Sorting-Hat-Shopid: 67471704337
+X-Storefront-Renderer-Rendered: 1
+Location: https://inspostyles.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 67471704337
+X-Shardid: 272
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=8, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="qbbb", requestID;desc="9a4aeb16-6e1f-448b-81e9-7e0448e4e10c"
+Server-Timing: cfRequestDuration;dur=38.999796
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 9a4aeb16-6e1f-448b-81e9-7e0448e4e10c
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=330fr%2Bj%2BK9iCFbmhN7zOzvX%2BkLZ8xH0yrpV6RX8qVNmZ8e6lqkY3T0Gjmkwu6C3Za9L1skkaT0WtB%2BY58n26F7bJwB7KbcL7LN9om8RMpFoyEqSe1yT%2FYP2rjGwvjpFUVJhUMPM%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661f60d8135b50-FRA
+Alt-Svc: h3=":443"; ma=86400

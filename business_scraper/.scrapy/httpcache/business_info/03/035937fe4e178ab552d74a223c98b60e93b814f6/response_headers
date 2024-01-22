@@ -1,0 +1,38 @@
+Date: Tue, 16 Jan 2024 11:21:21 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 175
+X-Sorting-Hat-Shopid: 51064144048
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=2a01463f-1516-4500-b5a8-5e250a422910; path=/; expires=Tue, 16 Jan 2024 11:51:21 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:21:21 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 11:21:21 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=windfallgallery.com; path=/; expires=Wed, 17 Jan 2024 11:21:21 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=3c2e6c3a-c8c0-4a0d-b752-4c4cb0ae52b9; Expires=Wed, 15-Jan-25 11:21:21 GMT; Domain=windfallgallery.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=7bd2ea2b-bf69-4616-89a5-311cf0670ef6; Expires=Tue, 16-Jan-24 11:51:21 GMT; Domain=windfallgallery.com; Path=/; SameSite=Lax
+Etag: "cacheable:69d59b3c49d4a7229233abdac1e2ca1b"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 51064144048
+X-Shardid: 175
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=11;desc="gc:1", db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="117659304112", servedBy;desc="jkkm", requestID;desc="d950c575-9cda-494d-9984-04a7566887de"
+Server-Timing: cfRequestDuration;dur=38.000107
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: d950c575-9cda-494d-9984-04a7566887de
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=AtbksuG0PTXeC3dA0cxPeMuiuvfHfPN3LKjTa9XO93WneALUIlIoXVSehK3qn6t7r60%2F3htGdnqlzhz1qbyAoXbGg2n5E5mjgzo1TJtA56ch7fi%2BPJ2u4uhUK5T%2Be2R3AyPkXv4%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8465f976ad449b5d-FRA
+Alt-Svc: h3=":443"; ma=86400

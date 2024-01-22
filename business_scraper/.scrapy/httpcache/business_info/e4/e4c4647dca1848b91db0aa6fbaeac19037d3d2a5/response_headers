@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 07:03:31 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 137
+X-Sorting-Hat-Shopid: 37197152394
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=6bc48461-3dec-448f-ae4e-19d894077e4d; path=/; expires=Tue, 16 Jan 2024 07:33:31 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 07:03:31 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 07:03:31 GMT; SameSite=Lax
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 07:03:31 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=thefashionspot-tx.com; path=/; expires=Wed, 17 Jan 2024 07:03:31 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=5f95a760-6f9b-461f-9f9c-4f6eef1f0afe; Expires=Wed, 15-Jan-25 07:03:31 GMT; Domain=thefashionspot-tx.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=826be169-7174-4bad-ad31-e66d2a7de46d; Expires=Tue, 16-Jan-24 07:33:31 GMT; Domain=thefashionspot-tx.com; Path=/; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+Etag: "cacheable:c8ab1addf92bcdb7d5c4efc996c91b90"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 37197152394
+X-Shardid: 137
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=13, db;dur=5, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="96486359178", servedBy;desc="4vxz", requestID;desc="f1c4167f-79b7-4362-b08b-0e9497e3fc86"
+Server-Timing: cfRequestDuration;dur=46.999931
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: f1c4167f-79b7-4362-b08b-0e9497e3fc86
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Meoqkg0fH7ufEgit1nCF58UXZZ6eANPvqCv1i8Ceaus%2FzAMa70TdVEDeIyRzNcioLCYFXSPVJj%2FycpyWxQWgNsTEzaRzJrFZJQCWYMZ%2F2uZAcozVIOnjeRm0eLmOz%2FVDq4AlbwWSVw%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84647fc32e379b70-FRA
+Alt-Svc: h3=":443"; ma=86400

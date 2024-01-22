@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 12:01:22 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 217
+X-Sorting-Hat-Shopid: 26317619255
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=b64b8993-d5da-4d61-8849-e5a68d1447ce; path=/; expires=Tue, 16 Jan 2024 12:31:22 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 12:01:22 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 12:01:22 GMT; SameSite=Lax
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 12:01:22 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=gracestrengththeboutique.com; path=/; expires=Wed, 17 Jan 2024 12:01:22 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=7171e84a-e890-4d78-97c3-9a5aa4d2ef31; Expires=Wed, 15-Jan-25 12:01:22 GMT; Domain=gracestrengththeboutique.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=ecc6762e-d572-49a2-9ada-a5c1398734f0; Expires=Tue, 16-Jan-24 12:31:22 GMT; Domain=gracestrengththeboutique.com; Path=/; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+Etag: "cacheable:efcdfdad1924ba76a440ec595f834e4b"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 26317619255
+X-Shardid: 217
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=18;desc="gc:1", db;dur=7, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="83468648503", servedBy;desc="p9hw", requestID;desc="91b2fe1d-6ea4-4352-86ed-dbb189193b6e"
+Server-Timing: cfRequestDuration;dur=57.999849
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 91b2fe1d-6ea4-4352-86ed-dbb189193b6e
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=TsACtRbgS%2BXfYasLvh192GENLUE78ULa3s15G%2BVTGJWbPXmhWXkHpXP3BY1l0AQMPaXZn0vSGWxiVrfAVq7ja2B8qLZYDExZY2bT%2Fg36azyhA4CLB89g6ZD1s3fK6xXrz9mpW4Khl49PJISL3gA%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84663415793e9b8f-FRA
+Alt-Svc: h3=":443"; ma=86400

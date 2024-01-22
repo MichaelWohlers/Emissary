@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:45:41 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 66
+X-Sorting-Hat-Shopid: 4038918211
+X-Storefront-Renderer-Rendered: 1
+Location: https://goldcoastfashions.ca/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 4038918211
+X-Shardid: 66
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=7, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="sc9v", requestID;desc="fbd27ebd-7da6-4cb7-a02b-34a4a835c637"
+Server-Timing: cfRequestDuration;dur=39.000034
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: fbd27ebd-7da6-4cb7-a02b-34a4a835c637
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=UbA6DpXgrFfd3GA7UoB9JQV02ur28pkv%2FWb3rW51k9pl8juZA4%2FjdysaYRD5k4TRx%2BbUAGx4LPeXbB%2Fr9KMg0x6SA4qTZ1pR2caXFaXU77AypMYsKghzkACW7M7EAzfJzTaaLWXq"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661d19dcc79bf5-FRA
+Alt-Svc: h3=":443"; ma=86400

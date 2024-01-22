@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:02:46 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 276
+X-Sorting-Hat-Shopid: 73850716437
+X-Storefront-Renderer-Rendered: 1
+Location: https://demurestylez.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 73850716437
+X-Shardid: 276
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=10, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="gskx", requestID;desc="3ed82d3d-1e30-4ea1-89e4-61355e16fdc6"
+Server-Timing: cfRequestDuration;dur=58.000088
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 3ed82d3d-1e30-4ea1-89e4-61355e16fdc6
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=7b3n%2Bx77G%2BD0%2F9fjOeBnmHZf%2F%2BEnCg37lLSLz05dJNaxhRliQM21GgZve9E1f1mSiHqYv6epQAVfw1QVR9aXpeZCTb9wK1cCIeh6fUpuStf48rE7GYYXhXes%2FWReDaN07umWwZij"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8465de3c0cff2c39-FRA
+Alt-Svc: h3=":443"; ma=86400

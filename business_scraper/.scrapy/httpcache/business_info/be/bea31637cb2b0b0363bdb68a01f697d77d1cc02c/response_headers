@@ -1,0 +1,26 @@
+Date: Tue, 16 Jan 2024 11:51:12 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Set-Cookie: fornax_anonymousId=d8bfbdaf-3a79-4052-a409-08857e1dd1d8; Expires=Thu, 15 Jan 2026 11:51:11 GMT; Path=/; Secure; SameSite=None
+Set-Cookie: athena_short_visit_id=d5e825cd-d9d2-4018-9b5c-4c1da7d4dc3b:1705405871; Expires=Tue, 16 Jan 2024 12:21:11 GMT; Path=/; Secure; HttpOnly; SameSite=None
+Set-Cookie: Shopper-Pref=F8E9F8EAD69C2EB38036115DAA2DCCF6DC2DB1E9-1706010672352-x%7B%22cur%22%3A%22USD%22%7D; Expires=Tue, 23 Jan 2024 11:51:12 GMT; Path=/; HttpOnly
+Set-Cookie: XSRF-TOKEN=e26edde136a3f6cc05da5b2bbf6839d58d908f865f1a2d90cbd9949d37e72f20; path=/; Secure; SameSite=none
+Set-Cookie: SHOP_SESSION_TOKEN=4a0a977c-f6c7-452a-8ced-529aac6f4301; Expires=Tue, 23 Jan 2024 11:51:12 GMT; Path=/; Secure; HttpOnly; SameSite=None
+Link: <https://cdn.judge.me/widget_preloader.js>; rel=preload; as=script, <https://swymv3pro-01.azureedge.net/code/swym-bigcommerce.js>; rel=preload; as=script, <https://dnuaqhs941n75.cloudfront.net/js/bigcommerce/bigcommerce_tracking.js>; rel=preload; as=script, <https://cowgirltuff.com/content/magiczoomplus/magiczoomplus.stencil.js>; rel=preload; as=script, <https://static.zotabox.com/2/7/272123b956265877968eb0eacd1f94a5/widgets.js>; rel=preload; as=script, <https://bc.hexgator.com/social-login/script.js?store_hash=g0d6qu64kx>; rel=preload; as=script, <https://cdn-payhelm.s3.amazonaws.com/js/payhelm.1.0.0.js>; rel=preload; as=script, <https://static.zotabox.com/2/7/272123b956265877968eb0eacd1f94a5/widgets.js>; rel=preload; as=script, <https://edge.personalizer.io/storefront/2.0.0/js/bigcommerce/storefront.min.js?key=lbgco-e1xhz4nk6yf7ays2de9msg-shmze>; rel=preload; as=script, <https://static.klaviyo.com/onsite/js/klaviyo.js?company_id=RD9E5M>; rel=preload; as=script, <https://static.zotabox.com/2/7/272123b956265877968eb0eacd1f94a5/widgets.js>; rel=preload; as=script, <https://evmbcwheel.expertvillagemedia.com/assets/front-end-js/evm_spin.js?data-evm-shop-id=store-g0d6qu64kx.mybigcommerce.com>; rel=preload; as=script, <https://static.zotabox.com/2/7/272123b956265877968eb0eacd1f94a5/widgets.js>; rel=preload; as=script, <https://chimpstatic.com/mcjs-connected/js/users/d9123a0cfcf536584cbcc4d7c/47fdfa0be20a7a99a84450bc8.js>; rel=preload; as=script
+Link: <https://cdn11.bigcommerce.com/s-g0d6qu64kx>; rel=preconnect; as=font; crossorigin=anonymous, <https://fonts.googleapis.com/>; rel=preconnect; as=font; crossorigin=anonymous, <https://fonts.gstatic.com/>; rel=preconnect; as=font; crossorigin=anonymous, <https://fonts.googleapis.com/css?family=Roboto+Condensed:400,600%7COswald:400%7CRoboto:400,700%7CBarlow:700&display=swap>; rel=preload; as=style, <https://cdn11.bigcommerce.com/s-g0d6qu64kx/stencil/aafdaa70-071c-013c-6c6f-2ef73530eed0/e/813f6d60-2e64-013c-96a3-72e83671cd40/css/theme-cfbb7ac0-8cd7-013c-c14e-5ad99c9292ff.css>; rel=preload; as=style
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Strict-Transport-Security: max-age=0
+X-Frame-Options: deny
+X-Request-Id: 7d5de65d71f89922eae344f9db46c566
+Content-Encoding: gzip
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=YHszh%2BBZmKe6iHYHF7AxVBjwWeajcA76FLA%2Fr3krwrPRdV8h1cSyu2wS9tXP2bFhXTxoh%2BeXt3IXvaUg4199nWOjIxhgASlE61XzvtmSS9F8KtDmJeabfGilXAn6kCq9PYTMyrM%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Bc-Ray: 1
+Server: cloudflare
+Cf-Ray: 8466252b1a6d9195-FRA
+Alt-Svc: h3=":443"; ma=86400

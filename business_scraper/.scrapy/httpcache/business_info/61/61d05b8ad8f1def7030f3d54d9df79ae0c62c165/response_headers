@@ -1,0 +1,38 @@
+Date: Tue, 16 Jan 2024 07:05:31 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 199
+X-Sorting-Hat-Shopid: 58175094984
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=361e797e-5a4d-402c-9481-b9d6f5a1bcf5; path=/; expires=Tue, 16 Jan 2024 07:35:31 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 07:05:31 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 07:05:31 GMT; SameSite=Lax
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 07:05:31 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Afalse%2C%22a%22%3Afalse%2C%22m%22%3Afalse%2C%22t%22%3Afalse%7D%2C%22display_banner%22%3Atrue%2C%22sale_of_data_region%22%3Afalse%7D; domain=passionofessence.com; path=/; expires=Wed, 17 Jan 2024 07:05:31 GMT; SameSite=Lax
+Set-Cookie: _tracking_consent=%7B%22reg%22%3A%22GDPR%22%2C%22con%22%3A%7B%22CMP%22%3A%7B%22a%22%3A%22%22%2C%22p%22%3A%22%22%2C%22s%22%3A%22%22%2C%22m%22%3A%22%22%7D%7D%2C%22lim%22%3A%5B%22CCPA%22%2C%22GDPR_BLOCK_ALL%22%5D%2C%22v%22%3A%222.1%22%2C%22region%22%3A%22DERP%22%7D; Expires=Wed, 15-Jan-25 07:05:31 GMT; Domain=passionofessence.com; Path=/; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+Etag: "cacheable:e7317bfff6012c67b9fce8d12497cef6"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 58175094984
+X-Shardid: 199
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=20, db;dur=7, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="128026968264", servedBy;desc="mlqz", requestID;desc="30af966e-c91e-4369-9acb-250787b3bcfd"
+Server-Timing: cfRequestDuration;dur=46.999931
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 30af966e-c91e-4369-9acb-250787b3bcfd
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=%2B16fpgfx9eoUvJBhSlS%2BkfDc7kHO1RtS6Q%2B1qR4A%2FOJKbUjEnsQwfokvwWrod7%2FtbdANbTMz2F9kwfyJ9UMpr%2BEtigHdqXF5C%2BafjVVbd35%2FcsjqvRun22N%2FjUbFF6oqr0P0t76y"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846482b5cd875d7f-FRA
+Alt-Svc: h3=":443"; ma=86400

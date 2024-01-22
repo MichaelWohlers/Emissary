@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:35:05 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 60
+X-Sorting-Hat-Shopid: 55000236093
+X-Storefront-Renderer-Rendered: 1
+Location: https://cocomarieboutique.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 55000236093
+X-Shardid: 60
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=8, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="5z4n", requestID;desc="2b7308c5-65d2-4969-8a1f-dcb99b47e175"
+Server-Timing: cfRequestDuration;dur=36.999941
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 2b7308c5-65d2-4969-8a1f-dcb99b47e175
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=2CKotqETQ2jY3%2FH9Kp6aAq1qr8c47wXHBGJn0ymHjvLNamkVJnjh6M5Hkdj69rqrAIt7wqNttEyq2HmbLA%2FZz07tevxKJ7PyEJea4YOmxIJEfnMNlsLMyer8%2BL3ztiV2Ai3dBm7SEW4VD50%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84660d936c191957-FRA
+Alt-Svc: h3=":443"; ma=86400

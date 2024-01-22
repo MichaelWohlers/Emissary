@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 12:04:25 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 251
+X-Sorting-Hat-Shopid: 5582454887
+X-Storefront-Renderer-Rendered: 1
+Location: https://marsclothing.ca/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 5582454887
+X-Shardid: 251
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=8, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="l2p5", requestID;desc="e291c22d-58ee-4b05-af9c-2ce83e4e54ad"
+Server-Timing: cfRequestDuration;dur=38.000107
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: e291c22d-58ee-4b05-af9c-2ce83e4e54ad
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=n3HiO5RyP8z8nMwDEZ%2BNl8hvmSv7PrR87skkkIZThwoYC%2BGQwYZJnI1Fg0LWZpFJOv%2FCHOeGnvdxXO5Oh9TNEde0AcJWNCGVvvgGAkPPKPMys2S6aHpXqlZZ0G8kou96UvFNqkQ%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84663889aa8ebbd7-FRA
+Alt-Svc: h3=":443"; ma=86400

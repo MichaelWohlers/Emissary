@@ -1,0 +1,9 @@
+User-Agent: * 
+Disallow: /data-process
+Disallow: /zg_excell_ping
+Disallow: /zg-upgrade
+Disallow: /login
+Disallow: /logout
+Disallow: /_pymt-rcvd
+Disallow: /administrator
+Sitemap: http://www.maneattractionhairstudio.com/sitemap.xml

@@ -1,0 +1,41 @@
+Date: Tue, 16 Jan 2024 11:36:35 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 185
+X-Sorting-Hat-Shopid: 51996885178
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=53b10d17-66dc-4fe8-8e7e-63c638e262c8; path=/; expires=Tue, 16 Jan 2024 12:06:35 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:36:35 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 11:36:35 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:36:35 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=theleopardroseboutique.com; path=/; expires=Wed, 17 Jan 2024 11:36:35 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=d8308c75-dfed-4a1b-8a7f-fd15b4cbd3c8; Expires=Wed, 15-Jan-25 11:36:35 GMT; Domain=theleopardroseboutique.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=0f3f6b35-819a-4c04-b7d2-224cc4d2e9f1; Expires=Tue, 16-Jan-24 12:06:35 GMT; Domain=theleopardroseboutique.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 11:36:35 GMT; Domain=theleopardroseboutique.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2F; Expires=Tue, 30-Jan-24 11:36:35 GMT; Domain=theleopardroseboutique.com; Path=/; HttpOnly; SameSite=Lax
+Etag: "cacheable:cce8ee64b6244d8f8b095f91d97eb467"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 51996885178
+X-Shardid: 185
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=11, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="116877918394", pageType;desc="index", servedBy;desc="bvfp", requestID;desc="81a6925a-5325-474e-8d9b-bb4bfec0b144"
+Server-Timing: cfRequestDuration;dur=40.999889
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 81a6925a-5325-474e-8d9b-bb4bfec0b144
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Z2STrwD1vCMLozzfj6Vfu01gbVobtil%2BuyASL0HA2v2q9W%2FIrknhyA4a7DV9ZbeGrJeb2Lpg%2FoS3Nr%2F1OTETivIR4q7%2FipQ4eyQi4WuPoxohuh3TUVtpIcl5XrwCQjhWlH0XoOvq%2BjjLM%2FKZ"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84660fc668b75d80-FRA
+Alt-Svc: h3=":443"; ma=86400

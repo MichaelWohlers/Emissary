@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:33:44 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 34
+X-Sorting-Hat-Shopid: 2410250275
+X-Storefront-Renderer-Rendered: 1
+Location: https://shopmainattire.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 2410250275
+X-Shardid: 34
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=8, db;dur=2, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="9gm4", requestID;desc="e177948f-ad0c-4539-bc81-cebea39899b4"
+Server-Timing: cfRequestDuration;dur=85.000038
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: e177948f-ad0c-4539-bc81-cebea39899b4
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=dCRmtXtMDtMM1x%2B2C9%2F%2BRrb9bgnHBLCZgdZhysUOE5OZYYu9WQQ1GeeMxggq5t74BZYGlHHnRzf2yv7RlhpEYt75yCnWYZ8MjWYRWh%2Bbzkp3JbcYbLKv4CXR7sK9fGydoRr9FOJWcts%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84660b9a0be41e32-FRA
+Alt-Svc: h3=":443"; ma=86400

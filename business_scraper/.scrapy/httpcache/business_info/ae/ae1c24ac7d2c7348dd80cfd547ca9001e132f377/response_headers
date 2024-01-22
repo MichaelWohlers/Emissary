@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:51:26 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 240
+X-Sorting-Hat-Shopid: 63769870577
+X-Storefront-Renderer-Rendered: 1
+Location: https://meriminj.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 63769870577
+X-Shardid: 240
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=6, db;dur=2, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="46mn", requestID;desc="d20c3415-8558-4344-8cc9-094f5e2f8f65"
+Server-Timing: cfRequestDuration;dur=44.000149
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: d20c3415-8558-4344-8cc9-094f5e2f8f65
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=XComZs5FQq4tAw7WQQf6zw75impWpoDXE7HdC%2Fs6tCfK%2BZYM9QGZrps30QfSC50fcwdZ328m7JjXYAhAy%2BW4N13moD69KiuBgZ4jGBWcQ4Qx9hHrxGLbbEi5hY5C7%2F8zAgI%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84662583ddd065b9-FRA
+Alt-Svc: h3=":443"; ma=86400

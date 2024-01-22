@@ -1,0 +1,16 @@
+Content-Length: 286
+Server: Nacho Web Server
+Last-Modified: Wed, 17 Feb 2021 19:39:56 GMT
+Accept-Ranges: bytes
+Ntcoent-Length: 895
+Content-Type: text/plain; charset=UTF-8
+X-Frame-Options: SAMEORIGIN ALLOW-FROM https://design-use.ci360.sas.com
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Cache-Control: private, max-age=63658
+Date: Tue, 16 Jan 2024 04:46:34 GMT
+Server-Timing: cdn-cache; desc=HIT
+Server-Timing: edge; dur=6
+Server-Timing: ak_p; desc="1705380394595_390277146_485089203_623_22994_108_67_-";dur=1
+Strict-Transport-Security: max-age=86400
+Set-Cookie: ak_bmsc=0A1552780C1DE48ACC2D3C8FE2B5D05E~000000000000000000000000000000~YAAQGihDF3ewqPSMAQAAxLaXEBa20zJLVyJ9RZAjT1mHM6RqMc8/0i7S2djxHVd6kaekrEpRSyd6twD8RLg5lJa4FnUXNUUo0bKRsrNaps4wyGMYjbPD/fxwId58sZqVuqjso+54hYkqT3gNgI1M/xLWjsGRO66eHfbeAULzLFPEKEdrqpXfIr6KKxF+29ECfou+89RM56EF7AOGWh/CW3AQo+e+fgHNTL5O+1a5vs0U6cNfxJ8fQWZhsnc2rN/DYi+4uDi03GPZtf0YeyCYZIMF/kmTw9D7eKM3WFqCdnmtEAlR9syTCpnjvZiAib5jWIhBvhjFsGxIlcADHyoG6Ki3vHmBXd3K1qshMBQg5VejNT52Thchv53j8w==; Domain=.chicos.com; Path=/; Expires=Tue, 16 Jan 2024 06:46:34 GMT; Max-Age=7200; HttpOnly

@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 04:54:56 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 172
+X-Sorting-Hat-Shopid: 4832952418
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=fde9226e-19ce-4ea3-a44e-95ac282b27a1; path=/; expires=Tue, 16 Jan 2024 05:24:56 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 04:54:56 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 04:54:56 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 04:54:56 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=moderngrooveboutique.com; path=/; expires=Wed, 17 Jan 2024 04:54:56 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=923dae48-b976-4e6c-b10e-e65ef2a32483; Expires=Wed, 15-Jan-25 04:54:56 GMT; Domain=moderngrooveboutique.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=0613c2b5-2ff2-43a1-ac7e-15577dc59f64; Expires=Tue, 16-Jan-24 05:24:56 GMT; Domain=moderngrooveboutique.com; Path=/; SameSite=Lax
+Etag: "cacheable:cbf41ffa61161f4e0d1ac0f37ebb7a52"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 4832952418
+X-Shardid: 172
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=10, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="132355784877", servedBy;desc="c8wd", requestID;desc="64224e88-b6dc-4ce0-b55e-11cfaef4e534"
+Server-Timing: cfRequestDuration;dur=37.999868
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 64224e88-b6dc-4ce0-b55e-11cfaef4e534
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=z%2BsoU%2FoSpVOQ1IBsegKRvXIvxUyInVZ1Rg7jkuy3CJ%2FO2A%2F%2BuJBpxTxMhbqL3xPOv3A6Wq1EyEfGYoEqG%2BczU9usyPL0z8tyGQf5%2BXh5mGhJ%2BTnX20bd%2FxXm%2FpYONr28vdH8npImbDtIISVka2Y%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8463c368ba552c6f-FRA
+Alt-Svc: h3=":443"; ma=86400

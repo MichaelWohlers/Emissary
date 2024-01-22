@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:47:20 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 153
+X-Sorting-Hat-Shopid: 35826368557
+X-Storefront-Renderer-Rendered: 1
+Location: https://klassydivine.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 35826368557
+X-Shardid: 153
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=7, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="w6wv", requestID;desc="8fdd09d0-aea7-4f12-a89d-29a23195d946"
+Server-Timing: cfRequestDuration;dur=57.000160
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 8fdd09d0-aea7-4f12-a89d-29a23195d946
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=I5LL4QzI5E%2Fc%2FtBLmRBr4vg7gfApPvJ19d%2BF9wHgfj8Gqe%2FkTVPsaFAtTC08gK2EUKx4%2FUHUQkWQXHeyR1pL4mQ7o8mKhp6VJK%2BLM%2FXc9B2peC1NcZKv5ZQIuQxuIUeoVJg%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661f876e4235e7-FRA
+Alt-Svc: h3=":443"; ma=86400

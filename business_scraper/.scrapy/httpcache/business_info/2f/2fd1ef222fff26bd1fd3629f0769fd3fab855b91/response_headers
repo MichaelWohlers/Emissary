@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:34:35 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 238
+X-Sorting-Hat-Shopid: 6376554567
+X-Storefront-Renderer-Rendered: 1
+Location: https://charmedboutique.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 6376554567
+X-Shardid: 238
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=12, db;dur=5, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="gskx", requestID;desc="11b79351-7a81-4999-871e-f922f6e67986"
+Server-Timing: cfRequestDuration;dur=39.999962
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 11b79351-7a81-4999-871e-f922f6e67986
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=EhoYTpPqXjK94XSfLyfFGsoKy%2BdociwvUGPi3nx%2FiYta6qDIcq0X3j%2Br6qFOvW9dXF%2FYPtx%2FstZmDU0cEcxEh3TtaLQv7MjXyJAqaGjnlbsSFDtWAYFbC9LXGVsUxUNq%2F9FJmpRKj4t1"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84660cda18ec2c3b-FRA
+Alt-Svc: h3=":443"; ma=86400

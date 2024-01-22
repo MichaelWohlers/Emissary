@@ -1,0 +1,15 @@
+Content-Length: 258
+Accept-Ranges: bytes
+Content-Type: text/plain
+Last-Modified: Wed, 12 May 2021 15:28:44 GMT
+Content-Encoding: gzip
+X-Frame-Options: DENY
+Cache-Control: max-age=3600
+Expires: Tue, 16 Jan 2024 05:47:04 GMT
+Date: Tue, 16 Jan 2024 04:47:04 GMT
+Vary: Accept-Encoding
+Set-Cookie: akaalb_mar_prod_alb=~op=~rv=60~m=~os=~id=1939e8c1bab7444a10c87047caf1aa49; path=/; HttpOnly; Secure; SameSite=None
+Set-Cookie: x-tjx-CBTC=44fa658a9dca4cd4b2cf092c1867534d; path=/; domain=.www.marshalls.com; Secure
+X-Req: ut,1705380424,23.67.40.64:22a5eb5e,
+X-Xss-Protection: 1; mode=block;
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains

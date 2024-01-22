@@ -1,0 +1,41 @@
+Date: Tue, 16 Jan 2024 11:02:23 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 300
+X-Sorting-Hat-Shopid: 83647070509
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=1f8be229-ea41-46f9-8fd1-ed6812a95440; path=/; expires=Tue, 16 Jan 2024 11:32:23 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:02:23 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:02:23 GMT; SameSite=Lax
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:02:23 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=apricotlanefriendswood.com; path=/; expires=Wed, 17 Jan 2024 11:02:23 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=546778a7-34ae-4df5-9295-6cd322faa4c7; Expires=Wed, 15-Jan-25 11:02:23 GMT; Domain=apricotlanefriendswood.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=b8e50116-5e30-4786-8df5-6b23becefac1; Expires=Tue, 16-Jan-24 11:32:23 GMT; Domain=apricotlanefriendswood.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 11:02:23 GMT; Domain=apricotlanefriendswood.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2F; Expires=Tue, 30-Jan-24 11:02:23 GMT; Domain=apricotlanefriendswood.com; Path=/; HttpOnly; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+Etag: "cacheable:c54d9b180c696b13cd9011673799379e"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 83647070509
+X-Shardid: 300
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=491;desc="gc:70", db;dur=108, fetch;dur=124, render;dur=136, wasm, wasmDownload;dur=125, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="161253359917", pageType;desc="index", servedBy;desc="sc9v", requestID;desc="65bc362a-d379-4452-8454-f3eddf99a123"
+Server-Timing: cfRequestDuration;dur=515.000105
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 65bc362a-d379-4452-8454-f3eddf99a123
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=PTj0ijqs%2FKNutItT9e8n0B0zRwU6SoVDkG%2BPTENbQbMB78iDi20RL9YrGi7FC6Iq55cs1rtqtesaddGgUXmKeKOkrsJb9%2BU%2FQhFAcKlI%2F8%2F61YvxArDpBZJe8QP9Gn4zMe1K%2FESGUogFfdQu"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8465ddab88919b3d-FRA
+Alt-Svc: h3=":443"; ma=86400

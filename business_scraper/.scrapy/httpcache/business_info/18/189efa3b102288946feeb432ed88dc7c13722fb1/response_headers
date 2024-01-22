@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:51:25 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 308
+X-Sorting-Hat-Shopid: 7262568551
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=e0476e0a-d58f-47e2-8cec-6b485887604f; path=/; expires=Tue, 16 Jan 2024 12:21:25 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:51:25 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 11:51:25 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:51:25 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=aquashoresboutique.com; path=/; expires=Wed, 17 Jan 2024 11:51:25 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=d00d04a5-9a00-43ce-8b60-99ac2eb2b898; Expires=Wed, 15-Jan-25 11:51:25 GMT; Domain=aquashoresboutique.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=f8b61e1a-7ff4-42ef-93b7-496a4520052c; Expires=Tue, 16-Jan-24 12:21:25 GMT; Domain=aquashoresboutique.com; Path=/; SameSite=Lax
+Etag: "cacheable:2825d4b1fdfe0d4723592ad9dc601c03"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 7262568551
+X-Shardid: 308
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=46;desc="gc:32", db;dur=36, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="120710135911", servedBy;desc="zxnk", requestID;desc="38a34d4c-6dc3-432e-b074-60bcd5dcd85b"
+Server-Timing: cfRequestDuration;dur=74.000120
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 38a34d4c-6dc3-432e-b074-60bcd5dcd85b
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=FJeyMrtktqs6g7qqC8Y13x1lfJak85jr0sU8C4bdhY0nTudwORGBpypW8TU%2BC7O%2BbgaAbokXYN%2B5xmVlvQ7CXhe8dSdffdQPnbf0hTjtxIIU1MIsyYK5Six6RlyGFhJtTk%2FfflWC2OA%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846625816d411c79-FRA
+Alt-Svc: h3=":443"; ma=86400

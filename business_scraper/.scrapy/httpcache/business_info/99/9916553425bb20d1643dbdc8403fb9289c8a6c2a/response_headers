@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:51:38 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 152
+X-Sorting-Hat-Shopid: 15531475
+X-Storefront-Renderer-Rendered: 1
+Location: https://lolamays.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 15531475
+X-Shardid: 152
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=11;desc="gc:1", db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="h7h8", requestID;desc="923c3d39-8c11-4388-8cd0-372dbf22a220"
+Server-Timing: cfRequestDuration;dur=57.000160
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 923c3d39-8c11-4388-8cd0-372dbf22a220
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=fI86DjKHXwE96F%2FvVDM5gkuSCRxhlU0IIkgFnM6n4G8hyR%2BcDa9K8gtZ4iwlxS5YpVAi0ddxWF3JRKDk6sEUpR0Bv12%2BH%2FLEAWSe5ccGqHnppWnowQJB%2FOLpMEA8kP5nEKA%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846625d26fae65bb-FRA
+Alt-Svc: h3=":443"; ma=86400

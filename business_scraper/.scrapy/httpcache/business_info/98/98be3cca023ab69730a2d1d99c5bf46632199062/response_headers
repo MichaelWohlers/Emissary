@@ -1,0 +1,18 @@
+Content-Length: 36
+Content-Type: text/plain
+Last-Modified: Mon, 30 Mar 2020 13:03:11 GMT
+X-Amz-Version-Id: null
+Accept-Ranges: bytes
+Server: AmazonS3
+Date: Tue, 16 Jan 2024 07:21:42 GMT
+Etag: "c508f284162c27565dabce42da5b9691"
+X-Cache: Hit from cloudfront
+Via: 1.1 a350f357b825293e306b1b0a2cb490c0.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: FRA6-C1
+X-Amz-Cf-Id: VtcE7kldMP9PIAQHssJDAUH8Hxa8U6SIXhKqTeyoj-WpwgRnwR-UwA==
+Age: 15292
+X-Xss-Protection: 1; mode=block
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'self'; upgrade-insecure-requests;
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload

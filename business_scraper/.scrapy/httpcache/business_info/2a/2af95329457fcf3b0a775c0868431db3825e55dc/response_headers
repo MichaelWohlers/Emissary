@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:41:19 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 154
+X-Sorting-Hat-Shopid: 47965438107
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=720d4f83-d92b-4701-ab92-21be2a9f90d1; path=/; expires=Tue, 16 Jan 2024 12:11:19 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:41:19 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 11:41:19 GMT
+Set-Cookie: cart_currency=EUR; path=/; expires=Tue, 30 Jan 2024 11:41:19 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=shadow-fashion-clothing.myshopify.com; path=/; expires=Wed, 17 Jan 2024 11:41:19 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=ca1285b9-1966-4ec4-95f8-7264f15cb89c; Expires=Wed, 15-Jan-25 11:41:19 GMT; Domain=shadow-fashion-clothing.myshopify.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=45e0ad65-3019-4e6e-84f0-6a2c19dbaf4e; Expires=Tue, 16-Jan-24 12:11:19 GMT; Domain=shadow-fashion-clothing.myshopify.com; Path=/; SameSite=Lax
+Etag: "cacheable:38864dea2d4dff52ae21b67b569edaca"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 47965438107
+X-Shardid: 154
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=16, db;dur=7, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="110716092571", servedBy;desc="z2pp", requestID;desc="bb48ce56-aa5c-4856-81eb-d354b9ef1db5"
+Server-Timing: cfRequestDuration;dur=62.999964
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: bb48ce56-aa5c-4856-81eb-d354b9ef1db5
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=gwbkVXbTk7W4jd5hKmF%2FOG%2Fwxp8ZT9gcX62y1%2B50apTb%2FYxiEWv6m1Ke3sX3aEf0HkathVj8v64LKouiDhqdsG837O3tZ%2Fkenks%2B1Fn1pFe7Bx92zeyuGjZgJWZhOIjADhF3FerETFK1k5Yhj34B9hUYwd2U53U%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846616b6aad237c8-FRA
+Alt-Svc: h3=":443"; ma=86400

@@ -1,0 +1,18 @@
+Content-Length: 234
+Content-Type: text/html; charset=iso-8859-1
+Server: Apache
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST, GET, OPTIONS, DELETE, PUT
+Access-Control-Max-Age: 1000
+Access-Control-Allow-Headers: x-requested-with, Content-Type, origin, authorization, accept, client-security-token, Accept-Encoding
+Location: http://sheshedfashion.com/
+Via: 1.1 varnish, 1.1 varnish
+X-Cacheable: YES
+Accept-Ranges: bytes
+Date: Tue, 16 Jan 2024 11:40:43 GMT
+Age: 3
+X-Served-By: cache-chi-klot8100050-CHI, cache-fra-eddf8230065-FRA
+X-Cache: MISS, HIT
+X-Cache-Hits: 0, 1
+X-Timer: S1705405243.475375,VS0,VE1
+Strict-Transport-Security: max-age=900

@@ -1,0 +1,41 @@
+Date: Tue, 16 Jan 2024 11:21:09 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 86
+X-Sorting-Hat-Shopid: 55101620311
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=fbe97dbc-32ec-4b81-b823-03abd5b8f605; path=/; expires=Tue, 16 Jan 2024 11:51:09 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:21:09 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:21:09 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:21:09 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=luvluxboutique.com; path=/; expires=Wed, 17 Jan 2024 11:21:09 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=99935781-a6da-4a6f-820f-3428a5fc83c7; Expires=Wed, 15-Jan-25 11:21:09 GMT; Domain=luvluxboutique.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=547a34a6-3d32-4bb1-96fd-c1f36ce21d79; Expires=Tue, 16-Jan-24 11:51:09 GMT; Domain=luvluxboutique.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 11:21:09 GMT; Domain=luvluxboutique.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2F; Expires=Tue, 30-Jan-24 11:21:09 GMT; Domain=luvluxboutique.com; Path=/; HttpOnly; SameSite=Lax
+Etag: "cacheable:5220b586189d09dae906f3bfec5bc89e"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin, <//www.luvluxboutique.com/cdn/shop/files/F63680BD-A6A0-4DB5-896F-7B2DFA6707D5.png?v=1705102476&width=600>; as="image"; rel="preload"; imagesrcset="//www.luvluxboutique.com/cdn/shop/files/F63680BD-A6A0-4DB5-896F-7B2DFA6707D5.png?v=1705102476&width=120 120w, //www.luvluxboutique.com/cdn/shop/files/F63680BD-A6A0-4DB5-896F-7B2DFA6707D5.png?v=1705102476&width=180 180w, //www.luvluxboutique.com/cdn/shop/files/F63680BD-A6A0-4DB5-896F-7B2DFA6707D5.png?v=1705102476&width=240 240w"; imagesizes="(max-width: 240px) 50vw, 120px"
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 55101620311
+X-Shardid: 86
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=15;desc="gc:1", db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="125475389527", pageType;desc="index", servedBy;desc="46mn", requestID;desc="ad19b278-bb95-4237-8995-10c828b9f658"
+Server-Timing: cfRequestDuration;dur=39.999962
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: ad19b278-bb95-4237-8995-10c828b9f658
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=rslVin%2Ff34otrWKx2dYpSEv6HMYUdvdjNXIxq0vhgIaL6FhJeQXjGbn%2F%2FIVpm%2FA76O4i82rzc%2F8kYE4J2fJHMDPLHm6krxjkuk%2BlTyiDqOy1C%2FySyOPR17d%2FIjEm6wLmmElayGrXpRE%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8465f9292fca4dac-FRA
+Alt-Svc: h3=":443"; ma=86400

@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:40:56 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 220
+X-Sorting-Hat-Shopid: 64533004509
+X-Storefront-Renderer-Rendered: 1
+Location: https://shopsweetsouthern.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 64533004509
+X-Shardid: 220
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=8, db;dur=2, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="zqhd", requestID;desc="6a85b135-b2de-4067-a906-614f89082c45"
+Server-Timing: cfRequestDuration;dur=46.000004
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 6a85b135-b2de-4067-a906-614f89082c45
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=XZHu9PVZhbw5lVdX10F1I%2FBfy%2FaqUQ9Z%2B%2BcJ%2BXJP1pNGwqO41NYk2aAQjZNnULEvSu9X3veojGVXR1R2a0w%2FQgzl6QPQ8sFwDDgt7iV62UzXwSaaWVHUz8MyvlzyDqq4ksacZAtZTVn1xqI%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661622cf819156-FRA
+Alt-Svc: h3=":443"; ma=86400

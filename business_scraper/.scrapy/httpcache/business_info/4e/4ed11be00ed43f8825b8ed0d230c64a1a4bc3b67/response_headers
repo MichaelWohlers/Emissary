@@ -1,0 +1,13 @@
+Date: Tue, 16 Jan 2024 11:57:41 GMT
+Server: nginx/1.21.6
+Content-Type: text/html; charset=UTF-8
+Link: <https://crufashionagency.com/wp-json/>; rel="https://api.w.org/", <https://crufashionagency.com/wp-json/wp/v2/pages/15>; rel="alternate"; type="application/json", <https://crufashionagency.com/>; rel=shortlink
+Cache-Control: max-age=7200
+Expires: Tue, 16 Jan 2024 13:57:41 GMT
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Host-Header: c2hhcmVkLmJsdWVob3N0LmNvbQ==
+X-Endurance-Cache-Level: 2
+X-Nginx-Cache: WordPress
+X-Server-Cache: true
+X-Proxy-Cache: EXPIRED

@@ -1,0 +1,38 @@
+Date: Tue, 16 Jan 2024 11:35:45 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 295
+X-Sorting-Hat-Shopid: 17679384630
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=3367c1ec-52dc-4d4a-8295-8a2edc918b9c; path=/; expires=Tue, 16 Jan 2024 12:05:45 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:35:45 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:35:45 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:35:45 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Afalse%2C%22a%22%3Afalse%2C%22m%22%3Afalse%2C%22t%22%3Afalse%7D%2C%22display_banner%22%3Atrue%2C%22sale_of_data_region%22%3Afalse%7D; domain=gra-cs.myshopify.com; path=/; expires=Wed, 17 Jan 2024 11:35:45 GMT; SameSite=Lax
+Set-Cookie: _tracking_consent=%7B%22v%22%3A%222.1%22%2C%22region%22%3A%22DERP%22%2C%22reg%22%3A%22GDPR%22%2C%22con%22%3A%7B%22CMP%22%3A%7B%22p%22%3A%22%22%2C%22s%22%3A%22%22%2C%22m%22%3A%22%22%2C%22a%22%3A%22%22%7D%7D%2C%22lim%22%3A%5B%22GDPR_BLOCK_ALL%22%5D%7D; Expires=Wed, 15-Jan-25 11:35:45 GMT; Domain=gra-cs.myshopify.com; Path=/; SameSite=Lax
+Etag: "cacheable:f811cc9d795f08756f6cdcdb9d2660e7"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 17679384630
+X-Shardid: 295
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=10;desc="gc:1", db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="51360366646", pageType;desc="index", servedBy;desc="67nn", requestID;desc="766ec342-b273-43d3-bc9b-6d9701285eb1"
+Server-Timing: cfRequestDuration;dur=33.999920
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 766ec342-b273-43d3-bc9b-6d9701285eb1
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=dgUBfgPkNJGbAZkKHEa9xrFB3eGgS8GDyq25Am595kYaw2M15%2BOt46LK%2F8oquopUUz94Xcn83Qm3mvxBiQG2W%2Fw0H5piIValCXcMoUSop5Vu6XHJwzZx1fZA%2FgsVJI3qsUjIUKBQ"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84660e8c58839bdd-FRA
+Alt-Svc: h3=":443"; ma=86400

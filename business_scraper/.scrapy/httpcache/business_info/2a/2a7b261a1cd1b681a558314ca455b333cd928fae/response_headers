@@ -1,0 +1,22 @@
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: max-age=0, s-maxage=7200, must-revalidate
+Cf-Cache-Status: REVALIDATED
+Cf-Ray: 846611cfbc1c72e9-IAD
+Content-Encoding: gzip
+Content-Type: text/html; charset=utf-8
+Date: Tue, 16 Jan 2024 11:37:59 GMT
+Etag: "2c73ab58b097266a017a8e70c81f69ed"-gzip
+Last-Modified: Tue, 02 Jan 2024 14:45:16 GMT
+Owner: sitescog-350
+Pagesurlcustomfieldinfo: location.custom.583452.american_eagle_pages.0:en:1726174
+Redirectstableidentifier: 350:Locations:en:1726174
+Server: cloudflare
+Set-Cookie: __cf_bm=F1I0nRSmWBBn2wPoPQEcONTHwbQ1_hNrJXKGpnMx9e0-1705405079-1-Ae/kCY4i1ciyBbZcKEO8iwpseoRjU418CpSglYshDecpjVDdxxLiIliYu8cKzGbGyeKtjc2DR+cqP18dvHU1wpg=; path=/; expires=Tue, 16-Jan-24 12:07:59 GMT; domain=.stores.aeostores.com; HttpOnly; SameSite=None
+Surrogate-Key: stores.aeostores.com stores.aeostores.com%2Fca%2Fon%2Fnorth-bay%2F1500-fisher-street.html
+Vary: Accept-Encoding
+X-Amz-Id-2: k0V6cEKRBBLur5URAraKy8nVIXRo758GTHMavbTy0DQP2LGTFwemFS2/TpbhC/frtfjE3QdJLms=
+X-Amz-Request-Id: P3H5K7RQDVTBSSAQ
+X-Amz-Server-Side-Encryption: AES256
+X-Amz-Version-Id: null
+X-Yext-Site: us2
+X-Yext-Subendpoint: static

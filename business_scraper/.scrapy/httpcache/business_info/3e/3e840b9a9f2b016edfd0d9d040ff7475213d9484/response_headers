@@ -1,0 +1,22 @@
+Server: Sucuri/Cloudproxy
+Date: Tue, 16 Jan 2024 11:50:53 GMT
+Content-Type: text/html; charset=UTF-8
+X-Sucuri-Id: 15003
+X-Xss-Protection: 1; mode=block
+X-Xss-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+X-Content-Type-Options: nosniff
+Content-Security-Policy: upgrade-insecure-requests;
+Content-Security-Policy: upgrade-insecure-requests
+Accept-Ch: Sec-CH-UA-Mobile
+Cache-Control: no-cache
+X-Nitro-Cache: HIT
+X-Nitro-Cache-From: drop-in
+Vary: user-agent
+X-Nitro-Rev: e9a2e1d
+Link: <https://cdn-idein.nitrocdn.com>; rel=preconnect, <https://woollow.com/wp-json/>; rel="https://api.w.org/", <https://woollow.com/wp-json/wp/v2/pages/414>; rel="alternate"; type="application/json", <https://woollow.com/?p=414>; rel=shortlink
+X-Cache-Ctime: 1703904028
+Content-Encoding: gzip
+X-Sucuri-Cache: MISS

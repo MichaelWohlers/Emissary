@@ -1,0 +1,18 @@
+Content-Length: 245
+Content-Type: text/html; charset=iso-8859-1
+Server: Apache
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST, GET, OPTIONS, DELETE, PUT
+Access-Control-Max-Age: 1000
+Access-Control-Allow-Headers: x-requested-with, Content-Type, origin, authorization, accept, client-security-token, Accept-Encoding
+Location: http://graceannboutique.com/index.php
+Via: 1.1 varnish, 1.1 varnish
+X-Cacheable: YES
+Accept-Ranges: bytes
+Date: Tue, 16 Jan 2024 11:40:48 GMT
+Age: 4
+X-Served-By: cache-chi-klot8100132-CHI, cache-fra-eddf8230139-FRA
+X-Cache: HIT, HIT
+X-Cache-Hits: 1, 1
+X-Timer: S1705405248.166949,VS0,VE14
+Strict-Transport-Security: max-age=900

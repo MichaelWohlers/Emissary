@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:19:44 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 60
+X-Sorting-Hat-Shopid: 9028462
+X-Storefront-Renderer-Rendered: 1
+Location: https://foxyflamingoboutique.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 9028462
+X-Shardid: 60
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=6, db;dur=2, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="dx6r", requestID;desc="b6b1dcbd-b3b5-4203-8373-9ff0b5bee62c"
+Server-Timing: cfRequestDuration;dur=86.999893
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: b6b1dcbd-b3b5-4203-8373-9ff0b5bee62c
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=K8ans7uB7%2FCV%2FBK0u%2F5x6f5fMKzSlcnZUO8HFDUpN%2Fe4rn4Nlyq7gxrLmzehZDy8jxkJSFKAN3IRhGF9tVjq4iVQ6ovSQA5Qb6unJw2gK8jX%2FpZ9i5l3PrWPSCfS5KdAoHFHiB%2Bbrprj%2BTW%2BjOE%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8465f7165a129ba0-FRA
+Alt-Svc: h3=":443"; ma=86400

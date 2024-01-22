@@ -1,0 +1,17 @@
+Content-Length: 138
+Date: Tue, 16 Jan 2024 12:00:59 GMT
+Content-Type: text/html
+Location: https://francesjaye.com/
+X-Dc: gcp-europe-west3
+X-Request-Id: b95436e8-8231-4767-88f8-584c1deebcc4
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=uOSU3nnvP2%2F2LA42lo0gm0SLZH8jC1e5vKFEN7et0uWhLPNfGQ8iO%2B8B6eApFVsmf%2BFxLP2AJBxIpdxU4ITmwEu45380iKKUYz%2FDSi3YAHWMDYh0txx58wYRJYijef%2BtXU0XTjo%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server-Timing: cfRequestDuration;dur=16.999960
+Server: cloudflare
+Cf-Ray: 84663385fb351ca1-FRA
+Alt-Svc: h3=":443"; ma=86400

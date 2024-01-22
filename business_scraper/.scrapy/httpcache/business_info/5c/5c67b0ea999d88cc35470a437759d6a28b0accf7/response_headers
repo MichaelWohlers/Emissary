@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:37:43 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 78
+X-Sorting-Hat-Shopid: 25924304975
+X-Storefront-Renderer-Rendered: 1
+Location: https://darlingbirdco.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 25924304975
+X-Shardid: 78
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=13, db;dur=5, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="zxnk", requestID;desc="fb1e9b98-d5ba-4b7c-adbe-80447aeb2482"
+Server-Timing: cfRequestDuration;dur=48.999786
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: fb1e9b98-d5ba-4b7c-adbe-80447aeb2482
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=5QXixrbamr3pn%2BO7WoqINW1LNB%2FTulvfPQvgAQGLP1qrayQEYE5xmLADi%2FwkhpVlpNVps6H5MNOoz2GMALWVnLzsOIZngGfGc2TWJgw%2FZCPmgqR5i8n8MC3nGuxleAWI9Ebc7qcf8g%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8466116c3b451db0-FRA
+Alt-Svc: h3=":443"; ma=86400

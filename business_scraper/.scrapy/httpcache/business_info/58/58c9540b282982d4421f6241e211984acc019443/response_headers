@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:59:02 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 64
+X-Sorting-Hat-Shopid: 10722556
+X-Storefront-Renderer-Rendered: 1
+Location: https://www.ihanametals.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 10722556
+X-Shardid: 64
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=16, db;dur=6, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="h7h8", requestID;desc="65b9c0ad-0b46-4ffe-9338-67e4daa537a6"
+Server-Timing: cfRequestDuration;dur=68.999767
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 65b9c0ad-0b46-4ffe-9338-67e4daa537a6
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=MtVQWjNHDbFErEO1F9og3yoMTHiditNCxvXyyYwfhYKVoFVaxZr%2B5RRqtKKWA5ffwt2HgfLPU729cK3pl3eZCnyn5epGWzi0FIfU5Q%2FmjwUaE8lSmiGML3O%2FJtACZPYpNJqUDjs%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846630a67843916b-FRA
+Alt-Svc: h3=":443"; ma=86400

@@ -1,0 +1,22 @@
+Content-Length: 244
+Content-Type: text/plain;charset=UTF-8
+X-Dw-Request-Base-Id: RH0dceJppmUBAAB_
+Cache-Control: no-cache, no-store, must-revalidate
+Pragma: no-cache
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+Cf-Cache-Status: MISS
+Last-Modified: Tue, 16 Jan 2024 11:34:58 GMT
+Server: cloudflare
+Cf-Ray: 84660d66aa02bb38-FRA
+Content-Encoding: gzip
+Date: Tue, 16 Jan 2024 11:34:58 GMT
+Vary: Accept-Encoding
+Set-Cookie: KSDE-exp=KS-DE-SFCC; path=/; secure
+Set-Cookie: akavpau_NO_MA_KS_DE_AU=1705405198~id=bd9bcd63c5d6a5c6dd06244e1e9847b0; Path=/; HttpOnly; Secure; SameSite=None
+Set-Cookie: akacd_kate-eu-prod-new=2177452799~rv=20~id=5188cc74a52a851de38c47043d7e5b11; path=/; Expires=Mon, 31 Dec 2038 23:59:59 GMT; Secure; SameSite=None
+Content-Security-Policy: default-src 'self' 'unsafe-inline' 'unsafe-eval' audioeye.com *.audioeye.com *.bing.com *.btttag.com btttag.com bounceexchange.com *.bounceexchange.com bouncex.net events.bouncex.net *.cloudfront.net cloudfront.net *.cquotient.com cquotient.com doubleclick.net *.doubleclick.net *.facebook.com www.yext-pixel.com *.facebook.net *.gstatic.com *.google.co.uk www.google.com.tr www.google.at www.google.ro www.google.es www.google.ca www.google.co.in www.google.se www.google.pl *.google.com *.google.nl *.google.de www.google.hu www.googletagmanager.com jsdelivr.net cdn.jsdelivr.net *.katespade.com *.katespade.de katespade.com linksynergy.com *.linksynergy.com cookielaw.org cdn.cookielaw.org *.onetrust.com onetrust.com pinimg.com s.pinimg.com pinterest.com ct.pinterest.com *.quantummetric.com quantummetric.com *.rakuten.com smct.co *.smct.co *.tiktok.com tiktok.com smct.io *.smct.io techlab-cdn.com p11.techlab-cdn.com wknd.ai tag.wknd.ai trustedshops.com *.trustedshops.com *.google-analytics.com www.googleadservices.com twitter.com *.twitter.com ads-twitter.com static.ads-twitter.com t.co *.force.com my.salesforce.com *.my.salesforce.com *.salesforceliveagent.com tapestry.my.salesforce-site.com *.paypal.com www.paypalobjects.com klarna.com *.klarna.com klarnacdn.net *.klarnacdn.net klarnaevt.com *.klarnaevt.com klarnaservices.com *.klarnaservices.com *.optimizely.com *.forter.com *.criteo.net *.criteo.com *.coach.com goqubit.com static.goqubit.com qubit.com *.qubit.com *.qualtrics.com services.postcodeanywhere.co.uk tapes11111.pcapredict.com *.drivecommerce.com api.addressy.com api.soreto.com cnstrc.com *.cnstrc.com *.etrusted.com *.stylitics.com qubitproducts.com *.qubitproducts.com *.amazonaws.com *.cloudfunctions.net *.tangiblee.com *.bigcontent.io api.pinpiaa.com *.adyen.com cloudflare.com cdnjs.cloudflare.com *.mktgcdn.com main-de-coach-com-pagescdn-com.preview.pagescdn.com prod-cdn.us.yextapis.com realtimeanalytics.yext.com *.creativecdn.com creativecdn.com *.cdnwidget.com *.cdnbasket.net *.googleapis.com *.adnxs.com *.pingdom.net static.hotjar.com www.ist-track.com tapestry.my.salesforce-sites.com www.linkedin.com pippio.com *.medallia.com *.kampyle.com *.scene7.com code.jquery.com *.wibmo.com cdn.attn.tv *.upsellit.com *.gocertify.me data: blob:;
+Referrer-Policy: strict-origin-when-cross-origin
+X-Frame-Options: sameorigin
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff

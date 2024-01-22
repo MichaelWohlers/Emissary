@@ -1,0 +1,15 @@
+Content-Length: 303
+Server: openresty/1.15.8.2
+Content-Type: text/plain; charset=utf-8
+Strict-Transport-Security: max-age=15724800; includeSubDomains
+X-Dns-Prefetch-Control: off
+X-Frame-Options: SAMEORIGIN
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Last-Modified: Thu, 30 Nov 2023 15:50:58 GMT
+Content-Encoding: gzip
+Cache-Control: max-age=0
+Expires: Tue, 16 Jan 2024 11:20:23 GMT
+Date: Tue, 16 Jan 2024 11:20:23 GMT
+Vary: Accept-Encoding

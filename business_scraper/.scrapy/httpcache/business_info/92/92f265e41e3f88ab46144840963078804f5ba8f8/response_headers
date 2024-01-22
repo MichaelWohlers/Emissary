@@ -1,0 +1,26 @@
+Date: Tue, 16 Jan 2024 11:34:31 GMT
+Content-Type: text/html;charset=utf-8
+P3P: CP="ALL PUR DSP CUR ADMi DEVi CONi OUR COR IND"
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Ua-Compatible: IE=Edge,chrome=1
+X-Xss-Protection: 1; mode=block
+Set-Cookie: session_id=d2d2795345a551b53dfa889a8cb34393; expires=Tue, 16-Jan-2024 12:04:26 GMT; Max-Age=1795; path=/; secure; HttpOnly; SameSite=none
+Set-Cookie: COOKIELAW=optin; expires=Thu, 16-Jan-2025 11:34:31 GMT; Max-Age=31622400; path=/; secure; SameSite=none
+Set-Cookie: COOKIELAW_SOCIAL=1; expires=Thu, 16-Jan-2025 11:34:31 GMT; Max-Age=31622400; path=/; secure; SameSite=none
+Set-Cookie: COOKIELAW_STATS=1; expires=Thu, 16-Jan-2025 11:34:31 GMT; Max-Age=31622400; path=/; secure; SameSite=none
+Set-Cookie: COOKIELAW_ADS=1; expires=Thu, 16-Jan-2025 11:34:31 GMT; Max-Age=31622400; path=/; secure; SameSite=none
+Set-Cookie: __cf_bm=JzyIquDWfcVwNpjWYgSyIC6M25rAXez.YoKBiYOqTRk-1705404871-1-AWjyiRWW1+fOX5b/+G3Rg2umP8cSFB4Qf0niVbeT1pqqVCrwL23wKGHFyPcfQxxZi1Q5+L+Yt2PZxs0vcdMCO7A=; path=/; expires=Tue, 16-Jan-24 12:04:31 GMT; domain=.www.judysfashionboutique.com; HttpOnly; Secure; SameSite=None
+X-Developer: Page: 49.2ms, Render: 4.5ms, Mem: 2,048kB, Cache: 0Q (0.0ms), DB: 3Q (5.4ms), Prop: 0Q (0.0ms)
+X-Runtime: 0.059120
+X-Shop-Id: 650202
+Cache-Control: no-cache
+Vary: Accept-Encoding
+X-Request-Id: fb2ce69e8034342b307acf358c2c8b27
+X-Envoy-Upstream-Service-Time: 65
+Cf-Cache-Status: DYNAMIC
+Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
+Server: cloudflare
+Cf-Ray: 84660cc05c7e9954-FRA
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400

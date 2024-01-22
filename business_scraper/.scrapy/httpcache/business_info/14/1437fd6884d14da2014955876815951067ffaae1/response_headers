@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:38:52 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 258
+X-Sorting-Hat-Shopid: 65576272131
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=50696537-c902-4408-b777-50c79bc0a375; path=/; expires=Tue, 16 Jan 2024 12:08:52 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:38:52 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:38:52 GMT; SameSite=Lax
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:38:52 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=theaugustaclothingcompany.com; path=/; expires=Wed, 17 Jan 2024 11:38:52 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=91c50bc8-481a-48df-a0d2-3f5fc89c240b; Expires=Wed, 15-Jan-25 11:38:52 GMT; Domain=theaugustaclothingcompany.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=98703bb3-a42c-4ea4-95c0-d3707af15036; Expires=Tue, 16-Jan-24 12:08:52 GMT; Domain=theaugustaclothingcompany.com; Path=/; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+Etag: "cacheable:b849bc1fad0466d5bdb70d7e070579bc"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 65576272131
+X-Shardid: 258
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=15, db;dur=6, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="136983642371", servedBy;desc="6rlm", requestID;desc="61d16c3d-300a-4d01-9826-4a1553fb7f12"
+Server-Timing: cfRequestDuration;dur=43.999910
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 61d16c3d-300a-4d01-9826-4a1553fb7f12
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=m%2Fso5UMpOJK980uYQYAoPXEwwFUaVlP6LvSmw282I1%2F9SsskJW%2FG6Ve4pm92%2BfpX5yisPAZ2NVdauHxE1Nor9FmP8HnAOgfcSJzmilWMQaX9sU611Qr10EJiQz2mTrIX9XFc87%2Fef9MoYUYXrUTp"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8466131afa8b4d54-FRA
+Alt-Svc: h3=":443"; ma=86400

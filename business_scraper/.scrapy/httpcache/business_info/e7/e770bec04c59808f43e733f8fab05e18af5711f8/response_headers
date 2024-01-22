@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:49:38 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 320
+X-Sorting-Hat-Shopid: 71813628225
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=052bf174-f374-48ba-a00c-5b77cada2b6f; path=/; expires=Tue, 16 Jan 2024 12:19:38 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:49:38 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:49:38 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:49:38 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=theclosethanger.com; path=/; expires=Wed, 17 Jan 2024 11:49:38 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=dd2418ac-3980-4927-a3f7-ff2ebfdced1c; Expires=Wed, 15-Jan-25 11:49:38 GMT; Domain=theclosethanger.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=d06bdeb8-267e-4d2d-8e90-0bdc6b5afc5d; Expires=Tue, 16-Jan-24 12:19:38 GMT; Domain=theclosethanger.com; Path=/; SameSite=Lax
+Etag: "cacheable:adeef51c6d33c70e6d4338ceb63475c9"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 71813628225
+X-Shardid: 320
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=9, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="143928590657", servedBy;desc="5474", requestID;desc="6048a2da-34cf-4349-9e70-3dd32ba54f22"
+Server-Timing: cfRequestDuration;dur=34.999847
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 6048a2da-34cf-4349-9e70-3dd32ba54f22
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=WFQc0%2BZ0IUaeiRaphZw5iQePwm4Naz8vHiGxJrFF4S0COdTzhNvj798zQQ6urYwZL9oruIwE%2FE%2FyDvf2urqo6t2rhCpKEw6PJDfLiHD1YwRiBFBfacKu84yYU7%2BTIgjl2LLBe%2B8%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846622e3cd2f6967-FRA
+Alt-Svc: h3=":443"; ma=86400

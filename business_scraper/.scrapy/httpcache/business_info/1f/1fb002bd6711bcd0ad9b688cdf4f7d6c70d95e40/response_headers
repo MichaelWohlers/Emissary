@@ -1,0 +1,29 @@
+Date: Tue, 16 Jan 2024 11:44:17 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 112
+X-Sorting-Hat-Shopid: 5024350321
+X-Storefront-Renderer-Rendered: 1
+X-Cache: allow
+Location: https://www.laceandleisureshoponline.com/password
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 5024350321
+X-Shardid: 112
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=8, db;dur=2, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="38928646257", pageType;desc="index", servedBy;desc="zqhd", requestID;desc="41d28247-8c1f-4815-bd2e-c92979c5aeef"
+Server-Timing: cfRequestDuration;dur=37.999868
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 41d28247-8c1f-4815-bd2e-c92979c5aeef
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=naFpjMdd7YkVmVdd4JFUmvs9eXHdM8WZohRa4AWg4yHhcDuWx%2BwS4lmGd%2BnTmplwOVhFpLy1nEeAs8PvtMJkcLnxOHY38B%2Fp3PGHhVwUT%2BqtjlnOFwjOH65oQp8vSkKTCFdkp%2FKqHJkIqvm0rRpQZSve"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661b0aaa444d37-FRA
+Alt-Svc: h3=":443"; ma=86400

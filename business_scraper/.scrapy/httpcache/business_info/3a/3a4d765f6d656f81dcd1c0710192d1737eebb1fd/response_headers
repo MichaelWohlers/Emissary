@@ -1,0 +1,41 @@
+Date: Tue, 16 Jan 2024 11:58:55 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 306
+X-Sorting-Hat-Shopid: 4624501
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=72d53d9a-8dcc-498e-8fec-fb6143c4d170; path=/; expires=Tue, 16 Jan 2024 12:28:55 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:58:55 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:58:55 GMT; SameSite=Lax
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:58:55 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=bluelayne.com; path=/; expires=Wed, 17 Jan 2024 11:58:55 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=87893787-16ad-4b57-a9fb-c56595fb75eb; Expires=Wed, 15-Jan-25 11:58:55 GMT; Domain=bluelayne.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=09b7ce97-1901-4df4-be8b-a5f58d8eb063; Expires=Tue, 16-Jan-24 12:28:55 GMT; Domain=bluelayne.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 11:58:55 GMT; Domain=bluelayne.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2F; Expires=Tue, 30-Jan-24 11:58:55 GMT; Domain=bluelayne.com; Path=/; HttpOnly; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin, <//www.bluelayne.com/cdn/shop/t/50/assets/theme.css?v=111195335220693004971700695544>; as="style"; rel="preload"
+Etag: "cacheable:abcc7df186c48fe872967b341ac02a87"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 4624501
+X-Shardid: 306
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=307;desc="gc:31", db;dur=109, render;dur=169, wasm, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="146676449587", pageType;desc="index", servedBy;desc="tqdd", requestID;desc="9c285504-e47e-4f10-9575-e62fde0c187c"
+Server-Timing: cfRequestDuration;dur=332.999945
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 9c285504-e47e-4f10-9575-e62fde0c187c
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=ojfjrX%2FxwAR9khnDzyc9Wk0SvqJiSdvwiS1qDCsmalBXiB3EGxGAycP8xKplPFv734IX2qwcL6Do%2BEMBUFrN4YvBtdw1zr4TU8g2%2FESlukq1kSSvEDVe%2Flx8aOErboLg2KiU"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8466307c38644d86-FRA
+Alt-Svc: h3=":443"; ma=86400

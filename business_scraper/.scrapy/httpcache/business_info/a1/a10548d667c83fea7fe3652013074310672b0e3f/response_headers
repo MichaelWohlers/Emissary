@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 04:56:01 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 278
+X-Sorting-Hat-Shopid: 26363985974
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=4d1cf2bb-d367-4ba4-8cdb-666bd802998e; path=/; expires=Tue, 16 Jan 2024 05:26:01 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 04:56:01 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 04:56:01 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 04:56:01 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=manhattanfields.com; path=/; expires=Wed, 17 Jan 2024 04:56:01 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=4328e8c0-4cc6-49ea-98fe-a6e25646ffd3; Expires=Wed, 15-Jan-25 04:56:01 GMT; Domain=manhattanfields.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=52a42a54-8161-4635-91dd-c15e49197048; Expires=Tue, 16-Jan-24 05:26:01 GMT; Domain=manhattanfields.com; Path=/; SameSite=Lax
+Etag: "cacheable:d9b5897cde5f375964741642534f08eb"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 26363985974
+X-Shardid: 278
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=9, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="81358716982", servedBy;desc="svkz", requestID;desc="5ce59fc9-2469-4543-8c5a-70ecfc075f23"
+Server-Timing: cfRequestDuration;dur=37.999868
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 5ce59fc9-2469-4543-8c5a-70ecfc075f23
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=YOcFU%2B5XM%2BYtbraXPFUFhOpsfGO1ghq8%2B1L9uN7lAYDHvBqU5Pets62eB7nXU8xOfWrniuPxV%2FbTVOwZ6KdMhOwg%2FGWMyhhVenRWmAw4sgOCFXUiIYI9PvWQH3XBoN1YBJOBoZU%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8463c500ce6d4d94-FRA
+Alt-Svc: h3=":443"; ma=86400

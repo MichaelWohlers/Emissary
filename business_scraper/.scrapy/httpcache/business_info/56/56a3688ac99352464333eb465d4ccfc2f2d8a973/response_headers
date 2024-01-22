@@ -1,0 +1,42 @@
+Date: Tue, 16 Jan 2024 12:04:29 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 117
+X-Sorting-Hat-Shopid: 4711186550
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=941499ef-f8b6-4e44-80ae-4ce53fb3f8ad; path=/; expires=Tue, 16 Jan 2024 12:34:29 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 12:04:29 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=CA; path=/; expires=Thu, 16 Jan 2025 12:04:29 GMT
+Set-Cookie: cart_currency=CAD; path=/; expires=Tue, 30 Jan 2024 12:04:29 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=fairweatherclothing.com; path=/; expires=Wed, 17 Jan 2024 12:04:29 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=4f83a0ca-ca8b-4d5d-8cc2-322418d6ff6f; Expires=Wed, 15-Jan-25 12:04:29 GMT; Domain=fairweatherclothing.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=cda21d4b-7b42-46ca-83c5-61c8fa9a4adb; Expires=Tue, 16-Jan-24 12:34:29 GMT; Domain=fairweatherclothing.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 12:04:29 GMT; Domain=fairweatherclothing.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2Fpages%2Fstore-locator; Expires=Tue, 30-Jan-24 12:04:29 GMT; Domain=fairweatherclothing.com; Path=/; HttpOnly; SameSite=Lax
+Etag: "cacheable:c2289b2a92488789a7ed0b81ac714cd3"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin, <//www.fairweatherclothing.com/cdn/shop/t/54/assets/theme.css?v=167435852080899505741703199625>; as="style"; rel="preload"
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Access-Control-Allow-Origin: *
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 4711186550
+X-Shardid: 117
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=21;desc="gc:1", db;dur=9, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="123614527606", pageType;desc="page", servedBy;desc="vfm8", requestID;desc="d9180d13-1725-427b-a52d-9a968cc4de3c"
+Server-Timing: cfRequestDuration;dur=78.000069
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: d9180d13-1725-427b-a52d-9a968cc4de3c
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=iry6HLsL8DBP4al2QPmAseulczD8HOa%2Fm5qkQGteEC6yLJx7%2FVWLOpbLchqjyv1oHN%2BSoH1vEJbhkQ4Yowl%2Bfxq4px1BrPAdFKOXPqgBzCgdfZiOr2eu6THcJ2JkrzaxTQzJvqmku0IlmJaS1A%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846638a34b049a2f-FRA
+Alt-Svc: h3=":443"; ma=86400

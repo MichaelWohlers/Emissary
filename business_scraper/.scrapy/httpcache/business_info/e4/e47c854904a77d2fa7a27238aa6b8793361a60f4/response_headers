@@ -1,0 +1,38 @@
+Date: Tue, 16 Jan 2024 11:42:37 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 290
+X-Sorting-Hat-Shopid: 81247895843
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=c4907352-b033-4464-ba8c-4c1691650094; path=/; expires=Tue, 16 Jan 2024 12:12:37 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:42:37 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:42:37 GMT; SameSite=Lax
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:42:37 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Afalse%2C%22a%22%3Afalse%2C%22m%22%3Afalse%2C%22t%22%3Afalse%7D%2C%22display_banner%22%3Atrue%2C%22sale_of_data_region%22%3Afalse%7D; domain=mudandmooboutique.myshopify.com; path=/; expires=Wed, 17 Jan 2024 11:42:37 GMT; SameSite=Lax
+Set-Cookie: _tracking_consent=%7B%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.1%22%2C%22con%22%3A%7B%22CMP%22%3A%7B%22m%22%3A%22%22%2C%22a%22%3A%22%22%2C%22p%22%3A%22%22%2C%22s%22%3A%22%22%7D%7D%2C%22lim%22%3A%5B%22GDPR_BLOCK_ALL%22%5D%2C%22region%22%3A%22DERP%22%7D; Expires=Wed, 15-Jan-25 11:42:37 GMT; Domain=mudandmooboutique.myshopify.com; Path=/; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+Etag: "cacheable:713460699b0afd7022221c9f59e9335c"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 81247895843
+X-Shardid: 290
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=36, db;dur=8, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="157560504611", servedBy;desc="46mn", requestID;desc="4c586ea9-44a2-490d-bee9-7d0811cf940b"
+Server-Timing: cfRequestDuration;dur=94.000101
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 4c586ea9-44a2-490d-bee9-7d0811cf940b
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=sUCmw1CCXklMKcU0z%2BZwg8gr04pGyff9odp9LYFLmJGHZ7q4cR8uDPHuyw1qnH8oLiMdQwV5yw39atE%2FwdZLDvMNHEZmKKKkv9wdgd%2Fb%2FCewZUeSZcfjcauxK%2BGyiVSHpGPsA%2BdxmHYeFrS66QUoQYg%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661899591b367f-FRA
+Alt-Svc: h3=":443"; ma=86400

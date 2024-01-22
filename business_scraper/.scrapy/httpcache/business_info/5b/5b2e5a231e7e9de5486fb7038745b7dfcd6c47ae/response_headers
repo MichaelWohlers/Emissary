@@ -1,0 +1,38 @@
+Date: Tue, 16 Jan 2024 04:53:17 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 177
+X-Sorting-Hat-Shopid: 59311882418
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=a4d37278-8ca9-4cd1-b9d7-8372ac989fcd; path=/; expires=Tue, 16 Jan 2024 05:23:17 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 04:53:17 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 04:53:17 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 04:53:17 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Afalse%2C%22a%22%3Afalse%2C%22m%22%3Afalse%2C%22t%22%3Afalse%7D%2C%22display_banner%22%3Atrue%2C%22sale_of_data_region%22%3Afalse%7D; domain=klotheer.com; path=/; expires=Wed, 17 Jan 2024 04:53:17 GMT; SameSite=Lax
+Set-Cookie: _tracking_consent=%7B%22region%22%3A%22DERP%22%2C%22reg%22%3A%22GDPR%22%2C%22con%22%3A%7B%22CMP%22%3A%7B%22m%22%3A%22%22%2C%22a%22%3A%22%22%2C%22p%22%3A%22%22%2C%22s%22%3A%22%22%7D%7D%2C%22lim%22%3A%5B%22GDPR_BLOCK_ALL%22%5D%2C%22v%22%3A%222.1%22%7D; Expires=Wed, 15-Jan-25 04:53:17 GMT; Domain=klotheer.com; Path=/; SameSite=Lax
+Etag: "cacheable:9218933531bf9fd73c5825f7a18287ed"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 59311882418
+X-Shardid: 177
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=9, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="126853415090", servedBy;desc="sdfw", requestID;desc="1d5c6763-6e66-48ed-b49c-027d3d8ebaec"
+Server-Timing: cfRequestDuration;dur=39.000034
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 1d5c6763-6e66-48ed-b49c-027d3d8ebaec
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=bUAHmUuhUlA7zhknXuGvU3P1kqtXYxNmYkHb8xEIS43BYjwikQvGKuERyomhcw5ewB5CeJyzN6UvTrTiRW8hwv%2BOG35IAAhX6PVo39NeaA5rPIXKGsEtfVdAj2GO0w%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8463c101fe714dcb-FRA
+Alt-Svc: h3=":443"; ma=86400

@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:46:21 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 152
+X-Sorting-Hat-Shopid: 33079427207
+X-Storefront-Renderer-Rendered: 1
+Location: https://thelacesparrow.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 33079427207
+X-Shardid: 152
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=8, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="l8v4", requestID;desc="8e515897-401d-48ee-a698-d25eee70e9b7"
+Server-Timing: cfRequestDuration;dur=46.999931
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 8e515897-401d-48ee-a698-d25eee70e9b7
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Fd76CmILduyFIsoM5ryQjNsBAvFOYqE8O30J0XOPiucl5ljYlp1WNsrF%2FcL%2Bm22wiz1RnhsuJTeLkRKmEAxJ5VxVF%2Bim0UG9x4oXp0xJ18P1%2FtRCgcejLl9%2B8pHB%2FQee6YivegBO7b4%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661e147e104d2e-FRA
+Alt-Svc: h3=":443"; ma=86400

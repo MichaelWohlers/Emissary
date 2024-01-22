@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:55:00 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 222
+X-Sorting-Hat-Shopid: 62949785823
+X-Storefront-Renderer-Rendered: 1
+Location: https://yasehandmade.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 62949785823
+X-Shardid: 222
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=6, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="2jm5", requestID;desc="c32a1f79-27b7-43e8-8bfe-108757660663"
+Server-Timing: cfRequestDuration;dur=37.999868
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: c32a1f79-27b7-43e8-8bfe-108757660663
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=h3A21U2aEMFZSLkOgNh%2BRtxaZvKQxeaGPdJWFWLFRQjwPZwLaHTkwkCKbN7ngzeBkFLhCIqYNKbke0y00eglrxFkkkJhbapM94q0dizy7QiDmlASB3AoNOYRa7SWHHHKK35C0%2B8H"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84662abcff2c2c27-FRA
+Alt-Svc: h3=":443"; ma=86400

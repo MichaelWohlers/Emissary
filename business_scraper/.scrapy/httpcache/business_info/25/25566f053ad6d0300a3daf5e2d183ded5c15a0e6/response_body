@@ -1,0 +1,157 @@
+<!DOCTYPE html><html lang=""><head>
+<!--[if gt IE 9]><!-->
+<script>//common/scripts.isml</script>
+<script defer="" type="text/javascript" src="/on/demandware.static/Sites-hottopic-Site/-/default/v1705380343298/js/main.js"></script>
+<script defer="" type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCH6UQ9Lcpy3fBc6KiWXh3kOt-JM8WhOJE">
+        </script>
+<script defer="" type="text/javascript" src="/on/demandware.static/Sites-hottopic-Site/-/default/v1705380343298/js/storeLocator.js">
+        </script>
+<script type="text/javascript">
+    window.gCaptchaCallBackcaptchaContactUsEnabled = function () {
+        var key = document.querySelector('.captchaKey').value;
+        var contactUsCaptcha = document.querySelector('#captchaContactUsEnabled');
+        if (contactUsCaptcha) {
+            var widgetContactUs = window.grecaptcha.render('captchaContactUsEnabled', {
+                sitekey: key,
+                theme: 'light'
+            });
+            window.widgetContactUs = widgetContactUs;
+        }
+    };
+    window.gCaptchaCallBackcaptchaEmailSignupFooterEnabled = function () {
+        var key = document.querySelector('.captchaKey').value;
+        var footerCaptcha = document.querySelector('#captchaEmailSignupFooterEnabled');
+        if (footerCaptcha) {
+            var widgetFooter = window.grecaptcha.render('captchaEmailSignupFooterEnabled', {
+                sitekey: key,
+                theme: 'light'
+            });
+            window.widgetFooter = widgetFooter;
+        }
+    };
+    window.gCaptchaCallBackcaptchaEmailSignupPopupEnabled = function () {
+        var key = document.querySelector('.captchaKey').value;
+        var popupCaptcha = document.querySelector('#captchaEmailSignupPopupEnabled');
+        if (popupCaptcha) {
+            var widgetPopup = window.grecaptcha.render('captchaEmailSignupPopupEnabled', {
+                sitekey: key,
+                theme: 'light'
+            });
+            window.widgetPopup = widgetPopup;
+        }
+    };
+    window.gCaptchaCallBackcaptchaResetPwdFormEnabled = function () {
+        var key = document.querySelector('.captchaKey').value;
+        var resetPasswordFormCaptcha = document.querySelector('#captchaResetPwdFormEnabled');
+        if (resetPasswordFormCaptcha) {
+            var widgetResetPwdFormCaptcha = window.grecaptcha.render('captchaResetPwdFormEnabled', {
+                sitekey: key,
+                theme: 'light'
+            });
+            window.widgetResetPasswordFormCaptcha = widgetResetPwdFormCaptcha;
+        }
+    };
+    window.gCaptchaCallBackcaptchaReqResetPwdEnabled = function () {
+        var key = document.querySelector('.captchaKey').value;
+        var resetPasswordCaptcha = document.querySelector('#captchaReqResetPwdEnabled');
+        if (resetPasswordCaptcha) {
+            var widgetResetCaptcha = window.grecaptcha.render('captchaReqResetPwdEnabled', {
+                sitekey: key,
+                theme: 'light'
+            });
+            window.widgetResetCaptcha = widgetResetCaptcha;
+        }
+    };
+    window.gCaptchaCallBackcaptchaOrderStatusEnabled = function () {
+        var key = document.querySelector('.captchaKey').value;
+        var orderStatusCaptcha = document.querySelector('#captchaOrderStatusEnabled');
+        if (orderStatusCaptcha) {
+            var widgetOrderStatus = window.grecaptcha.render('captchaOrderStatusEnabled', {
+                sitekey: key,
+                theme: 'light'
+            });
+            window.widgetOrderStatus = widgetOrderStatus;
+        }
+    };
+    window.gCaptchaCallBackgcaptchaGiftCardEnabled = function () {
+        var key = document.querySelector('.captchaKey').value;
+        var orderStatusCaptcha = document.querySelector('#captchaGiftCardEnabled');
+        if (orderStatusCaptcha) {
+            var widgetGiftCard = window.grecaptcha.render('captchaGiftCardEnabled', {
+                sitekey: key,
+                theme: 'light'
+            });
+            window.widgetGiftCard = widgetGiftCard;
+        }
+    };
+    window.gCaptchaCallBackcaptchaLoginEnabled = function () {
+    };
+    window.gCaptchaCallBackcaptchaGCRedeemEnabled = function () {
+    };
+</script>
+<script async="" src="https://na-library.klarnaservices.com/lib.js?uci=f6186bbc-da96-57ed-affd-c0978a613268&amp;country=US" data-client-id="f6186bbc-da96-57ed-affd-c0978a613268"></script>
+<!--<![endif]-->
+<meta charset="UTF-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>South County Center</title>
+
+<script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" type="text/javascript" charset="UTF-8" data-domain-script="a1b5e51a-76ee-47a1-8264-6aa9e5fd3a0b"></script>
+<script type="text/javascript">
+function OptanonWrapper() { }
+</script>
+
+<meta name="description" content="Commerce Cloud Storefront Reference Architecture">
+<meta name="keywords" content="Commerce Cloud Storefront Reference Architecture">
+<link rel="icon" type="image/png" href="/on/demandware.static/Sites-hottopic-Site/-/default/v1705380343298/images/favicons/ht_favicon_32x32.png">
+<link rel="stylesheet" href="/on/demandware.static/Sites-hottopic-Site/-/default/v1705380343298/css/global.css">
+<link rel="stylesheet" href="/on/demandware.static/Sites-hottopic-Site/-/default/v1705380343298/css/storeLocator.css">
+<script async="" type="text/javascript" id="sig-api" data-order-session-id="aHR0cHM6Ly93d3cuaG90dG9waWMuY29tNjUwNThjMzBkNjE4ZDQ0ODFkYWU3Njg4YmI=" src="https://cdn-scripts.signifyd.com/api/script-tag.js"></script>
+<script type="text/javascript">//<!--
+/* <![CDATA[ (head-active_data.js) */
+var dw = (window.dw || {});
+dw.ac = {
+    _analytics: null,
+    _events: [],
+    _category: "",
+    _searchData: "",
+    _anact: "",
+    _anact_nohit_tag: "",
+    _analytics_enabled: "true",
+    _timeZone: "US/Pacific",
+    _capture: function(configs) {
+        if (Object.prototype.toString.call(configs) === "[object Array]") {
+            configs.forEach(captureObject);
+            return;
+        }
+        dw.ac._events.push(configs);
+    },
+	capture: function() { 
+		dw.ac._capture(arguments);
+		// send to CQ as well:
+		if (window.CQuotient) {
+			window.CQuotient.trackEventsFromAC(arguments);
+		}
+	},
+    EV_PRD_SEARCHHIT: "searchhit",
+    EV_PRD_DETAIL: "detail",
+    EV_PRD_RECOMMENDATION: "recommendation",
+    EV_PRD_SETPRODUCT: "setproduct",
+    applyContext: function(context) {
+        if (typeof context === "object" && context.hasOwnProperty("category")) {
+        	dw.ac._category = context.category;
+        }
+        if (typeof context === "object" && context.hasOwnProperty("searchData")) {
+        	dw.ac._searchData = context.searchData;
+        }
+    },
+    setDWAnalytics: function(analytics) {
+        dw.ac._analytics = analytics;
+    },
+    eventsIsEmpty: function() {
+        return 0 == dw.ac._events.length;
+    }
+};
+/* ]]> */
+// -->
+</script></head></html>

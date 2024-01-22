@@ -1,0 +1,26 @@
+Content-Length: 31580
+Content-Encoding: gzip
+Referrer-Policy: no-referrer-when-downgrade
+X-Content-Type-Options: nosniff
+X-Fw-Dynamic: TRUE
+Content-Type: text/html; charset=UTF-8
+X-Fw-Hash: jg8r12hh66
+Link: <https://revellebridal.com/wp-json/>; rel="https://api.w.org/"
+Link: <https://revellebridal.com/wp-json/wp/v2/pages/40>; rel="alternate"; type="application/json"
+Link: <https://revellebridal.com/>; rel=shortlink
+X-Fw-Version: 5.0.0
+X-Xss-Protection: 1
+X-Fw-Server: Flywheel/5.1.0
+Server: Flywheel/5.1.0
+X-Cacheable: YES
+Fastly-Restarts: 1
+Accept-Ranges: bytes
+Date: Tue, 16 Jan 2024 11:20:19 GMT
+X-Served-By: cache-muc13955-MUC, cache-muc13924-MUC
+X-Cache: MISS, MISS
+X-Cache-Hits: 0, 0
+X-Timer: S1705404017.674712,VS0,VE2418
+Vary: Accept-Encoding
+X-Fw-Serve: TRUE
+X-Fw-Static: NO
+X-Fw-Type: VISIT

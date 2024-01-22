@@ -1,0 +1,20 @@
+Content-Length: 629
+X-Dns-Prefetch-Control: off
+X-Frame-Options: SAMEORIGIN
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Accept-Ranges: bytes
+Last-Modified: Tue, 16 Jan 2024 08:52:04 GMT
+Etag: W/"275-18d11787720"
+Content-Type: text/plain; charset=UTF-8
+Vary: Accept-Encoding
+X-Envoy-Upstream-Service-Time: 4
+Server: istio-envoy
+X-Country-Code: DE
+X-Country-Code: DE
+Cache-Control: public, max-age=0
+Date: Tue, 16 Jan 2024 11:49:13 GMT
+Set-Cookie: Origin_Session_Cookie=C; path=/; secure
+Set-Cookie: akavpau_vp=1705406053~id=fee2aebb1dcbffaa3c755ddca8b71d07; Path=/; HttpOnly; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000 ; preload

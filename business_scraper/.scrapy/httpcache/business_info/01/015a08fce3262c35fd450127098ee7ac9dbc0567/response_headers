@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:58:59 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 66
+X-Sorting-Hat-Shopid: 15775269
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=fb279b38-d693-438a-83e9-3c5e26f1234c; path=/; expires=Tue, 16 Jan 2024 12:28:59 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:58:59 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 11:58:59 GMT; SameSite=Lax
+Set-Cookie: cart_currency=EUR; path=/; expires=Tue, 30 Jan 2024 11:58:59 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Afalse%2C%22a%22%3Afalse%2C%22m%22%3Afalse%2C%22t%22%3Afalse%7D%2C%22display_banner%22%3Atrue%2C%22sale_of_data_region%22%3Afalse%7D; domain=shirleyshoppe.com; path=/; expires=Wed, 17 Jan 2024 11:58:59 GMT; SameSite=Lax
+Set-Cookie: _tracking_consent=%7B%22lim%22%3A%5B%22CCPA%22%2C%22GDPR_BLOCK_ALL%22%5D%2C%22region%22%3A%22DERP%22%2C%22reg%22%3A%22GDPR%22%2C%22con%22%3A%7B%22CMP%22%3A%7B%22m%22%3A%22%22%2C%22a%22%3A%22%22%2C%22p%22%3A%22%22%2C%22s%22%3A%22%22%7D%7D%2C%22v%22%3A%222.1%22%7D; Expires=Wed, 15-Jan-25 11:58:59 GMT; Domain=shirleyshoppe.com; Path=/; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin, <//www.shirleyshoppe.com/cdn/shop/t/28/assets/theme.css?v=154907259192436341541705019580>; as="style"; rel="preload"
+Etag: "cacheable:1c3c4cd4a62cc49614e1e3aaa3438629"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Access-Control-Allow-Origin: *
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 15775269
+X-Shardid: 66
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=237, db;dur=30, render;dur=160, wasm, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="126031331395", pageType;desc="page", servedBy;desc="m8x6", requestID;desc="54df1ac7-5e41-4f67-9f19-0ec9f03aab57"
+Server-Timing: cfRequestDuration;dur=287.999868
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 54df1ac7-5e41-4f67-9f19-0ec9f03aab57
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=6ay2E38tmCvsyA9nCLeZFMEaw0QPMumB%2FGx178UQeFQ00DWRtdr%2F2Q0PebWISUxEd%2BeIhQ7nOVsrRorIeEXHpr%2FhSvyi85egDm3A6YGrw%2F6MGqoA2g2ZCLZNNmByIt9ETR3aACkNfg%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84663096088390e8-FRA
+Alt-Svc: h3=":443"; ma=86400

@@ -1,0 +1,14 @@
+Content-Length: 3250
+Retry-After: 0
+Content-Type: text/plain
+Accept-Ranges: bytes
+Date: Tue, 16 Jan 2024 11:21:20 GMT
+X-Served-By: cache-fra-eddf8230117-FRA
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1705404080.440916,VS0,VE0
+Strict-Transport-Security: max-age=31536000
+Set-Cookie: country_code=DE;path=/;secure;HttpOnly;SameSite=Strict
+Set-Cookie: fastly_geo={"coords": {"longitude": 7.870, "latitude": 50.790}, "country": "DE", "city": "betzdorf", "ip": "95.90.220.54"};path=/
+Vary: 
+Alt-Svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400

@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:46:15 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 224
+X-Sorting-Hat-Shopid: 62138613985
+X-Storefront-Renderer-Rendered: 1
+Location: https://smalltownimpressions.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 62138613985
+X-Shardid: 224
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=10, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="cd2j", requestID;desc="f7703574-857c-43f0-afef-a86eee2efc34"
+Server-Timing: cfRequestDuration;dur=71.000099
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: f7703574-857c-43f0-afef-a86eee2efc34
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=8hdngCvZeHKOqUFPjA5vS4igRxQpTlp5tZT7Ga86YG5PV%2FqH6%2BBb10pSrR5lYh1cDkudqDeeqtGvnY6kc84FpUHK3yszR2pYAU2HL9Rh6dj9Vkrn5etPZ7lfUUPnAbekKsQMuddyDQmUlXSohWw%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661dec984cbbcb-FRA
+Alt-Svc: h3=":443"; ma=86400

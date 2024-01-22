@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:35:51 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 292
+X-Sorting-Hat-Shopid: 7128113
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=e64198f3-930c-40ff-b365-cad0bb6964b1; path=/; expires=Tue, 16 Jan 2024 12:05:51 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:35:51 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:35:51 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:35:51 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=reallyroxie.com; path=/; expires=Wed, 17 Jan 2024 11:35:51 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=6935c961-0db6-421d-87ec-05ff81e78ada; Expires=Wed, 15-Jan-25 11:35:51 GMT; Domain=reallyroxie.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=1b4e0b7f-6038-4a5d-a376-2cc2331ae3c2; Expires=Tue, 16-Jan-24 12:05:51 GMT; Domain=reallyroxie.com; Path=/; SameSite=Lax
+Etag: "cacheable:91fd75f1ce0deac79a875393f9a0a350"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 7128113
+X-Shardid: 292
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=12, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="120342610006", servedBy;desc="qv2n", requestID;desc="65f630fd-8aa4-4c79-b88c-a14d86d4acc0"
+Server-Timing: cfRequestDuration;dur=53.999901
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 65f630fd-8aa4-4c79-b88c-a14d86d4acc0
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=cvDoi3ufiCcdKdhm1JH7sTopcSXn%2F9A6ZZfdqDFhNz%2FkzCpECntWVVvp2NQyxvCP2h%2BjeBfzMMAjpqe9HPQYuwhWM1dLptAM%2BlJIlS3dkM2CHlr6sOhRvopIyQXyMdj4eQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84660eb53ba72bb6-FRA
+Alt-Svc: h3=":443"; ma=86400

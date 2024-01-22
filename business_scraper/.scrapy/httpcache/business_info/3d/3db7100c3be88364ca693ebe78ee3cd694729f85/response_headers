@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 12:01:23 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 183
+X-Sorting-Hat-Shopid: 51804176568
+X-Storefront-Renderer-Rendered: 1
+Location: https://saxonystores.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 51804176568
+X-Shardid: 183
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=10, db;dur=5, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="rmrp", requestID;desc="926e7d13-a2bb-41a3-991a-0670fea1352c"
+Server-Timing: cfRequestDuration;dur=49.999952
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 926e7d13-a2bb-41a3-991a-0670fea1352c
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=rOPdnwCxfY5sWlbJcUQ%2F%2FwUNNrAV7oyPQRus3u6U%2F1WPGHlr%2BDw3vaHRZyAu%2Bt%2BUG6EaixdS2IAJjw7g%2BBF%2FA%2BR4sl8oLSLmMV%2B%2FE7mzYQ1wiN4kKOI11EkntqLe7uZDB9UuC7Rr"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84663416e84b91d1-FRA
+Alt-Svc: h3=":443"; ma=86400

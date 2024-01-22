@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:42:24 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 292
+X-Sorting-Hat-Shopid: 26503446579
+X-Storefront-Renderer-Rendered: 1
+Location: https://mavensmarketia.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 26503446579
+X-Shardid: 292
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=15, db;dur=5, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="4n6h", requestID;desc="5a19f9a8-8f74-4413-9e98-538d94bb88a3"
+Server-Timing: cfRequestDuration;dur=49.000025
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 5a19f9a8-8f74-4413-9e98-538d94bb88a3
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=%2Bfuk1NDka883hEdtYtVrmoMofkr28EyQ0EHeQ0frIvjniPiKHn1ug2KwcPlwurIAhp7Vmc4zVZj9GFw30XO93xq1ERh2NwngXFzsHn681V1eZHUep41KCG3i%2FV579m8CONs3tgowVlE%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661847de4e2bc0-FRA
+Alt-Svc: h3=":443"; ma=86400

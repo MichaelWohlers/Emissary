@@ -1,0 +1,29 @@
+Date: Tue, 16 Jan 2024 11:38:25 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 316
+X-Sorting-Hat-Shopid: 71866024253
+X-Storefront-Renderer-Rendered: 1
+Location: https://cowhideandconchos.com/robots.txt
+X-Redirect-Reason: canonical_host_redirection
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 71866024253
+X-Shardid: 316
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=10, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="w7lw", requestID;desc="8219c6a0-8802-4a8b-b58b-c02fcc6f75c5"
+Server-Timing: cfRequestDuration;dur=43.999910
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 8219c6a0-8802-4a8b-b58b-c02fcc6f75c5
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=c9I1Dl7yrBoXgTEuFbp8mUKubswnkkQrjJKQTmYrtM3kVzDMFMFe9OwF3JxX6K4gJx3GB6CEW1YIyRgX9fz4LP8u7YMYVuEfZJUoeRENicuIeJi%2Bzo%2FoUk4AmOlxDa0uP8XsAWIfTSVPtgo%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846612724f2e6945-FRA
+Alt-Svc: h3=":443"; ma=86400

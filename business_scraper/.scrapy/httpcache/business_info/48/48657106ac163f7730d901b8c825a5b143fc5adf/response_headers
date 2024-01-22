@@ -1,0 +1,38 @@
+Date: Tue, 16 Jan 2024 11:53:54 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 249
+X-Sorting-Hat-Shopid: 55643963567
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=eaa219cb-6769-4fd6-865a-8f848824808d; path=/; expires=Tue, 16 Jan 2024 12:23:54 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:53:54 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:53:54 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:53:54 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Afalse%2C%22a%22%3Afalse%2C%22m%22%3Afalse%2C%22t%22%3Afalse%7D%2C%22display_banner%22%3Atrue%2C%22sale_of_data_region%22%3Afalse%7D; domain=adcboutique504.com; path=/; expires=Wed, 17 Jan 2024 11:53:54 GMT; SameSite=Lax
+Set-Cookie: _tracking_consent=%7B%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.1%22%2C%22con%22%3A%7B%22CMP%22%3A%7B%22m%22%3A%22%22%2C%22a%22%3A%22%22%2C%22p%22%3A%22%22%2C%22s%22%3A%22%22%7D%7D%2C%22lim%22%3A%5B%22GDPR_BLOCK_ALL%22%5D%2C%22region%22%3A%22DERP%22%7D; Expires=Wed, 15-Jan-25 11:53:54 GMT; Domain=adcboutique504.com; Path=/; SameSite=Lax
+Etag: "cacheable:f11799a7e7f91758b291351592230dfb"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 55643963567
+X-Shardid: 249
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=28, db;dur=10, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="127750275247", servedBy;desc="s74x", requestID;desc="fd927896-db51-46b0-88fb-8aaf8f211d8f"
+Server-Timing: cfRequestDuration;dur=297.999859
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: fd927896-db51-46b0-88fb-8aaf8f211d8f
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=L6U3Ern75A34a0rvjzSTqO%2BaMY9gfPiVrJZKJ2OVFJRQ4Y8peN3Lz8YhpeWPP1zHxLMJdXLVDbwLkbg3t%2Famq4QKe%2F2fNXSUprKfWKjFfQipI07ZZg2N6wCGBMIM0zFw0UEgHg%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846629205b134d84-FRA
+Alt-Svc: h3=":443"; ma=86400

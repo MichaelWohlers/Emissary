@@ -1,0 +1,26 @@
+Date: Tue, 16 Jan 2024 03:59:59 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Set-Cookie: fornax_anonymousId=091c87b7-1304-40cb-9ed9-bb24630140df; Expires=Thu, 15 Jan 2026 03:59:58 GMT; Path=/; Secure; SameSite=None
+Set-Cookie: athena_short_visit_id=0f2c0a31-4e4f-42c1-b2bf-dc468cfe8f01:1705377598; Expires=Tue, 16 Jan 2024 04:29:58 GMT; Path=/; Secure; HttpOnly; SameSite=None
+Set-Cookie: Shopper-Pref=94227668157957FB5DA560C58F2520BE8D4A47D2-1705982399246-x%7B%22cur%22%3A%22USD%22%7D; Expires=Tue, 23 Jan 2024 03:59:59 GMT; Path=/; HttpOnly
+Set-Cookie: XSRF-TOKEN=d743da2f8f75e84a8c14cf18b74a97afc9cfd31c9843005e5ee4bd518ded74c7; path=/; Secure; SameSite=none
+Set-Cookie: SHOP_SESSION_TOKEN=3f988d0a-4efe-4edf-9deb-13b631725552; Expires=Tue, 23 Jan 2024 03:59:59 GMT; Path=/; Secure; HttpOnly; SameSite=None
+Link: <https://static.klaviyo.com/onsite/js/klaviyo.js?company_id=SVmKdS>; rel=preload; as=script, <https://cdn.attn.tv/francescas/dtag.js>; rel=preload; as=script, <https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js>; rel=preload; as=script
+Link: <https://cdn11.bigcommerce.com/s-wn2v0pw28v>; rel=preconnect; as=font; crossorigin=anonymous, <https://cdn11.bigcommerce.com/s-wn2v0pw28v/stencil/3fc5e4e0-782f-013c-4a3d-0a3d15e0713c/e/c9e6bb40-4f3c-013c-0440-422bdad47970/css/theme-27c58200-960f-013c-02e5-362651d2d45e.css>; rel=preload; as=style
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+X-Request-Id: 5cdc808c1c289277133a6a712a3c08ac
+X-Frame-Options: deny
+Strict-Transport-Security: max-age=300
+Content-Encoding: gzip
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=YKj9of1tbBqymJQJJ6AznCgHsojhBgQ2%2FzN%2BTxHOi3ZYK7UBZbF4kFbuw0G%2Fib73DiSB9HPm22feX3mpRm2W1fzku%2FUXXbFFeo5ANrJ7EnBjZSEwj3PhBFGtEZQ3GGBl"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Bc-Ray: 1
+Server: cloudflare
+Cf-Ray: 846372e62b11bb7f-FRA
+Alt-Svc: h3=":443"; ma=86400

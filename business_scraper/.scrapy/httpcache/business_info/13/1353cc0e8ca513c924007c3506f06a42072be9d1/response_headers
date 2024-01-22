@@ -1,0 +1,41 @@
+Date: Tue, 16 Jan 2024 11:50:54 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 249
+X-Sorting-Hat-Shopid: 67382280442
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=54f194e1-7a90-45f1-b5cc-5330efa6eea9; path=/; expires=Tue, 16 Jan 2024 12:20:54 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:50:54 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=CA; path=/; expires=Thu, 16 Jan 2025 11:50:54 GMT; SameSite=Lax
+Set-Cookie: cart_currency=CAD; path=/; expires=Tue, 30 Jan 2024 11:50:54 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=apassionforfashion.ca; path=/; expires=Wed, 17 Jan 2024 11:50:54 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=41035ff0-201f-49df-af3d-ef229cf27ca2; Expires=Wed, 15-Jan-25 11:50:54 GMT; Domain=apassionforfashion.ca; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=82e80912-ee46-48da-99f8-213b31ff7ed9; Expires=Tue, 16-Jan-24 12:20:54 GMT; Domain=apassionforfashion.ca; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 11:50:54 GMT; Domain=apassionforfashion.ca; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2F; Expires=Tue, 30-Jan-24 11:50:54 GMT; Domain=apassionforfashion.ca; Path=/; HttpOnly; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin, <//www.apassionforfashion.ca/cdn/shop/t/5/assets/component-localization-form.css?v=143319823105703127341699363055>; as="style"; rel="preload", <//www.apassionforfashion.ca/cdn/shop/files/passion-white-gold_5.jpg?v=1700592276&width=600>; as="image"; rel="preload"; imagesrcset="//www.apassionforfashion.ca/cdn/shop/files/passion-white-gold_5.jpg?v=1700592276&width=300 300w, //www.apassionforfashion.ca/cdn/shop/files/passion-white-gold_5.jpg?v=1700592276&width=450 450w, //www.apassionforfashion.ca/cdn/shop/files/passion-white-gold_5.jpg?v=1700592276&width=600 600w"; imagesizes="(max-width: 600px) 50vw, 300px"
+Etag: "cacheable:057c19b288f46df2235b97a061d97ba5"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 67382280442
+X-Shardid: 249
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=230, db;dur=46, render;dur=103, wasm, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="138006823162", pageType;desc="index", servedBy;desc="sbmc", requestID;desc="db85a403-49af-4015-9ee7-e102adf61737"
+Server-Timing: cfRequestDuration;dur=263.999939
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: db85a403-49af-4015-9ee7-e102adf61737
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=3PZCbQQ5aZiXftxVuRt5a8bm4Snz3OsL2V6YxngoDkeabPoQOouK%2FGObSuOVbZihfRf4GWcIl%2BKH2YhR1vBG4cPvIUlFIGt5yxfvam6G5PaIYQ%2FgJHq0c1UKtHOjOWSe1Namf2wnxe%2FVJVo%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846624bca9571db0-FRA
+Alt-Svc: h3=":443"; ma=86400

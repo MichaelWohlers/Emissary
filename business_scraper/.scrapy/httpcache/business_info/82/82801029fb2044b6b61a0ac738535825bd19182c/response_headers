@@ -1,0 +1,10 @@
+Date: Tue, 16 Jan 2024 11:52:35 GMT
+Cache-Control: max-age=3600
+Expires: Tue, 16 Jan 2024 12:52:35 GMT
+Location: https://www.countrypickinshaliburton.ca/robots.txt
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=COCUwLdzB5DWf9%2BFmF30SedsyFsYQ3UVOiqOTdFyr2M74dK2ETASQmNIhb9DtU07SWeEP%2BI5BNyEXVcvarmu%2BYOM8z8xsM6%2BiXNZ9jg6bJa2USCjELqAy7SuP7HMW5IkCKTS4gmyi7MZVumjB9BnSO6g"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Vary: Accept-Encoding
+Server: cloudflare
+Cf-Ray: 846627380b72915e-FRA
+Alt-Svc: h3=":443"; ma=86400

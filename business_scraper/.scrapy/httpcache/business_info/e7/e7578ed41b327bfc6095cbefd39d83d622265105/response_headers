@@ -1,0 +1,41 @@
+Date: Tue, 16 Jan 2024 11:37:17 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 226
+X-Sorting-Hat-Shopid: 45046202523
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=2316011e-f64a-41ac-8de9-590ce499c216; path=/; expires=Tue, 16 Jan 2024 12:07:17 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:37:17 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 11:37:17 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:37:17 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=loftvineboutique.com; path=/; expires=Wed, 17 Jan 2024 11:37:17 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=e8c975cd-9635-4629-8592-b4ccc97bb290; Expires=Wed, 15-Jan-25 11:37:17 GMT; Domain=loftvineboutique.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=d9066733-c48d-4b84-862d-154f72cf917f; Expires=Tue, 16-Jan-24 12:07:17 GMT; Domain=loftvineboutique.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 11:37:17 GMT; Domain=loftvineboutique.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2F; Expires=Tue, 30-Jan-24 11:37:17 GMT; Domain=loftvineboutique.com; Path=/; HttpOnly; SameSite=Lax
+Etag: "cacheable:ce4ced8b30aa406e2f5fd65556543860"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 45046202523
+X-Shardid: 226
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=12;desc="gc:1", db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="127601115291", pageType;desc="index", servedBy;desc="jww9", requestID;desc="1e8cf421-c9c8-4bee-bb12-5c77c13266dc"
+Server-Timing: cfRequestDuration;dur=42.999983
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 1e8cf421-c9c8-4bee-bb12-5c77c13266dc
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=MD5HgLR7iB%2FYc17pfHNH%2FqF3tW%2BZ%2BS55%2F2i6jexniJCBhjqY4zvXj80e1A4fy%2FSJmnfnPm0wRlBce5DN9nFfwaPLJLM3%2FrGde%2FeQFfGgnBr0BqMoxkaFBBSOvgR6mpcOKsBf5mBV"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846610cba93337ec-FRA
+Alt-Svc: h3=":443"; ma=86400

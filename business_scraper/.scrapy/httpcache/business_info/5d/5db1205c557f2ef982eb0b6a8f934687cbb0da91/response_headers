@@ -1,0 +1,12 @@
+Content-Length: 0
+Server: Varnish
+Retry-After: 0
+Accept-Ranges: bytes
+Date: Tue, 16 Jan 2024 11:59:00 GMT
+Via: 1.1 varnish
+X-Served-By: cache-muc13983-MUC
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1705406340.030023,VS0,VE0
+Set-Cookie: exp_ebid=m=KfLBCD0F6mpKUY9ytfW7cEt6q%2FeNvCZkN4pjdfiXcmY%3D,v=Wn1K3c3Ejg8Vc2a_X5uiCPzbhX5ThOK5; domain=.etsy.com; path=/; Secure; max-age=5184000
+Location: https://www.etsy.com/shop/gemsofmalini

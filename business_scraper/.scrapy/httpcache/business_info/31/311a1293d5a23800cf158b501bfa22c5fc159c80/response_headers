@@ -1,0 +1,38 @@
+Date: Tue, 16 Jan 2024 11:51:46 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 131
+X-Sorting-Hat-Shopid: 6938067028
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=3a1f8ec0-55e9-4cdc-b134-00f63ae2ae6e; path=/; expires=Tue, 16 Jan 2024 12:21:46 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:51:46 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:51:46 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:51:46 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Afalse%2C%22a%22%3Afalse%2C%22m%22%3Afalse%2C%22t%22%3Afalse%7D%2C%22display_banner%22%3Atrue%2C%22sale_of_data_region%22%3Afalse%7D; domain=shopwishingstarboutique.com; path=/; expires=Wed, 17 Jan 2024 11:51:46 GMT; SameSite=Lax
+Set-Cookie: _tracking_consent=%7B%22region%22%3A%22DERP%22%2C%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.1%22%2C%22con%22%3A%7B%22CMP%22%3A%7B%22p%22%3A%22%22%2C%22s%22%3A%22%22%2C%22m%22%3A%22%22%2C%22a%22%3A%22%22%7D%7D%2C%22lim%22%3A%5B%22GDPR_BLOCK_ALL%22%5D%7D; Expires=Wed, 15-Jan-25 11:51:46 GMT; Domain=shopwishingstarboutique.com; Path=/; SameSite=Lax
+Etag: "cacheable:d7c3b35bf99d9992028926117eae9671"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 6938067028
+X-Shardid: 131
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=9, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="128255262852", servedBy;desc="dngn", requestID;desc="14d95b12-703c-49a6-ae58-56e7fa63e219"
+Server-Timing: cfRequestDuration;dur=39.000034
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 14d95b12-703c-49a6-ae58-56e7fa63e219
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=7%2Bc%2B144dfqfQixLLiUs0LR%2F7WtoGzIYRN8GK3xKgCVNsuPxsEwMXUhZGqeYOHW1fUhNaYsIRwlbFa5109OqVT%2BC5litH42DVwH%2Fld35a6sbQL7JZbD1Uk%2BRxxi7k82qn%2BcJkPBiHIPyp%2B5AVJbwA0qI%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846626026c999066-FRA
+Alt-Svc: h3=":443"; ma=86400

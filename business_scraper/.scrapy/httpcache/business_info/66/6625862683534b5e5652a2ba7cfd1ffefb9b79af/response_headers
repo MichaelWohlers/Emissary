@@ -1,0 +1,15 @@
+Content-Length: 0
+Location: https://www.brandedinbutler.com/
+Strict-Transport-Security: max-age=3600
+X-Wix-Request-Id: 1705406363.8612739220995319641
+Age: 0
+Cache-Control: no-cache
+Server: Pepyaka/1.21.6
+X-Content-Type-Options: nosniff
+Accept-Ranges: bytes
+Date: Tue, 16 Jan 2024 11:59:23 GMT
+X-Served-By: cache-fra-eddf8230076-FRA
+X-Cache: MISS
+Server-Timing: cache;desc=miss, varnish;desc=miss_miss, dc;desc=fastly_84_g
+X-Seen-By: yvSunuo/8ld62ehjr5B7kA==,W1c2/pqHBqplxcWufHCkILxkNjrXdwdgtu6E0yACibU=,m0j2EEknGIVUW/liY8BLLtHnbYLb6Ed40iVY63+O2cnJftmKrOReD3ukbbas4YDo,2d58ifebGbosy5xc+FRali35411/e4zsIr7fyUqrMh5fKKEyGkLU71/HuFDvs+X0BisBHAECGuKtsx396Ntl7Q==,2UNV7KOq4oGjA5+PKsX47PQEXbXFZaYW1Dg5frPZCM1YgeUJqUXtid+86vZww+nL,Sa95Q4GZdWNQrQ55uraJG44XQ2PzbNmZQioQxLEiv1M=,Tz2UwEbOeTDx2/0e6V5l1LVVWwtWzTNy3LQRGT+EZeI=,2jmwVdffH1Py+LoakQW9neWJ+odFO4fZtnKAevJJ5sYjQyvESuzScyf3gyPUNS33DRSocYU1eukgY29S+nAA6Q==
+Via: 1.1 google

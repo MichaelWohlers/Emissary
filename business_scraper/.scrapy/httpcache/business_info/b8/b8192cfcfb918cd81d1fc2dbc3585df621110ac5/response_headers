@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 07:04:59 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 74
+X-Sorting-Hat-Shopid: 25151242315
+X-Storefront-Renderer-Rendered: 1
+Location: https://zadiebs.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 25151242315
+X-Shardid: 74
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=9, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="lx4r", requestID;desc="b0f88d19-53e1-4047-b449-38ae734b9d3c"
+Server-Timing: cfRequestDuration;dur=75.000048
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: b0f88d19-53e1-4047-b449-38ae734b9d3c
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=cRzAs6ePOLqNMY5CHStaGbBn8Rly40AE36YQ6YGQGrCa%2BJtXUBYQ58jlcyvDs6nM2Vcr0E0cxjsfDRdIKEdY%2F4Lw2SGYVO4H8mNZgyCClkPk95%2BgX16cRNZoRcntbAUbdA%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846481ee8ef05d85-FRA
+Alt-Svc: h3=":443"; ma=86400

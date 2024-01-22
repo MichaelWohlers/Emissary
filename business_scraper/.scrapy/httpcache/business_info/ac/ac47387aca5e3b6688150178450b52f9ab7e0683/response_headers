@@ -1,0 +1,40 @@
+Date: Tue, 16 Jan 2024 11:53:03 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 246
+X-Sorting-Hat-Shopid: 42230907032
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=5f2afa4a-79fe-4eeb-baf9-19cc9db3cd64; path=/; expires=Tue, 16 Jan 2024 12:23:03 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:53:03 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:53:03 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:53:03 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=clothesmentor.com; path=/; expires=Wed, 17 Jan 2024 11:53:03 GMT; SameSite=Lax
+Set-Cookie: _tracking_consent=%7B%22lim%22%3A%5B%22CCPA%22%5D%2C%22region%22%3A%22DERP%22%2C%22reg%22%3A%22GDPR%22%2C%22con%22%3A%7B%22CMP%22%3A%7B%22m%22%3A%22%22%2C%22a%22%3A%22%22%2C%22p%22%3A%22%22%2C%22s%22%3A%22%22%7D%7D%2C%22v%22%3A%222.1%22%7D; Expires=Wed, 15-Jan-25 11:53:03 GMT; Domain=clothesmentor.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_y=ee121a4a-d10c-49c7-a507-beed40fd9740; Expires=Wed, 15-Jan-25 11:53:03 GMT; Domain=clothesmentor.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=1e45fc55-f3a6-411c-9c4b-72808c195a1c; Expires=Tue, 16-Jan-24 12:23:03 GMT; Domain=clothesmentor.com; Path=/; SameSite=Lax
+Etag: "cacheable:0e448cef09887dca96ee6a9feac75b70"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 42230907032
+X-Shardid: 246
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=11, db;dur=5, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="136915452151", servedBy;desc="z8q5", requestID;desc="6111e804-297a-4d36-bba8-61ccea30a2ca"
+Server-Timing: cfRequestDuration;dur=39.999723
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 6111e804-297a-4d36-bba8-61ccea30a2ca
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=WxlZFEMJq%2FTn41JzsaB9lHc38cmPmkozzU6dlBcBB1vDCt1t%2Bsm6CKzDwKnoEeAG7R%2Bi0sf4oiMmNGajw9zX2ryfY9buZIFQKUjbFUGdmLgaxN15mrA7A3LZbO4r50msnSMBM0ldycnSvYOPjAiZbrk%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846627e71adf30c6-FRA
+Alt-Svc: h3=":443"; ma=86400

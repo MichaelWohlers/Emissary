@@ -1,0 +1,41 @@
+Date: Tue, 16 Jan 2024 11:58:14 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 245
+X-Sorting-Hat-Shopid: 7274423
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=d032bd30-5f3c-4794-9ed8-be8177a7920e; path=/; expires=Tue, 16 Jan 2024 12:28:13 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:58:14 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:58:14 GMT; SameSite=Lax
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:58:14 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=fabulousfashionsomaha.com; path=/; expires=Wed, 17 Jan 2024 11:58:14 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=6bbe45d2-469b-4613-b8ec-3549577a4aff; Expires=Wed, 15-Jan-25 11:58:14 GMT; Domain=fabulousfashionsomaha.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=629dbfe4-0959-4994-a84a-0440ed6b8dea; Expires=Tue, 16-Jan-24 12:28:14 GMT; Domain=fabulousfashionsomaha.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 11:58:14 GMT; Domain=fabulousfashionsomaha.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2F; Expires=Tue, 30-Jan-24 11:58:14 GMT; Domain=fabulousfashionsomaha.com; Path=/; HttpOnly; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+Etag: "cacheable:4493cb24bd2736824d63910ca490fa5c"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 7274423
+X-Shardid: 245
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=311;desc="gc:44", db;dur=121, parse;dur=7, render;dur=129, wasm, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="126195105970", pageType;desc="index", servedBy;desc="dx6r", requestID;desc="e98b439b-1cd0-4970-8301-3641611a14ef"
+Server-Timing: cfRequestDuration;dur=340.999842
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: e98b439b-1cd0-4970-8301-3641611a14ef
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=mzTzp108dTMTn%2FWAaLuH1vVdWMHOKmCaBOihoeFteC0%2Bq2YCdQ73iQ1rPO3s0elI%2BqmPPbVLodN%2FiUMBv61sYnzXtErnGYKfdUDfkNqdARXWED1bJq74Azh3XiSCDf4n7WQmGuVdv4yToto5vJ7z"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84662f793f749055-FRA
+Alt-Svc: h3=":443"; ma=86400

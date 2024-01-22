@@ -1,0 +1,38 @@
+Date: Tue, 16 Jan 2024 11:33:52 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 176
+X-Sorting-Hat-Shopid: 8835924053
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=8b68a5b3-f895-4d71-b6d6-bc31f3742d67; path=/; expires=Tue, 16 Jan 2024 12:03:52 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:33:52 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:33:52 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:33:52 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Afalse%2C%22a%22%3Afalse%2C%22m%22%3Afalse%2C%22t%22%3Afalse%7D%2C%22display_banner%22%3Atrue%2C%22sale_of_data_region%22%3Afalse%7D; domain=boldandsimple.net; path=/; expires=Wed, 17 Jan 2024 11:33:52 GMT; SameSite=Lax
+Set-Cookie: _tracking_consent=%7B%22con%22%3A%7B%22CMP%22%3A%7B%22p%22%3A%22%22%2C%22s%22%3A%22%22%2C%22m%22%3A%22%22%2C%22a%22%3A%22%22%7D%7D%2C%22lim%22%3A%5B%22CCPA%22%2C%22GDPR_BLOCK_ALL%22%5D%2C%22v%22%3A%222.1%22%2C%22region%22%3A%22DERP%22%2C%22reg%22%3A%22GDPR%22%7D; Expires=Wed, 15-Jan-25 11:33:52 GMT; Domain=boldandsimple.net; Path=/; SameSite=Lax
+Etag: "cacheable:0935a060194449792848122007ae9d21"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 8835924053
+X-Shardid: 176
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=14, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="80516284501", servedBy;desc="kgsz", requestID;desc="95859c34-d85c-4379-a766-ac92a962eb9c"
+Server-Timing: cfRequestDuration;dur=125.000000
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 95859c34-d85c-4379-a766-ac92a962eb9c
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=hzlqf67nLNYwSaJC4Ptk3RTPh%2FJnnMkfnQBWZJn0Fc1Jb%2BIe%2Bv4oPwNC54ObbyKJyHcCxH%2BhY1YzVWHun8%2B2NI2%2FBd8v%2FUxyeRCkCZeIGXoajWSR%2B%2Flan6iGMzEhP6akspQQ"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84660bcc18d69bb3-FRA
+Alt-Svc: h3=":443"; ma=86400

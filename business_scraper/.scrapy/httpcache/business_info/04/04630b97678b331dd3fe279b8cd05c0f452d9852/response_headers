@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:47:43 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 213
+X-Sorting-Hat-Shopid: 33101807660
+X-Storefront-Renderer-Rendered: 1
+Location: https://www.botanicamodernmarket.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 33101807660
+X-Shardid: 213
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=8, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="mlqz", requestID;desc="576d0f26-3bcc-4413-97cd-1e0de4c5f71a"
+Server-Timing: cfRequestDuration;dur=42.999983
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 576d0f26-3bcc-4413-97cd-1e0de4c5f71a
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=%2FC7Klmmc6kATT1Q2g6VwgOoUe2igSUtkMBWYj%2FwfO%2F7hD6b6GxvDEamUxiIAqnK%2B3mHuAvZlDHX7xw7CpI5eedQ9P4aGSEbtJwmjAIaQkWKqhskaSPzdGOzhlrOvUnO707i425SLDcv9g4TBPMg%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84662011dd494d59-FRA
+Alt-Svc: h3=":443"; ma=86400

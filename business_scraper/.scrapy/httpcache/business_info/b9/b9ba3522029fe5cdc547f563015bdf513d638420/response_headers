@@ -1,0 +1,41 @@
+Date: Tue, 16 Jan 2024 11:55:07 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 167
+X-Sorting-Hat-Shopid: 106972
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=f9bb50b2-ce6f-4d88-8639-d08c60099978; path=/; expires=Tue, 16 Jan 2024 12:25:07 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:55:07 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=CA; path=/; expires=Thu, 16 Jan 2025 11:55:07 GMT
+Set-Cookie: cart_currency=CAD; path=/; expires=Tue, 30 Jan 2024 11:55:07 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=muskokabearwear.com; path=/; expires=Wed, 17 Jan 2024 11:55:07 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=cb8ee02c-b3f5-4dd6-b85b-fc0dec4bb865; Expires=Wed, 15-Jan-25 11:55:07 GMT; Domain=muskokabearwear.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=fe08707e-2323-4097-8565-c6c25aecc7c9; Expires=Tue, 16-Jan-24 12:25:07 GMT; Domain=muskokabearwear.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 11:55:07 GMT; Domain=muskokabearwear.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2F; Expires=Tue, 30-Jan-24 11:55:07 GMT; Domain=muskokabearwear.com; Path=/; HttpOnly; SameSite=Lax
+Etag: "cacheable:2214fd0e0719aa9a7052f822afa8844f"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 106972
+X-Shardid: 167
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=11;desc="gc:1", db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="41410297915", pageType;desc="index", servedBy;desc="rrkq", requestID;desc="9c1d048e-233e-4301-99c0-f4ef1c073681"
+Server-Timing: cfRequestDuration;dur=45.000076
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 9c1d048e-233e-4301-99c0-f4ef1c073681
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=WL4iDeV7T6s5R90p8rUyBkV41wHgRUJc42vHV6D%2BtWcnTaTGPuiRIDsoJqAfeADHGPLyTqbOKlNVUS9Ku5%2FAuMWySy6OVOxRQsNoVIBfwTFCQBtW8hDJtke6N7EXeTopzvVFSx8%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84662aed9e9b4d64-FRA
+Alt-Svc: h3=":443"; ma=86400

@@ -1,0 +1,9 @@
+Content-Length: 162
+Server: nginx
+Date: Tue, 16 Jan 2024 11:47:45 GMT
+Content-Type: text/html
+Strict-Transport-Security: max-age=31536000
+Location: https://threadsbykelly.com/robots.txt
+X-Nc: HIT dfw 188
+X-Ac: 2.hhn _dfw MISS
+Alt-Svc: h3=":443"; ma=86400

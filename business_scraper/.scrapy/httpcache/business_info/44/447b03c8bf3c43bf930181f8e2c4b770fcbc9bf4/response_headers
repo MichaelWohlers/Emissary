@@ -1,0 +1,29 @@
+Date: Tue, 16 Jan 2024 11:54:57 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 225
+X-Sorting-Hat-Shopid: 64462323938
+X-Storefront-Renderer-Rendered: 1
+Location: https://malaboutique.com/
+X-Redirect-Reason: canonical_host_redirection
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 64462323938
+X-Shardid: 225
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=8, db;dur=2, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="p8vz", requestID;desc="04d77e49-2488-4d77-892f-3fcc71ba1624"
+Server-Timing: cfRequestDuration;dur=36.999941
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 04d77e49-2488-4d77-892f-3fcc71ba1624
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=KrhGJk9lcnENd5FesVZy2hXXlKmKrNq5ZSffRW%2BLdyExkQZYBVfLsc8hu%2Fvpz4nPfnfbXqJ72tg%2Fcf3P9a%2BPUP4iXeqBZDWB0niQrQ6yF4MxuuX8BYpr7eCxOIvbttf2nP6lJ1om"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84662aadaab1bbd3-FRA
+Alt-Svc: h3=":443"; ma=86400

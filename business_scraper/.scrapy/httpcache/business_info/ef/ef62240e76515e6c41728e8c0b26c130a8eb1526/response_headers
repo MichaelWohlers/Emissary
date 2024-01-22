@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:34:52 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 315
+X-Sorting-Hat-Shopid: 72392704316
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=6921ee30-94a4-4917-9d86-8b4873319fd5; path=/; expires=Tue, 16 Jan 2024 12:04:52 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:34:52 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:34:52 GMT; SameSite=Lax
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:34:52 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=sahararoseboutique.com; path=/; expires=Wed, 17 Jan 2024 11:34:52 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=48347d38-2dad-4bed-b31b-df8c9df95bf0; Expires=Wed, 15-Jan-25 11:34:52 GMT; Domain=sahararoseboutique.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=34fbeb8f-6fa7-427c-90bd-8cae26672073; Expires=Tue, 16-Jan-24 12:04:52 GMT; Domain=sahararoseboutique.com; Path=/; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+Etag: "cacheable:e7cfa19f9fb84e9e5c7f9c862f9a2417"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 72392704316
+X-Shardid: 315
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=23, db;dur=6, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="144440033596", servedBy;desc="l8v4", requestID;desc="236d2c6f-1bee-4650-985b-1d03e27e1257"
+Server-Timing: cfRequestDuration;dur=53.999901
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 236d2c6f-1bee-4650-985b-1d03e27e1257
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=xZqbjQ1NLQuqQDFKwXxd%2Fj3b6%2BqCSvFbSIYca4g72WuX8d1zjawBjRgBqaPuQLyochXekemvAW7%2Bqu0kFdLPB8xLP5mnvk%2FkRbU7kCYxx4Ljp7dAUFiUc2bdlDQ8TIOD6LjcrGHyw%2F8%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84660d44ca51918f-FRA
+Alt-Svc: h3=":443"; ma=86400

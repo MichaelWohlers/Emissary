@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 12:04:22 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 117
+X-Sorting-Hat-Shopid: 4711186550
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=814df879-182c-4221-b746-bd568a8c174c; path=/; expires=Tue, 16 Jan 2024 12:34:22 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 12:04:22 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=CA; path=/; expires=Thu, 16 Jan 2025 12:04:22 GMT; SameSite=Lax
+Set-Cookie: cart_currency=CAD; path=/; expires=Tue, 30 Jan 2024 12:04:22 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=fairweatherclothing.com; path=/; expires=Wed, 17 Jan 2024 12:04:22 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=4d88daa4-3e19-4568-ac4d-4aae7dccb8f8; Expires=Wed, 15-Jan-25 12:04:22 GMT; Domain=fairweatherclothing.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=546ebedb-b8f7-4480-b5cf-edb0ab3f212d; Expires=Tue, 16-Jan-24 12:34:22 GMT; Domain=fairweatherclothing.com; Path=/; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+Etag: "cacheable:412ff43249b21e498916501fe9c20bef"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 4711186550
+X-Shardid: 117
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=18, db;dur=7, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="123614527606", servedBy;desc="vfm8", requestID;desc="ec39c6a4-2264-462d-a897-0ab79fd3f966"
+Server-Timing: cfRequestDuration;dur=45.000076
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: ec39c6a4-2264-462d-a897-0ab79fd3f966
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=lecTa69y1zWDn7D6RitKIHQJrN0cVVK1I%2FvnirbvySXlPGl3HaGelEhjpR5YKGnTH61JNBIa7jjHBg5fvMKiS%2FIln5U0wElCYl%2Bhspn5n8KiNJitjy%2BTsBp01PI8VNHM9csmLq1wgMCdJaMQ6g%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8466387629ca9a2f-FRA
+Alt-Svc: h3=":443"; ma=86400

@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 07:01:28 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 293
+X-Sorting-Hat-Shopid: 6311693
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=b8098cab-5014-450f-b661-23302fe6b170; path=/; expires=Tue, 16 Jan 2024 07:31:28 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 07:01:28 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 07:01:28 GMT; SameSite=Lax
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 07:01:28 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=enviousfashionsboutique.com; path=/; expires=Wed, 17 Jan 2024 07:01:28 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=acf9c24c-ad54-4baf-86c0-dfa183db3a48; Expires=Wed, 15-Jan-25 07:01:28 GMT; Domain=enviousfashionsboutique.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=ff9629eb-aa54-4ce4-b1b2-3a0d87eada0e; Expires=Tue, 16-Jan-24 07:31:28 GMT; Domain=enviousfashionsboutique.com; Path=/; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+Etag: "cacheable:82fb1574b9f2421f78bebe192238b9ea"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 6311693
+X-Shardid: 293
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=27, db;dur=8, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="123953152081", servedBy;desc="967r", requestID;desc="853a4a30-f357-420b-a602-a1e14a73de55"
+Server-Timing: cfRequestDuration;dur=53.999901
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 853a4a30-f357-420b-a602-a1e14a73de55
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=SR7plDL6%2B2%2F3vtTgjoCXl4Hwgo4mTlDQ1BgpOI9t%2BFSnvW2uXgZfxnBrvbXY8bDj6IpwvgOB4kX5BTqy1nRFlML%2F4HX60dkbnCRRac6jZcR2HjRdpPQD4hBTG9enszDM2xTOoLrybzLTUNG9dA%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84647cc47c242bc6-FRA
+Alt-Svc: h3=":443"; ma=86400

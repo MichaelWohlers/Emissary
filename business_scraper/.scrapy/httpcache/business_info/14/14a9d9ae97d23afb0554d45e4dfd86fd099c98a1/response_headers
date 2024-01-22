@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:45:59 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 230
+X-Sorting-Hat-Shopid: 13401555002
+X-Storefront-Renderer-Rendered: 1
+Location: https://lifestylesww.ca/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 13401555002
+X-Shardid: 230
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=5, db;dur=2, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="mxgx", requestID;desc="2da6251b-0b42-4142-873f-4115db52e1c9"
+Server-Timing: cfRequestDuration;dur=32.000065
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 2da6251b-0b42-4142-873f-4115db52e1c9
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=pXTKkoIcht5a7hMCls5DvBbMv9mrCTM0TMpy58w4LGcHMjjz8S8NFdvfAvqv3h3sp%2BFPm05BWU40d3E%2BWfIv%2FSgiUkr0x1%2BPCt3bJNWvHkdLfz12rOEIoYyxo0LpG1Hzaw%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661d88bff0903d-FRA
+Alt-Svc: h3=":443"; ma=86400

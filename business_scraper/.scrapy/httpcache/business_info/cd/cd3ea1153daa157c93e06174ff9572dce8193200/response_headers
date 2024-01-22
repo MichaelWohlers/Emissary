@@ -1,0 +1,42 @@
+Date: Tue, 16 Jan 2024 11:36:46 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 187
+X-Sorting-Hat-Shopid: 53570371772
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=37014a69-fcc3-4801-b656-83e16b1b1bcc; path=/; expires=Tue, 16 Jan 2024 12:06:46 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:36:46 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:36:46 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:36:46 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=unladylique.com; path=/; expires=Wed, 17 Jan 2024 11:36:46 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=bdd17ca6-3026-48f1-9b24-390f50d90d18; Expires=Wed, 15-Jan-25 11:36:46 GMT; Domain=unladylique.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=a2489522-59b7-4e54-966a-63b974a40433; Expires=Tue, 16-Jan-24 12:06:46 GMT; Domain=unladylique.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=https%3A%2F%2Funladylique.com%2F; Expires=Tue, 30-Jan-24 11:36:46 GMT; Domain=unladylique.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2Fpages%2Fcontact; Expires=Tue, 30-Jan-24 11:36:46 GMT; Domain=unladylique.com; Path=/; HttpOnly; SameSite=Lax
+Etag: "cacheable:23e8fe073d8a47c19fb078ea6a63aa70"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin, <//unladylique.com/cdn/shop/t/18/assets/theme.css?v=3321120731555628281700517934>; as="style"; rel="preload"
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Access-Control-Allow-Origin: *
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 53570371772
+X-Shardid: 187
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=10, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="132410212540", pageType;desc="page", servedBy;desc="6kmk", requestID;desc="87c68c9a-b51d-4717-8e76-b11703ec4183"
+Server-Timing: cfRequestDuration;dur=34.999847
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 87c68c9a-b51d-4717-8e76-b11703ec4183
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Zgn93tmzzzXol6yswvA1v9qVOxE0Gh5yQXoYxqOAKzp0F9GzvVJX1pFjUhV%2FETqwdQl%2BX8xy7y%2F%2FebCoTj7LP6Uxk9u2Yc7y8%2BQHkKoRAQma5zFdwlafJWNpC0d7d0Rucw%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661007ba436973-FRA
+Alt-Svc: h3=":443"; ma=86400

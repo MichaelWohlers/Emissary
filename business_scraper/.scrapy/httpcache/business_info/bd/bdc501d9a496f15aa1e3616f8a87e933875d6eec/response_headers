@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:44:04 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 222
+X-Sorting-Hat-Shopid: 3367632969
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=3cf5ed81-a39f-414c-8b83-6c545ee4040d; path=/; expires=Tue, 16 Jan 2024 12:14:04 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:44:04 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:44:04 GMT; SameSite=Lax
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:44:04 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=mysistersclosetkansas.com; path=/; expires=Wed, 17 Jan 2024 11:44:04 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=0782a8c3-e64b-4ee0-bea8-64d145b3546c; Expires=Wed, 15-Jan-25 11:44:04 GMT; Domain=mysistersclosetkansas.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=f9dac1f0-485a-44fd-b64e-aebea42bafad; Expires=Tue, 16-Jan-24 12:14:04 GMT; Domain=mysistersclosetkansas.com; Path=/; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+Etag: "cacheable:9e2f0ce2cb913fcd1e777ba037bfa876"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 3367632969
+X-Shardid: 222
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=17, db;dur=6, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="136216510687", servedBy;desc="gtx6", requestID;desc="57ae4a7f-d850-4188-b267-1a50eaf4f6e1"
+Server-Timing: cfRequestDuration;dur=64.999819
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 57ae4a7f-d850-4188-b267-1a50eaf4f6e1
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=NUIGmXTryrI845%2BbyrllBksmG8OSvNTLUw3NhxW%2B0efcGLwFGdJ6YPaP666kCv3axcUVZ8ystR0FFkWmcff9xo7%2BzH7gOFM3940MxD4yKqaYpEQSI%2BESkk8s7GPem670o%2FzQzIMuOf7vIl4%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661abe1d0030c3-FRA
+Alt-Svc: h3=":443"; ma=86400

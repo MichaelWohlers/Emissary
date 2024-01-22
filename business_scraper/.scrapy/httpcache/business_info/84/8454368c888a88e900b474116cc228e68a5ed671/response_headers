@@ -1,0 +1,42 @@
+Date: Tue, 16 Jan 2024 11:57:40 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 319
+X-Sorting-Hat-Shopid: 6938394677
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=6b7ab859-8ca2-42db-bc9d-7762d3055df3; path=/; expires=Tue, 16 Jan 2024 12:27:40 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:57:40 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 11:57:40 GMT; SameSite=Lax
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:57:40 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=threadsofmackinac.com; path=/; expires=Wed, 17 Jan 2024 11:57:40 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=6e67c7d9-1a04-4900-ae3f-e1ecbd41fc85; Expires=Wed, 15-Jan-25 11:57:40 GMT; Domain=threadsofmackinac.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=765b8d8a-6c1a-403d-afd8-42980089d6c4; Expires=Tue, 16-Jan-24 12:27:40 GMT; Domain=threadsofmackinac.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=https%3A%2F%2Fwww.threadsofmackinac.com%2F; Expires=Tue, 30-Jan-24 11:57:40 GMT; Domain=threadsofmackinac.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2Fpages%2Fabout-us-contact; Expires=Tue, 30-Jan-24 11:57:40 GMT; Domain=threadsofmackinac.com; Path=/; HttpOnly; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin, <//www.threadsofmackinac.com/cdn/shop/t/7/assets/animations.min.js?v=43857518744990237831681744072>; as="script"; rel="preload", <//www.threadsofmackinac.com/cdn/shop/t/7/assets/vendor.min.js?v=157477036952821991051678807707>; as="script"; rel="preload", <//www.threadsofmackinac.com/cdn/shop/t/7/assets/app.js?v=31550366409967495501681744074>; as="script"; rel="preload", <//www.threadsofmackinac.com/cdn/shop/t/7/assets/slideshow.js?v=173579497955750101941678807707>; as="script"; rel="preload"
+Etag: "cacheable:04ce8161a7dc3990c73efa6627b4df00"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Access-Control-Allow-Origin: *
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 6938394677
+X-Shardid: 319
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=78, db;dur=20, render;dur=33, wasm, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="146105205056", pageType;desc="page", servedBy;desc="x4n2", requestID;desc="a59bec08-bc55-42e2-97cc-ca5c0f7ea450"
+Server-Timing: cfRequestDuration;dur=137.999773
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: a59bec08-bc55-42e2-97cc-ca5c0f7ea450
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=%2BHSQrNt7bWekuvggZ3BjkJLaPWlpCMmrbfNwwkQtyn7eABOyIDw%2BxrgZZD5nC3COjZ%2FDdrcLVo7sjNOdeqpS0abnAkvMNqJ%2BIlYJ%2FVNf%2FsSggmxjOSLJJsRAg3SDnsPh04OW4AXLPc5RM4M%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84662ea6ad019162-FRA
+Alt-Svc: h3=":443"; ma=86400

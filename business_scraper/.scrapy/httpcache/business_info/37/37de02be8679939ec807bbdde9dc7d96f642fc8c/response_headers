@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:58:26 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 226
+X-Sorting-Hat-Shopid: 6550650970
+X-Storefront-Renderer-Rendered: 1
+Location: https://amiaboutique.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 6550650970
+X-Shardid: 226
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=7;desc="gc:1", db;dur=2, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="tqdd", requestID;desc="8417b48f-1225-4706-aacf-5c63d37ae832"
+Server-Timing: cfRequestDuration;dur=40.999889
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 8417b48f-1225-4706-aacf-5c63d37ae832
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=a%2BHy4O%2FzT5WByjIINuY1bEOsg%2FZPeMUF2ko3X6OElrh9ikHt%2FHt3W1c36%2BuNv5roqe5ga6lur%2Bx9NP8rcb0XEcHvHvnHeqGNwEj7Nl8yW%2FsADTqztYOej%2FiETS2UdPKrUHTHqNNs"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84662fc5dc1ebbcb-FRA
+Alt-Svc: h3=":443"; ma=86400

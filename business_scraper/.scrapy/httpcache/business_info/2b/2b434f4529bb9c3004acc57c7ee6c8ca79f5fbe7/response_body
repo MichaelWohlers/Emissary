@@ -1,0 +1,317 @@
+<!DOCTYPE html><html class="no-js" lang="en"><head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="theme-color" content="">
+    <link rel="canonical" href="https://apricotlanefriendswood.com/">
+    <link rel="preconnect" href="https://cdn.shopify.com" crossorigin=""><link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin=""><title>
+      Apricot Lane Boutique - Elevate Your Everyday Style
+ – Apricot Lane Boutique - Friendswood</title>
+
+    
+      <meta name="description" content="Discover timeless pieces with a trendy flair at Apricot Lane Boutique. Our collection is curated for the modern, busy woman who values both fashion and functionality. From apparel and accessories to unique gifts, our boutique has everything you need to look and feel your best. Explore a world of style!">
+    
+
+    
+
+<meta property="og:site_name" content="Apricot Lane Boutique - Friendswood">
+<meta property="og:url" content="https://apricotlanefriendswood.com/">
+<meta property="og:title" content="Apricot Lane Boutique - Elevate Your Everyday Style">
+<meta property="og:type" content="website">
+<meta property="og:description" content="Discover timeless pieces with a trendy flair at Apricot Lane Boutique. Our collection is curated for the modern, busy woman who values both fashion and functionality. From apparel and accessories to unique gifts, our boutique has everything you need to look and feel your best. Explore a world of style!"><meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Apricot Lane Boutique - Elevate Your Everyday Style">
+<meta name="twitter:description" content="Discover timeless pieces with a trendy flair at Apricot Lane Boutique. Our collection is curated for the modern, busy woman who values both fashion and functionality. From apparel and accessories to unique gifts, our boutique has everything you need to look and feel your best. Explore a world of style!">
+
+
+    <script src="//apricotlanefriendswood.com/cdn/shop/t/2/assets/global.js?v=149496944046504657681695624375" defer="defer"></script>
+    <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script><meta name="facebook-domain-verification" content="c52oei4hgsskrnrglkqq07o5xj7swa">
+<meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/83647070509/digital_wallets/dialog">
+<meta name="shopify-checkout-api-token" content="625775e7cfa57901111bfaf0a42ade3e">
+<meta id="in-context-paypal-metadata" data-shop-id="83647070509" data-venmo-supported="true" data-environment="production" data-locale="en_US" data-paypal-v4="true" data-currency="USD">
+<script async="async" src="/checkouts/internal/preloads.js?permanent-domain=apricotlanefriendswood.myshopify.com&amp;locale=en-US"></script>
+<script id="apple-pay-shop-capabilities" type="application/json">{"shopId":83647070509,"countryCode":"US","currencyCode":"USD","merchantCapabilities":["supports3DS"],"merchantId":"gid:\/\/shopify\/Shop\/83647070509","merchantName":"Apricot Lane Boutique - Friendswood","requiredBillingContactFields":["postalAddress","email"],"requiredShippingContactFields":["postalAddress","email"],"shippingType":"shipping","supportedNetworks":["visa","masterCard","amex","discover","elo","jcb"],"total":{"type":"pending","label":"Apricot Lane Boutique - Friendswood","amount":"1.00"},"shopifyPaymentsEnabled":true,"supportsSubscriptions":true}</script>
+<script id="shopify-features" type="application/json">{"accessToken":"625775e7cfa57901111bfaf0a42ade3e","betas":["rich-media-storefront-analytics"],"domain":"apricotlanefriendswood.com","predictiveSearch":true,"shopId":83647070509,"smart_payment_buttons_url":"https:\/\/apricotlanefriendswood.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js","dynamic_checkout_cart_url":"https:\/\/apricotlanefriendswood.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js","locale":"en","optimusEnabled":true,"optimusHidden":false,"shopPromisePDPV3Enabled":true}</script>
+<script>var Shopify = Shopify || {};
+Shopify.shop = "apricotlanefriendswood.myshopify.com";
+Shopify.locale = "en";
+Shopify.currency = {"active":"USD","rate":"1.0"};
+Shopify.country = "US";
+Shopify.theme = {"name":"APRICOT LANE | FRIENDSWOOD","id":161253359917,"theme_store_id":null,"role":"main"};
+Shopify.theme.handle = "null";
+Shopify.theme.style = {"id":null,"handle":null};
+Shopify.cdnHost = "apricotlanefriendswood.com/cdn";
+Shopify.routes = Shopify.routes || {};
+Shopify.routes.root = "/";</script>
+<script type="module">!function(o){(o.Shopify=o.Shopify||{}).modules=!0}(window);</script>
+<script>!function(o){function n(){var o=[];function n(){o.push(Array.prototype.slice.apply(arguments))}return n.q=o,n}var t=o.Shopify=o.Shopify||{};t.loadFeatures=n(),t.autoloadFeatures=n()}(window);</script>
+<script>window.ShopifyPay = window.ShopifyPay || {};
+window.ShopifyPay.apiHost = "shop.app\/pay";</script>
+<script>
+  window.Shopify = window.Shopify || {};
+  if (!window.Shopify.featureAssets) window.Shopify.featureAssets = {};
+  window.Shopify.featureAssets['shop-js'] = {"pay-button":["modules/client.pay-button_fa7a4091.en.esm.js","modules/chunk.common_089ed268.esm.js"],"init-shop-email-lookup-coordinator":["modules/client.init-shop-email-lookup-coordinator_c4786d7f.en.esm.js","modules/chunk.common_089ed268.esm.js"],"init-customer-accounts":["modules/client.init-customer-accounts_b72e2e23.en.esm.js","modules/chunk.common_089ed268.esm.js"],"init-customer-accounts-sign-up":["modules/client.init-customer-accounts-sign-up_24bcc88f.en.esm.js","modules/chunk.common_089ed268.esm.js"],"init-shop-for-new-customer-accounts":["modules/client.init-shop-for-new-customer-accounts_d6ce5df6.en.esm.js","modules/chunk.common_089ed268.esm.js"],"shop-pay-payment-request":["modules/client.shop-pay-payment-request_44b42b1f.en.esm.js","modules/chunk.common_089ed268.esm.js","modules/chunk.shop-pay_24d0dbcb.esm.js"],"discount-app":["modules/client.discount-app_ca134bdb.en.esm.js","modules/chunk.common_089ed268.esm.js"],"login-button":["modules/client.login-button_7c13706c.en.esm.js","modules/chunk.common_089ed268.esm.js"],"payment-terms":["modules/client.payment-terms_924ece13.en.esm.js","modules/chunk.common_089ed268.esm.js"]};
+</script>
+<script>(function() {
+  function asyncLoad() {
+    var urls = ["https:\/\/cdn1.judge.me\/assets\/installed.js?shop=apricotlanefriendswood.myshopify.com"];
+    for (var i = 0; i < urls.length; i++) {
+      var s = document.createElement('script');
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = urls[i];
+      var x = document.getElementsByTagName('script')[0];
+      x.parentNode.insertBefore(s, x);
+    }
+  };
+  if(window.attachEvent) {
+    window.attachEvent('onload', asyncLoad);
+  } else {
+    window.addEventListener('load', asyncLoad, false);
+  }
+})();</script>
+<script id="__st">var __st={"a":83647070509,"offset":-21600,"reqid":"1666850f-ae69-48f7-bcdb-4fe3ebfa452b","pageurl":"apricotlanefriendswood.com\/","u":"8be5c344e7c2","p":"home"};</script>
+<script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
+<script>!function(o){o.addEventListener("DOMContentLoaded",function(){window.Shopify=window.Shopify||{},window.Shopify.recaptchaV3=window.Shopify.recaptchaV3||{siteKey:"6LcCR2cUAAAAANS1Gpq_mDIJ2pQuJphsSQaUEuc9"};var t=['form[action*="/contact"] input[name="form_type"][value="contact"]','form[action*="/comments"] input[name="form_type"][value="new_comment"]','form[action*="/account"] input[name="form_type"][value="customer_login"]','form[action*="/account"] input[name="form_type"][value="recover_customer_password"]','form[action*="/account"] input[name="form_type"][value="create_customer"]','form[action*="/contact"] input[name="form_type"][value="customer"]'].join(",");function n(e){e=e.target;null==e||null!=(e=function e(t,n){if(null==t.parentElement)return null;if("FORM"!=t.parentElement.tagName)return e(t.parentElement,n);for(var o=t.parentElement.action,r=0;r<n.length;r++)if(-1!==o.indexOf(n[r]))return t.parentElement;return null}(e,["/contact","/comments","/account"]))&&null!=e.querySelector(t)&&((e=o.createElement("script")).setAttribute("src","https://cdn.shopify.com/shopifycloud/storefront-recaptcha-v3/v0.6/index.js"),o.body.appendChild(e),o.removeEventListener("focus",n,!0),o.removeEventListener("change",n,!0),o.removeEventListener("click",n,!0))}o.addEventListener("click",n,!0),o.addEventListener("change",n,!0),o.addEventListener("focus",n,!0)})}(document);</script>
+<script integrity="sha256-h4dvokWvGcvRSqiG7VnGqoonxF0k3NeoHPLSMjUGIz4=" data-source-attribution="shopify.loadfeatures" defer="defer" src="//apricotlanefriendswood.com/cdn/shopifycloud/shopify/assets/storefront/load_feature-87876fa245af19cbd14aa886ed59c6aa8a27c45d24dcd7a81cf2d2323506233e.js" crossorigin="anonymous"></script>
+<script crossorigin="anonymous" defer="defer" src="//apricotlanefriendswood.com/cdn/shopifycloud/shopify/assets/shopify_pay/storefront-a2d444786d996da5634fbbaeeffe6104ee672440dfa6cdcaebfb27dceaaf9c0f.js?v=20220906"></script>
+<script integrity="sha256-HAs5a9TQVLlKuuHrahvWuke+s1UlxXohfHeoYv8G2D8=" data-source-attribution="shopify.dynamic-checkout" defer="defer" src="//apricotlanefriendswood.com/cdn/shopifycloud/shopify/assets/storefront/features-1c0b396bd4d054b94abae1eb6a1bd6ba47beb35525c57a217c77a862ff06d83f.js" crossorigin="anonymous"></script>
+<script id="sections-script" data-sections="header,footer" defer="defer" src="//apricotlanefriendswood.com/cdn/shop/t/2/compiled_assets/scripts.js?50"></script>
+
+<style id="shopify-dynamic-checkout-cart">@media screen and (min-width: 750px) {
+  #dynamic-checkout-cart {
+    min-height: 50px;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  #dynamic-checkout-cart {
+    min-height: 240px;
+  }
+}
+</style><script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.end');</script>
+
+
+    <style data-shopify="">
+      @font-face {
+  font-family: "Avenir Next";
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("//apricotlanefriendswood.com/cdn/fonts/avenir_next/avenirnext_n4.7fd0287595be20cd5a683102bf49d073b6abf144.woff2?h1=YXByaWNvdGxhbmVmcmllbmRzd29vZC5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=YXByaWNvdGxhbmVmcmllbmRzd29vZC5jb20&hmac=46a1aa79c0a804fe8be1ea3cfdf92328ee1db502287953a11c6d07c0b842b932") format("woff2"),
+       url("//apricotlanefriendswood.com/cdn/fonts/avenir_next/avenirnext_n4.a26a334a0852627a5f36b195112385b0cd700077.woff?h1=YXByaWNvdGxhbmVmcmllbmRzd29vZC5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=YXByaWNvdGxhbmVmcmllbmRzd29vZC5jb20&hmac=4e6d29e619db1f8a6bc8519d4c3e89b81a18f196b983ee6f35cf8bea07c45d74") format("woff");
+}
+
+      @font-face {
+  font-family: "Avenir Next";
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url("//apricotlanefriendswood.com/cdn/fonts/avenir_next/avenirnext_n7.8cfc646eab1e39e2d81a26284624600ccae49d55.woff2?h1=YXByaWNvdGxhbmVmcmllbmRzd29vZC5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=YXByaWNvdGxhbmVmcmllbmRzd29vZC5jb20&hmac=2e1308e70e2e03fccbd7f84c492ce374cbe2383f295e43aa3676f46fb1a37413") format("woff2"),
+       url("//apricotlanefriendswood.com/cdn/fonts/avenir_next/avenirnext_n7.25b10f8089bc87dfd8e50a7c68b433da7a04bc87.woff?h1=YXByaWNvdGxhbmVmcmllbmRzd29vZC5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=YXByaWNvdGxhbmVmcmllbmRzd29vZC5jb20&hmac=fba30466c8a15ab3d5f7c3e05bff5448e6d6cf95b5b8004a9052739ce8f54a04") format("woff");
+}
+
+      @font-face {
+  font-family: "Avenir Next";
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+  src: url("//apricotlanefriendswood.com/cdn/fonts/avenir_next/avenirnext_i4.f1583d9f457b68e44fbda187a48b4096d547d7f4.woff2?h1=YXByaWNvdGxhbmVmcmllbmRzd29vZC5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=YXByaWNvdGxhbmVmcmllbmRzd29vZC5jb20&hmac=f7e9ef410d5e7779521464934cbeab34b4ae96ba1614e65ea74fc36bea811499") format("woff2"),
+       url("//apricotlanefriendswood.com/cdn/fonts/avenir_next/avenirnext_i4.67fb53a3e0351125941146246183577ae8d8bf23.woff?h1=YXByaWNvdGxhbmVmcmllbmRzd29vZC5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=YXByaWNvdGxhbmVmcmllbmRzd29vZC5jb20&hmac=b44c532c62ffb681e0a4fcac79b6db0b2be95474cf3c0a99b6d68299dcc6b635") format("woff");
+}
+
+      @font-face {
+  font-family: "Avenir Next";
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+  src: url("//apricotlanefriendswood.com/cdn/fonts/avenir_next/avenirnext_i7.3a67996166b5b7f1b7cc3b35490ebd6824908dc5.woff2?h1=YXByaWNvdGxhbmVmcmllbmRzd29vZC5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=YXByaWNvdGxhbmVmcmllbmRzd29vZC5jb20&hmac=11f2e9263c2b7880b2a4eae9ccf77497c4b261658e88e6ff97ddec7738b6fe7e") format("woff2"),
+       url("//apricotlanefriendswood.com/cdn/fonts/avenir_next/avenirnext_i7.b872875ff437f0efb4c2321d0016eaa726b649ae.woff?h1=YXByaWNvdGxhbmVmcmllbmRzd29vZC5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=YXByaWNvdGxhbmVmcmllbmRzd29vZC5jb20&hmac=b94258521c18dceeb88e501bcf7e252a73c576c468cf8acee22491db1b2f8d62") format("woff");
+}
+
+      @font-face {
+  font-family: "Avenir Next";
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("//apricotlanefriendswood.com/cdn/fonts/avenir_next/avenirnext_n4.7fd0287595be20cd5a683102bf49d073b6abf144.woff2?h1=YXByaWNvdGxhbmVmcmllbmRzd29vZC5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=YXByaWNvdGxhbmVmcmllbmRzd29vZC5jb20&hmac=46a1aa79c0a804fe8be1ea3cfdf92328ee1db502287953a11c6d07c0b842b932") format("woff2"),
+       url("//apricotlanefriendswood.com/cdn/fonts/avenir_next/avenirnext_n4.a26a334a0852627a5f36b195112385b0cd700077.woff?h1=YXByaWNvdGxhbmVmcmllbmRzd29vZC5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=YXByaWNvdGxhbmVmcmllbmRzd29vZC5jb20&hmac=4e6d29e619db1f8a6bc8519d4c3e89b81a18f196b983ee6f35cf8bea07c45d74") format("woff");
+}
+
+
+      :root {
+        --font-body-family: "Avenir Next", sans-serif;
+        --font-body-style: normal;
+        --font-body-weight: 400;
+        --font-body-weight-bold: 700;
+
+        --font-heading-family: "Avenir Next", sans-serif;
+        --font-heading-style: normal;
+        --font-heading-weight: 400;
+
+        --font-body-scale: 1.0;
+        --font-heading-scale: 1.0;
+
+        --color-base-text: 0, 0, 0;
+        --color-shadow: 0, 0, 0;
+        --color-base-background-1: 255, 255, 255;
+        --color-base-background-2: 243, 243, 243;
+        --color-base-solid-button-labels: 255, 255, 255;
+        --color-base-outline-button-labels: 18, 18, 18;
+        --color-base-accent-1: 18, 18, 18;
+        --color-base-accent-2: 229, 157, 143;
+        --payment-terms-background-color: #ffffff;
+
+        --gradient-base-background-1: #ffffff;
+        --gradient-base-background-2: #f3f3f3;
+        --gradient-base-accent-1: #121212;
+        --gradient-base-accent-2: #e59d8f;
+
+        --media-padding: px;
+        --media-border-opacity: 0.05;
+        --media-border-width: 1px;
+        --media-radius: 0px;
+        --media-shadow-opacity: 0.0;
+        --media-shadow-horizontal-offset: 0px;
+        --media-shadow-vertical-offset: 4px;
+        --media-shadow-blur-radius: 5px;
+        --media-shadow-visible: 0;
+
+        --page-width: 150rem;
+        --page-width-margin: 0rem;
+
+        --product-card-image-padding: 0.0rem;
+        --product-card-corner-radius: 0.0rem;
+        --product-card-text-alignment: left;
+        --product-card-border-width: 0.0rem;
+        --product-card-border-opacity: 0.1;
+        --product-card-shadow-opacity: 0.0;
+        --product-card-shadow-visible: 0;
+        --product-card-shadow-horizontal-offset: 0.0rem;
+        --product-card-shadow-vertical-offset: 0.4rem;
+        --product-card-shadow-blur-radius: 0.5rem;
+
+        --collection-card-image-padding: 0.0rem;
+        --collection-card-corner-radius: 0.0rem;
+        --collection-card-text-alignment: center;
+        --collection-card-border-width: 0.0rem;
+        --collection-card-border-opacity: 0.1;
+        --collection-card-shadow-opacity: 0.0;
+        --collection-card-shadow-visible: 0;
+        --collection-card-shadow-horizontal-offset: 0.0rem;
+        --collection-card-shadow-vertical-offset: 0.4rem;
+        --collection-card-shadow-blur-radius: 0.5rem;
+
+        --blog-card-image-padding: 0.0rem;
+        --blog-card-corner-radius: 0.0rem;
+        --blog-card-text-alignment: left;
+        --blog-card-border-width: 0.0rem;
+        --blog-card-border-opacity: 0.1;
+        --blog-card-shadow-opacity: 0.0;
+        --blog-card-shadow-visible: 0;
+        --blog-card-shadow-horizontal-offset: 0.0rem;
+        --blog-card-shadow-vertical-offset: 0.4rem;
+        --blog-card-shadow-blur-radius: 0.5rem;
+
+        --badge-corner-radius: 4.0rem;
+
+        --popup-border-width: 1px;
+        --popup-border-opacity: 0.1;
+        --popup-corner-radius: 0px;
+        --popup-shadow-opacity: 0.0;
+        --popup-shadow-horizontal-offset: 0px;
+        --popup-shadow-vertical-offset: 4px;
+        --popup-shadow-blur-radius: 5px;
+
+        --drawer-border-width: 1px;
+        --drawer-border-opacity: 0.1;
+        --drawer-shadow-opacity: 0.0;
+        --drawer-shadow-horizontal-offset: 0px;
+        --drawer-shadow-vertical-offset: 4px;
+        --drawer-shadow-blur-radius: 5px;
+
+        --spacing-sections-desktop: 0px;
+        --spacing-sections-mobile: 0px;
+
+        --grid-desktop-vertical-spacing: 8px;
+        --grid-desktop-horizontal-spacing: 8px;
+        --grid-mobile-vertical-spacing: 4px;
+        --grid-mobile-horizontal-spacing: 4px;
+
+        --text-boxes-border-opacity: 0.1;
+        --text-boxes-border-width: 0px;
+        --text-boxes-radius: 0px;
+        --text-boxes-shadow-opacity: 0.0;
+        --text-boxes-shadow-visible: 0;
+        --text-boxes-shadow-horizontal-offset: 0px;
+        --text-boxes-shadow-vertical-offset: 4px;
+        --text-boxes-shadow-blur-radius: 5px;
+
+        --buttons-radius: 0px;
+        --buttons-radius-outset: 0px;
+        --buttons-border-width: 1px;
+        --buttons-border-opacity: 1.0;
+        --buttons-shadow-opacity: 0.0;
+        --buttons-shadow-visible: 0;
+        --buttons-shadow-horizontal-offset: 0px;
+        --buttons-shadow-vertical-offset: 4px;
+        --buttons-shadow-blur-radius: 5px;
+        --buttons-border-offset: 0px;
+
+        --inputs-radius: 0px;
+        --inputs-border-width: 1px;
+        --inputs-border-opacity: 0.55;
+        --inputs-shadow-opacity: 0.0;
+        --inputs-shadow-horizontal-offset: 0px;
+        --inputs-margin-offset: 0px;
+        --inputs-shadow-vertical-offset: 4px;
+        --inputs-shadow-blur-radius: 5px;
+        --inputs-radius-outset: 0px;
+
+        --variant-pills-radius: 40px;
+        --variant-pills-border-width: 1px;
+        --variant-pills-border-opacity: 0.55;
+        --variant-pills-shadow-opacity: 0.0;
+        --variant-pills-shadow-horizontal-offset: 0px;
+        --variant-pills-shadow-vertical-offset: 4px;
+        --variant-pills-shadow-blur-radius: 5px;
+      }
+
+      *,
+      *::before,
+      *::after {
+        box-sizing: inherit;
+      }
+
+      html {
+        box-sizing: border-box;
+        font-size: calc(var(--font-body-scale) * 62.5%);
+        height: 100%;
+      }
+
+      body {
+        display: grid;
+        grid-template-rows: auto auto 1fr auto;
+        grid-template-columns: 100%;
+        min-height: 100%;
+        margin: 0;
+        font-size: 1.5rem;
+        letter-spacing: .025em;
+        line-height: calc(1 + 0.8 / var(--font-body-scale));
+        font-family: var(--font-body-family);
+        font-style: var(--font-body-style);
+        font-weight: var(--font-body-weight);
+      }
+
+      @media screen and (min-width: 750px) {
+        body {
+          font-size: 1.6rem;
+        }
+      }
+    </style>
+
+    <link href="//apricotlanefriendswood.com/cdn/shop/t/2/assets/base.css?v=115596387043410681761695624373" rel="stylesheet" type="text/css" media="all">
+<link rel="preload" as="font" href="//apricotlanefriendswood.com/cdn/fonts/avenir_next/avenirnext_n4.7fd0287595be20cd5a683102bf49d073b6abf144.woff2?h1=YXByaWNvdGxhbmVmcmllbmRzd29vZC5hY2NvdW50Lm15c2hvcGlmeS5jb20&amp;h2=YXByaWNvdGxhbmVmcmllbmRzd29vZC5jb20&amp;hmac=46a1aa79c0a804fe8be1ea3cfdf92328ee1db502287953a11c6d07c0b842b932" type="font/woff2" crossorigin=""><link rel="preload" as="font" href="//apricotlanefriendswood.com/cdn/fonts/avenir_next/avenirnext_n4.7fd0287595be20cd5a683102bf49d073b6abf144.woff2?h1=YXByaWNvdGxhbmVmcmllbmRzd29vZC5hY2NvdW50Lm15c2hvcGlmeS5jb20&amp;h2=YXByaWNvdGxhbmVmcmllbmRzd29vZC5jb20&amp;hmac=46a1aa79c0a804fe8be1ea3cfdf92328ee1db502287953a11c6d07c0b842b932" type="font/woff2" crossorigin=""><link rel="stylesheet" href="//apricotlanefriendswood.com/cdn/shop/t/2/assets/component-predictive-search.css?v=83512081251802922551695624374" media="print" onload="this.media='all'"><script>document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
+    if (Shopify.designMode) {
+      document.documentElement.classList.add('shopify-design-mode');
+    }
+    </script></head></html>

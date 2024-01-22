@@ -1,0 +1,22 @@
+Date: Tue, 16 Jan 2024 11:46:46 GMT
+Content-Type: text/plain;charset=utf-8
+P3P: CP="ALL PUR DSP CUR ADMi DEVi CONi OUR COR IND"
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Ua-Compatible: IE=Edge,chrome=1
+X-Xss-Protection: 1; mode=block
+X-Developer: Page: 12.0ms, Render: 0.0ms, Mem: 2,048kB, Cache: 0Q (0.0ms), DB: 0Q (0.0ms), Prop: 0Q (0.0ms)
+X-Runtime: 0.012010
+X-Shop-Id: 
+Cache-Control: no-cache
+Content-Encoding: gzip
+Vary: Accept-Encoding
+X-Request-Id: a09c7dccd7bbd887c0b2af2bde29865e
+X-Envoy-Upstream-Service-Time: 15
+Cf-Cache-Status: MISS
+Last-Modified: Tue, 16 Jan 2024 11:46:46 GMT
+Set-Cookie: __cf_bm=ikKl7.QdwrEJ52r9yp.WYA4fiRcRtPJ6ZZeJM1DQg1A-1705405606-1-AUxvovecKn4auldp14T/Hb5h7QS1KWlBCt+X13M0cDD9qlUGjUQ7SVdsEw6DPrXMCCucgL3qneQDc04cepzyWB8=; path=/; expires=Tue, 16-Jan-24 12:16:46 GMT; domain=.www.chelseas.com; HttpOnly; Secure; SameSite=None
+Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
+Server: cloudflare
+Cf-Ray: 84661eadeb3a380e-FRA
+Alt-Svc: h3=":443"; ma=86400

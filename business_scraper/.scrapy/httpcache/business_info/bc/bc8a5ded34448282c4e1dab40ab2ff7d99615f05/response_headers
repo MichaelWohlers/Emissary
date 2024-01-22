@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:34:35 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 293
+X-Sorting-Hat-Shopid: 2340192314
+X-Storefront-Renderer-Rendered: 1
+Location: https://www.thesouthernloft.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 2340192314
+X-Shardid: 293
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=9, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="zxnk", requestID;desc="afc75bdc-389b-4d44-b160-b4264d61bd75"
+Server-Timing: cfRequestDuration;dur=87.999821
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: afc75bdc-389b-4d44-b160-b4264d61bd75
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=vjNT99lN0Tj61eGnsivbVoBE3pVM4jooeFPa5GVHdm1BazQcgpd3FUv6T%2BrdYvZ%2FoY522XQc5skzs9a6tnT6v3q3Ci8V8F0aKcyafRX3%2FMzp71ROim2NuVktPa5I%2FJNKL%2FZ1aAzF3f2c"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84660cd82d8690da-FRA
+Alt-Svc: h3=":443"; ma=86400

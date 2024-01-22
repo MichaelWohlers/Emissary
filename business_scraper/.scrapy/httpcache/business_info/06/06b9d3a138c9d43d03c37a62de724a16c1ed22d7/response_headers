@@ -1,0 +1,31 @@
+Date: Tue, 16 Jan 2024 11:59:46 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 297
+X-Sorting-Hat-Shopid: 12492451
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=e8a27dc8-f565-4510-b976-34f6aa4ac3a6; path=/; expires=Tue, 16 Jan 2024 12:29:46 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: _shopify_y=615a06fd-4ebd-49bc-9b27-fb9f6d7a307c; Expires=Wed, 15-Jan-25 11:59:46 GMT; Domain=niswafashion.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=5fd69f01-c1d3-401b-967a-f3c34c419e18; Expires=Tue, 16-Jan-24 12:29:46 GMT; Domain=niswafashion.com; Path=/; SameSite=Lax
+Location: https://www.niswafashion.com/en-de
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 12492451
+X-Shardid: 297
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=12, db;dur=2, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="162295709994", pageType;desc="index", servedBy;desc="vnbs", requestID;desc="5578e88c-af4d-4284-979d-8600cadb1ef0"
+Server-Timing: cfRequestDuration;dur=41.999817
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 5578e88c-af4d-4284-979d-8600cadb1ef0
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=%2Fq%2FaSeec3YWTKrAHoLDXxnXNzl2J6CBrIlctqVxggOS7ol4Wemh9R1OCC%2BZiWJ6kLeBc%2BLUVNxCf4i%2BXkcsNmG0RkglxBt8avZKdsVnKrXGMNYc%2BRWYeovjFVApqTNxNUmsSLt1T"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846631bd3d0830ea-FRA
+Alt-Svc: h3=":443"; ma=86400

@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:46:58 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 277
+X-Sorting-Hat-Shopid: 17877517
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=23fd8b41-118f-4a67-9ba9-8395aac0d1b9; path=/; expires=Tue, 16 Jan 2024 12:16:58 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:46:58 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:46:58 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:46:58 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=boathouseapparel.com; path=/; expires=Wed, 17 Jan 2024 11:46:58 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=75c20369-b2a5-45d8-9d17-b587f6f137cd; Expires=Wed, 15-Jan-25 11:46:58 GMT; Domain=boathouseapparel.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=4f968dc2-20ca-4db5-91e2-17f82f6fb8f7; Expires=Tue, 16-Jan-24 12:16:58 GMT; Domain=boathouseapparel.com; Path=/; SameSite=Lax
+Etag: "cacheable:fdeca1031e34d6d8662206c771e4888e"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 17877517
+X-Shardid: 277
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=10, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="156173631766", servedBy;desc="gzq9", requestID;desc="9d33bbc1-daa7-4247-a24a-39c9d3a77d39"
+Server-Timing: cfRequestDuration;dur=75.000048
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 9d33bbc1-daa7-4247-a24a-39c9d3a77d39
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Dz8bfyOPhcXx7nFUCb2hZMiKkYEaJj34pUfSGYUP2XLGSxZmDyIYgLv058pzg8uCFpBv7iw9Qjs9bSYTKGNIizqmvi3FuwP8MC8yuAp8CdDKkkj6q4Y%2BiegZB8Ln175aLhOCdqaS"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661efe0fb49b5d-FRA
+Alt-Svc: h3=":443"; ma=86400

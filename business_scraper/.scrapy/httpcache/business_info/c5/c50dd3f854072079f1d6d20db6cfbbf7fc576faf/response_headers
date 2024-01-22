@@ -1,0 +1,38 @@
+Date: Tue, 16 Jan 2024 12:03:20 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 220
+X-Sorting-Hat-Shopid: 52203782298
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=7e2281ec-926f-428c-b3e7-78970ed5e6a6; path=/; expires=Tue, 16 Jan 2024 12:33:20 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 12:03:20 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 12:03:20 GMT
+Set-Cookie: cart_currency=EUR; path=/; expires=Tue, 30 Jan 2024 12:03:20 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Afalse%2C%22a%22%3Afalse%2C%22m%22%3Afalse%2C%22t%22%3Afalse%7D%2C%22display_banner%22%3Atrue%2C%22sale_of_data_region%22%3Afalse%7D; domain=stepup.fashion; path=/; expires=Wed, 17 Jan 2024 12:03:20 GMT; SameSite=Lax
+Set-Cookie: _tracking_consent=%7B%22v%22%3A%222.1%22%2C%22region%22%3A%22DERP%22%2C%22reg%22%3A%22GDPR%22%2C%22con%22%3A%7B%22CMP%22%3A%7B%22s%22%3A%22%22%2C%22m%22%3A%22%22%2C%22a%22%3A%22%22%2C%22p%22%3A%22%22%7D%7D%2C%22lim%22%3A%5B%22GDPR_BLOCK_ALL%22%5D%7D; Expires=Wed, 15-Jan-25 12:03:20 GMT; Domain=stepup.fashion; Path=/; SameSite=Lax
+Etag: "cacheable:87db6e19a45d8182b23ac27b3e65dde9"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 52203782298
+X-Shardid: 220
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=12, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="117588885658", servedBy;desc="w6wv", requestID;desc="5f67058a-0b5c-4b23-8a73-124f93dc14db"
+Server-Timing: cfRequestDuration;dur=51.999807
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 5f67058a-0b5c-4b23-8a73-124f93dc14db
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Lk0gvHeoWsIq5r%2BCIxlRubZTvJWfJPVL7x%2BEjpG16xDD%2BHgEbC0eNZ9L1AY%2BGFBgKb3apoGBpsjIUengh1fAMfMQIOnvtMogDQmkJ1DhKTIoGOjHBhmxxz%2BWV6LwpElSFCJLoQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846636f25e411c22-FRA
+Alt-Svc: h3=":443"; ma=86400

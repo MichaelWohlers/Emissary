@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:35:59 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 254
+X-Sorting-Hat-Shopid: 31301009548
+X-Storefront-Renderer-Rendered: 1
+Location: https://prettynpearlsboutique.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 31301009548
+X-Shardid: 254
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=8, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="m89h", requestID;desc="bec703b0-28fc-42be-9c27-2291b4b33a65"
+Server-Timing: cfRequestDuration;dur=39.999723
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: bec703b0-28fc-42be-9c27-2291b4b33a65
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=x1Ypeyy9tVN2aNly4UvFDPcfS5fsVuraVIuLtcnSqxeCixMpJ9lFZaSjJ7bs5KexvJnTcgv9Q7C8ek2lH01V7iROcBRR5ACuIS1ZU5HjY0lmNaw8WPHY6GDWo%2B3i%2FodPZ64oKEiI1SaGweH73EnL"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84660ee1cbd39b95-FRA
+Alt-Svc: h3=":443"; ma=86400

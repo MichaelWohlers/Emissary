@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:02:29 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 216
+X-Sorting-Hat-Shopid: 10451976250
+X-Storefront-Renderer-Rendered: 1
+Location: https://nytexasstyle.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 10451976250
+X-Shardid: 216
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=6, db;dur=2, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="bp2k", requestID;desc="7382dac8-6c86-4945-928e-57be94bb1eb2"
+Server-Timing: cfRequestDuration;dur=42.999983
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 7382dac8-6c86-4945-928e-57be94bb1eb2
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=QQuzQV8PJiM7ivnaNbpJYt7vqKOLYWA%2FXqwJyMJ%2F8fAbLTIknklp8PvsPh6J9Iun6aDyYVkHDrNTY6MaZwu36nn4U7DiHNsvil6XKLxcQ6ocixlAc4VlWRGhzOhbKHc2TVo%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8465ddd11c459a1e-FRA
+Alt-Svc: h3=":443"; ma=86400

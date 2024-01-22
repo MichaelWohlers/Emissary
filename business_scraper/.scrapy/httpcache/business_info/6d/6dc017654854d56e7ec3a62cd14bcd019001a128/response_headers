@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 07:08:09 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 227
+X-Sorting-Hat-Shopid: 2828173357
+X-Storefront-Renderer-Rendered: 1
+Location: https://www.monarch.boutique/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 2828173357
+X-Shardid: 227
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=10, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="x6bp", requestID;desc="5ac07e49-531d-4d4e-9a10-96bf4d39ff86"
+Server-Timing: cfRequestDuration;dur=52.999973
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 5ac07e49-531d-4d4e-9a10-96bf4d39ff86
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=lavGawHY7MdpA0Sc%2BB1nA2%2BIDQBlVN3EvajZKDVwuCD0yLB6VtFhTQ8fH8NjkStyariSxzA0zNmu2xkcauSSBmFrikebaDhPVyLldAcwGYygVb%2BTn6bSK7bkT80ajRQN1fF0Uf7YlITr9DYVILfBQR8%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8464868c297b2c6d-FRA
+Alt-Svc: h3=":443"; ma=86400

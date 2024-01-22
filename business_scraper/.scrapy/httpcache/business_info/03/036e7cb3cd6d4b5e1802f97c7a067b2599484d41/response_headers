@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 04:46:48 GMT
+Content-Type: text/plain; charset=utf-8
+Cache-Control: max-age=0, s-maxage=7200, must-revalidate
+Content-Encoding: gzip
+Etag: "b52854427bd242cdc7d233feec063463"-gzip
+Expires: Fri, 12 Jan 2024 08:07:27 GMT
+Last-Modified: Tue, 16 Nov 2021 15:15:31 GMT
+Owner: sitescog-717
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Surrogate-Key: stores.express.com stores.express.com%2Frobots.txt
+Vary: Accept-Encoding
+X-Goog-Generation: 1637075731599626
+X-Goog-Hash: md5=tShUQnvSQs3H0jP+7AY0Yw==
+X-Goog-Metageneration: 2
+X-Goog-Reserved-Source-Generation: 1604351649400034
+X-Goog-Storage-Class: STANDARD
+X-Goog-Stored-Content-Encoding: identity
+X-Goog-Stored-Content-Length: 98
+X-Guploader-Uploadid: ABPtcPrUOHCt53h4339XlFIyIFdmnLJ2qS1HiW3Y43P3Aw4szhbrJMbb518De4IKE5S4RprouRxLHjTYww
+X-Yext-Site: or2
+X-Yext-Subendpoint: static
+Via: 1.1 google
+Alt-Svc: h3=":443"; ma=86400
+Cf-Cache-Status: HIT
+Age: 6276
+Set-Cookie: __cf_bm=nUE3K8jHtDi9CDCnQYPfJgWEbyzSJIA3PH3yOmBc2sM-1705380408-1-Aa62/dSOq+c0Q1OCQnNbQ+SXpkpkLZSifkWimshY+uHXdxYZ24UYudkv5XMPVz50ADjkZ1gJ7yvK0r2XYzRM8ss=; path=/; expires=Tue, 16-Jan-24 05:16:48 GMT; domain=.stores.express.com; HttpOnly; Secure; SameSite=None
+Server: cloudflare
+Cf-Ray: 8463b77e8cd403dc-FRA

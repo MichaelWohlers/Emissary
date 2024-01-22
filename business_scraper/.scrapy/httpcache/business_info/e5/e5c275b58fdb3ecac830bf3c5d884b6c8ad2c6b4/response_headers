@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:20:57 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 297
+X-Sorting-Hat-Shopid: 73586573610
+X-Storefront-Renderer-Rendered: 1
+Location: https://littlebotique.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 73586573610
+X-Shardid: 297
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=9, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="qb7b", requestID;desc="85f2e194-899a-468e-87e4-c68fe8b8f7e0"
+Server-Timing: cfRequestDuration;dur=62.000036
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 85f2e194-899a-468e-87e4-c68fe8b8f7e0
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=3weuTVRs3NWo3Q71OnEPeba2hU5Iw4VPoreJFK5E792P1Ksz9NytiUiiVEKXQX2WyXRMonMOnAQCaKv4OhldYjY147vw97uEYWtBFSSDJ8nToJ09lF8BZblaREBRQcP5xAoAupV8rWu3"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8465f8e17f455d91-FRA
+Alt-Svc: h3=":443"; ma=86400

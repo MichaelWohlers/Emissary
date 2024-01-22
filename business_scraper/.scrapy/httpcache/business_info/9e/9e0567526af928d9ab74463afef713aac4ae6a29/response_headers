@@ -1,0 +1,42 @@
+Date: Tue, 16 Jan 2024 11:55:08 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 222
+X-Sorting-Hat-Shopid: 62949785823
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=be5f81ae-8ee6-4f55-a57a-9106accedda5; path=/; expires=Tue, 16 Jan 2024 12:25:08 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:55:08 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=CA; path=/; expires=Thu, 16 Jan 2025 11:55:08 GMT; SameSite=Lax
+Set-Cookie: cart_currency=CAD; path=/; expires=Tue, 30 Jan 2024 11:55:08 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=yasehandmade.com; path=/; expires=Wed, 17 Jan 2024 11:55:08 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=28a42f4a-b284-4cf7-ab52-aa9bd9566d45; Expires=Wed, 15-Jan-25 11:55:08 GMT; Domain=yasehandmade.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=fe7c31fa-6d61-4328-8874-cab9e76be2cb; Expires=Tue, 16-Jan-24 12:25:08 GMT; Domain=yasehandmade.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=https%3A%2F%2Fyasehandmade.com%2F; Expires=Tue, 30-Jan-24 11:55:08 GMT; Domain=yasehandmade.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2Fpages%2Fcontact; Expires=Tue, 30-Jan-24 11:55:08 GMT; Domain=yasehandmade.com; Path=/; HttpOnly; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+Etag: "cacheable:3f2a61d8eb8b09ce83ef44be34f39fb3"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Access-Control-Allow-Origin: *
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 62949785823
+X-Shardid: 222
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=47, db;dur=17, parse;dur=1, render;dur=9, wasm, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="130679046367", pageType;desc="page", servedBy;desc="2jm5", requestID;desc="8ae143cf-f6c4-43cc-a137-00bfecd832f2"
+Server-Timing: cfRequestDuration;dur=78.999996
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 8ae143cf-f6c4-43cc-a137-00bfecd832f2
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=ATW7Lbq52BAjHXvC5GRf6qghN5qjzrrWPjPRQxv2q29rUaIm41vzlX1V0dLeOplkOPVDCHgBB%2FnJp5H2yW6GMnuxkIezX1LFcIaubJatVBRDXhko2E82gplCpADah9m7rUI%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84662af21b951909-FRA
+Alt-Svc: h3=":443"; ma=86400

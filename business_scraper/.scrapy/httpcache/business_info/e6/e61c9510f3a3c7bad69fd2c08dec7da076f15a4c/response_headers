@@ -1,0 +1,22 @@
+Date: Tue, 16 Jan 2024 12:01:06 GMT
+Content-Type: text/plain;charset=utf-8
+P3P: CP="ALL PUR DSP CUR ADMi DEVi CONi OUR COR IND"
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Ua-Compatible: IE=Edge,chrome=1
+X-Xss-Protection: 1; mode=block
+X-Developer: Page: 6.2ms, Render: 0.0ms, Mem: 2,048kB, Cache: 0Q (0.0ms), DB: 0Q (0.0ms), Prop: 0Q (0.0ms)
+X-Runtime: 0.006223
+X-Shop-Id: 
+Cache-Control: no-cache
+Content-Encoding: gzip
+Vary: Accept-Encoding
+X-Request-Id: ef0bcc82361452fdf6b265ea6d50d5bd
+X-Envoy-Upstream-Service-Time: 8
+Cf-Cache-Status: MISS
+Last-Modified: Tue, 16 Jan 2024 12:01:06 GMT
+Set-Cookie: __cf_bm=eEkv.tr8RUQarELI4d.RJ1YMLqaqLI41grZYXGH2dPc-1705406466-1-AdMmqsMd09pVkmtJBpFvMrh0GbaV/7dtxbGa6KnaTPCmVtVdxP4vF+bBJTM0Ta4artF+0BMILy/Eqa1czgPjSds=; path=/; expires=Tue, 16-Jan-24 12:31:06 GMT; domain=.www.fordandmcintyre.com; HttpOnly; Secure; SameSite=None
+Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
+Server: cloudflare
+Cf-Ray: 846633aeba899b43-FRA
+Alt-Svc: h3=":443"; ma=86400

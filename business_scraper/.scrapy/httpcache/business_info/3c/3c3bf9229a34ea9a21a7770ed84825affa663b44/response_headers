@@ -1,0 +1,14 @@
+Date: Tue, 16 Jan 2024 11:20:04 GMT
+Content-Type: text/html; charset=UTF-8
+X-Powered-By: PHP/7.0.33
+Link: <http://splendeurluxury.com/wp-json/>; rel="https://api.w.org/", <http://splendeurluxury.com/>; rel=shortlink
+Cache-Control: max-age=600
+Expires: Tue, 16 Jan 2024 11:30:03 GMT
+Vary: Accept-Encoding,User-Agent
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=gpf9lX6Xn3JOqlXiWEkYZ6Dja%2FWgIF%2B0My5F50AFBUDWkCGfFgZtRENDDvkkCKcHfxw6PzmTrWlknqNTTLGhFS5xph4IQ1UU%2B1SE1DniO0R2R4KjuNFMiTfdEONeq7LerOR08oiq"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8465f78eeedd99fa-CDG
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400

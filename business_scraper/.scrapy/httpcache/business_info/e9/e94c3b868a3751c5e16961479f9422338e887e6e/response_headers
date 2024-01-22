@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:53:31 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 149
+X-Sorting-Hat-Shopid: 40820211862
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=5ddba6de-0245-4cd7-874d-65ddde59bacc; path=/; expires=Tue, 16 Jan 2024 12:23:31 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:53:31 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 11:53:31 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:53:31 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=serendipityboutiques.com; path=/; expires=Wed, 17 Jan 2024 11:53:31 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=07787995-c1be-40bb-a2ea-023e54eff9bc; Expires=Wed, 15-Jan-25 11:53:31 GMT; Domain=serendipityboutiques.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=3fc1d7ab-7ecb-4de2-860f-3c652fccd87f; Expires=Tue, 16-Jan-24 12:23:31 GMT; Domain=serendipityboutiques.com; Path=/; SameSite=Lax
+Etag: "cacheable:289cc98eacb3c536f7bcc1d79971e39c"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 40820211862
+X-Shardid: 149
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=10, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="101273075862", servedBy;desc="4n6h", requestID;desc="2db78f53-ef36-4f51-b6a1-9b1a2f9ab891"
+Server-Timing: cfRequestDuration;dur=37.999868
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 2db78f53-ef36-4f51-b6a1-9b1a2f9ab891
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=p4SZyB%2BtEfh9nU0hyA2XNngRaBpiVW3hdYjeXFQsXP8c565E7A87VSRL%2BPyTcjSecTY1mE7fWdtPsx4ZrjMOOnmRjPgzfgzQRqpiT6qoH6ewQMNDAK464U1%2BWH43mCEk2AuPWjipx1MU3w%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84662892183a2ba4-FRA
+Alt-Svc: h3=":443"; ma=86400

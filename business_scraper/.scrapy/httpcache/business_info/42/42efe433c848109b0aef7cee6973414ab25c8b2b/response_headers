@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:34:53 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 83
+X-Sorting-Hat-Shopid: 29547167828
+X-Storefront-Renderer-Rendered: 1
+Location: https://shopjco.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 29547167828
+X-Shardid: 83
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=15, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="2s2x", requestID;desc="743a41b9-6763-4f84-bd36-cca56ec50d25"
+Server-Timing: cfRequestDuration;dur=44.000149
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 743a41b9-6763-4f84-bd36-cca56ec50d25
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=7gxYDRzz8UyG7zIvkBQ4WSEVrlQqowxDnP%2FJEwZQUvq%2FUF7V7En3lTqiuYszJNzO3S3HZp9S6vMvaPJitYash4omLRtZKdGIFUHTRQ3xIgYRxQC84o1TmW65WwI2NQ0Dtg%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84660d4838ed915c-FRA
+Alt-Svc: h3=":443"; ma=86400

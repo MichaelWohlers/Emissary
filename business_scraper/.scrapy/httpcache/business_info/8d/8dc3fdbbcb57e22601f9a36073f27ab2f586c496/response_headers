@@ -1,0 +1,27 @@
+Server: Apache
+Set-Cookie: uaid=D43MDIEL0omlNgADMt4vP-8haI5jZACC1KX_PWF0tVJpYmaKkpWSV3xxqXNaZWqSW1ByaUZQQbFzfFp8VKJnWUZarlItAwA.; expires=Wed, 15 Jan 2025 04:00:09 GMT; Max-Age=31536000; path=/; domain=.etsy.com; secure; SameSite=None
+Set-Cookie: user_prefs=L-G4V4Az50f7bbaLid_09ogsUjJjZACC1KX_PWF0tJJraJCSTl5pTo6OUmqebmiwko6SiytUxAhC4SJiGQA.; expires=Wed, 15 Jan 2025 04:00:09 GMT; Max-Age=31536000; path=/; domain=.etsy.com
+Set-Cookie: fve=1705377609.0; expires=Fri, 14 Feb 2025 20:18:29 GMT; Max-Age=34186700; path=/; domain=.etsy.com; secure
+Set-Cookie: _fbp=fb.1.1705377609354.4227196773528780; expires=Mon, 15 Apr 2024 04:00:09 GMT; Max-Age=7776000; path=/; domain=.etsy.com; secure
+Set-Cookie: exp_ebid=m=TCEoo3xsR66%2BmJVr1%2Biy2%2Fx3gRLj9gw8wnwKFOihIyg%3D,v=_swuj0zRNk-rTDmYkmBNqxDfcBnjsNu7; domain=.etsy.com; path=/; Secure; max-age=5184000
+Strict-Transport-Security: max-age=631138520; includeSubDomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block; report=/beacon/csp.php
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: private, no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Content-Type: text/plain;charset=UTF-8
+Via: 1.1 google, 1.1 varnish
+X-Fastly-Backend-Reqs: 180
+Accept-Ranges: bytes
+Date: Tue, 16 Jan 2024 04:00:09 GMT
+X-Served-By: cache-fra-eddf8230082-FRA
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1705377609.273189,VS0,VE141
+Vary: Accept-Encoding
+X-Ttfb: 140.866
+X-Rtt: 26.486
+Server-Timing: ttfb_estimate; dur=193.838
+Server-Timing: cdn_ttfb; dur=140.866

@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 04:49:30 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 250
+X-Sorting-Hat-Shopid: 35048783917
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=e4002def-f1af-42ba-b990-23503a16a188; path=/; expires=Tue, 16 Jan 2024 05:19:30 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 04:49:30 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 04:49:30 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 04:49:30 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=shopglamourandgrace.com; path=/; expires=Wed, 17 Jan 2024 04:49:30 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=8bd2f757-3143-44ea-bc90-cb6844dfc8d9; Expires=Wed, 15-Jan-25 04:49:30 GMT; Domain=shopglamourandgrace.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=04cb8bd7-3864-42b1-bbf8-dd24e9e0a44a; Expires=Tue, 16-Jan-24 05:19:30 GMT; Domain=shopglamourandgrace.com; Path=/; SameSite=Lax
+Etag: "cacheable:2a791195a0d724e2a1b07473825903ab"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 35048783917
+X-Shardid: 250
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=12, db;dur=5, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="91492057133", servedBy;desc="9vmx", requestID;desc="5ff11c80-334e-407c-bc90-90147ec7f2d4"
+Server-Timing: cfRequestDuration;dur=35.000086
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 5ff11c80-334e-407c-bc90-90147ec7f2d4
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=oRNeqsMxvC6SDWXYKgfLL%2BhLXpy8q3PsRd0MFyomltUTMA6lVGjU0FDTny3aW9gqPubhiOpGOY19h3nS4TdzU2WUYckGdo9DWmbTUKhVyj2IiE1K%2FlAGAYDabOuX4KcK0q21Dxvl2KjV"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8463bb755aba8fdd-FRA
+Alt-Svc: h3=":443"; ma=86400

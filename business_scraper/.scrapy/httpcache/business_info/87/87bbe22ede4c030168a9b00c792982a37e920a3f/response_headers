@@ -1,0 +1,18 @@
+Content-Length: 140
+Content-Type: text/plain; charset=UTF-8
+Date: Sat, 06 Jan 2024 15:24:23 GMT
+Server: Apache
+Last-Modified: Wed, 27 Dec 2023 21:00:02 GMT
+Etag: "c5-60d8415273880-gzip"
+Accept-Ranges: bytes
+Cache-Control: max-age=2592000
+Expires: Mon, 05 Feb 2024 15:24:23 GMT
+Content-Encoding: gzip
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Vary: Accept-Encoding
+X-Cache: Hit from cloudfront
+Via: 1.1 5a2cb96a37aeca3f9626798c4e9dab28.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: FRA56-P9
+X-Amz-Cf-Id: U9jqeARmN_38nmqHVrt7vqLWbr7VMdLvyr4qYTqIPES0h6EId7SUpg==
+Age: 850215

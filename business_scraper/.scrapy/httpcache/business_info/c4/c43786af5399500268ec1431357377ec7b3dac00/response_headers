@@ -1,0 +1,42 @@
+Date: Tue, 16 Jan 2024 11:56:45 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 233
+X-Sorting-Hat-Shopid: 5386805
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=96634ee6-5011-49d1-90ef-15c4d1df309f; path=/; expires=Tue, 16 Jan 2024 12:26:45 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:56:45 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:56:45 GMT; SameSite=Lax
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:56:45 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=jophiel.com; path=/; expires=Wed, 17 Jan 2024 11:56:45 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=c7e7c976-6978-450d-a7b6-6feae0982868; Expires=Wed, 15-Jan-25 11:56:45 GMT; Domain=jophiel.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=7d9a318e-9434-498f-b8b9-b51997a4f9be; Expires=Tue, 16-Jan-24 12:26:45 GMT; Domain=jophiel.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=https%3A%2F%2Fjophiel.com%2F; Expires=Tue, 30-Jan-24 11:56:45 GMT; Domain=jophiel.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2Fpages%2Fcontact-us; Expires=Tue, 30-Jan-24 11:56:45 GMT; Domain=jophiel.com; Path=/; HttpOnly; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+Etag: "cacheable:7b9aa8c261d44c550bd7594ecc93cadf"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Access-Control-Allow-Origin: *
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 5386805
+X-Shardid: 233
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=102, db;dur=43, parse;dur=2, render;dur=21, wasm, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="73361293417", pageType;desc="page", servedBy;desc="zxnk", requestID;desc="c85eaa11-4498-4948-9233-09cb6333a6eb"
+Server-Timing: cfRequestDuration;dur=134.999990
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: c85eaa11-4498-4948-9233-09cb6333a6eb
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=WhuiEmMoPCdi5a6j1Y0uGywEWr8j%2BPzbDPlSEB3JqPuYCpzs4wS%2B7xmqkwSU%2FkB5JWsuMi6zGv8sQHzuzT46NneqpFdL%2BUquIt02DyLAPB3w1lK09tHEykWn%2FF3J"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84662d4d4c6918db-FRA
+Alt-Svc: h3=":443"; ma=86400

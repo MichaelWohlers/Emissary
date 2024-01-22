@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:39:36 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 136
+X-Sorting-Hat-Shopid: 57209979017
+X-Storefront-Renderer-Rendered: 1
+Location: https://irisandindieboutique.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 57209979017
+X-Shardid: 136
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=6, db;dur=2, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="5z4n", requestID;desc="ab3a12d2-11f5-4721-8359-3d41315caa11"
+Server-Timing: cfRequestDuration;dur=46.999931
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: ab3a12d2-11f5-4721-8359-3d41315caa11
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=j47sldWmZgGu2yxOFkq8dzaU1APg4f%2FicFxcpDqbINZ4dbwBWzxPdcd5Ii5IJK%2BQWpfis%2FbR92GXHtp7FBnnbsq%2FdQDIJcfncr3H29S5ewRfqKt2pklrDm%2Fv8AnNXjimJYoaAyKs8kYfFw%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8466142fea87bba3-FRA
+Alt-Svc: h3=":443"; ma=86400

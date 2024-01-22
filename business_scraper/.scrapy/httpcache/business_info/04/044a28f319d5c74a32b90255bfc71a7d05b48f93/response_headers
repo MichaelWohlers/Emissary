@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:52:21 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 250
+X-Sorting-Hat-Shopid: 17271595
+X-Storefront-Renderer-Rendered: 1
+Location: https://thecabana.ca/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 17271595
+X-Shardid: 250
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=9, db;dur=2, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="tnnw", requestID;desc="15d548ab-30ab-4026-b25b-54d7717192cb"
+Server-Timing: cfRequestDuration;dur=56.999922
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 15d548ab-30ab-4026-b25b-54d7717192cb
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=SpxFe9LvxGqCKrpct4wp5ENtvCN6YHECSQvt6xZ5BP5ZEb4Hgu6Fxxz5qCJk78ntSSdnem6eUUjvn5s8%2Ba3rmQvg2sX7fDFzQu3nP6U6JGKr%2BwclYIDJsYx87WUmOxUoSZI%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846626dcc9ad2bdc-FRA
+Alt-Svc: h3=":443"; ma=86400

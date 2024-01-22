@@ -1,0 +1,41 @@
+Date: Tue, 16 Jan 2024 11:19:54 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 234
+X-Sorting-Hat-Shopid: 47170486428
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=570a1f30-a3a3-4cab-94a3-2e288b9cfd5f; path=/; expires=Tue, 16 Jan 2024 11:49:54 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:19:54 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 11:19:54 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:19:54 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=vintagevibesboutique607.com; path=/; expires=Wed, 17 Jan 2024 11:19:54 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=557f2833-c225-4459-871d-8cfb0b1c2f6e; Expires=Wed, 15-Jan-25 11:19:54 GMT; Domain=vintagevibesboutique607.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=23aedd1c-0e27-4166-900e-21939ec99e69; Expires=Tue, 16-Jan-24 11:49:54 GMT; Domain=vintagevibesboutique607.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 11:19:54 GMT; Domain=vintagevibesboutique607.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2F; Expires=Tue, 30-Jan-24 11:19:54 GMT; Domain=vintagevibesboutique607.com; Path=/; HttpOnly; SameSite=Lax
+Etag: "cacheable:c70f9136375a0e3960ce82ea60ae18a6"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 47170486428
+X-Shardid: 234
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=13, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="138415210731", pageType;desc="index", servedBy;desc="mxgx", requestID;desc="91d8a8b2-d4d1-46f1-88a2-b5ca20c6be96"
+Server-Timing: cfRequestDuration;dur=42.000055
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 91d8a8b2-d4d1-46f1-88a2-b5ca20c6be96
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=2ozz6W95Hg7W3e63%2FAlDsw99pmMnzxU2mrmIQP3yx%2FaTtNU5VCpZ8MJFcnXBquwiyze403jy633%2BW5l5NeQHlY9FrfrU32SOuorAHMh9RI%2FmQr8RuzgPLCk4tSV3JFPkxzaGQoyFY%2BlzhagGSQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8465f755ea8437ef-FRA
+Alt-Svc: h3=":443"; ma=86400

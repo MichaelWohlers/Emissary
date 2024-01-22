@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 07:05:25 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 258
+X-Sorting-Hat-Shopid: 45952991382
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=9a23d105-4066-4838-adcb-b3fc09a04b3b; path=/; expires=Tue, 16 Jan 2024 07:35:25 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 07:05:25 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 07:05:25 GMT; SameSite=Lax
+Set-Cookie: cart_currency=EUR; path=/; expires=Tue, 30 Jan 2024 07:05:25 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=lylasclothing.com; path=/; expires=Wed, 17 Jan 2024 07:05:25 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=4a7db303-3a26-4c00-857a-25e084b06eee; Expires=Wed, 15-Jan-25 07:05:25 GMT; Domain=lylasclothing.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=d29f5fa2-0a36-4a58-bb5c-b65577dc8e98; Expires=Tue, 16-Jan-24 07:35:25 GMT; Domain=lylasclothing.com; Path=/; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+Etag: "cacheable:69e45810aa2c445b6d50c713987daf8f"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 45952991382
+X-Shardid: 258
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=20, db;dur=7, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="131252584707", servedBy;desc="n7sx", requestID;desc="15cf3caa-1f3b-44bc-aa95-01f992c9d834"
+Server-Timing: cfRequestDuration;dur=53.999901
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 15cf3caa-1f3b-44bc-aa95-01f992c9d834
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=0vjuhtF2BnKmoneO5jaTc1vgvhypxrq3LZgMtDVRI2kS%2F75dRIVCYsE5WKvNwtr8LLriFZBAgVGB8v7fjAQw0BTYtL3Tg4AXutgvoOZq7nC81KCB0WHFteNBvlbB0XzQfGvx7mDqmg%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8464828fba3a0858-FRA
+Alt-Svc: h3=":443"; ma=86400

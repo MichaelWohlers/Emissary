@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:50:25 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 245
+X-Sorting-Hat-Shopid: 26899677261
+X-Storefront-Renderer-Rendered: 1
+Location: https://bexley-anns.myshopify.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 26899677261
+X-Shardid: 245
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=7, db;dur=2, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="m89h", requestID;desc="92cb6574-74a2-4be1-a91f-fe84f23f3ef8"
+Server-Timing: cfRequestDuration;dur=64.999819
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 92cb6574-74a2-4be1-a91f-fe84f23f3ef8
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=FGHZ04jvFR5ZH0g%2F8K8CQx2NYmL%2FoVwU1UM7ggrBcngb%2FyStpU6GbS6dZ9AMuk8H4RuPbUFCmEkBaez3DgIUJit45QlS79sK8Daen3B2ZIxPSxxVb3FwaYe%2BSUUY%2BKGw5oWbdUeFR%2F0ZE4w%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846624079e511c22-FRA
+Alt-Svc: h3=":443"; ma=86400

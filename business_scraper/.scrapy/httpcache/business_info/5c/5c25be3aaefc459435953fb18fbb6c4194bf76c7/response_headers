@@ -1,0 +1,41 @@
+Date: Tue, 16 Jan 2024 12:01:23 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 217
+X-Sorting-Hat-Shopid: 26317619255
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=2478b7c5-bb23-40b9-98a6-98fdd5f7bade; path=/; expires=Tue, 16 Jan 2024 12:31:23 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 12:01:23 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 12:01:23 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 12:01:23 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=gracestrengththeboutique.com; path=/; expires=Wed, 17 Jan 2024 12:01:23 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=ef112e87-4026-4ad3-a660-64dc1ec309f2; Expires=Wed, 15-Jan-25 12:01:23 GMT; Domain=gracestrengththeboutique.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=335e6772-4f9e-45b4-8e89-cbec71636685; Expires=Tue, 16-Jan-24 12:31:23 GMT; Domain=gracestrengththeboutique.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 12:01:23 GMT; Domain=gracestrengththeboutique.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2F; Expires=Tue, 30-Jan-24 12:01:23 GMT; Domain=gracestrengththeboutique.com; Path=/; HttpOnly; SameSite=Lax
+Etag: "cacheable:08faf01f117c6387fcb2c0dbae1250b8"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 26317619255
+X-Shardid: 217
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=11, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="83468648503", pageType;desc="index", servedBy;desc="p9hw", requestID;desc="82549e15-df75-4dde-9ed2-72c45940d1f1"
+Server-Timing: cfRequestDuration;dur=38.999796
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 82549e15-df75-4dde-9ed2-72c45940d1f1
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=l2Hx7P6M4pcRfjbVjVT%2FlOhbsaMag2v3TK2dKy%2FXUO9QM%2BiiXG5QYn1C8FEz1Uv5zls5H84QA7fRuIpddU67MPWvLj0omIpzPn1tmo2fASi3hoR3peQtg%2Be7oNdOFMwSiJ6ArhTik0mCnmbBBFk%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846634176f45994a-FRA
+Alt-Svc: h3=":443"; ma=86400

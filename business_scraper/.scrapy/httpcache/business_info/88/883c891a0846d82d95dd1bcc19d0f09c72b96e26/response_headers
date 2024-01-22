@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:46:09 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 179
+X-Sorting-Hat-Shopid: 51877839028
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=27da7416-f792-4b10-9b0e-4b3b09894dc6; path=/; expires=Tue, 16 Jan 2024 12:16:09 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:46:09 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 11:46:09 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:46:09 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=ellajunes.com; path=/; expires=Wed, 17 Jan 2024 11:46:09 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=b4fdb2d2-9903-4dd7-9f20-d16ff1f2349b; Expires=Wed, 15-Jan-25 11:46:09 GMT; Domain=ellajunes.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=c68c1c76-febc-40ee-9952-4f2f903c0103; Expires=Tue, 16-Jan-24 12:16:09 GMT; Domain=ellajunes.com; Path=/; SameSite=Lax
+Etag: "cacheable:37f2290b91327431faef2b340c9b76fb"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 51877839028
+X-Shardid: 179
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=11, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="116779122868", servedBy;desc="bvfp", requestID;desc="cbbc2ee3-7857-43cf-99e0-69d65b6441f5"
+Server-Timing: cfRequestDuration;dur=38.000107
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: cbbc2ee3-7857-43cf-99e0-69d65b6441f5
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=mISH4ehWU8%2F9GvmzKl%2BPTFcXLswGftqoHO2gyfLupw5DUY9b6sri6er20LwhilS3nW7sI55jJKQoqjrbNwDNi8tk5J5vk%2B6GjI43vIJ7VH59CwcvlDnW9RHkq0TxqkU%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661dc9bac490e6-FRA
+Alt-Svc: h3=":443"; ma=86400

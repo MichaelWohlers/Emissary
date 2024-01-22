@@ -1,0 +1,26 @@
+Date: Tue, 16 Jan 2024 11:50:37 GMT
+Content-Type: text/html;charset=utf-8
+P3P: CP="ALL PUR DSP CUR ADMi DEVi CONi OUR COR IND"
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Ua-Compatible: IE=Edge,chrome=1
+X-Xss-Protection: 1; mode=block
+Set-Cookie: session_id=199a44624bb10cfb81ff3af94555787c; expires=Tue, 16-Jan-2024 12:20:31 GMT; Max-Age=1795; path=/; secure; HttpOnly; SameSite=none
+Set-Cookie: COOKIELAW=optin; expires=Thu, 16-Jan-2025 11:50:36 GMT; Max-Age=31622400; path=/; secure; SameSite=none
+Set-Cookie: COOKIELAW_SOCIAL=1; expires=Thu, 16-Jan-2025 11:50:36 GMT; Max-Age=31622400; path=/; secure; SameSite=none
+Set-Cookie: COOKIELAW_STATS=1; expires=Thu, 16-Jan-2025 11:50:36 GMT; Max-Age=31622400; path=/; secure; SameSite=none
+Set-Cookie: COOKIELAW_ADS=1; expires=Thu, 16-Jan-2025 11:50:36 GMT; Max-Age=31622400; path=/; secure; SameSite=none
+Set-Cookie: __cf_bm=4yL.SQMuVPm8KrYZbztVsYUH4RLrirsgrh4DylWBi_Y-1705405836-1-AcRt3N2klrGc/38zkoPIhXFTK3ExPzi4PkjGAr+PVtjYvuCPg6odzSMqi2rUsKa5cvmXO5Ktslz2rYPQr0BAEDg=; path=/; expires=Tue, 16-Jan-24 12:20:36 GMT; domain=.www.lacboutique.com; HttpOnly; Secure; SameSite=None
+X-Developer: Page: 104.3ms, Render: 7.1ms, Mem: 2,048kB, Cache: 0Q (0.0ms), DB: 10Q (31.5ms), Prop: 0Q (0.0ms)
+X-Runtime: 0.142908
+X-Shop-Id: 635518
+Cache-Control: no-cache
+Vary: Accept-Encoding
+X-Request-Id: 56d71c23bce6f859284b7b3594542317
+X-Envoy-Upstream-Service-Time: 150
+Cf-Cache-Status: DYNAMIC
+Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
+Server: cloudflare
+Cf-Ray: 8466244e8ac4bbdf-FRA
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400

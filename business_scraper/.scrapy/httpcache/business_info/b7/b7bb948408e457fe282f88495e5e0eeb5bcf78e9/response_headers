@@ -1,0 +1,22 @@
+Date: Tue, 16 Jan 2024 11:43:59 GMT
+Content-Type: text/html;charset=utf-8
+P3P: CP="ALL PUR DSP CUR ADMi DEVi CONi OUR COR IND"
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Ua-Compatible: IE=Edge,chrome=1
+X-Xss-Protection: 1; mode=block
+Set-Cookie: session_id=7db241e20c1bc94bafe032f41831ca9e; expires=Tue, 16-Jan-2024 12:13:54 GMT; Max-Age=1795; path=/; secure; HttpOnly; SameSite=none
+Set-Cookie: __cf_bm=9JxdLdROK2tYsIq3d3iMrYvCxv4cLMbpyguhTAag2bw-1705405439-1-AQmg601FW7EVdGd/SsQgvLHS8KNiBP/Htnnr9KgfJkZ7OLM2/UER7RtD1O+9HFMWq3asNELFFRm9cnyptfFuxTQ=; path=/; expires=Tue, 16-Jan-24 12:13:59 GMT; domain=.www.topfashiontf.com; HttpOnly; Secure; SameSite=None
+X-Developer: Page: 42.3ms, Render: 3.4ms, Mem: 4,096kB, Cache: 0Q (0.0ms), DB: 10Q (27.3ms), Prop: 0Q (0.0ms)
+X-Runtime: 0.073022
+X-Shop-Id: 635782
+Cache-Control: no-cache
+Vary: Accept-Encoding
+X-Request-Id: 17b8a97cef2bf5c95ff171761aea71e8
+X-Envoy-Upstream-Service-Time: 79
+Cf-Cache-Status: DYNAMIC
+Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
+Server: cloudflare
+Cf-Ray: 84661a9cfadc362b-FRA
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400

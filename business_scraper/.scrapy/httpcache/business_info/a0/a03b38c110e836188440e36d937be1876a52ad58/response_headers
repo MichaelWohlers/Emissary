@@ -1,0 +1,23 @@
+Content-Type: text/html; charset=utf-8
+Date: Tue, 16 Jan 2024 11:48:02 GMT
+X-Powered-By: Express
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Credentials: true
+Content-Security-Policy: default-src * data: 'unsafe-inline' 'unsafe-eval' blob:;frame-ancestors 'self' https://*.avon.com
+X-Frame-Options: DENY
+Set-Cookie: saturn_environment=prod; Path=/
+Set-Cookie: campaignNo=202401; Path=/
+Set-Cookie: accessId=3SmN2iQXhOLq0Sr3aiOBCcN_42Di7ami_0YuvKgQgMhdRioys_DLajWK4evvU4SwT%7ChwjKMQNAGw0AC5FyOJ0w%3D%3D; Path=/
+Set-Cookie: shopperId=1704857988493; Path=/; Expires=Mon, 15 Apr 2024 11:48:02 GMT
+Set-Cookie: currentLanguage=en_US; Path=/
+Set-Cookie: saturn_environment=prod; Path=/
+Set-Cookie: JSESSIONID=6F5C1D2A61B26C73BB55813F7F24260D; Path=/; HttpOnly
+Content-Language: en_US
+Etag: W/"88ec1-OjgR7IP+bQvLm2A5/mrbOE5vphY"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Server: New AVON Secu
+X-Cache: Miss from cloudfront
+Via: 1.1 5b17764336ffdab7d2a3e7707394867a.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: FRA60-P5
+X-Amz-Cf-Id: w5ucvti-Ok8V0B_-uJBp0LZQ3or3rYx3ZcqOCFPnb3DfvNWKzVzNww==

@@ -1,0 +1,42 @@
+Date: Tue, 16 Jan 2024 11:34:28 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 62
+X-Sorting-Hat-Shopid: 25383660
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=d67565da-b194-4ca0-9b92-5f9027b891c4; path=/; expires=Tue, 16 Jan 2024 12:04:28 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:34:28 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 11:34:28 GMT; SameSite=Lax
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:34:28 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=merakifound.com; path=/; expires=Wed, 17 Jan 2024 11:34:28 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=6a058fea-2a66-402b-9d40-e3e337fd8bb4; Expires=Wed, 15-Jan-25 11:34:28 GMT; Domain=merakifound.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=7ffbd5fb-7255-4b4f-ad6a-3da62c472d38; Expires=Tue, 16-Jan-24 12:04:28 GMT; Domain=merakifound.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=https%3A%2F%2Fmerakifound.com%2F; Expires=Tue, 30-Jan-24 11:34:28 GMT; Domain=merakifound.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2Fpages%2Fcontact-us; Expires=Tue, 30-Jan-24 11:34:28 GMT; Domain=merakifound.com; Path=/; HttpOnly; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+Etag: "cacheable:99ddd88c4ac5368d6787eece22fe50bb"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Access-Control-Allow-Origin: *
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 25383660
+X-Shardid: 62
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=57, db;dur=19, fetch;dur=1, render;dur=12, wasm, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="7901610019", pageType;desc="page", servedBy;desc="mdh4", requestID;desc="14370ac3-5b06-438a-8a52-f007c21bd55f"
+Server-Timing: cfRequestDuration;dur=82.000017
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 14370ac3-5b06-438a-8a52-f007c21bd55f
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=%2FcC2rP6%2FUmk0tgxwcrIqdU13p2C35s1gk55at2P0CIZanVSU2%2FHBaXNioeF%2F98cl880PWTXQgxcaTJIAfdH%2BbP8sr%2BbM1NNX%2BTmtM1e9IecsFf7Y21jIr5aYxK0QI5KGHQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84660caa2c2b9052-FRA
+Alt-Svc: h3=":443"; ma=86400

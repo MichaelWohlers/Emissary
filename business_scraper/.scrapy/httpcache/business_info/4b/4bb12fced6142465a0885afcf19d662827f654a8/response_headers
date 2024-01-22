@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:48:14 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 77
+X-Sorting-Hat-Shopid: 56494587982
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=6566127f-5749-4bbb-9909-37d6e0ec5295; path=/; expires=Tue, 16 Jan 2024 12:18:14 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:48:14 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=CA; path=/; expires=Thu, 16 Jan 2025 11:48:14 GMT
+Set-Cookie: cart_currency=CAD; path=/; expires=Tue, 30 Jan 2024 11:48:14 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=aishasfashionhouse.com; path=/; expires=Wed, 17 Jan 2024 11:48:14 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=9e5d16fe-e039-4de8-a19b-3704ed33656b; Expires=Wed, 15-Jan-25 11:48:14 GMT; Domain=aishasfashionhouse.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=3c5bb952-1c58-4da9-b0cf-dceded4c10ec; Expires=Tue, 16-Jan-24 12:18:14 GMT; Domain=aishasfashionhouse.com; Path=/; SameSite=Lax
+Etag: "cacheable:35c051529c85ee5042e9a160e01459d8"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 56494587982
+X-Shardid: 77
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=13, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="125024534606", servedBy;desc="gtx6", requestID;desc="bcb945c3-963b-4da6-9bc1-f619d0906535"
+Server-Timing: cfRequestDuration;dur=42.000055
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: bcb945c3-963b-4da6-9bc1-f619d0906535
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=%2FIc4rwEVoXh6CANQx2Z7CJGKHfqgk7FY2UE3UyjW5WJ93jT%2FF6aYgK5GNXIWQgncqTmxDRaFPA86J%2FCW30OlSRRxhM29HOiWV4%2FjR94NE6xEyjQRkCqNYQBsZwb1DCuXmnPY%2Bbv5JQw%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846620d8e9112c5f-FRA
+Alt-Svc: h3=":443"; ma=86400

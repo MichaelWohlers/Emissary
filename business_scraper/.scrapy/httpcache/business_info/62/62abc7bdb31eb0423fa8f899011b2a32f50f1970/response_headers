@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:35:20 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 79
+X-Sorting-Hat-Shopid: 55325261904
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=8bd64813-e58e-4af4-a00b-24230584e00d; path=/; expires=Tue, 16 Jan 2024 12:05:20 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:35:20 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:35:20 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:35:20 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=shopdowntownboutique417.com; path=/; expires=Wed, 17 Jan 2024 11:35:20 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=7485c5ae-e538-4867-b1af-4155921861c8; Expires=Wed, 15-Jan-25 11:35:20 GMT; Domain=shopdowntownboutique417.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=a0cbba4e-01bf-48cb-a7bc-58e2acc7fa77; Expires=Tue, 16-Jan-24 12:05:20 GMT; Domain=shopdowntownboutique417.com; Path=/; SameSite=Lax
+Etag: "cacheable:a9e0c3ee4853f13c792255275e37619d"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 55325261904
+X-Shardid: 79
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=10, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="121995755600", servedBy;desc="bkhr", requestID;desc="98a3cfe2-b9f6-4f1e-a82e-9ad0696f46f3"
+Server-Timing: cfRequestDuration;dur=46.000004
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 98a3cfe2-b9f6-4f1e-a82e-9ad0696f46f3
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=h49YSB7bQzRX17FVYr56B0%2BEPTF3uyeAVJh6R60GXzcle5x4mTLSvoLW04l%2BeF1MS4EVq0ID2m90b7zMUch4zyoFG3qhWDfAzE5fCbr9tS4p8EeSy0V0wNXnVtwneqgQxZZmQSSaI%2BSyK3DiTA%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84660df119206928-FRA
+Alt-Svc: h3=":443"; ma=86400

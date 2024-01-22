@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:39:12 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 153
+X-Sorting-Hat-Shopid: 2744352829
+X-Storefront-Renderer-Rendered: 1
+Location: https://www.brickandmotorboutique.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 2744352829
+X-Shardid: 153
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=8, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="wt4r", requestID;desc="5f65430a-54b6-4663-8bd7-d55e5c58749d"
+Server-Timing: cfRequestDuration;dur=37.999868
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 5f65430a-54b6-4663-8bd7-d55e5c58749d
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=FtLcjUaaaly12JA08xSYR0qXQZtR6vRHdF0%2BSoYAQEb9vvDbfYkNoX60mYfxEUcbS9s3hPio%2F6gGgpBrtboVeboU0N67eaB5cuMlUcjlZLWiEySqvRyBUCL%2FGXuhjDtt3qPtLytBt0GlxOCVAh3R"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8466139d8bbf9b34-FRA
+Alt-Svc: h3=":443"; ma=86400

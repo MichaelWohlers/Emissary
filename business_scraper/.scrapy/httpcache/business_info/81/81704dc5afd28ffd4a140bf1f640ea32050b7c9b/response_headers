@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:34:39 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 244
+X-Sorting-Hat-Shopid: 66321809653
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=7c12b46e-7641-4349-9eaa-bf1a3f240e4a; path=/; expires=Tue, 16 Jan 2024 12:04:39 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:34:39 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:34:39 GMT; SameSite=Lax
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:34:39 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=bransonfashionhouse.com; path=/; expires=Wed, 17 Jan 2024 11:34:39 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=d4bcfc54-6d93-432b-bd69-0623c636f3f9; Expires=Wed, 15-Jan-25 11:34:39 GMT; Domain=bransonfashionhouse.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=b050ddcf-c0f8-4d08-85e6-b601f3dc69cf; Expires=Tue, 16-Jan-24 12:04:39 GMT; Domain=bransonfashionhouse.com; Path=/; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+Etag: "cacheable:d65954bd40912a9ed00cf98d1a797ced"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 66321809653
+X-Shardid: 244
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=20, db;dur=7, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="135501971701", servedBy;desc="l2p5", requestID;desc="4c1f1552-8d4f-4ae0-8089-4c87177c2475"
+Server-Timing: cfRequestDuration;dur=49.000025
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 4c1f1552-8d4f-4ae0-8089-4c87177c2475
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=DA1LJSJgnUICbMyEgkxt6rMhb9iHir6iEmQ2f7idEbli2u8nA3gz8lQFGUMB2ELYOe2Yag28mih6exUQ%2BVtGZhWvVAJcUECordmvoT97Dt1ehh1ZRECPfYcZcfh%2F%2B72ERGiOcyJQtiHV"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84660cf0c90f9bb6-FRA
+Alt-Svc: h3=":443"; ma=86400

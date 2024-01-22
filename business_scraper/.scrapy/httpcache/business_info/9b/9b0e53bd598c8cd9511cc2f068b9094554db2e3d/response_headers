@@ -1,0 +1,41 @@
+Date: Tue, 16 Jan 2024 11:48:51 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 272
+X-Sorting-Hat-Shopid: 80426598673
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=4472bcdc-2983-44c7-b19e-ff57e5b0a25d; path=/; expires=Tue, 16 Jan 2024 12:18:51 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:48:51 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:48:51 GMT; SameSite=Lax
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:48:51 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=whiskeyroseboutique.com; path=/; expires=Wed, 17 Jan 2024 11:48:51 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=2d6d61b2-f1ec-4dbd-880f-1e31d003476e; Expires=Wed, 15-Jan-25 11:48:51 GMT; Domain=whiskeyroseboutique.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=358774a7-69c2-411a-98c0-262a83546a81; Expires=Tue, 16-Jan-24 12:18:51 GMT; Domain=whiskeyroseboutique.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 11:48:51 GMT; Domain=whiskeyroseboutique.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2F; Expires=Tue, 30-Jan-24 11:48:51 GMT; Domain=whiskeyroseboutique.com; Path=/; HttpOnly; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin, <//www.whiskeyroseboutique.com/cdn/shop/files/Main_Square_Logo.png?v=1701529961&width=600>; as="image"; rel="preload"; imagesrcset="//www.whiskeyroseboutique.com/cdn/shop/files/Main_Square_Logo.png?v=1701529961&width=90 90w, //www.whiskeyroseboutique.com/cdn/shop/files/Main_Square_Logo.png?v=1701529961&width=135 135w, //www.whiskeyroseboutique.com/cdn/shop/files/Main_Square_Logo.png?v=1701529961&width=180 180w"; imagesizes="(max-width: 180px) 50vw, 90px"
+Etag: "cacheable:ef90f17b2baf08bc986c374bc3e42b00"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 80426598673
+X-Shardid: 272
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=511;desc="gc:30", db;dur=151, fetch;dur=101, parse;dur=2, render;dur=110, wasm, wasmDownload;dur=102, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="156216819985", pageType;desc="index", servedBy;desc="n9vb", requestID;desc="853788e6-6a1d-4bd8-8df5-db6f152d5f3c"
+Server-Timing: cfRequestDuration;dur=539.999962
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 853788e6-6a1d-4bd8-8df5-db6f152d5f3c
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=gC8gdnBoeZS1OWv%2FIubGQgjpRinMlfdtt7EFdhqYLeqrKyHb7C5w8SOBfgm7lgnAqOkYRs4LbDodYvefBpU4ZpLWyb%2BY1J9wZ4Ty9ktyNM5Qi%2B0YhofUSaN9Pq5DG1bJdzg2lG397dteNng7mg%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846621bc1af11c07-FRA
+Alt-Svc: h3=":443"; ma=86400

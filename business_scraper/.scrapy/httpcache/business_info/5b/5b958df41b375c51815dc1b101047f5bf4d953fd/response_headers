@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:48:46 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 280
+X-Sorting-Hat-Shopid: 1428357167
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=5a963b68-1cb6-4303-8db7-e671df8838b9; path=/; expires=Tue, 16 Jan 2024 12:18:46 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:48:46 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 11:48:46 GMT; SameSite=Lax
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:48:46 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=couleeboutique.com; path=/; expires=Wed, 17 Jan 2024 11:48:46 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=78e29347-26e9-4e0d-94b5-f0157164084a; Expires=Wed, 15-Jan-25 11:48:46 GMT; Domain=couleeboutique.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=a98cd1cb-4802-439b-9d4c-9024d047e5f2; Expires=Tue, 16-Jan-24 12:18:46 GMT; Domain=couleeboutique.com; Path=/; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+Etag: "cacheable:1d2a9f4eb8414d0d45b7046444c4636b"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 1428357167
+X-Shardid: 280
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=17;desc="gc:1", db;dur=5, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="14571241519", servedBy;desc="wbt8", requestID;desc="936f1f70-2cd6-467e-b1d5-16e786681b1f"
+Server-Timing: cfRequestDuration;dur=49.000263
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 936f1f70-2cd6-467e-b1d5-16e786681b1f
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=ZwsDwp5hJGAimFKv0s1ZjoLHjH52Cduj7iVifQeGIYj2u4SNocIPOjSEREOTqbx5d1md6bvb0N6f%2BCCeNG%2BgKfkNAXjZRWya5rfhr4DDyxCGF24BUbO1LFMuduEW9m6tmC3j7t1acAo%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8466219ecfc339da-FRA
+Alt-Svc: h3=":443"; ma=86400

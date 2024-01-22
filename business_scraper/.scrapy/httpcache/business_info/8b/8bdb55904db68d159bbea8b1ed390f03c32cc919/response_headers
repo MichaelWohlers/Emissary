@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:50:53 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 93
+X-Sorting-Hat-Shopid: 7002914867
+X-Storefront-Renderer-Rendered: 1
+Location: https://www.crushboutiqueclothing.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 7002914867
+X-Shardid: 93
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=13, db;dur=5, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="k7hn", requestID;desc="a8120cf1-6488-408e-bd63-2e58ce40faf8"
+Server-Timing: cfRequestDuration;dur=44.999838
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: a8120cf1-6488-408e-bd63-2e58ce40faf8
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=JM%2FLX9b%2FMq34idzzGsmQoKI%2BkHZSG%2B96iQMPH0H9DOVgsxGq2Fi9PJ0e1%2FxvDfoNpV2SMZ1pAA6luGTykOxEAsYh8SdXSpQhUfK0VxF76ZTWS%2FoH2JAtvuCw5kxAce7oYz8H9o6FnIifan6PrrKv"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846624b8ca2b30f0-FRA
+Alt-Svc: h3=":443"; ma=86400

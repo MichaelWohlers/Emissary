@@ -1,0 +1,19 @@
+Content-Length: 23240
+Date: Tue, 16 Jan 2024 12:02:52 GMT
+Server: Apache
+X-Powered-By: PHP/8.3.1
+X-Powered-By: PleskLin
+Link: <https://truenorthgoodwill.org/wp-json/>; rel="https://api.w.org/", <https://truenorthgoodwill.org/wp-json/wp/v2/pages/817>; rel="alternate"; type="application/json", <https://truenorthgoodwill.org/>; rel=shortlink
+X-Et-Api-Version: v1
+X-Et-Api-Root: https://truenorthgoodwill.org/wp-json/tribe/tickets/v1/
+X-Et-Api-Origin: https://truenorthgoodwill.org
+X-Tec-Api-Version: v1
+X-Tec-Api-Root: https://truenorthgoodwill.org/wp-json/tribe/events/v1/
+X-Tec-Api-Origin: https://truenorthgoodwill.org
+X-Xss-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Vary: Accept-Encoding,User-Agent
+Content-Encoding: gzip
+Content-Type: text/html; charset=UTF-8

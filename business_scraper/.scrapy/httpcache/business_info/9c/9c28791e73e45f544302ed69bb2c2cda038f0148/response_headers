@@ -1,0 +1,17 @@
+Content-Length: 138
+Date: Tue, 16 Jan 2024 11:36:35 GMT
+Content-Type: text/html
+Location: https://wildcatwearhouse.com/
+X-Dc: gcp-europe-west3
+X-Request-Id: 9d0c3355-fa0f-410b-bf45-1abc561629e9
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=ThU6AZY5NwUlHxVtDnMHyxmaZ3XU1qglLXUaepFfotnztEdxDan36ysDAebyX2BXTl3wB5ynGx8esMVWSXPJgWsxg4ktXRKz8zldOiErpblood63%2FFafD6txM%2BlxiPag1CfF45ir3aMihg%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server-Timing: cfRequestDuration;dur=16.000032
+Server: cloudflare
+Cf-Ray: 84660fc52ab765ba-FRA
+Alt-Svc: h3=":443"; ma=86400

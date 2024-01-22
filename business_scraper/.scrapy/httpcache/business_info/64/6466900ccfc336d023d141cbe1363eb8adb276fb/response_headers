@@ -1,0 +1,41 @@
+Date: Tue, 16 Jan 2024 04:00:52 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 163
+X-Sorting-Hat-Shopid: 46547304612
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=d83ff5f3-1ade-4617-b8f1-fbc34f902055; path=/; expires=Tue, 16 Jan 2024 04:30:52 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 04:00:52 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 04:00:52 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 04:00:52 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=cooljsapparel.com; path=/; expires=Wed, 17 Jan 2024 04:00:52 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=bbeea26f-3c05-4395-9d60-b08524184776; Expires=Wed, 15-Jan-25 04:00:52 GMT; Domain=cooljsapparel.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=b7f15c10-9061-411f-96f4-59158a57363b; Expires=Tue, 16-Jan-24 04:30:52 GMT; Domain=cooljsapparel.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 04:00:52 GMT; Domain=cooljsapparel.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2F; Expires=Tue, 30-Jan-24 04:00:52 GMT; Domain=cooljsapparel.com; Path=/; HttpOnly; SameSite=Lax
+Etag: "cacheable:b45e5f03fdffc12ad61f62ee3e65b000"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 46547304612
+X-Shardid: 163
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=16, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="128853311652", pageType;desc="index", servedBy;desc="8dtg", requestID;desc="6ec2fdf2-df8a-49dc-ae84-703d1f3c1de7"
+Server-Timing: cfRequestDuration;dur=40.000200
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 6ec2fdf2-df8a-49dc-ae84-703d1f3c1de7
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=UJGIQaAt18bN0UevOjdvpFFTgfCPIVWhS8Yu8OU3BlZvjjLQh1knBRqCbXUF%2FnEqYAozCziuNjfqzhqVPE44z7OazHHxFIJoJjNTU9o8PT5hZqYLnwVfDOZ6nAc%2BT%2BjR2RhzPH1lxw%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84637435ed7b90dd-FRA
+Alt-Svc: h3=":443"; ma=86400

@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:35:27 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 135
+X-Sorting-Hat-Shopid: 58910605448
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=84a41e54-6100-4df0-8ebb-2aaa07fac32e; path=/; expires=Tue, 16 Jan 2024 12:05:27 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:35:27 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:35:27 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:35:27 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=blacklagoonclothing.com; path=/; expires=Wed, 17 Jan 2024 11:35:27 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=6313f809-68d4-422f-9849-017c8f4480f5; Expires=Wed, 15-Jan-25 11:35:27 GMT; Domain=blacklagoonclothing.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=14199151-b659-4b8c-ba0f-0abaffcf2bb1; Expires=Tue, 16-Jan-24 12:05:27 GMT; Domain=blacklagoonclothing.com; Path=/; SameSite=Lax
+Etag: "cacheable:7d912145c490706c52141fd32769bf17"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 58910605448
+X-Shardid: 135
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=10, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="125363224712", servedBy;desc="tnnw", requestID;desc="220e322d-4420-4aa3-ab05-5a1e0affba23"
+Server-Timing: cfRequestDuration;dur=67.000151
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 220e322d-4420-4aa3-ab05-5a1e0affba23
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=2dP73Iu2lNxMGO4IXchsKee2kn1z9zLna7RNfMjXPZRwPi6c5IlvTnwaDjJ0V0ZuDO4vtGDx1pnXhk8tHjZK38rLtvPccE1v%2Fv1VBjYBGNGIS6Fy6Y%2FPtdGzDP5DIAI2wI9H%2F9cSM%2Fu8"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84660e1c4d8f2c61-FRA
+Alt-Svc: h3=":443"; ma=86400

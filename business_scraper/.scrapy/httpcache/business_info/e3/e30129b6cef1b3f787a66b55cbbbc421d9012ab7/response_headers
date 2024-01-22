@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 04:56:47 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 235
+X-Sorting-Hat-Shopid: 54934307052
+X-Storefront-Renderer-Rendered: 1
+Location: https://urbansunflowerboutique.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 54934307052
+X-Shardid: 235
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=6, db;dur=2, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="rk96", requestID;desc="d8aaa616-0709-4ae5-9adb-723b74ce00ac"
+Server-Timing: cfRequestDuration;dur=36.000013
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: d8aaa616-0709-4ae5-9adb-723b74ce00ac
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=djOdgf6u02R9RbMGNupnmoGnc%2B3su1dJS%2BDKuqidOPGMN3fWCdj%2BYFnxCQMd4iG0LJAsHq0xxBcS4%2BMvs6AJgnoB4e%2FmObTTRRJ7X0CASaAAAicwY6l2%2FOJeYMueYUtXbtbrzgRhXYvnK5O%2B"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8463c62258c41e30-FRA
+Alt-Svc: h3=":443"; ma=86400

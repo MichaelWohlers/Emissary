@@ -1,0 +1,40 @@
+Date: Tue, 16 Jan 2024 12:02:13 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 232
+X-Sorting-Hat-Shopid: 55010001073
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=f47b8ae0-dc60-40f8-9695-8041cf0cdee3; path=/; expires=Tue, 16 Jan 2024 12:32:13 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 12:02:13 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=CA; path=/; expires=Thu, 16 Jan 2025 12:02:13 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=legrenier.ca; path=/; expires=Wed, 17 Jan 2024 12:02:13 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=5201920c-e089-4863-a2f9-550351ce25c2; Expires=Wed, 15-Jan-25 12:02:13 GMT; Domain=legrenier.ca; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=886969ce-4d38-4b25-9871-a0c4a4c1a360; Expires=Tue, 16-Jan-24 12:32:13 GMT; Domain=legrenier.ca; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 12:02:13 GMT; Domain=legrenier.ca; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2F; Expires=Tue, 30-Jan-24 12:02:13 GMT; Domain=legrenier.ca; Path=/; HttpOnly; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin, <//www.legrenier.ca/cdn/shop/t/38/assets/pagefly-main.css?v=44410626403385176121693492942>; as="style"; rel="preload"
+Etag: "cacheable:88db4d7b60b2c51193c0afd9aabc81fe"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 55010001073
+X-Shardid: 232
+Vary: Accept
+Content-Language: fr
+Powered-By: Shopify
+Server-Timing: processing;dur=301;desc="gc:65", db;dur=85, render;dur=51, wasm, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="136763867369", pageType;desc="index", servedBy;desc="pqvk", requestID;desc="c9ea89d1-7eec-4df1-872e-54bef623557e"
+Server-Timing: cfRequestDuration;dur=332.000017
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: c9ea89d1-7eec-4df1-872e-54bef623557e
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=R7JnCYiY6i82lwGvGhaaVBuQ9Qvem%2F6nz8vhjGPMCBoaQLIBailczJgRWmc6Tcbj%2BR2JO43w5ov6l92%2ByT7vGSqjrpVqlvouTJUB03jW9RQbEipgKNamM6f9erUSlyTGhWU%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8466354fd9186919-FRA
+Alt-Svc: h3=":443"; ma=86400

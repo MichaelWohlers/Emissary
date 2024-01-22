@@ -1,0 +1,41 @@
+Date: Tue, 16 Jan 2024 12:02:02 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 224
+X-Sorting-Hat-Shopid: 26397422
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=77fcc383-c3ee-44ff-b115-462311067a55; path=/; expires=Tue, 16 Jan 2024 12:32:02 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 12:02:02 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 12:02:02 GMT; SameSite=Lax
+Set-Cookie: cart_currency=CAD; path=/; expires=Tue, 30 Jan 2024 12:02:02 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=danafashion.ca; path=/; expires=Wed, 17 Jan 2024 12:02:02 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=60ded069-5ac1-4364-be74-2efbdbdd336d; Expires=Wed, 15-Jan-25 12:02:02 GMT; Domain=danafashion.ca; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=5fa9eb64-1eaf-405c-81ff-44b30fd88f0e; Expires=Tue, 16-Jan-24 12:32:02 GMT; Domain=danafashion.ca; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 12:02:02 GMT; Domain=danafashion.ca; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2F; Expires=Tue, 30-Jan-24 12:02:02 GMT; Domain=danafashion.ca; Path=/; HttpOnly; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin, <//danafashion.ca/cdn/shop/t/67/assets/theme.css?v=74088117765652296691704140433>; as="style"; rel="preload"
+Etag: "cacheable:f624bf3b5c958d4a5716958a976d2c9c"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 26397422
+X-Shardid: 224
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=255;desc="gc:20", db;dur=76, fetch;dur=1, render;dur=113, wasm, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="137109045473", pageType;desc="index", servedBy;desc="9vmx", requestID;desc="94fe369d-66c4-45d8-a059-a70c3bfc2d36"
+Server-Timing: cfRequestDuration;dur=292.999983
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 94fe369d-66c4-45d8-a059-a70c3bfc2d36
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=WbSyZmp1ctqLnOmAlkzcp%2BPdOYxDOc%2FfPBVfOIcVXA9MStxnMLB9BRiQ64Yjee2HCo4xwHlmAiueLl0InJVaKeo0XcgRmJNxyIz02ZmcpJAVz35Me2ReNWp%2BfqnSl0N6"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8466350b9fecbb97-FRA
+Alt-Svc: h3=":443"; ma=86400

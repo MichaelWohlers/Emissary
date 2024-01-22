@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:39:40 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 135
+X-Sorting-Hat-Shopid: 55102668936
+X-Storefront-Renderer-Rendered: 1
+Location: https://astrobettieshop.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 55102668936
+X-Shardid: 135
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=8, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="m8x6", requestID;desc="16c19aea-5a29-4d37-a8b7-5e608a65d57c"
+Server-Timing: cfRequestDuration;dur=38.000107
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 16c19aea-5a29-4d37-a8b7-5e608a65d57c
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=SIE1c1bhkDQR8WuOPD05kQwDHE%2F9t2JZE6ejRPna9cpScDQqN5Fl5djF91hegcJtARdTr6uWRRAM99iztk7t4DlbyEZSt1oDaWC0rzphIMPwS4jZ8cev9WEeT3TO8KIUVkyFbAg%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8466144918349a2d-FRA
+Alt-Svc: h3=":443"; ma=86400

@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:36:18 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 81
+X-Sorting-Hat-Shopid: 26892861522
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=13576bca-6e77-4d71-a193-2966ae444166; path=/; expires=Tue, 16 Jan 2024 12:06:18 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:36:18 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:36:18 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:36:18 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=artisticworksbylu.com; path=/; expires=Wed, 17 Jan 2024 11:36:18 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=899d842e-b512-4f9d-b3a3-da664a284fb7; Expires=Wed, 15-Jan-25 11:36:18 GMT; Domain=artisticworksbylu.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=0b174c66-5543-4677-9371-7edfcf2cb38f; Expires=Tue, 16-Jan-24 12:06:18 GMT; Domain=artisticworksbylu.com; Path=/; SameSite=Lax
+Etag: "cacheable:465d9d449a76babac2c3d8ec431b137f"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 26892861522
+X-Shardid: 81
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=12, db;dur=5, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="121078382674", servedBy;desc="xhlr", requestID;desc="6a7b756c-a9c2-42be-b90b-01925fee66de"
+Server-Timing: cfRequestDuration;dur=40.999889
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 6a7b756c-a9c2-42be-b90b-01925fee66de
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=RBo84WWkAk23o2uazdbAjgg3HFWGh72hgKilQByGGBWduDGrXVeKfoQUaP%2FbiYiJwArlV5DkT2s1YFlKN7MnVcaaT4ankgWw8s9ttkJEPtBNDc%2BI85vaR0BlKMK3Uyhvrt8jWSAxJQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84660f5a58142bb2-FRA
+Alt-Svc: h3=":443"; ma=86400

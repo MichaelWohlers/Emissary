@@ -1,0 +1,41 @@
+Date: Tue, 16 Jan 2024 12:02:15 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 98
+X-Sorting-Hat-Shopid: 55109648483
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=320b1264-8539-41b1-a4ad-a1f15dbc34ce; path=/; expires=Tue, 16 Jan 2024 12:32:15 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 12:02:15 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 12:02:15 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 12:02:15 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=8fbbb9-4.myshopify.com; path=/; expires=Wed, 17 Jan 2024 12:02:15 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=6600c4ba-37d7-4f32-8314-c7d54b919962; Expires=Wed, 15-Jan-25 12:02:15 GMT; Domain=8fbbb9-4.myshopify.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=a1162951-37e4-4799-b14d-1382b4f54fbb; Expires=Tue, 16-Jan-24 12:32:15 GMT; Domain=8fbbb9-4.myshopify.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 12:02:15 GMT; Domain=8fbbb9-4.myshopify.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2F; Expires=Tue, 30-Jan-24 12:02:15 GMT; Domain=8fbbb9-4.myshopify.com; Path=/; HttpOnly; SameSite=Lax
+Etag: "cacheable:df9ea2760b4df37832b06d6f3be6f16b"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin, <//8fbbb9-4.myshopify.com/cdn/shop/files/2022ShopaholicLogo_5_1_b9962675-d968-430d-91db-631e42d84a46.jpg?v=1701125160&width=600>; as="image"; rel="preload"; imagesrcset="//8fbbb9-4.myshopify.com/cdn/shop/files/2022ShopaholicLogo_5_1_b9962675-d968-430d-91db-631e42d84a46.jpg?v=1701125160&width=300 300w, //8fbbb9-4.myshopify.com/cdn/shop/files/2022ShopaholicLogo_5_1_b9962675-d968-430d-91db-631e42d84a46.jpg?v=1701125160&width=450 450w, //8fbbb9-4.myshopify.com/cdn/shop/files/2022ShopaholicLogo_5_1_b9962675-d968-430d-91db-631e42d84a46.jpg?v=1701125160&width=600 600w"; imagesizes="(min-width: 750px) 300px, 50vw"
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 55109648483
+X-Shardid: 98
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=13, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="122959691875", pageType;desc="index", servedBy;desc="6blv", requestID;desc="31a0c970-51f0-4209-a825-3a3d44f37cff"
+Server-Timing: cfRequestDuration;dur=46.000004
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 31a0c970-51f0-4209-a825-3a3d44f37cff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=3Jqh2lrQ6JY8UFSXr59ULIal0BQuJIRZo8fZS96zV%2F7%2FlCLIL0qn2b7zHx7itu0meMbA1oqAsAZPwkrZad8bYR5EgCJ8rFrTEvL%2BENe1GVnAoeZT5d8jk2XpICJCc5jKPWQx%2FSVIuSk%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84663560e83a996f-FRA
+Alt-Svc: h3=":443"; ma=86400

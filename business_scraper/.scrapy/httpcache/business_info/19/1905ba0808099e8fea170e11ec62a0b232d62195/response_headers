@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:33:26 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 248
+X-Sorting-Hat-Shopid: 64156565753
+X-Storefront-Renderer-Rendered: 1
+Location: https://kodeelissaboutique.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 64156565753
+X-Shardid: 248
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=6, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="m89h", requestID;desc="d9b97981-f255-4255-8bdb-6174e265a79e"
+Server-Timing: cfRequestDuration;dur=33.999920
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: d9b97981-f255-4255-8bdb-6174e265a79e
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=D0a7j%2B6LZ%2FzOSBzZ8kmE6tgDOsIUu2hwZcLO6UtUwgCgyMW70CUf0U88%2BUqbGfl1iIthdE8Pjvg%2B22CkKJLKOMOPBDNjMdj%2BwiXxhwxHHiCQyPravRyHXICQr6SJIJfbHVQLEdkoUsOXwWQP"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84660b256c4e9013-FRA
+Alt-Svc: h3=":443"; ma=86400

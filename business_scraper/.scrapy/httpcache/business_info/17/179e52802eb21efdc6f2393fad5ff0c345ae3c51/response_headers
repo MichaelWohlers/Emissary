@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 09:30:16 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 42
+X-Sorting-Hat-Shopid: 5208080419
+X-Storefront-Renderer-Rendered: 1
+Location: https://angies.boutique/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 5208080419
+X-Shardid: 42
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=13, db;dur=6, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="6blv", requestID;desc="f8900e16-2d92-4e07-b572-b809e51eca4a"
+Server-Timing: cfRequestDuration;dur=48.999786
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: f8900e16-2d92-4e07-b572-b809e51eca4a
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=lm8jwK3uC%2BuKLgBiP%2BlKi3uLv78yTNw6uOX9tEXACMVWSHxsg6bfdUNteyH%2BosMRo25pXwbedHYm0Y39dh0OnwOvKsH8IFtUDRsK8AjFMy%2BdmAKwoVhga8%2FUfrB04lekzg%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846556bfbbef37e8-FRA
+Alt-Svc: h3=":443"; ma=86400

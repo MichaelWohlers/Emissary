@@ -1,0 +1,38 @@
+Date: Tue, 16 Jan 2024 04:46:38 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 231
+X-Sorting-Hat-Shopid: 63505268968
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=1cf37144-e57a-40b4-91b0-2266834cf635; path=/; expires=Tue, 16 Jan 2024 05:16:38 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 04:46:38 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 04:46:38 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 04:46:38 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Afalse%2C%22a%22%3Afalse%2C%22m%22%3Afalse%2C%22t%22%3Afalse%7D%2C%22display_banner%22%3Atrue%2C%22sale_of_data_region%22%3Afalse%7D; domain=brighton.com; path=/; expires=Wed, 17 Jan 2024 04:46:38 GMT; SameSite=Lax
+Set-Cookie: _tracking_consent=%7B%22lim%22%3A%5B%22GDPR_BLOCK_ALL%22%5D%2C%22region%22%3A%22DERP%22%2C%22reg%22%3A%22GDPR%22%2C%22con%22%3A%7B%22CMP%22%3A%7B%22s%22%3A%22%22%2C%22p%22%3A%22%22%2C%22m%22%3A%22%22%2C%22a%22%3A%22%22%7D%7D%2C%22v%22%3A%222.1%22%7D; Expires=Wed, 15-Jan-25 04:46:38 GMT; Domain=brighton.com; Path=/; SameSite=Lax
+Etag: "cacheable:7220fdbf8352fc2ee49daaf3d7fc7711"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 63505268968
+X-Shardid: 231
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=11, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="133639864552", servedBy;desc="jkkm", requestID;desc="78dd8a41-2a29-4a37-bc2d-18354868978e"
+Server-Timing: cfRequestDuration;dur=49.000025
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west9,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 78dd8a41-2a29-4a37-bc2d-18354868978e
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=ZTeNr4P3MBo54hzs0TVAS0sPtEZpDgv114kIRktc5KkHjhK4jrDJR73BalQ%2FcwAub2ZVOw%2F0MVNBsfuYulYGC0G5dr4I3fI3UZFldxxKb3k4p3ORbR5x%2BDcHYS%2FZzzefUW8%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8463b7408cba928d-FRA
+Alt-Svc: h3=":443"; ma=86400

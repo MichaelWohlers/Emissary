@@ -1,0 +1,29 @@
+Content-Length: 267
+Content-Type: text/html; charset=utf-8
+Abseg_Different: true
+Location: https://bananarepublic.gap.com/stores/ne/gretna/banana-republic-1914.html?cookieInitializationAttempted=true
+Mybrand: br
+X-Page-Speed: 1.13.35.2-0
+X-Request-Host: bananarepublic.gap.com
+X-Vcap-Request-Id: 6cab7979-4abf-4667-56a4-d69af5d39977
+X-E-Dc: azeus
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Tue, 16 Jan 2024 11:54:02 GMT
+Set-Cookie: unknownShopperId=F0EC2B10B46511EEB55BBD8844BD478D; Domain=.gap.com; Path=/; Expires=Fri, 16 Jan 2026 11:54:02 GMT
+Set-Cookie: ABSeg=bdss-b/br01-a/br02-a/br07-a/br102-x/br105-c/br110-a/br114-a/br117-b/br129-a/br130-a/br139-a/br143-b/br151-a/br152-x/br159-a/br162-b/br168-a/br170-a/br172-a/br173-a/br174-a/br177-a/br178-a/br180-a/br185-x/br19-b/br190-a/br191-a/br36-b/br43-a/br48-a/br52-a/br53-a/br56-a/br58-a/br60-a/br62-a/br64-a/br73-a/br84-a/br88-a/brand-br/brbx-lf/brseg-true/cmtyprfui-b/ds-b/oss-B/pgAT-p/pgBR-p/pgGP-p/pgON-p/plpredesign-B/prfwallet-b/signinui-pm/v-2/xb115-a/xb122-x/xb137-prsc/xb141-x/xb169-a/xb182-a/xb183-a/xb186-a/xb187-a/xb188-a/xb34-a/xb72-a/xl74-a/xsr75-b/xss83-b; Domain=.gap.com; Path=/; Expires=Wed, 17 Jan 2024 07:59:59 GMT
+Set-Cookie: NGRedirect={"redirect_accountSettings":"true","redirect_signIn":"true","redirect_shoppingBag":"true","redirect_orderHistory":"true","redirect_signOut":"true","redirect_orderLookup":"true","redirect_shippingAddress":"true","redirect_resetPassword":"true","redirect_profile":"true","redirect_customerValue":"true","redirect_wallet":"true"}; Domain=.gap.com; Path=/; Expires=Wed, 17 Jan 2024 07:59:59 GMT
+Set-Cookie: locale=en_US|||; Domain=.gap.com; Path=/
+Set-Cookie: s-prlb=e; path=/; domain=.gap.com
+Set-Cookie: prlb=e; path=/; domain=.gap.com
+Set-Cookie: AKA_A2=A; expires=Tue, 16-Jan-2024 12:54:02 GMT; path=/; domain=gap.com; secure; HttpOnly
+Set-Cookie: _abck=8EC6F2935808D398310809826BE1F785~-1~YAAQotAXAjPxUQ6NAQAAphAfEgsCpp+2mPsEdI+K7gWR3vSXslZswEbnyvA/NhAQv4FGnhsofQNoG567FUC1zWx/6eyK0LnOtDT2hCSnPK17gqRAu83Q6WEwmtSnheD78xGVffrAQDLQMtTBzGX2X3ZbC1EXY8mZVKpvQwaQLE2x0mDw3QsMJGr7+ty6SVzDfDF7s0kydGYKLcLFrJIJjrFV10RlHvCuyoZcl12qw4zGMmDpMycMJQgRx9eY6kmLg88VAzzHiW5krM2S7Rp01vAsDjTRX+4wG5FJfZUGqbW/JKeWtZpsXJehaNxqNoqbD6sRbYEyVGCkUcphtHjrtBQi4zV44Fy5eqaluK13qfhddYx2afJTt9I=~-1~-1~-1; Domain=.gap.com; Path=/; Expires=Wed, 15 Jan 2025 11:54:02 GMT; Max-Age=31536000; Secure
+Set-Cookie: bm_sz=29CDAB83098E39E9ED1977E34D3A1E5C~YAAQotAXAjTxUQ6NAQAAphAfEhaKN5uA3qzmM+UocI16H6AUj/nzE68VTgZ+49pC8zP8VqhCrdi7lh0CRz2B0JoDcW+t/YxHM43mLqNUbC20s9FOqvaUFeunaU8kaDqjtUakwfJlIlDPn6nGe92UPFfnF3ns7K2uvEgjbyA2uB3GHfo5GsJ1v1uvCFJd89bGRQD/f8v57vmHALARmbxkF05RmgHBfnDK6uv2j1gIdhfFuJhOUyU7SL2cDtgmx8DNXxw8g+mklQ7LojTnEp8TkUsSWIpEqNmn5tQw9u5326bIvw5Y85IJPCkaIFMvAFTlVr8Cuyx2jjak~3159873~4274480; Domain=.gap.com; Path=/; Expires=Tue, 16 Jan 2024 15:54:02 GMT; Max-Age=14400
+Server-Timing: cdn-cache; desc=MISS
+Server-Timing: edge; dur=126
+Server-Timing: origin; dur=70
+Server-Timing: ak_p; desc="1705406042068_35115170_63660540_19554_14565_53_0_-";dur=1
+X-Akam-Sw-Version: 0.5.0
+Link: <https://bananarepublic.gap.com/static_content/onesitecategory/components/mfe/sitewide-app/static/72164547.woff2>;rel="preload";as="font";type="font/woff2";crossorigin,<https://bananarepublic.gap.com/static_content/onesitecategory/components/mfe/sitewide-app/static/ca73fe8c.woff2>;rel="preload";as="font";type="font/woff2";crossorigin,<https://bananarepublic.gap.com/static_content/onesitecategory/components/mfe/sitewide-app/static/3eb749ba.woff2>;rel="preload";as="font";type="font/woff2";crossorigin
+Strict-Transport-Security: max-age=2628000 ; includeSubDomains
+Akamai-Grn: 0.a2d01702.1705406042.3cb61fc

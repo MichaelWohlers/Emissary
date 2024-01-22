@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:45:57 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 151
+X-Sorting-Hat-Shopid: 61049176216
+X-Storefront-Renderer-Rendered: 1
+Location: https://www.rithu.ca/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 61049176216
+X-Shardid: 151
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=8, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="gtx6", requestID;desc="b7d8fa6b-b500-4f31-85d9-2408e828527f"
+Server-Timing: cfRequestDuration;dur=69.999933
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: b7d8fa6b-b500-4f31-85d9-2408e828527f
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=rkWKwmzVukZbXLbW1JJsXQyriOmZnTMbVdWXGooQyW%2FSWVxOa5CXKWQ9FMi4iLjY%2FRbilEdpFRrkaUCnZo3jAMnDjjq0WdQTn0tUBghvyT8pwtj3MgEXi1EYETXpYQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661d7fba832c55-FRA
+Alt-Svc: h3=":443"; ma=86400

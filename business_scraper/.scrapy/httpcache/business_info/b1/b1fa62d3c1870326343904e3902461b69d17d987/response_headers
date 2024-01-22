@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:50:49 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 150
+X-Sorting-Hat-Shopid: 41028452503
+X-Storefront-Renderer-Rendered: 1
+Location: https://www.fashionbyalyani.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 41028452503
+X-Shardid: 150
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=8, db;dur=2, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="sc9v", requestID;desc="26234511-cfaf-42a8-816a-96a03eca2a1d"
+Server-Timing: cfRequestDuration;dur=49.000025
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 26234511-cfaf-42a8-816a-96a03eca2a1d
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=455PxjEaVcXUYLyTVoPtNb5s4COwy5ZGIjtBqKkOKT%2Bpvaao%2BTnbpupAb%2BHQnm%2Fss9N7%2F%2F3%2B4wQa%2FQOaIjS%2FCVYFra5Z24vhtNN9y8pgijK9YpOf1uO4DWgf1PFFJrIlXvcAXsw%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8466249cac7865a9-FRA
+Alt-Svc: h3=":443"; ma=86400

@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 07:06:20 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 52
+X-Sorting-Hat-Shopid: 26802847797
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=1a8d0d9e-1164-48f9-bad1-d0e187601c7a; path=/; expires=Tue, 16 Jan 2024 07:36:19 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 07:06:19 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 07:06:19 GMT; SameSite=Lax
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 07:06:19 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=hellobeautifulboutique.com; path=/; expires=Wed, 17 Jan 2024 07:06:19 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=d3345847-61d9-4657-ade3-f0f4555c255a; Expires=Wed, 15-Jan-25 07:06:20 GMT; Domain=hellobeautifulboutique.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=4ccffd24-9998-45fe-8ce2-22855fa55f54; Expires=Tue, 16-Jan-24 07:36:20 GMT; Domain=hellobeautifulboutique.com; Path=/; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+Etag: "cacheable:0791703d394a43a6bb4564dd7b7719e6"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 26802847797
+X-Shardid: 52
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=17, db;dur=5, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="80206200885", servedBy;desc="gzq9", requestID;desc="9f444fc4-d70b-4e89-82a5-56a531dada38"
+Server-Timing: cfRequestDuration;dur=58.000088
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 9f444fc4-d70b-4e89-82a5-56a531dada38
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=ouWXks0Dzutyqi34huj8E1SUEcQCHLvJklIMXen%2FSAcCfbbbKFPbLpMgz09UvrJTBCVbtwxibbsv1WcgukMQHIWDcWsosoSUn582mJOfU2%2F%2FwrhKmtnQL%2F3gJqFpKwvmaAZ8UVNrOPCUSFYwepfNkg%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846483e2ac955d6b-FRA
+Alt-Svc: h3=":443"; ma=86400

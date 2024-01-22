@@ -1,0 +1,38 @@
+Date: Tue, 16 Jan 2024 12:03:18 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 220
+X-Sorting-Hat-Shopid: 52203782298
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=d6c6847a-9dd9-4054-b849-63bceb91fff3; path=/; expires=Tue, 16 Jan 2024 12:33:18 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 12:03:18 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 12:03:18 GMT; SameSite=Lax
+Set-Cookie: cart_currency=EUR; path=/; expires=Tue, 30 Jan 2024 12:03:18 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Afalse%2C%22a%22%3Afalse%2C%22m%22%3Afalse%2C%22t%22%3Afalse%7D%2C%22display_banner%22%3Atrue%2C%22sale_of_data_region%22%3Afalse%7D; domain=stepup.fashion; path=/; expires=Wed, 17 Jan 2024 12:03:18 GMT; SameSite=Lax
+Set-Cookie: _tracking_consent=%7B%22con%22%3A%7B%22CMP%22%3A%7B%22s%22%3A%22%22%2C%22m%22%3A%22%22%2C%22a%22%3A%22%22%2C%22p%22%3A%22%22%7D%7D%2C%22v%22%3A%222.1%22%2C%22lim%22%3A%5B%22GDPR_BLOCK_ALL%22%5D%2C%22region%22%3A%22DERP%22%2C%22reg%22%3A%22GDPR%22%7D; Expires=Wed, 15-Jan-25 12:03:18 GMT; Domain=stepup.fashion; Path=/; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+Etag: "cacheable:b7c846931e41287f338bd6d03f6f6cc8"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 52203782298
+X-Shardid: 220
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=369;desc="gc:26", db;dur=142, parse;dur=6, render;dur=179, wasm, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="117588885658", pageType;desc="index", servedBy;desc="w6wv", requestID;desc="d36a98b2-5d46-4221-8d0a-15991481dc11"
+Server-Timing: cfRequestDuration;dur=396.000147
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: d36a98b2-5d46-4221-8d0a-15991481dc11
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Cnu9hHWEvksNBA8ZJ66bAfQWYLjFB7PA4EOGWKkljpR0Aeu5vbxQkwu6eUuWJDhOsJdK89MT%2B%2Fg9zpLtUze2d3jI%2FJ6hAiLOYCw4PIJpj4bNRzH8AEtRi7H90HZSNZOwIUzOFA%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846636e5f8063672-FRA
+Alt-Svc: h3=":443"; ma=86400

@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:41:22 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 240
+X-Sorting-Hat-Shopid: 35357294651
+X-Storefront-Renderer-Rendered: 1
+Location: https://thefabulousfemale.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 35357294651
+X-Shardid: 240
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=6, db;dur=2, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="4n6h", requestID;desc="95ffa9f5-7a8b-455f-ba4a-ef3d84c8424b"
+Server-Timing: cfRequestDuration;dur=55.999994
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west4,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 95ffa9f5-7a8b-455f-ba4a-ef3d84c8424b
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=QBr%2F3WVOkBo3lUGoErVYVl6cNzcbVkQjPFvC180ltio3k0Jfk4xyNU97T4leGU5rHKY5QV99gxSY6abutcgPey%2BDn%2B2dFYIzNvTZ5BZ2a%2BFSIJhG5j5ltJWYEC440bxhtDPpGCUfW%2FBdoMg%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846616c8ff13bbf2-FRA
+Alt-Svc: h3=":443"; ma=86400

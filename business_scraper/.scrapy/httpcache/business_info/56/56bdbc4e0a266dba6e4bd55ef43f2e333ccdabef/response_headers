@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 12:03:21 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 58
+X-Sorting-Hat-Shopid: 35672522811
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=67af4c6f-b4a7-4c90-aab7-ebdd73eaab2e; path=/; expires=Tue, 16 Jan 2024 12:33:21 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 12:03:21 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=CA; path=/; expires=Thu, 16 Jan 2025 12:03:21 GMT
+Set-Cookie: cart_currency=CAD; path=/; expires=Tue, 30 Jan 2024 12:03:21 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=rlittlesecretfashions.com; path=/; expires=Wed, 17 Jan 2024 12:03:21 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=78430328-f884-4132-ae9f-c28705a0c429; Expires=Wed, 15-Jan-25 12:03:21 GMT; Domain=rlittlesecretfashions.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=1908ce91-ac62-4bd9-9a5c-0e1963c59fbb; Expires=Tue, 16-Jan-24 12:33:21 GMT; Domain=rlittlesecretfashions.com; Path=/; SameSite=Lax
+Etag: "cacheable:ebcdf9c164bc192c32b8a49f05e80177"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 35672522811
+X-Shardid: 58
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=13;desc="gc:1", db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="127310069819", servedBy;desc="qb7b", requestID;desc="67db5acc-73e8-4ebc-aaa0-91318e01c86a"
+Server-Timing: cfRequestDuration;dur=37.999868
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 67db5acc-73e8-4ebc-aaa0-91318e01c86a
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=jseoQem42%2BohVleXueBZLHh3LCCvBfM2SJJL6Gxq8egJGcq0fT8ybzFd0nJiwyKn5DKIZCV0ImPFs4Wffki%2FF1mjHRx6zHgpfLp6n2T8qRUdqwzevIM%2BPjwOtSrqHGkR1PpipSPIgNJl3wE%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846636f948e591ff-FRA
+Alt-Svc: h3=":443"; ma=86400

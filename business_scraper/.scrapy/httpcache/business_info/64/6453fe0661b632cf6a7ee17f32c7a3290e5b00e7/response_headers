@@ -1,0 +1,38 @@
+Date: Tue, 16 Jan 2024 11:37:04 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 153
+X-Sorting-Hat-Shopid: 53287813274
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=d5d70a59-8a41-4b85-82eb-90ef1fcf0e55; path=/; expires=Tue, 16 Jan 2024 12:07:04 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:37:04 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:37:04 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=charlottesfurnitureandfashion.com; path=/; expires=Wed, 17 Jan 2024 11:37:04 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=3f47902d-f13b-4db2-b86b-1343f15b6087; Expires=Wed, 15-Jan-25 11:37:04 GMT; Domain=charlottesfurnitureandfashion.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=959ed828-5004-411c-b2c2-013eb3886372; Expires=Tue, 16-Jan-24 12:07:04 GMT; Domain=charlottesfurnitureandfashion.com; Path=/; SameSite=Lax
+Etag: "cacheable:e64b01466d2c032a1bb58e2244da872f"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 53287813274
+X-Shardid: 153
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=12, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="132943511706", servedBy;desc="7htk", requestID;desc="47f61a75-3e2d-46b7-ab0c-ad08cbab69be"
+Server-Timing: cfRequestDuration;dur=46.000004
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 47f61a75-3e2d-46b7-ab0c-ad08cbab69be
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=mojrzDRxnTs4lTdXFeeuhVco7lTTfYHW59KsrUiPVvM5%2FR3owWRQG4RKwQm7cAdDYCmCsLNogUMMnN64K0dQ7USbq7%2B4qT%2BtUYLzAQNYLkPVANhJRi7j1%2B28Pw3W%2FagoIdyzD2UYTcNtwrbK%2Be5SGm1egqgcwYE%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8466107d18e76993-FRA
+Alt-Svc: h3=":443"; ma=86400

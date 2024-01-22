@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 07:05:05 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 157
+X-Sorting-Hat-Shopid: 58917159070
+X-Storefront-Renderer-Rendered: 1
+Location: https://melasclothingco.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 58917159070
+X-Shardid: 157
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=9, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="dt4r", requestID;desc="dfc0c951-9ce5-4dc7-b265-8ff1e30fb393"
+Server-Timing: cfRequestDuration;dur=35.000086
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: dfc0c951-9ce5-4dc7-b265-8ff1e30fb393
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=sMgsknQoLxtR%2BSIynn2gi39qHME7cxSR5CqeIR%2BDcN5WF1NPncCmapz1sHSc1hVhRKBOSunFaJL8fjJK1uE%2ByAsuVS06V6SIyHa%2BtmJyOmMlyWcUoMRSJrHwimzW1rr0Bg9%2BE%2Fe2cNNY"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84648212ca0465af-FRA
+Alt-Svc: h3=":443"; ma=86400

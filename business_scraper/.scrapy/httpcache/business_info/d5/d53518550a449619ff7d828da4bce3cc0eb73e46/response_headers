@@ -1,0 +1,23 @@
+Content-Length: 89
+Date: Tue, 16 Jan 2024 11:50:27 GMT
+Content-Type: text/plain; charset=utf-8
+Cache-Control: max-age=0, s-maxage=7200, must-revalidate
+Content-Encoding: gzip
+Etag: "12ce15346f018a018420cd9ed6e1e58e"-gzip
+Last-Modified: Tue, 11 Oct 2022 23:40:20 GMT
+Owner: sitescog-36381
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Surrogate-Key: stores.eddiebauer.com stores.eddiebauer.com%2Frobots.txt
+Vary: Accept-Encoding
+X-Amz-Id-2: Cqk/KPDKpOSDrLfHbWsf3gbfZv0DGz4s8kuwqmt8GsW/M31OWJEDx1whObbDvrsTaL0PcIZJyrw=
+X-Amz-Request-Id: RTTRPTWS69DMG77W
+X-Amz-Server-Side-Encryption: AES256
+X-Amz-Version-Id: null
+X-Yext-Site: us2
+X-Yext-Subendpoint: static
+Cf-Cache-Status: HIT
+Accept-Ranges: bytes
+Set-Cookie: __cf_bm=VGRsaoegZ0LWL2tONBJ8ZYwqxU5A56aPAsBELXOkESY-1705405827-1-Ab6KghDITJwzzXEPC2DoGQsQ2qbx5iOrSmzWUD8BXMi3ijevS2agtjkL+TMXSw3Y7Wmc6z165khMhAusnD0ZqZs=; path=/; expires=Tue, 16-Jan-24 12:20:27 GMT; domain=.stores.eddiebauer.com; HttpOnly; Secure; SameSite=None
+Server: cloudflare
+Cf-Ray: 84662415cae25cb0-FRA
+Alt-Svc: h3=":443"; ma=86400

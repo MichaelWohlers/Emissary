@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:58:51 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 306
+X-Sorting-Hat-Shopid: 4624501
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=d095350b-b8e8-48ea-af07-6abbd5e13f57; path=/; expires=Tue, 16 Jan 2024 12:28:51 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:58:51 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:58:51 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:58:51 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=bluelayne.com; path=/; expires=Wed, 17 Jan 2024 11:58:51 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=945116e8-a609-4a97-849a-691ee0e60212; Expires=Wed, 15-Jan-25 11:58:51 GMT; Domain=bluelayne.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=66e3cb7a-19c3-435d-b9fe-d0f5c11bf5e4; Expires=Tue, 16-Jan-24 12:28:51 GMT; Domain=bluelayne.com; Path=/; SameSite=Lax
+Etag: "cacheable:498ad78a9cd4b7077e8dbf7cb1316eb0"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 4624501
+X-Shardid: 306
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=13, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="146676449587", servedBy;desc="tqdd", requestID;desc="11554ed7-025e-45c3-b271-5b36018dc258"
+Server-Timing: cfRequestDuration;dur=43.999910
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 11554ed7-025e-45c3-b271-5b36018dc258
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=0%2BXl%2BFGuwvwE1Dd7UcqKIlHNjdfOLULz9X32QA%2BpXDEC3Cn%2BvzLRbprMSGnu%2BBcPVICukweOB4QkpPjwTsxO%2FZToHm9sJ70wT3uIUrGknBVhtxR2wMCpbIK1UpiT2%2FYaPsBj"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8466306249559012-FRA
+Alt-Svc: h3=":443"; ma=86400

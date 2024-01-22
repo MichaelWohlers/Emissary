@@ -1,0 +1,26 @@
+Date: Tue, 16 Jan 2024 11:37:57 GMT
+Content-Type: text/html; charset=UTF-8
+X-Fw-Hash: t8fedpna69
+Cache-Control: max-age=14400
+X-Fw-Server: Flywheel/5.1.0
+X-Fw-Version: 5.0.0
+X-Xss-Protection: 1
+X-Redirect-By: WordPress
+X-Fw-Dynamic: TRUE
+Referrer-Policy: no-referrer-when-downgrade
+X-Content-Type-Options: nosniff
+Location: https://www.labelshopper.com/?robots=1
+X-Served-By: cache-fra-etou8220053-FRA, cache-fra-eddf8230063-FRA
+X-Cache: MISS, MISS
+X-Cache-Hits: 0, 0
+X-Timer: S1705405076.556578,VS0,VE2314
+Vary: Authorization, Accept-Encoding
+X-Fw-Serve: TRUE
+X-Fw-Static: NO
+X-Fw-Type: VISIT
+Cf-Cache-Status: MISS
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=LG7Wpnn3mkZ3QOgDCeOJyfPclTUR%2BoYwpfpzlm9IKdJbL7%2BIBBqJ2CUr%2FhIafje9og8MigVzFj8M0BDVL7y22ftCea6Nwwbql9NH7HixOCa3Z28G7NdTfanxpOU7V3y1iGxBjTWzxQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846611ba2a8b383e-FRA
+Alt-Svc: h3=":443"; ma=86400

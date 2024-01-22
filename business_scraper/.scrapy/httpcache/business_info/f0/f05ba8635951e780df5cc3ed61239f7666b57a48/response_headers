@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:50:14 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 86
+X-Sorting-Hat-Shopid: 6561283
+X-Storefront-Renderer-Rendered: 1
+Location: https://www.hullsoffrankfort.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 6561283
+X-Shardid: 86
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=5, db;dur=2, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="2s2x", requestID;desc="0ebab8ac-9e67-4818-b8eb-e9eab01f0276"
+Server-Timing: cfRequestDuration;dur=37.000179
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 0ebab8ac-9e67-4818-b8eb-e9eab01f0276
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=kOno8rYu06EZAl%2BMU6yVsY3QHs6KatKdIv82HiNwzQ%2BSltiixwD7w%2FAO6iMuB6h8ceQAVf3tLkayeykBnvvKO%2FkeWGkUl6%2FkHNoQhxwBD1dCT8taQEKhgyOiZNzR60MEbeSpxTqbCNv%2F1A%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846623c1cb1039e0-FRA
+Alt-Svc: h3=":443"; ma=86400

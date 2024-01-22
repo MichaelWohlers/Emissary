@@ -1,0 +1,41 @@
+Date: Tue, 16 Jan 2024 11:39:08 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 319
+X-Sorting-Hat-Shopid: 68468539712
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=923c47c3-5dd0-4dc8-9b21-27d21c69241a; path=/; expires=Tue, 16 Jan 2024 12:09:08 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:39:08 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:39:08 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:39:08 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=littlebluestemshop.com; path=/; expires=Wed, 17 Jan 2024 11:39:08 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=152803b2-2a5e-4f38-8d45-2a030b883264; Expires=Wed, 15-Jan-25 11:39:08 GMT; Domain=littlebluestemshop.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=53777111-a318-4770-a035-0d8e84d61d1e; Expires=Tue, 16-Jan-24 12:09:08 GMT; Domain=littlebluestemshop.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 11:39:08 GMT; Domain=littlebluestemshop.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2F; Expires=Tue, 30-Jan-24 11:39:08 GMT; Domain=littlebluestemshop.com; Path=/; HttpOnly; SameSite=Lax
+Etag: "cacheable:f9640161ec09fca2cfc05c3ed644d2be"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 68468539712
+X-Shardid: 319
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=13, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="138661888320", pageType;desc="index", servedBy;desc="8zbg", requestID;desc="04a863a2-b08a-4bb0-a276-812831da789e"
+Server-Timing: cfRequestDuration;dur=42.000055
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 04a863a2-b08a-4bb0-a276-812831da789e
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=8ORyT3mfmntdL6%2F7VZh%2Fz%2FvvmhzG2eOun1zjmCnRc9uBC5oudkMBk7V1SH5NXZgKmVhv11At3yitFb2PFw%2Bf61Gcy5zc8HK8e4SywFPAlE23hGKQ5qjTXhhasuYjTUbTfS1gbkvov61J1B%2FB"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846613830c10372e-FRA
+Alt-Svc: h3=":443"; ma=86400

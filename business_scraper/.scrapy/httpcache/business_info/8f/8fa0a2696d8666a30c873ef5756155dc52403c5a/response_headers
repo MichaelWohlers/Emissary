@@ -1,0 +1,41 @@
+Date: Tue, 16 Jan 2024 11:20:00 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 157
+X-Sorting-Hat-Shopid: 49905631390
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=b34b9a17-6831-4935-aa9e-af5c29461f3b; path=/; expires=Tue, 16 Jan 2024 11:50:00 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:20:00 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:20:00 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:20:00 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=mabeldorr.com; path=/; expires=Wed, 17 Jan 2024 11:20:00 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=5f247029-2a0d-4c67-947d-a8c532b0c842; Expires=Wed, 15-Jan-25 11:20:00 GMT; Domain=mabeldorr.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=1d959f65-20bd-4e5e-b02e-cfbe5eb63f1f; Expires=Tue, 16-Jan-24 11:50:00 GMT; Domain=mabeldorr.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 11:20:00 GMT; Domain=mabeldorr.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2F; Expires=Tue, 30-Jan-24 11:20:00 GMT; Domain=mabeldorr.com; Path=/; HttpOnly; SameSite=Lax
+Etag: "cacheable:25da1fff7b384b431a7ef6e5c62b249f"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 49905631390
+X-Shardid: 157
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=9, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="113353687198", pageType;desc="index", servedBy;desc="tnnw", requestID;desc="c3b38d32-c314-4811-9e45-c5e32fb05c22"
+Server-Timing: cfRequestDuration;dur=37.999868
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: c3b38d32-c314-4811-9e45-c5e32fb05c22
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=h2%2FDhn1Zw%2FHZDS5Xpu7NQAeMGN3%2F7ISRcjftzJ3WooGkjf5m5822ujFYO4YhxKZAfUlc797Hd7lSBHKylAtQUuCU2mACZ7r4a01F%2BI3j5y4UI9THCvCid50u7NfdAt8QvYdh"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8465f77b79c2bc04-FRA
+Alt-Svc: h3=":443"; ma=86400

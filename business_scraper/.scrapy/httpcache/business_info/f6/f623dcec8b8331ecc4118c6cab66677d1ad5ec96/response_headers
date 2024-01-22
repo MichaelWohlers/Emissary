@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:48:24 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 159
+X-Sorting-Hat-Shopid: 33146306691
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=1dffd086-b619-44ff-a503-3df26358238c; path=/; expires=Tue, 16 Jan 2024 12:18:24 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:48:24 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 11:48:24 GMT; SameSite=Lax
+Set-Cookie: cart_currency=CAD; path=/; expires=Tue, 30 Jan 2024 11:48:24 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=supersmartstyles.com; path=/; expires=Wed, 17 Jan 2024 11:48:24 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=9f582624-6ea7-42c5-a3f7-b6c7dcbb8ab7; Expires=Wed, 15-Jan-25 11:48:24 GMT; Domain=supersmartstyles.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=83f28247-84c1-4f43-8bcf-11add4d0def9; Expires=Tue, 16-Jan-24 12:18:24 GMT; Domain=supersmartstyles.com; Path=/; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+Etag: "cacheable:9d0469b8b30812272a02e2fd38ef5758"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 33146306691
+X-Shardid: 159
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=38;desc="gc:17", db;dur=10, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="87138107523", servedBy;desc="mlqz", requestID;desc="c567e985-e216-4800-8fc8-65b1d5709adb"
+Server-Timing: cfRequestDuration;dur=74.999809
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: c567e985-e216-4800-8fc8-65b1d5709adb
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=ecpRNSy6zIx3yb3qOYXcUNbSGWw%2Br9bHaT%2B8QmC47Rs52z3a1HkkfIwwodkoJBBN9IRQdTx49LGHaxuSANhC3bHhmY0tv6Xqu%2Fgy1fIO%2FyESswBxTa7Et69FNo%2BcJOUlwLrWPndD"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846621132bed9bb8-FRA
+Alt-Svc: h3=":443"; ma=86400

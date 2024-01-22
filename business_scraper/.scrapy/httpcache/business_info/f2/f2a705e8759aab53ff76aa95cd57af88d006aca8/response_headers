@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:44:09 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 148
+X-Sorting-Hat-Shopid: 56266260629
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=14c25384-ea9a-4bcc-8ae4-d7cd71df2450; path=/; expires=Tue, 16 Jan 2024 12:14:09 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:44:09 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:44:09 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:44:09 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=janeelaineboutique.com; path=/; expires=Wed, 17 Jan 2024 11:44:09 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=fa165b75-5221-4037-a155-738f15608b69; Expires=Wed, 15-Jan-25 11:44:09 GMT; Domain=janeelaineboutique.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=f2bd55d5-5e75-4cef-8dfd-e3f3b22dc4ac; Expires=Tue, 16-Jan-24 12:14:09 GMT; Domain=janeelaineboutique.com; Path=/; SameSite=Lax
+Etag: "cacheable:4125febecf2fc425123e7b34ca0e0a48"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 56266260629
+X-Shardid: 148
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=11, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="122138951829", servedBy;desc="4hmf", requestID;desc="b9bef14b-808c-463b-bab3-af07036b64f6"
+Server-Timing: cfRequestDuration;dur=47.999859
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: b9bef14b-808c-463b-bab3-af07036b64f6
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=I97mtUntdyJmtk1jGhTQUVd2V5Lx%2FD9qAiGecsCiRO4CaI1HtepDY7qVweBG4QCMI5%2Bf0qIEjfPBS6GGnoWXIPUVxk7GcCsAKO6xbAu9yuuTfn3MDJHeKF9UtC6HjosbrG%2FCmK4Sztg%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661addddd6bb7d-FRA
+Alt-Svc: h3=":443"; ma=86400

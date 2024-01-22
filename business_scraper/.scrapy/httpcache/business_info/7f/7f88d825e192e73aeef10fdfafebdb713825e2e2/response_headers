@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:56:34 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 151
+X-Sorting-Hat-Shopid: 49985781912
+X-Storefront-Renderer-Rendered: 1
+Location: https://adiamondinthenorth.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 49985781912
+X-Shardid: 151
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=12;desc="gc:1", db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="wbt8", requestID;desc="54c49686-4e90-4731-9be3-796e6bb234ae"
+Server-Timing: cfRequestDuration;dur=43.999910
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 54c49686-4e90-4731-9be3-796e6bb234ae
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=qbVYv6UlLGC6%2BLGItqkgEk91pxFSEv31N5OxmRL%2Bds6yEykAHM5XH8K9iJ09F6Lv2XbGxcYjacckF4Xdp3nXwd8lB2%2FlhoJdXeg%2BS5QFK21vfDiF6UDDa8LNnWsZM37IIN%2BXidMeUk5bTURr"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84662d0e6ee071b3-FRA
+Alt-Svc: h3=":443"; ma=86400

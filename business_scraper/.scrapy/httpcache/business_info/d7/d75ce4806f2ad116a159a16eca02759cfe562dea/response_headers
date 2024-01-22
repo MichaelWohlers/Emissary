@@ -1,0 +1,42 @@
+Date: Tue, 16 Jan 2024 11:49:00 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 215
+X-Sorting-Hat-Shopid: 46303117463
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=d6880313-b2e8-4235-9e6d-cdc595940d0f; path=/; expires=Tue, 16 Jan 2024 12:19:00 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:49:00 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:49:00 GMT; SameSite=Lax
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:49:00 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=iloveserendipity.com; path=/; expires=Wed, 17 Jan 2024 11:49:00 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=de5fee8f-356b-4de8-baec-5f7b7b517db0; Expires=Wed, 15-Jan-25 11:49:00 GMT; Domain=iloveserendipity.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=049e0961-e64f-4415-9a98-6b7bfec26a1a; Expires=Tue, 16-Jan-24 12:19:00 GMT; Domain=iloveserendipity.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=https%3A%2F%2Filoveserendipity.com%2F; Expires=Tue, 30-Jan-24 11:49:00 GMT; Domain=iloveserendipity.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2Fpages%2Fcontact-us; Expires=Tue, 30-Jan-24 11:49:00 GMT; Domain=iloveserendipity.com; Path=/; HttpOnly; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin, <//iloveserendipity.com/cdn/shop/t/9/assets/theme.css?v=85506988791752144911697662888>; as="style"; rel="preload"
+Etag: "cacheable:1ed515ea10f126f31f6242a5e0559493"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Access-Control-Allow-Origin: *
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 46303117463
+X-Shardid: 215
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=82, db;dur=24, render;dur=31, wasm, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="137071788248", pageType;desc="page", servedBy;desc="kknp", requestID;desc="be43df3c-2a83-4707-aaa3-e12537a94e37"
+Server-Timing: cfRequestDuration;dur=112.999916
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: be43df3c-2a83-4707-aaa3-e12537a94e37
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=OxsFZq5Bv%2FWylLF9vW05dJvBVpRoEhWbeVOWRyP1i%2FyIAOOLScR%2Bjs6t200%2BBFjuxMKxlgCo1aYYX0m98N%2BCJQU1TGSiIUe5ng%2BQ6ffrSNe30SzIoFTTYmcBlszlgU%2FxP1sw2%2B64"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846621f6af625d49-FRA
+Alt-Svc: h3=":443"; ma=86400

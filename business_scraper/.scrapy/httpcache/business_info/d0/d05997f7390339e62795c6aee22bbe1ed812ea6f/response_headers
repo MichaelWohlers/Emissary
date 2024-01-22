@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:36:34 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 44
+X-Sorting-Hat-Shopid: 31041028141
+X-Storefront-Renderer-Rendered: 1
+Location: https://daffodils.boutique/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 31041028141
+X-Shardid: 44
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=6, db;dur=2, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="w66h", requestID;desc="12bf4077-bb04-438b-9dd6-ba6842b0a1fd"
+Server-Timing: cfRequestDuration;dur=36.999941
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 12bf4077-bb04-438b-9dd6-ba6842b0a1fd
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=z3j7ReKy4TXOsWw7HFGF%2FvhDOT8KrVv%2FYG4e908dkRAF4YP1nNXkFd5d0iyiomx9F5sqLT3D%2Byy7Rxt%2FzuEacYODcGznCy91Gy8WaA3X3%2BUt8gb1rq8ZtdiC5fB30%2BaEqbRdk5mKBg%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84660fbffb029a30-FRA
+Alt-Svc: h3=":443"; ma=86400

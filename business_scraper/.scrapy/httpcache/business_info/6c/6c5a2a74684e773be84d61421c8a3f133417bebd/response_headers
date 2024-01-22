@@ -1,0 +1,29 @@
+Date: Tue, 16 Jan 2024 12:03:00 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 321
+X-Sorting-Hat-Shopid: 67594289474
+X-Storefront-Renderer-Rendered: 1
+Location: https://eclipsestores.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb_listing_74
+X-Redirect-Reason: canonical_host_redirection
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 67594289474
+X-Shardid: 321
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=17, db;dur=6, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="jqdf", requestID;desc="f25dc8bb-b790-4a02-b1fd-c1c37c2685f2"
+Server-Timing: cfRequestDuration;dur=44.999838
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: f25dc8bb-b790-4a02-b1fd-c1c37c2685f2
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=fSiGrwtdJwKV8obtJkbFyX8sQs14o%2BWWvLBSyi76SGy0fLjd5HhL4rgsuvbJpSKX2%2FL43kNX19xiIzbWYEWVYlIGkATk%2FoydVUr413hDTjKU9lblDKTixCDf%2B5Mfyk8ZMn%2FK4tEL%2FA%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84663679cf9a921a-FRA
+Alt-Svc: h3=":443"; ma=86400

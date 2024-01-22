@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:02:43 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 232
+X-Sorting-Hat-Shopid: 9464622
+X-Storefront-Renderer-Rendered: 1
+Location: https://www.gritandgraceboutique.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 9464622
+X-Shardid: 232
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=7, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="5mgw", requestID;desc="57dd3243-7ec8-4e89-b264-430dbfe5fc0b"
+Server-Timing: cfRequestDuration;dur=58.000088
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 57dd3243-7ec8-4e89-b264-430dbfe5fc0b
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=mkWZHX4Rw83FA3F8pJZaIP79LFUwKc9qwoGgnB9VeE2CK6hnZ%2FgZ%2F6miy6Lvbh6pfD%2F%2FGNmQAuJUCybRHr436BzVzY%2BnfYo3dUq9reAVUe23TJLrO3Uvq7KRVA0gmjV4El8VbcIKX4b11W1uJ9w%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8465de27aed02c51-FRA
+Alt-Svc: h3=":443"; ma=86400

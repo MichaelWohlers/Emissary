@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:02:46 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 255
+X-Sorting-Hat-Shopid: 57381748904
+X-Storefront-Renderer-Rendered: 1
+Location: https://karadiseboutique.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 57381748904
+X-Shardid: 255
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=9, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="pqvk", requestID;desc="36d74dee-2280-49eb-97b0-d6eb3789250a"
+Server-Timing: cfRequestDuration;dur=38.000107
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 36d74dee-2280-49eb-97b0-d6eb3789250a
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=FkmMf%2FV3d5yRHL0uww7FDNPlw3s8Tr4pa9aj1wngHndICoe3nYP0X4Gho3kXCmrtUi2qzZgqhiLrNRBeDV2pnHc7QL6cLdaqbvWJQUoK9XyAJoBgKbXj0jFw%2BQh05ghDKi0VseoXulP1eA%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8465de3e3bf603a0-FRA
+Alt-Svc: h3=":443"; ma=86400

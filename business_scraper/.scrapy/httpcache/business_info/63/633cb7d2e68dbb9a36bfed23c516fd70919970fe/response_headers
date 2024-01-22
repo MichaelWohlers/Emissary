@@ -1,0 +1,20 @@
+Content-Length: 248
+Accept-Ranges: bytes
+Content-Type: text/plain
+Etag: "592ac6eb09370be7337b4cb1553baa7c:1688736622.400663"
+Last-Modified: Fri, 07 Jul 2023 13:30:22 GMT
+Content-Encoding: gzip
+Cache-Control: private, max-age=3600
+Expires: Tue, 16 Jan 2024 05:57:12 GMT
+Date: Tue, 16 Jan 2024 04:57:12 GMT
+X-Cache: TCP_HIT from a2-20-143-119.deploy.akamaitechnologies.com (AkamaiGHost/11.3.3-52660090) (-)
+Vary: Accept-Encoding
+Set-Cookie: tcpCountryDetail=DE; path=/; domain=.childrensplace.com; secure
+Set-Cookie: tcpState=HE; path=/; domain=.childrensplace.com; secure
+Set-Cookie: AKA_A2=A; expires=Tue, 16-Jan-2024 05:57:12 GMT; path=/; domain=childrensplace.com; secure; HttpOnly
+Server-Timing: cdn-cache; desc=HIT
+Server-Timing: edge; dur=6
+Server-Timing: ak_p; desc="1705381032668_34901879_395328843_580_11194_31_36_-";dur=1
+Cached-Timestamp: 0
+Strict-Transport-Security: max-age=15768000 ; includeSubDomains
+Akamai-Grn: 0.778f1402.1705381032.17903d4b

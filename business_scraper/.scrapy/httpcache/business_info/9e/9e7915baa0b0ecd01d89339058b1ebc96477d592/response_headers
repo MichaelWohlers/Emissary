@@ -1,0 +1,10 @@
+Content-Length: 0
+Date: Tue, 16 Jan 2024 11:55:34 GMT
+Location: https://www.mimisboutique.online/
+Strict-Transport-Security: max-age=3600
+X-Wix-Request-Id: 1705406134.366273067795215259
+Age: 0
+Server-Timing: cache;desc=miss, varnish;desc=miss, dc;desc=84
+X-Seen-By: REmTqJKTo7BM/eF7JdTbUrxkNjrXdwdgtu6E0yACibU=,m0j2EEknGIVUW/liY8BLLm+RUUxFrhyTYE58WvxHjkmdv/c7uH0ky0wFkt5EFvml,2d58ifebGbosy5xc+FRaljto8x4/Km9LpcEymEUHrMCFk6ZZooC7A6uYcZMLThqltA0AcCgnoXpI1X0m8+01wQ==,2UNV7KOq4oGjA5+PKsX47PQEXbXFZaYW1Dg5frPZCM1YgeUJqUXtid+86vZww+nL,oH45haSb+jN5pZFE/dwLjR2i6CKpmfCUVdCrCjv2j+g=,ne/bdLW5e+OAkZT0PJ24n8T6ou2P5prdW+KZhdELBJM=,2jmwVdffH1Py+LoakQW9nUHsH97qKngBw5vTvNq96JSOU63AMndi3E90LahmeKD9om18kyY/v6IPKw743bpWHw==
+Cache-Control: no-cache
+X-Content-Type-Options: nosniff

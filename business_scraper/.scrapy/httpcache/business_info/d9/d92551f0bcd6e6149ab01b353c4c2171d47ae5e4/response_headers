@@ -1,0 +1,12 @@
+Content-Length: 0
+Server: Varnish
+Retry-After: 0
+Accept-Ranges: bytes
+Date: Tue, 16 Jan 2024 11:36:16 GMT
+Via: 1.1 varnish
+X-Served-By: cache-muc13921-MUC
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1705404976.423095,VS0,VE0
+Set-Cookie: exp_ebid=m=BoDWxt40OpcrZLzzGj65lG9%2B5JRkiFL%2By%2FPT2ydPKiw%3D,v=Uo0rZ9owLNKKwKbv2k9Okrg8h7096wb0; domain=.etsy.com; path=/; Secure; max-age=5184000
+Location: https://www.etsy.com/robots.txt

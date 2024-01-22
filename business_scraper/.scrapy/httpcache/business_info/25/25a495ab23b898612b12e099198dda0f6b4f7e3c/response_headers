@@ -1,0 +1,41 @@
+Date: Tue, 16 Jan 2024 11:33:49 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 257
+X-Sorting-Hat-Shopid: 1386643550
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=677974e6-83eb-4cf7-b237-4575e81d58a7; path=/; expires=Tue, 16 Jan 2024 12:03:49 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:33:49 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:33:49 GMT; SameSite=Lax
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:33:49 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=sassygraceboutique.com; path=/; expires=Wed, 17 Jan 2024 11:33:49 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=f4d3172a-7d9d-4271-b453-5d8bcc4fc05e; Expires=Wed, 15-Jan-25 11:33:49 GMT; Domain=sassygraceboutique.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=eeb15d81-7605-4106-a7dc-b6d2923151b0; Expires=Tue, 16-Jan-24 12:03:49 GMT; Domain=sassygraceboutique.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 11:33:49 GMT; Domain=sassygraceboutique.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2F; Expires=Tue, 30-Jan-24 11:33:49 GMT; Domain=sassygraceboutique.com; Path=/; HttpOnly; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin, <//sassygraceboutique.com/cdn/shop/t/22/assets/component-localization-form.css?v=143319823105703127341697161106>; as="style"; rel="preload", <//sassygraceboutique.com/cdn/shop/files/SG_Wood_logo.png?v=1683477385&width=600>; as="image"; rel="preload"; imagesrcset="//sassygraceboutique.com/cdn/shop/files/SG_Wood_logo.png?v=1683477385&width=300 300w, //sassygraceboutique.com/cdn/shop/files/SG_Wood_logo.png?v=1683477385&width=450 450w, //sassygraceboutique.com/cdn/shop/files/SG_Wood_logo.png?v=1683477385&width=600 600w"; imagesizes="(min-width: 750px) 300px, 50vw"
+Etag: "cacheable:373b43acd489f0a941e09f57a026b035"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 1386643550
+X-Shardid: 257
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=188;desc="gc:27", db;dur=48, render;dur=105, wasm, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="137235366146", pageType;desc="index", servedBy;desc="67nn", requestID;desc="b91cd28a-aa62-4ef4-835d-a5da6e9f8b02"
+Server-Timing: cfRequestDuration;dur=216.000080
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: b91cd28a-aa62-4ef4-835d-a5da6e9f8b02
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=KoHwkzBaJae8TnuKau6h6l3KJJoGuDYDkGLW0lKg32a2pC7xK5VCWVddGvxqD5dM1TgGzr%2B7ZAwcxAXuEAXQZ48ZdsshRuyFPiAah%2BeCbwcM6pygeQ1RjLK2KLyvgBmHxfcG7qMZf24%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84660bb8eaa8367f-FRA
+Alt-Svc: h3=":443"; ma=86400

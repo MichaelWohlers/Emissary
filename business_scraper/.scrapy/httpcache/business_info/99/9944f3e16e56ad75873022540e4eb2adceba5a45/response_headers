@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:02:42 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 205
+X-Sorting-Hat-Shopid: 58495172814
+X-Storefront-Renderer-Rendered: 1
+Location: https://mariegregory.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 58495172814
+X-Shardid: 205
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=10, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="5z4n", requestID;desc="0e117e40-6a00-497b-ae62-a5166dafc524"
+Server-Timing: cfRequestDuration;dur=42.999983
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 0e117e40-6a00-497b-ae62-a5166dafc524
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=VAyoK1mPxjQlPjMMNI7h9cn7yaiTcmgFMRzGW%2FIfj4dSMoHq7KazDMyfrjtYF5%2FwXxmAgbZ1n9%2F2VJVc3Co1kQW801zk8iqWZN83H9SugzujfZn30Ld2%2FvwNu0%2BqTthWu78%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8465de22fc66926d-FRA
+Alt-Svc: h3=":443"; ma=86400

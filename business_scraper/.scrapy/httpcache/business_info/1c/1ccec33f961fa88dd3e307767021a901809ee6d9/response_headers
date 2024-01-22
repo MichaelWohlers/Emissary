@@ -1,0 +1,38 @@
+Date: Tue, 16 Jan 2024 11:44:20 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 195
+X-Sorting-Hat-Shopid: 27457650786
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=28ef707a-c0c0-4880-8097-63f7df76288e; path=/; expires=Tue, 16 Jan 2024 12:14:20 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:44:20 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 11:44:20 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=thedressshop.com; path=/; expires=Wed, 17 Jan 2024 11:44:20 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=3c3bc837-d786-4700-94a2-80bed4f05517; Expires=Wed, 15-Jan-25 11:44:20 GMT; Domain=thedressshop.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=66f22fe3-bcbc-42f0-b0fc-ade59f736640; Expires=Tue, 16-Jan-24 12:14:20 GMT; Domain=thedressshop.com; Path=/; SameSite=Lax
+Etag: "cacheable:6c8e7dd690fa2d4c19d550a9a643df11"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 27457650786
+X-Shardid: 195
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=16, db;dur=5, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="79966634082", servedBy;desc="86jk", requestID;desc="46992822-8b81-4703-a875-427d0bc3b8b4"
+Server-Timing: cfRequestDuration;dur=46.000004
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 46992822-8b81-4703-a875-427d0bc3b8b4
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=yfDoAdCvbE4y70gRSRGzCBLJswZmxyQEMKjT8ecf2fOBWmycQF0V8eV0Opaa1lOQ7%2BKLSZ7M77jRxQCyD68j7GiPEF3S9r%2FF9GLmNWUZi9DfrQdafSvhrFISc4LMPuqNK2g%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661b200b8330db-FRA
+Alt-Svc: h3=":443"; ma=86400

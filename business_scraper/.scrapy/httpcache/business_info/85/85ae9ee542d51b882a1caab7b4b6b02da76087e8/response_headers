@@ -1,0 +1,38 @@
+Date: Tue, 16 Jan 2024 09:30:15 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 162
+X-Sorting-Hat-Shopid: 46387429539
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=b9d7aaba-493d-46ef-9107-e062b569772e; path=/; expires=Tue, 16 Jan 2024 10:00:15 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 09:30:15 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 09:30:15 GMT
+Set-Cookie: cart_currency=EUR; path=/; expires=Tue, 30 Jan 2024 09:30:15 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Afalse%2C%22a%22%3Afalse%2C%22m%22%3Afalse%2C%22t%22%3Afalse%7D%2C%22display_banner%22%3Atrue%2C%22sale_of_data_region%22%3Afalse%7D; domain=daddy.boutique; path=/; expires=Wed, 17 Jan 2024 09:30:15 GMT; SameSite=Lax
+Set-Cookie: _tracking_consent=%7B%22lim%22%3A%5B%22GDPR_BLOCK_ALL%22%5D%2C%22v%22%3A%222.1%22%2C%22region%22%3A%22DERP%22%2C%22reg%22%3A%22GDPR%22%2C%22con%22%3A%7B%22CMP%22%3A%7B%22a%22%3A%22%22%2C%22p%22%3A%22%22%2C%22s%22%3A%22%22%2C%22m%22%3A%22%22%7D%7D%7D; Expires=Wed, 15-Jan-25 09:30:15 GMT; Domain=daddy.boutique; Path=/; SameSite=Lax
+Etag: "cacheable:ef3c398ca44d1d4cfa6b4e9addf52a67"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 46387429539
+X-Shardid: 162
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=13, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="109102268579", servedBy;desc="7htk", requestID;desc="b30d6a27-4e9a-4a55-929c-9e2a61d5301e"
+Server-Timing: cfRequestDuration;dur=68.000078
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: b30d6a27-4e9a-4a55-929c-9e2a61d5301e
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=XTHRBXPS3FkV1dWFyfx2sydMzUZWKPEY6zeulx0yHAw3Dke2JtgHyG6q8sxW0uYy3%2FFfpu00IyWpUIS949jmPF24511GD08c6mZv%2FKekSgB%2FJlP3%2F8aAe%2FpmmHEOwMWZ"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846556b69cc21d8c-FRA
+Alt-Svc: h3=":443"; ma=86400

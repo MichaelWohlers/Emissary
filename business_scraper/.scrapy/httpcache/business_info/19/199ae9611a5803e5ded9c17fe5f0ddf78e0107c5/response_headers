@@ -1,0 +1,42 @@
+Date: Tue, 16 Jan 2024 11:02:46 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 52
+X-Sorting-Hat-Shopid: 26802847797
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=1aad68ad-73bc-4b82-94ab-ac5909416129; path=/; expires=Tue, 16 Jan 2024 11:32:46 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:02:46 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:02:46 GMT; SameSite=Lax
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:02:46 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=hellobeautifulboutique.com; path=/; expires=Wed, 17 Jan 2024 11:02:46 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=93190c2c-ea33-487e-8e60-e4f09ccfbf18; Expires=Wed, 15-Jan-25 11:02:46 GMT; Domain=hellobeautifulboutique.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=b4c688e6-5b3d-4dfa-bba0-3d8b01f3d791; Expires=Tue, 16-Jan-24 11:32:46 GMT; Domain=hellobeautifulboutique.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=https%3A%2F%2Fwww.hellobeautifulboutique.com%2F; Expires=Tue, 30-Jan-24 11:02:46 GMT; Domain=hellobeautifulboutique.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2Fpages%2Fcontact-us%3Fnopreview; Expires=Tue, 30-Jan-24 11:02:46 GMT; Domain=hellobeautifulboutique.com; Path=/; HttpOnly; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+Etag: "cacheable:12a5eab41c24dd01f7e41a0e069c81b0"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Access-Control-Allow-Origin: *
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 26802847797
+X-Shardid: 52
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=118;desc="gc:60", db;dur=20, render;dur=15, wasm, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="80206200885", pageType;desc="page", servedBy;desc="mxgx", requestID;desc="06f7ea0e-398f-4757-b114-514dd0fadfc4"
+Server-Timing: cfRequestDuration;dur=143.000126
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 06f7ea0e-398f-4757-b114-514dd0fadfc4
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=UIU0hMno013AKNjZ2kyx8JZEkIvmILcsq4kR1VS1wvun7lSCEOAHGbOQy72peQlwEj468iQuOvPr7YSh6vZRsWH%2BO4O79DQ6l80INowb0zCp85Sxaf%2BYEIJoJ5ikO2tnxebfnQyks9pylw7gekEvwA%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8465de3ad8789001-FRA
+Alt-Svc: h3=":443"; ma=86400

@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:44:04 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 148
+X-Sorting-Hat-Shopid: 56266260629
+X-Storefront-Renderer-Rendered: 1
+Location: https://janeelaineboutique.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 56266260629
+X-Shardid: 148
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=6, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="4hmf", requestID;desc="abd214ed-194d-4cc7-a4e8-98fdb8b521c8"
+Server-Timing: cfRequestDuration;dur=46.000004
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: abd214ed-194d-4cc7-a4e8-98fdb8b521c8
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=i%2F5r987RvzJcZAHXM6izVNH8ppx0maYwPoiQU9szh3PsR6E0YHhojwqkW2cxszkhurJ7dlVCjs8NH8slLaE%2F5pkEnIo88KbmLiSWqBDqwlDwv%2BMJCh9x1KVO4HyYrbxMivqfxknjAgI%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661abdb9adbbaa-FRA
+Alt-Svc: h3=":443"; ma=86400

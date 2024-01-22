@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:34:08 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 176
+X-Sorting-Hat-Shopid: 49230315686
+X-Storefront-Renderer-Rendered: 1
+Location: https://www.ayellowlotus.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 49230315686
+X-Shardid: 176
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=11, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="qb7b", requestID;desc="3cda4852-df37-49dd-a75b-c10a5be7fcc1"
+Server-Timing: cfRequestDuration;dur=41.000128
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 3cda4852-df37-49dd-a75b-c10a5be7fcc1
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=hbnC90EhqKa6h52Ryx18ETvotKnn8n%2FsvmN%2Fszy645CUH8nMZL7sIEMecHFc64riyx0KlcWHEuXriEnXNtT8Toepfm4%2Bc%2BGNuqwJSsxtnWT1OvTfkR13700IE4i8tzQprLM6CWee"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84660c2c386a2c22-FRA
+Alt-Svc: h3=":443"; ma=86400

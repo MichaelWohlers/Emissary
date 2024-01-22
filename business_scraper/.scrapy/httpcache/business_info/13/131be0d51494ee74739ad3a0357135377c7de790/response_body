@@ -1,0 +1,86 @@
+
+    
+# We allow everything from the root
+# and then set noindex on our backends for paths that we want to Disallow
+# to prevent this list from being too complex and long
+
+User-agent: Applebot
+Disallow: 
+
+User-agent: baiduspider
+Disallow: 
+
+User-agent: Bingbot
+Disallow: 
+
+User-agent: Discordbot
+Disallow: 
+
+User-agent: facebookexternalhit
+Disallow: 
+
+User-agent: Googlebot
+Disallow: 
+
+User-agent: Googlebot-Image
+Disallow: 
+
+User-agent: Google-InspectionTool
+Disallow: 
+
+User-agent: ia_archiver
+Disallow: 
+
+User-agent: LinkedInBot
+Disallow: 
+
+User-agent: msnbot
+Disallow: 
+
+User-agent: Naverbot
+Disallow: 
+
+User-agent: Pinterestbot
+Disallow: 
+
+User-agent: Screaming Frog SEO Spider
+Disallow: 
+
+User-agent: seznambot
+Disallow: 
+
+User-agent: Slurp
+Disallow: 
+
+User-agent: teoma
+Disallow: 
+
+User-agent: TelegramBot
+Disallow: 
+
+User-agent: Twitterbot
+Disallow: 
+
+User-agent: Yandex
+Disallow: 
+
+User-agent: Yeti
+Disallow: 
+
+User-agent: SnapchatAdsBot
+Disallow: 
+
+User-agent: SemrushBot
+Disallow: 
+
+User-agent: Pinterestbot
+Disallow: /
+
+User-agent: *
+Disallow: /      
+Sitemap: https://linktr.ee/discover/profile-directory/sitemapindex.xml
+Sitemap: https://linktr.ee/b0mWdW2jdv3phms1s8a1.main.sitemapindex.profiles.xml
+Sitemap: https://linktr.ee/s/sitemap-index.xml
+Sitemap: https://linktr.ee/s/sitemap-0.xml
+Sitemap: https://linktr.ee/marketplace/sitemap.xml
+  

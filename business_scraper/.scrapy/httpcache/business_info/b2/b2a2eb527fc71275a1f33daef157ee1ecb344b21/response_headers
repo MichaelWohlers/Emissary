@@ -1,0 +1,10 @@
+Date: Tue, 16 Jan 2024 11:38:07 GMT
+Cache-Control: max-age=3600
+Expires: Tue, 16 Jan 2024 12:38:07 GMT
+Location: https://www.fashioninc.com/
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=k3gi%2BAzpTKPRETzXTBDU0HOsYbP0y6nermOV4vc%2FAPG8XaZSYppmGnDJ5aNvnF6WZnkhN7p5zMByf4q4BndMm7PD9p8CxbFXCpy3PykrzO4i0umlgADBhDYeHc1%2FY3PgbPDoRf8%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Vary: Accept-Encoding
+Server: cloudflare
+Cf-Ray: 846612035e1f6610-AMS
+Alt-Svc: h3=":443"; ma=86400

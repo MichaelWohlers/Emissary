@@ -1,0 +1,23 @@
+Age: 5275
+Alt-Svc: h3=":443"; ma=86400
+Cache-Control: max-age=0, s-maxage=7200, must-revalidate
+Cf-Cache-Status: HIT
+Cf-Ray: 8466141098bc2057-IAD
+Content-Encoding: gzip
+Content-Type: text/html; charset=utf-8
+Date: Tue, 16 Jan 2024 11:39:31 GMT
+Etag: "5fe238094ab1ac454a5fb7503d185987"-gzip
+Last-Modified: Thu, 11 Jan 2024 06:13:03 GMT
+Owner: sitescog-350
+Pagesurlcustomfieldinfo: location.custom.583452.american_eagle_pages.0:en:1725795
+Redirectstableidentifier: 350:Locations:en:1725795
+Server: cloudflare
+Set-Cookie: __cf_bm=qrcVUBufQxuz0VcgNIQf2ZVz7oq8m8zSNjFND6IB3_E-1705405171-1-AdNhz6ruJvukVZpD7yM/qFfMn1hYP+zN4Dy/7npReIaqWlluBJNInMN7E6SXNlUOB7hZDzi85MZMHydZz7cUWjE=; path=/; expires=Tue, 16-Jan-24 12:09:31 GMT; domain=.stores.aeostores.com; HttpOnly; SameSite=None
+Surrogate-Key: stores.aeostores.com stores.aeostores.com%2Fus%2Fwv%2Fcharleston%2F2095-charleston-town-ctr.html
+Vary: Accept-Encoding
+X-Amz-Id-2: wIrePbB/8Bd464WKCK/Qi5W3aKHlFeRjuZ7vFRjPu71y1HatVjqf+9VmkWzLorw5Uqrb+nXAkOo=
+X-Amz-Request-Id: 07WPKM29P6N8MHQE
+X-Amz-Server-Side-Encryption: AES256
+X-Amz-Version-Id: null
+X-Yext-Site: us2
+X-Yext-Subendpoint: static

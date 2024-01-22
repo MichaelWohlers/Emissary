@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:43:15 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 277
+X-Sorting-Hat-Shopid: 74723852566
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=cb8ee5fa-04dd-40de-a9ca-cd53e407c0ea; path=/; expires=Tue, 16 Jan 2024 12:13:15 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:43:15 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 11:43:15 GMT
+Set-Cookie: cart_currency=EUR; path=/; expires=Tue, 30 Jan 2024 11:43:15 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=magnoliaboutique.com; path=/; expires=Wed, 17 Jan 2024 11:43:15 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=b42423ed-efa8-433b-9382-b194e08717bc; Expires=Wed, 15-Jan-25 11:43:15 GMT; Domain=magnoliaboutique.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=45aa1cdb-8acf-4486-952c-6037a7455a16; Expires=Tue, 16-Jan-24 12:13:15 GMT; Domain=magnoliaboutique.com; Path=/; SameSite=Lax
+Etag: "cacheable:07e04b599f5f4043938706fb9f9afbd1"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 74723852566
+X-Shardid: 277
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=15, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="164497654038", servedBy;desc="qx6h", requestID;desc="54bff22d-76aa-4f77-b9c7-9bf7141e9a91"
+Server-Timing: cfRequestDuration;dur=43.999910
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 54bff22d-76aa-4f77-b9c7-9bf7141e9a91
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=p%2FTQCSznjwf%2B5XDGFnk89Z4VVTikcmXxEHQrsrGFBdCkJskYbWE55CyNBSf3E%2BdkeApM64FazjDzTIKhAFmi3omp0IAkLzUkfcJb7vrb44T%2FzoHZqbyKe5WkoHzT9UTCRZUOk48Z"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661987ba4c5c85-FRA
+Alt-Svc: h3=":443"; ma=86400

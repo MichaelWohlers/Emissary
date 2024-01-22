@@ -1,0 +1,25 @@
+Date: Tue, 16 Jan 2024 11:02:52 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Set-Cookie: fornax_anonymousId=84347f21-62a7-4a61-bf58-62e3ae0f1e16; Expires=Thu, 15 Jan 2026 11:02:52 GMT; Path=/; Secure; SameSite=None
+Set-Cookie: athena_short_visit_id=62b96a45-c302-4746-b557-5b2f3242dc29:1705402972; Expires=Tue, 16 Jan 2024 11:32:52 GMT; Path=/; Secure; HttpOnly; SameSite=None
+Set-Cookie: Shopper-Pref=060D7008A3F81B1E5BFED26D1E04DEBBEAD4ABB5-1706007772358-x%7B%22cur%22%3A%22USD%22%7D; Expires=Tue, 23 Jan 2024 11:02:52 GMT; Path=/; HttpOnly
+Set-Cookie: XSRF-TOKEN=d2bd77bdfc6c722fc7a591a02927255570caf3c6e8d753aa36b67f8b41ea71d0; path=/; Secure; SameSite=none
+Set-Cookie: SHOP_SESSION_TOKEN=37cc53bd-bc02-425c-a4ee-22b2f95065cf; Expires=Tue, 23 Jan 2024 11:02:52 GMT; Path=/; Secure; HttpOnly; SameSite=None
+Link: <https://chimpstatic.com/mcjs-connected/js/users/ea2618fdb5d02fcf5a198e9ef/ebb9d4d19085468b6f694bce0.js>; rel=preload; as=script
+Link: <https://cdn11.bigcommerce.com/s-ae38a/stencil/9af2ca20-7d72-013c-bcfe-66251aa42952/e/2e6ae790-ed4c-0138-0bb5-0242ac11000d/css/theme-b05f6080-8ef3-013c-c14c-5ad99c9292ff.css>; rel=preload; as=style, <https://fonts.googleapis.com/css?family=Montserrat:400%7CKarla:400%7CRaleway:400,300,700%7CLora:400,700&display=swap>; rel=preload; as=style
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+X-Request-Id: c2f15fe901ec897d65b5625104047672
+Strict-Transport-Security: max-age=0
+Content-Encoding: gzip
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=%2BtnoH3a75CNxNm2AV4C9cq2O2tevL8UzyBBsm%2F0Pa2LKwoS%2FiJO1zO%2FIwrlTmPEF%2BJKL3c7KCChGNvm1ubcztZY9p5kKopiDxDm9HayqUq1N5NQnrAgs0eRnKJ82Hk9vJv2BSJ3iMX0W%2Fdy4JzqYpck%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Bc-Ray: 1
+Server: cloudflare
+Cf-Ray: 8465de5edbd7372e-FRA
+Alt-Svc: h3=":443"; ma=86400

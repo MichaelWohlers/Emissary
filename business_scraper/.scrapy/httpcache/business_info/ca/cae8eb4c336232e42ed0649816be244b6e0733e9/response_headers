@@ -1,0 +1,15 @@
+Content-Length: 0
+Location: https://www.atgaccessories.com/
+Strict-Transport-Security: max-age=3600
+X-Wix-Request-Id: 1705369670.4512658036114812608
+Cache-Control: public,max-age=0,must-revalidate
+Server: Pepyaka/1.21.6
+X-Content-Type-Options: nosniff
+Accept-Ranges: bytes
+Date: Tue, 16 Jan 2024 03:59:53 GMT
+Age: 7923
+X-Served-By: cache-fra-eddf8230083-FRA
+X-Cache: HIT
+Server-Timing: cache;desc=hit, varnish;desc=hit_hit, dc;desc=fastly_g
+X-Seen-By: yvSunuo/8ld62ehjr5B7kA==
+Via: 1.1 google

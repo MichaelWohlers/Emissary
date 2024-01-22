@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:36:11 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 104
+X-Sorting-Hat-Shopid: 6771551
+X-Storefront-Renderer-Rendered: 1
+Location: https://hmranchstore.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 6771551
+X-Shardid: 104
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=7, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="9vmx", requestID;desc="1294cc77-4f03-4090-9338-07260a8960db"
+Server-Timing: cfRequestDuration;dur=36.000013
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 1294cc77-4f03-4090-9338-07260a8960db
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=yYcVE3GPPsk4qHXbS0T59Kz2dD%2FKAlf2u%2BZxO8jZT8pFRtrqtao2xY3He0kIDem9HlhSqHfFzGFL2bU%2Fm3uD1kuyN8MUdB4xm7q6Hd3tGGe42YfXjbQYrOcsyHBmtoRCOuqufUIo"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84660f328cdc35e7-FRA
+Alt-Svc: h3=":443"; ma=86400

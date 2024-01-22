@@ -1,0 +1,17 @@
+Content-Length: 113
+Date: Tue, 16 Jan 2024 11:51:10 GMT
+Content-Type: text/plain; charset=utf-8
+Link: <https://www.anjaofsweden.com/wp-json/>; rel="https://api.w.org/"
+X-Robots-Tag: noindex
+Content-Encoding: gzip
+Vary: Accept-Encoding
+X-Turbo-Charged-By: LiteSpeed
+Cache-Control: max-age=14400
+Cf-Cache-Status: MISS
+Last-Modified: Tue, 16 Jan 2024 11:51:10 GMT
+Accept-Ranges: bytes
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=IBuWqb4vRqllwSKcyZrTNr1EGwBFgGNxebmIkZJ7FttFel%2FP87A7noJkCtZGYN0v2ITjLtt3z1aQhzmjiKagBvwCRqVJ9x5ayCI1RwiwvaRbzUkT4gs2jSfDdlMhDR1IexxchDRLNA%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846624fe8a6eb927-AMS
+Alt-Svc: h3=":443"; ma=864003=":443"; ma=86400

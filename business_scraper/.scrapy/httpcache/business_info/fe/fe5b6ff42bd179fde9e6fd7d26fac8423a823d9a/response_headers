@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:02:51 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 220
+X-Sorting-Hat-Shopid: 62366449885
+X-Storefront-Renderer-Rendered: 1
+Location: https://www.luvleighapparel.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 62366449885
+X-Shardid: 220
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=11, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="r7gg", requestID;desc="c0db1e6f-0b7f-479e-a0cb-7b2df58979ca"
+Server-Timing: cfRequestDuration;dur=190.999985
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: c0db1e6f-0b7f-479e-a0cb-7b2df58979ca
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=ghSfipfzgk4QsjGHOhGWct91iWIAK9tsyy4DtL4dY47DvnpunQsgHmgxgy%2FpK1X97swEQm4p66H0jRXnpw1lp8tqVCvmBrXkBtxFS2xwhv0qYnb8oxLdKtP0OPWugiklg2uMW1kvoBzm"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8465de5d1ac23a8a-FRA
+Alt-Svc: h3=":443"; ma=86400

@@ -1,0 +1,41 @@
+Date: Tue, 16 Jan 2024 11:45:41 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 92
+X-Sorting-Hat-Shopid: 57868812381
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=c83bc45c-799b-4a5f-a0ad-98f9a08fb8db; path=/; expires=Tue, 16 Jan 2024 12:15:40 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:45:41 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:45:41 GMT; SameSite=Lax
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:45:41 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=fashioncultureshop.com; path=/; expires=Wed, 17 Jan 2024 11:45:41 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=3b70de8f-f3cf-487b-abb2-7801cca888d4; Expires=Wed, 15-Jan-25 11:45:41 GMT; Domain=fashioncultureshop.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=ad4845d4-e9ae-4ff4-be24-e5a9f1d9fd71; Expires=Tue, 16-Jan-24 12:15:41 GMT; Domain=fashioncultureshop.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 11:45:41 GMT; Domain=fashioncultureshop.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2F; Expires=Tue, 30-Jan-24 11:45:41 GMT; Domain=fashioncultureshop.com; Path=/; HttpOnly; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+Etag: "cacheable:c065fb4a1162705875713c6617d6feff"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 57868812381
+X-Shardid: 92
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=536;desc="gc:66", db;dur=87, fetch;dur=234, parse;dur=6, render;dur=61, wasm, wasmDownload;dur=235, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="124105818205", pageType;desc="index", servedBy;desc="bjmm", requestID;desc="2e499599-e069-480e-8eff-7f841c2606f7"
+Server-Timing: cfRequestDuration;dur=563.999891
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 2e499599-e069-480e-8eff-7f841c2606f7
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=7uOScAlAOeVsN2xXIuAlT7AvBpNry9ao47an01D4a9V20vctiAbqmgKA6D05lmvNspidlMfB6aX9cEMUgRu0VFu37QapCObcKFJ9k47EhM6aB5utHxa35Xm9gvMhsCw6g%2BnWfjMQSJs%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661d140c249067-FRA
+Alt-Svc: h3=":443"; ma=86400

@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 04:00:38 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 235
+X-Sorting-Hat-Shopid: 54934307052
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=180ede96-bfdd-4001-81b2-ac41399f02aa; path=/; expires=Tue, 16 Jan 2024 04:30:38 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 04:00:38 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 04:00:38 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 04:00:38 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=urbansunflowerboutique.com; path=/; expires=Wed, 17 Jan 2024 04:00:38 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=86c5323e-55e1-484f-8b34-367a8549d1a6; Expires=Wed, 15-Jan-25 04:00:38 GMT; Domain=urbansunflowerboutique.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=63ac2728-1229-405a-ab0f-e12ccea91136; Expires=Tue, 16-Jan-24 04:30:38 GMT; Domain=urbansunflowerboutique.com; Path=/; SameSite=Lax
+Etag: "cacheable:2371dc855af80461f797cb02803ec620"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 54934307052
+X-Shardid: 235
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=9, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="132697981164", servedBy;desc="89hb", requestID;desc="f97cb49b-7df0-49d6-bc76-b4e2b6e35255"
+Server-Timing: cfRequestDuration;dur=41.000128
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: f97cb49b-7df0-49d6-bc76-b4e2b6e35255
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=3FlaakVmJunTQfLFh6sLyGqxYCI2S4iz%2FNoJsSm%2B6fMOS3koHT6a3NPWj6QOytrCKUga7eP0XV8t8L3VefDintKhv9AS6lsNjftI9dpi02Kk1J31VVa0%2F5TMHZ0ST7e3D5NknApMYNG1Fg6c"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846373de3a211c79-FRA
+Alt-Svc: h3=":443"; ma=86400

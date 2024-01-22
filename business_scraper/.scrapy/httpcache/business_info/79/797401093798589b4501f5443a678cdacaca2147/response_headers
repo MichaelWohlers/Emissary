@@ -1,0 +1,19 @@
+Content-Length: 90
+Date: Tue, 16 Jan 2024 04:54:54 GMT
+Content-Type: text/plain; charset=utf-8
+Body-Hash: PwjP2Kl/T/e6aE5Pq8C3nrUnB9AhtdnLfHmAjVdi0uW0f6gJM9H1s8QkvVS68n4NhTUgU6uCUgqFlb9efEEYEw==
+Cache-Control: max-age=0, s-maxage=3600, must-revalidate
+Content-Encoding: gzip
+Etag: W/"J04O23o7M0JA6j6LVr8DdIwBPSGKLM7fbGQOb92pWQIZwOHolOm6l4enOdlbhoHzoy1xXNIphesLeaMnTR3N8g=="
+Last-Modified: Wed, 06 Dec 2023 22:42:13 GMT
+Owner: 
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Vary: Accept-Encoding
+X-Yext-Serving-Tags: static_file
+X-Yext-Site: us2
+Cf-Cache-Status: REVALIDATED
+Accept-Ranges: bytes
+Set-Cookie: __cf_bm=oXwq2S4.eiXTSlYxCXbV.UEwaBQGxgTuUsErEL4PCL8-1705380894-1-ARdkzrxmqS/c5qG5Ezg4H55toDQRm3TVFwOTZHt9+UeVMxBcV0Aa2cb9BT2HvblaijNUMaHBxnBUpXHO0ezoHyQ=; path=/; expires=Tue, 16-Jan-24 05:24:54 GMT; domain=.stores.lanebryant.com; HttpOnly; Secure; SameSite=None
+Server: cloudflare
+Cf-Ray: 8463c35dd9396997-FRA
+Alt-Svc: h3=":443"; ma=86400

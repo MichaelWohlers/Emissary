@@ -1,0 +1,42 @@
+Date: Tue, 16 Jan 2024 11:51:28 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 289
+X-Sorting-Hat-Shopid: 75854971170
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=a394b4ff-1f98-43d4-9d12-4e991baad5fe; path=/; expires=Tue, 16 Jan 2024 12:21:28 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:51:28 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:51:28 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:51:28 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=sixmn.com; path=/; expires=Wed, 17 Jan 2024 11:51:28 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=2d6d7c65-654f-4a22-b38e-ab743c4cccb5; Expires=Wed, 15-Jan-25 11:51:28 GMT; Domain=sixmn.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=9d9cd623-194d-4d23-8cd1-03c6bb63fbbe; Expires=Tue, 16-Jan-24 12:21:28 GMT; Domain=sixmn.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=https%3A%2F%2Fsixmn.com%2F; Expires=Tue, 30-Jan-24 11:51:28 GMT; Domain=sixmn.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2Fpages%2Fcontact; Expires=Tue, 30-Jan-24 11:51:28 GMT; Domain=sixmn.com; Path=/; HttpOnly; SameSite=Lax
+Etag: "cacheable:14d0afce46ed19f253a0ce6de0755e0c"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin, <//sixmn.com/cdn/shop/t/2/assets/theme.css?v=34507117787666371131696625782>; as="style"; rel="preload"
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Access-Control-Allow-Origin: *
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 75854971170
+X-Shardid: 289
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=10, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="149549515042", pageType;desc="page", servedBy;desc="dngn", requestID;desc="0fdc2587-46f0-44b9-b1ff-b234a22c7724"
+Server-Timing: cfRequestDuration;dur=65.000057
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 0fdc2587-46f0-44b9-b1ff-b234a22c7724
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=ctttAO6xU%2FnnfhD%2BWVoAELD0DMTGPJ9ohKqHLXTuMgsW%2FjabtOxeDEoNFZL9cz6O4TuuQlf6T6VjHeq42xfMiKrsVQcYmeM3gjEBMtJNmf%2F9iDbtKS8ijmH5wQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84662593f8831cc3-FRA
+Alt-Svc: h3=":443"; ma=86400

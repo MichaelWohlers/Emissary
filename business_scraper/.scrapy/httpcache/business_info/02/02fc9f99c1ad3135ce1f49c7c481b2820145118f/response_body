@@ -1,0 +1,270 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head id="Head1"><meta charset="utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="viewport" content="width=device-width, initial-scale=1" /><title>
+	It's Fashion-It's Fashion Metro: Home
+</title>
+
+    <!-- Bootstrap -->
+
+	<link rel="stylesheet" type="text/css" href="css/main.css" /><link rel="stylesheet" type="text/css" href="css/bootstrap.css" /><link rel="stylesheet" type="text/css" href="css/bootstrap-theme.min.css" /><link rel="stylesheet" type="text/css" href="css/responsivemobilemenu.css" />
+   
+
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+
+	<!--<script type="text/javascript" src="js/responsivemobilemenu.js"></script>-->
+
+    
+
+
+    <style>
+         
+        .navbar-collapse.collapse {
+            text-align: center;
+        }
+
+        .navbar-nav {
+            display:inline-block;
+            float: none;
+            margin: 0;
+        }
+ 
+        .navbar-nav > li
+        {
+            padding-left: 10px;
+            padding-right: 10px;
+        }
+
+        .navbar-default .navbar-nav > li > a
+        {
+                        font-family: "DaxOT",Arial;
+            color: #000000;
+            font-weight:bold;
+        }
+
+        /*.navbar-default .navbar-toggle .icon-bar
+        {
+            background-color: #000000;
+        }*/
+@media screen and (max-width: 600px) {
+  div.hiringfull {
+    display: none;
+  }
+   div.h2hiringfull {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 601px) {
+  div.hiringmobile {
+    display: none;
+  }
+   div.h2hiringmobile {
+    display: none;
+  }
+}
+
+    </style>
+
+    <script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+
+    <script type="text/javascript">
+        try {
+            var pageTracker = _gat._getTracker("UA-4810439-2");
+            pageTracker._trackPageview();
+        } catch (err) { }</script>
+</head>
+<body id="BodyTag">
+    <form method="post" action="./" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNTg1NTc4Nzg2ZGR44FDaErUNVeXqc3CcwsxZzvMph0jMehUvDn8K5AoJTg==" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=72EmGnnPReG5PhDDqscjTgySZUKI4tJ_fcdTB6brHmj65HzBpdcpaL61tTqgvgK_4KvRIjZRxM_cDWEBLbqvg3RuDr5eMHeM0fq5TyQj9rU1&amp;t=637729440413207958" type="text/javascript"></script>
+
+
+<script src="/ScriptResource.axd?d=CxHeW5ltHTUxrC6-tT3esogVX6o-Szo6Jxir-Bt0xeQ8rx5RJxb3gAQHqtue2YmIfVQqdV9I9CJj54oBy13iMzMESFWUksvXe7XCBRphA55km7BXF3N9xMm2PbmWkQ6j_tiuha5myKdBBhGQNuae4BeLmhxWlRgWBrzwXDUjKlDM1B6mIWvV4_gSRQTLHXHm0&amp;t=ffffffffd202a464" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<script src="/ScriptResource.axd?d=GpWH9X9myXPlfo_CO0OGmKyiFmiqsdKA_8zpdf2NOeY-6nqrn8nFIBNB7f2Q0SSxdq9ZIteTuukP1KOS0ISNBFsCSWYEoQDG6cqz8hxrv9tJfbY5ewp2bNRLsn14r52hvA_zuKtddM60hQDTW24eUtxiOOTSY-ZSz2e1yzRpf_5n7gj5GlFgOfVN5Qf4FvIr0&amp;t=ffffffffd202a464" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="90059987" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAOHeVkDZl3F1tPC5lE4K8JGDP/+zBZb0GKOPwvrpUtTxTVGlLIqqPbjJXpZYHoh2ihZFXQSXO4dqwVc1piIl1vtvIA6G3d4x4R1w4VKBQ623A==" />
+</div>
+        <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'form1', [], [], [], 90, 'ctl00');
+//]]>
+</script>
+
+    <div class="bs-docs-nav"><!--top nav -->
+    	<div class="container">
+        	<div class="topNav">
+            	<ul>
+                	<li><p class="social_top_text">CONNECT WITH US:</p></li>
+                    <li><a href="https://www.facebook.com/ItsFashionMetro"><img src="images/fb.jpg" alt="facebook"></a></li>
+                    <li><a href="http://instagram.com/itsfashionstores"><img src="images/insta.jpg" alt="social"></a></li>
+                    <li><a href="http://twitter.com/itsfashionmetro"><img src="images/twitter.jpg" alt="twitter"></a></li>
+                </ul>
+            </div>
+        </div>
+    </div><!--top nav close -->
+    
+    <header>
+    	<div class="container">
+        	<div class=" navbar-brand navbar-brand_"><a href="https://www.itsfashions.com"><img src="images/logo_v2.png" alt="itsfashion logo"></a></div>
+        </div>
+    </header>
+    
+    <div class="navbar navbar-default">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse" title="navbar-menu">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+        </div>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav navbar-center">
+            <li><a href='https://stores.itsfashions.com/search'>STORE LOCATOR</a></li>
+			<li><a href='trend.aspx'>TRENDS</a></li>
+			<li><a href='about.aspx'>ABOUT US</a></li>
+			<li><a href='jobs.aspx'>JOBS</a></li>
+			<li><a href='email_signup.aspx'>EMAIL SIGN UP</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    
+    <div class="container">
+        <div class="banner">
+  <a href="/nowhiring.aspx"><img class="img-responsive" src="images/010224-NowHiring.jpg" width="1140" height="510"></a>
+            <a href="trend.aspx#/1"><img class="img-responsive" src="images/010224_homepage_banner.jpg" width="1140" height="510" alt="Banner image"></a></div>
+    </div>
+
+    <div class="container">
+        <div class="submitDiv">            
+            <div style="margin-top: 5px; text-align: center;">
+                <label class="a" for="ContentPlaceHolder1_TextBoxEmail">Sign up to receive our email updates.</label>
+                <div class="b">
+                    <input name="ctl00$ContentPlaceHolder1$TextBoxEmail" type="text" id="ContentPlaceHolder1_TextBoxEmail" aria-label="txtsignup" />
+                </div>
+                <div class="c">
+                    <a id="ContentPlaceHolder1_LinkButtonSubmit" class="sbmt" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$LinkButtonSubmit&#39;,&#39;&#39;)">Submit</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="row">
+            <div class="list3">
+                <a href="trend.aspx" title="What's Hot">
+                    <img class="img-responsive" src="images/010224_HP_WhatsHot.jpg" width="557" height="291" alt="What's Hot">
+                    <h1 class="whats_hot_title">WHAT'S HOT</h1>
+                </a>
+                <p class="whats_hot_text">Denim Details.</p>
+            </div>
+
+            <div class="list3">
+                <a href="https://stores.itsfashions.com/search" target="_blank" title="Store Locations">
+                    <img class="img-responsive" src="images/010224_HP_StoreLocator.jpg" width="557" height="291" alt="Store Locations">
+                    <h2 class="store_locator_title">STORE LOCATIONS</h2>
+                </a>
+                <p class="store_locator_text">
+                    FIND YOUR LOCAL IT'S FASHION OR IT'S FASHION METRO STORE
+                </p>
+            </div>
+        </div>
+    </div>
+
+
+
+   
+   <div class="container">
+   		<div class="navSec2">
+			<ul>
+            	<li><a href="https://itsfashions.com/">HOME</a></li>
+                <li><a href="https://www.catofashions.com/info/investor-relations">INVESTORS</a></li>
+                <li><a href="https://www.catovendors.com/">VENDORS</a></li>
+                <li><a href="https://www.itsfashions.com/files/realestate.pdf">REAL ESTATE</a></li>
+                <li><a href="faq.aspx">FAQS</a></li>
+                <li><a href="contactus.aspx">CONTACT US</a></li>
+				 <li><a href="accessibility.aspx">ACCESSIBILITY</a></li>
+				  <li><a href="privacy.aspx">PRIVACY POLICY</a></li>
+            </ul>
+        </div>
+   </div>
+        
+    <footer>
+       <div class="container center">
+            <div class="connect">			
+            	<ul>
+                	<li class="social_btm_text">CONNECT WITH US:</li>                    
+                    <li><a href="https://www.facebook.com/ItsFashionMetro"><img src="images/face-book.png" alt="facebook"></a></li>
+                    <li><a href="http://instagram.com/itsfashionstores"><img src="images/instagram.png" alt="social"></a></li>
+                    <li><a href="http://twitter.com/itsfashionmetro"><img src="images/twitter-img.png" alt="twitter"></a></li>                    					
+                </ul>               
+            </div>
+           <div style="float:right;" class="adobe">		    
+               <p class="adobe">
+               <a href="https://get.adobe.com/reader/">
+                 <img src="/images/adobereadericon.jpg" style="width: 125px;" alt="Download Adobe Reader"></a>
+                   </p>
+           </div>
+            <div class="cato_footer_bkgnd">
+                <p class="cato_copyright">
+                    It's Fashion is a division of the Cato Corporation • Copyright ©2023 The Cato Corporation. 
+            All rights reserved.<br />
+                    <span><a href="https://catofashions.com" class="cato_url">catofashions.com</a></span>
+                </p>
+                <p>
+                    <a href="sitemap.aspx">Sitemap</a>
+                </p>
+            </div>
+       </div>
+   </footer>
+    </form>
+
+</body>
+</html>

@@ -1,0 +1,29 @@
+Date: Tue, 16 Jan 2024 11:35:33 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 287
+X-Sorting-Hat-Shopid: 10771103806
+X-Storefront-Renderer-Rendered: 1
+Location: https://thatprettyboutique.com/
+X-Redirect-Reason: canonical_host_redirection
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 10771103806
+X-Shardid: 287
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=6, db;dur=2, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="jww9", requestID;desc="b883d2e2-6170-4f99-9310-e34b74326a8e"
+Server-Timing: cfRequestDuration;dur=58.999777
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: b883d2e2-6170-4f99-9310-e34b74326a8e
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=oIqL3Kv0YqsKa%2B%2BxPkCYkXaWorN9xQNkKnEm8MVYJAf0Dh7O2aazu%2BxBo9MlsTzXm1pTx9N2o2M7Oq0kyxlIGeoQZLrXvbOZQC0P53JZpOUiw%2B%2B71H7BsCfAmuMC2LUWmg7%2B54QxcRHlatFT"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84660e4388601d90-FRA
+Alt-Svc: h3=":443"; ma=86400

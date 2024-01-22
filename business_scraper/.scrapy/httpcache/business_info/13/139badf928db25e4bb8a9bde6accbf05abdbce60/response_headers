@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:37:37 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 64
+X-Sorting-Hat-Shopid: 7502659
+X-Storefront-Renderer-Rendered: 1
+Location: https://mortonjamesboutique.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 7502659
+X-Shardid: 64
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=8, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="qv2n", requestID;desc="1bddbf9e-57bd-48a4-83bf-84cf62c3adbd"
+Server-Timing: cfRequestDuration;dur=36.999702
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 1bddbf9e-57bd-48a4-83bf-84cf62c3adbd
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=5s7DReo6P9qJW%2BlOnCgU1cd38zAAyqfKmoNrAGiAa%2BkY%2Fhp%2BUqgTgQ2jpqxv%2FXkaEm3VLtLFLMiyy1Sc5rTY3Yjc0G9bdALsYpd9RUI5M6z7HdaOMYGNRnyZcJUG0GsdkWs78E1ruWiN%2FsUgvA%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661146eb421d86-FRA
+Alt-Svc: h3=":443"; ma=86400

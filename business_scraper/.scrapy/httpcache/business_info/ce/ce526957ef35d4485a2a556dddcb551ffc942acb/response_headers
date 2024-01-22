@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 04:00:27 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 211
+X-Sorting-Hat-Shopid: 6727860282
+X-Storefront-Renderer-Rendered: 1
+Location: https://imaginethatboutique.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 6727860282
+X-Shardid: 211
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=13, db;dur=5, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="qzhl", requestID;desc="557f7875-c2d5-4666-be4c-e873f1a114de"
+Server-Timing: cfRequestDuration;dur=125.999928
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 557f7875-c2d5-4666-be4c-e873f1a114de
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=c4PzWbxKhlcIRxpcFaA8LTtp0wkPeY4Eqo%2BkLXyiNCnW2NAvODFCtBYbNTyIAoATKMP%2BWXT%2FVmFGSUbTxg%2BhiRelDKo8LcLNHJBrjbmmRYcl%2FD3KiTILqWah6pKpDVPIfLZWxubxmzItt%2BcnBA%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8463739bf9ca3605-FRA
+Alt-Svc: h3=":443"; ma=86400

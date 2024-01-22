@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:51:50 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 290
+X-Sorting-Hat-Shopid: 66702868771
+X-Storefront-Renderer-Rendered: 1
+Location: https://keeperdoorco.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 66702868771
+X-Shardid: 290
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=7, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="z2pp", requestID;desc="06b1569a-cfa3-49b7-8f49-03160141381c"
+Server-Timing: cfRequestDuration;dur=32.000065
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 06b1569a-cfa3-49b7-8f49-03160141381c
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=9dwEucAmp3QBOJlnLAH5ZK73nC8hi1b%2FmQygqxCAhlCvQvJn5PpDt0hEclGxeclOp31eWyJabbtrHwRubFD2IxSaf3%2BqdewAvyXhxSb0zzbzsKWTarGf%2F7yAPbWeU%2BtdK5LARwoa"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8466261c5f5f929b-FRA
+Alt-Svc: h3=":443"; ma=86400

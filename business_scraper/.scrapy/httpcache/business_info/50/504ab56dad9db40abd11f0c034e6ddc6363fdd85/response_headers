@@ -1,0 +1,18 @@
+Content-Length: 245
+Content-Type: text/html; charset=iso-8859-1
+Server: Apache
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST, GET, OPTIONS, DELETE, PUT
+Access-Control-Max-Age: 1000
+Access-Control-Allow-Headers: x-requested-with, Content-Type, origin, authorization, accept, client-security-token, Accept-Encoding
+Location: http://shopjustpeachyco.com/index.php
+Via: 1.1 varnish, 1.1 varnish
+X-Cacheable: YES
+Accept-Ranges: bytes
+Date: Tue, 16 Jan 2024 11:55:48 GMT
+Age: 7
+X-Served-By: cache-chi-kigq8000173-CHI, cache-muc13936-MUC
+X-Cache: MISS, HIT
+X-Cache-Hits: 0, 1
+X-Timer: S1705406149.699718,VS0,VE1
+Strict-Transport-Security: max-age=900

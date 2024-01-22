@@ -1,0 +1,17 @@
+Date: Tue, 16 Jan 2024 11:51:21 GMT
+Content-Type: text/html
+X-Sorting-Hat-Podid: 148
+X-Sorting-Hat-Shopid: 54945677461
+X-Dc: gcp-europe-west3
+X-Request-Id: 8aaff33c-96ac-41bf-8d02-c53ffd8cb7f8
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=YjCq%2FQ%2FuqwTOsGZBQmtmVwTYH4d4%2FoFhn7xBHfa5Wcz3J8Vv9S%2Bff%2F9QRGYsH5USMw9YvvLtIWHpoLBw8LEaObv0ViGh5jiTAv0LNOr0IlHAmcSrJM6SSzV8yedJoeBG%2BzhRBiEwBovL5kTPNHOLu1lnM9egRaPYUp318StVEw%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server-Timing: cfRequestDuration;dur=15.999794
+Server: cloudflare
+Cf-Ray: 84662567996271b8-FRA
+Alt-Svc: h3=":443"; ma=86400

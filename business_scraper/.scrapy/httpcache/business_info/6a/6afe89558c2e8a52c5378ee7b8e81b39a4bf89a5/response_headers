@@ -1,0 +1,10 @@
+Content-Length: 0
+Date: Tue, 16 Jan 2024 11:48:48 GMT
+Location: https://www.sweetpotatosboutique.com/
+Strict-Transport-Security: max-age=3600
+X-Wix-Request-Id: 1705405728.09227380278127907
+Age: 0
+Server-Timing: cache;desc=miss, varnish;desc=miss, dc;desc=84
+X-Seen-By: GilIRCy+Ky2nI9KZaDKzWLxkNjrXdwdgtu6E0yACibU=,m0j2EEknGIVUW/liY8BLLm+RUUxFrhyTYE58WvxHjklsl0ueLMGCVziLUYuJmnC9,2d58ifebGbosy5xc+FRalhtVG6P4fsePe5cH+9K4Yml7jgZY4+qQlrr6A4JeDQaqbhrjxXPiLtS4uMApEJp5OQ==,2UNV7KOq4oGjA5+PKsX47MFl+aAq3kv1KMK28mCi9t28ZDY613cHYLbuhNMgAom1,Sa95Q4GZdWNQrQ55uraJG44XQ2PzbNmZQioQxLEiv1M=,eS7SILVRFxJ4+pcIpSHilFNVt8BOtr84Qkcs/MDJVA4=,2jmwVdffH1Py+LoakQW9ndjzNG8tb3MB0XgLAhAxpXGYuJJXDEneF63LWzOnWxIxwNbZlaTSHwwWvyoh35Z/zg==
+Cache-Control: no-cache
+X-Content-Type-Options: nosniff

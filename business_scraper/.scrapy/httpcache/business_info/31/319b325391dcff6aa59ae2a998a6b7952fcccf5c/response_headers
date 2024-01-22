@@ -1,0 +1,15 @@
+Content-Length: 265
+Content-Type: text/plain; charset=utf-8
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Referencenumber: 24-0116-0345-58-13836
+Content-Security-Policy: default-src *  data: blob: filesystem: about: ws: wss: 'unsafe-inline' 'unsafe-eval'; script-src * data: blob: 'unsafe-inline' 'unsafe-eval'; connect-src * data: blob: 'unsafe-inline'; img-src * data: blob: 'unsafe-inline'; frame-src * data: blob: ; style-src * data: blob: 'unsafe-inline'; font-src * data: blob: 'unsafe-inline';
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Ua-Compatible: IE=EDGE
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Serverid: PartyPlanCAWebServer - 06
+Date: Tue, 16 Jan 2024 11:45:58 GMT
+Set-Cookie: MYTHIRTYONE=1551991050.20480.0000; path=/; Httponly; Secure; SameSite=None
+Set-Cookie: TS013eb41f=01967bd19eac1be8e14e79b0c0778071fc7b9161e96ffeb57270922d587af2ea1b0f0b463fdbb18b878afc4112aa9ebf690f3638e3; Path=/

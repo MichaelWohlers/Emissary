@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:33:33 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 86
+X-Sorting-Hat-Shopid: 9516606
+X-Storefront-Renderer-Rendered: 1
+Location: https://tyalexanders.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 9516606
+X-Shardid: 86
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=10, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="h7h8", requestID;desc="23821824-4cef-4a28-a0fc-7ab5e44701fd"
+Server-Timing: cfRequestDuration;dur=42.000055
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 23821824-4cef-4a28-a0fc-7ab5e44701fd
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=OZVm2XAtyfzhLQ2my7FL9x4E49iTU%2FdczatuXDnAh%2FT0LvNmsfzWpUCkv%2B3u9mchEdkJm2IkK%2Fizii%2BiT3n%2Fz4E3upv1am78anxijPdT5BS16VZ6MFgEdm6VoeCl1FHdNphwfkVi"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84660b52eb066967-FRA
+Alt-Svc: h3=":443"; ma=86400

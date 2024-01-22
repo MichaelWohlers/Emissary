@@ -1,0 +1,22 @@
+Content-Length: 328
+Date: Tue, 16 Jan 2024 11:48:35 GMT
+Server: Apache2
+X-Frame-Options: allowall
+X-Xss-Protection: 0
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Permitted-Cross-Domain-Policies: none
+Referrer-Policy: strict-origin-when-cross-origin
+X-Utype: 0
+Strict-Transport-Security: max-age=63072000
+Content-Type: text/plain; charset=utf-8
+X-Sid: 36c57c4a18318411e36d2f7b7be65aab
+Etag: W/"a01dec345fc74bf564863fd4fa6a8927-gzip"
+Cache-Control: max-age=0, private, must-revalidate
+Unique-Request-Id: P-R.238-0-6_2-1705405715.157
+X-Request-Id: ZaZtE363_ZPE7vQhqy7ggQAAADM
+X-Runtime: 0.016293
+Set-Cookie: c_rt_ppr=R.238; path=/; SameSite=Lax
+Set-Cookie: _pc_session_id=36c57c4a18318411e36d2f7b7be65aab; path=/; secure; SameSite=None
+Vary: Accept-Encoding
+Content-Encoding: gzip

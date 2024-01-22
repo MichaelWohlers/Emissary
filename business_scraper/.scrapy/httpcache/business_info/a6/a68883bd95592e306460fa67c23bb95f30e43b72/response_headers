@@ -1,0 +1,38 @@
+Date: Tue, 16 Jan 2024 11:50:08 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 238
+X-Sorting-Hat-Shopid: 19362938980
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=cb1a7279-2d8b-4b5c-94d2-d78d732c6e5c; path=/; expires=Tue, 16 Jan 2024 12:20:08 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:50:08 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:50:08 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:50:08 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Afalse%2C%22a%22%3Afalse%2C%22m%22%3Afalse%2C%22t%22%3Afalse%7D%2C%22display_banner%22%3Atrue%2C%22sale_of_data_region%22%3Afalse%7D; domain=shopadelinesclosetboutique.com; path=/; expires=Wed, 17 Jan 2024 11:50:08 GMT; SameSite=Lax
+Set-Cookie: _tracking_consent=%7B%22region%22%3A%22DERP%22%2C%22reg%22%3A%22GDPR%22%2C%22con%22%3A%7B%22CMP%22%3A%7B%22s%22%3A%22%22%2C%22m%22%3A%22%22%2C%22a%22%3A%22%22%2C%22p%22%3A%22%22%7D%7D%2C%22lim%22%3A%5B%22GDPR_BLOCK_ALL%22%5D%2C%22v%22%3A%222.1%22%7D; Expires=Wed, 15-Jan-25 11:50:08 GMT; Domain=shopadelinesclosetboutique.com; Path=/; SameSite=Lax
+Etag: "cacheable:47f65f5c07fff916c978ed8f3cf193d6"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 19362938980
+X-Shardid: 238
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=15, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="118914318520", pageType;desc="index", servedBy;desc="drmd", requestID;desc="d4fc4b23-96dc-44a6-b9f9-16ef05cb7cd1"
+Server-Timing: cfRequestDuration;dur=49.999952
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: d4fc4b23-96dc-44a6-b9f9-16ef05cb7cd1
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=1175YhcKhhyn3wxmvxbWdz%2Fu33KXG%2FpxI%2F%2F1bT%2Fd9G%2FZM3bwayLcdH3eikYYcD4ILRFHgxQ%2BoYsOK8n5RuF7fdQBsNHoogsOy3YM%2BMllbU7AmHCSEmt3qcSd%2BJCWEwVZ0TU48vbZwgXHhS5QTXRwIQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8466239c9a464dc7-FRA
+Alt-Svc: h3=":443"; ma=86400

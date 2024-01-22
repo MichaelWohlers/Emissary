@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:42:10 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 190
+X-Sorting-Hat-Shopid: 15725756470
+X-Storefront-Renderer-Rendered: 1
+Location: https://abejareinaboutique.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 15725756470
+X-Shardid: 190
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=7, db;dur=2, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="bjmm", requestID;desc="c9c252b9-2875-42b3-a275-aa848fc69de8"
+Server-Timing: cfRequestDuration;dur=62.999964
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west4,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: c9c252b9-2875-42b3-a275-aa848fc69de8
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=0vzGriUj5FzAKQgYf3e8QmW648qgatUCjuqX%2BAxDaDzBmlC2HFAZ3%2BMXFS2GB3VuFT405zDQsE9BvYXCTOmBcEGH6Ac2j0I3H%2FBBN95TV9AYQ3UK4nZ2KDdPBoenWnW5xFGlHxOzDBosLsUD"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846617f15d5a8ff4-FRA
+Alt-Svc: h3=":443"; ma=86400

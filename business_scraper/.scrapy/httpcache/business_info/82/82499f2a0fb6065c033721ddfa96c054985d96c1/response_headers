@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:20:30 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 296
+X-Sorting-Hat-Shopid: 8825822
+X-Storefront-Renderer-Rendered: 1
+Location: https://loulouboutiques.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 8825822
+X-Shardid: 296
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=6, db;dur=2, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="wt4r", requestID;desc="02cdf7c9-0b9d-425b-8dce-68c9c54227b1"
+Server-Timing: cfRequestDuration;dur=73.999882
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 02cdf7c9-0b9d-425b-8dce-68c9c54227b1
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=y6whupvk3GNJ4%2F0sU%2BdaSBQ%2FzU2oHpGVJG7l2N1a1jrMh9PuclBzkHQr%2FMw2OMuQPJK1d1zasulCqvAHpjGqUmYDmxPltp%2BS4nO%2FNRYzgOt%2FlIY6iCgRPxq9tvV1kxzgQGffoBQ%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8465f83849ea3719-FRA
+Alt-Svc: h3=":443"; ma=86400

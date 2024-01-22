@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:34:00 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 214
+X-Sorting-Hat-Shopid: 67657760983
+X-Storefront-Renderer-Rendered: 1
+Location: https://yogalisports.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 67657760983
+X-Shardid: 214
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=6, db;dur=2, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="dx6r", requestID;desc="72545008-7488-43c0-8c03-33d178723618"
+Server-Timing: cfRequestDuration;dur=39.999962
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 72545008-7488-43c0-8c03-33d178723618
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=hsvxkt76CtZKnuum5Rp9YGi4l8A3Bs0aRiKyP0IT2WvVKMHEGYYNjvpHsWv8vF%2BmUTosxh6Rpv%2FodOQmk2In6HzThvDh3OUB2omr3XFj0wMB60FGTUwbF13NruqcEvpFVITjU%2BVE"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84660bfecb33923d-FRA
+Alt-Svc: h3=":443"; ma=86400

@@ -1,0 +1,41 @@
+Date: Tue, 16 Jan 2024 03:59:47 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 289
+X-Sorting-Hat-Shopid: 53056372916
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=02d17b66-23a2-4275-bb9f-774e3b136b9c; path=/; expires=Tue, 16 Jan 2024 04:29:47 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 03:59:47 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 03:59:47 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 03:59:47 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=modontrend.com; path=/; expires=Wed, 17 Jan 2024 03:59:47 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=aa7c2637-b0dd-4bcd-8b02-fbb9e3992478; Expires=Wed, 15-Jan-25 03:59:47 GMT; Domain=modontrend.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=051f7d80-1f51-402d-aea4-e431263b781b; Expires=Tue, 16-Jan-24 04:29:47 GMT; Domain=modontrend.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 03:59:47 GMT; Domain=modontrend.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2F; Expires=Tue, 30-Jan-24 03:59:47 GMT; Domain=modontrend.com; Path=/; HttpOnly; SameSite=Lax
+Etag: "cacheable:57e74d035612b4eb9c909b4566cc18e8"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 53056372916
+X-Shardid: 289
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=12, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="121044762804", pageType;desc="index", servedBy;desc="vgvq", requestID;desc="097b8609-f1bf-491e-807f-90e773765769"
+Server-Timing: cfRequestDuration;dur=48.000097
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 097b8609-f1bf-491e-807f-90e773765769
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=tgsxD3aL7Y88CX%2FRw7SmzrXnxEcvq6ptQKSjYPzE4u8BZITNwLif2kZ%2FtZJd4ibl4BPSUFKEyXfxZRY1RuC7iHCKb0DM76som5Y5932KKpF5WQvamnQ470c7KodbQyjL"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8463729feeda30e2-FRA
+Alt-Svc: h3=":443"; ma=86400

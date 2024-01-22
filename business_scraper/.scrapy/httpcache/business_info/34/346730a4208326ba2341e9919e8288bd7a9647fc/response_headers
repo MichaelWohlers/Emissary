@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 07:01:21 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 321
+X-Sorting-Hat-Shopid: 16089613
+X-Storefront-Renderer-Rendered: 1
+Location: https://sassyantlerboutique.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 16089613
+X-Shardid: 321
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=12, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="zqhd", requestID;desc="62a76837-6815-4427-9996-a038d0702099"
+Server-Timing: cfRequestDuration;dur=45.000076
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 62a76837-6815-4427-9996-a038d0702099
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=dgAERdwLvqwD5lH8ADwu0ltrIWg01ZAPGIYErCKAeycRSm%2FztkDBoxzcobQPqxIOaWI5mR1Cg3ejJIChmWphr3boZd8nWsfk%2FSOC950qGGP7RA%2FoTlkQ0AmX7ITwduVXg0pSDSTDTsn%2BpOa1tw%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84647c965871914c-FRA
+Alt-Svc: h3=":443"; ma=86400

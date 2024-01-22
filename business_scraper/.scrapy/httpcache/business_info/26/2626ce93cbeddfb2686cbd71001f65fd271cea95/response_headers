@@ -1,0 +1,38 @@
+Date: Tue, 16 Jan 2024 11:37:50 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 78
+X-Sorting-Hat-Shopid: 25924304975
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=a15a609b-2716-4a61-a925-0a7fe258084a; path=/; expires=Tue, 16 Jan 2024 12:07:50 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:37:50 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:37:50 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:37:50 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Afalse%2C%22a%22%3Afalse%2C%22m%22%3Afalse%2C%22t%22%3Afalse%7D%2C%22display_banner%22%3Atrue%2C%22sale_of_data_region%22%3Afalse%7D; domain=darlingbirdco.com; path=/; expires=Wed, 17 Jan 2024 11:37:50 GMT; SameSite=Lax
+Set-Cookie: _tracking_consent=%7B%22region%22%3A%22DERP%22%2C%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.1%22%2C%22con%22%3A%7B%22CMP%22%3A%7B%22p%22%3A%22%22%2C%22s%22%3A%22%22%2C%22m%22%3A%22%22%2C%22a%22%3A%22%22%7D%7D%2C%22lim%22%3A%5B%22CCPA%22%2C%22GDPR_BLOCK_ALL%22%5D%7D; Expires=Wed, 15-Jan-25 11:37:50 GMT; Domain=darlingbirdco.com; Path=/; SameSite=Lax
+Etag: "cacheable:9815428e8dc3af33dc893d5489f81da2"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 25924304975
+X-Shardid: 78
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=11, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="74940612687", pageType;desc="index", servedBy;desc="zxnk", requestID;desc="19860660-40e8-4355-be20-59c39eb3b71a"
+Server-Timing: cfRequestDuration;dur=42.999744
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 19860660-40e8-4355-be20-59c39eb3b71a
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=dHZbCoYBV7h9eZ4Ze2I4ctz0dVM%2FALTDmpxCBDx5VCQNRH15ujXkVof3M52sDvINlV669h7KCniSPnmvppMWqyweU4RPHlPtitbMBpXt2eM3O9I6Vi7op%2FdEd7J0VHNmggON"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8466119a7a871c9d-FRA
+Alt-Svc: h3=":443"; ma=86400

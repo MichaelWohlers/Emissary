@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:54:22 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 255
+X-Sorting-Hat-Shopid: 1893269569
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=81df7275-47a0-4ab4-954a-c9ca22bf6a8e; path=/; expires=Tue, 16 Jan 2024 12:24:22 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:54:22 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:54:22 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:54:22 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=ivyharborsprings.com; path=/; expires=Wed, 17 Jan 2024 11:54:22 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=0e34f32d-70b4-4d8b-89ba-655ee877cee5; Expires=Wed, 15-Jan-25 11:54:22 GMT; Domain=ivyharborsprings.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=21307767-18d1-484f-9918-6ffd5bd1ef4a; Expires=Tue, 16-Jan-24 12:24:22 GMT; Domain=ivyharborsprings.com; Path=/; SameSite=Lax
+Etag: "cacheable:4fd4095785a713f9440a5c692d4b0e49"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 1893269569
+X-Shardid: 255
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=10, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="135236878592", servedBy;desc="qv2n", requestID;desc="15504299-d42d-469c-be58-a0a119c948df"
+Server-Timing: cfRequestDuration;dur=39.999962
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 15504299-d42d-469c-be58-a0a119c948df
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=S6eBxLvC7WDIEzZfLu2efHv5hHHfvvop0JZ3wzUMKRUlbMzF1vPAZ9v7F3SAhgIICpOhsqRORgNuaSbFoVFwSNN%2B6Kbo9FFKpLzuwSA26ygcI5XeEsaCscQ9h8HnsS2DWnCh6UCB"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846629d2ba4f2bc7-FRA
+Alt-Svc: h3=":443"; ma=86400

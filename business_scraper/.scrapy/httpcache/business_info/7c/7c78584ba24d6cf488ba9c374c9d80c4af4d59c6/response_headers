@@ -1,0 +1,27 @@
+Date: Tue, 16 Jan 2024 11:57:06 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 88
+X-Sorting-Hat-Shopid: 20671169
+X-Storefront-Renderer-Rendered: 1
+Location: https://shopthelw.com/
+X-Redirect-Reason: https_required
+Content-Security-Policy: frame-ancestors *;
+X-Shopid: 20671169
+X-Shardid: 88
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=6, db;dur=2, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="bjmm", requestID;desc="b7aa1078-198c-4dcd-985b-2c89a7b48a7f"
+Server-Timing: cfRequestDuration;dur=36.999941
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: b7aa1078-198c-4dcd-985b-2c89a7b48a7f
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=ZwnDEsmW2WJcK5Ru2aEMcAuJKuZJPb1YjTMOUeS9EWWQY1PQZWfAwZ2Pz%2BfAxE6hzCi%2F8DOZJdrJr05Nchs8a1Vi8WqJ4FVMPaGjUsnWxRXj832F%2BuIWeszAwIaa%2BEU%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84662dd20b132c6b-FRA
+Alt-Svc: h3=":443"; ma=86400

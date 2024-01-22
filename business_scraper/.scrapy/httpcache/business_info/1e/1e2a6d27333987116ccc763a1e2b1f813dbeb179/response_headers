@@ -1,0 +1,29 @@
+Date: Tue, 16 Jan 2024 11:44:29 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 211
+X-Sorting-Hat-Shopid: 51503661210
+X-Storefront-Renderer-Rendered: 1
+Location: https://stylehouse.boutique/robots.txt
+X-Redirect-Reason: canonical_host_redirection
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 51503661210
+X-Shardid: 211
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=8, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="qr7c", requestID;desc="ee9ca412-4a16-4a8c-95e7-0e7a4037e871"
+Server-Timing: cfRequestDuration;dur=110.000134
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: ee9ca412-4a16-4a8c-95e7-0e7a4037e871
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=WyKho9NTrhiJE%2BuoufUoj7nHQd9vsIySLVytDYbUyJkSr7ewHpjZ7Rk3zl2aByVMGkPXvmFbOg%2FgY8Ayd1nS1GHfKEN%2BRzDcderbVV7Oqzi%2FFKyzjoAXZ9wC0TMWNFCD%2FBj%2F%2BhH0lE88"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661b573f5b1c40-FRA
+Alt-Svc: h3=":443"; ma=86400

@@ -1,0 +1,29 @@
+Date: Tue, 16 Jan 2024 11:44:15 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 195
+X-Sorting-Hat-Shopid: 27457650786
+X-Storefront-Renderer-Rendered: 1
+Location: https://thedressshop.com/
+X-Redirect-Reason: canonical_host_redirection
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 27457650786
+X-Shardid: 195
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=7, db;dur=2, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="86jk", requestID;desc="3fca0a87-ef0a-43e1-80ec-8c41c5182886"
+Server-Timing: cfRequestDuration;dur=36.999941
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 3fca0a87-ef0a-43e1-80ec-8c41c5182886
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=J4N1cfNPbjTQWXhQdMF7O5aH0QQkzUlZzQT3EnCSPR%2BMb0geEz6xnOoZERgzHJlaUQcSqsyJgZGJYqOzLP6MC4b4qaPX6vQYHJpS6T0sCDDuaGWCUAQjH7uNhAqhdoorLSoGGF8F"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661b01ab342c77-FRA
+Alt-Svc: h3=":443"; ma=86400

@@ -1,0 +1,26 @@
+Date: Tue, 16 Jan 2024 11:48:57 GMT
+Content-Type: text/html;charset=utf-8
+P3P: CP="ALL PUR DSP CUR ADMi DEVi CONi OUR COR IND"
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Ua-Compatible: IE=Edge,chrome=1
+X-Xss-Protection: 1; mode=block
+Set-Cookie: session_id=dd8164341b55ce017909be567c773bac; expires=Tue, 16-Jan-2024 12:18:52 GMT; Max-Age=1795; path=/; secure; HttpOnly; SameSite=none
+Set-Cookie: COOKIELAW=optin; expires=Thu, 16-Jan-2025 11:48:57 GMT; Max-Age=31622400; path=/; secure; SameSite=none
+Set-Cookie: COOKIELAW_SOCIAL=1; expires=Thu, 16-Jan-2025 11:48:57 GMT; Max-Age=31622400; path=/; secure; SameSite=none
+Set-Cookie: COOKIELAW_STATS=1; expires=Thu, 16-Jan-2025 11:48:57 GMT; Max-Age=31622400; path=/; secure; SameSite=none
+Set-Cookie: COOKIELAW_ADS=1; expires=Thu, 16-Jan-2025 11:48:57 GMT; Max-Age=31622400; path=/; secure; SameSite=none
+Set-Cookie: __cf_bm=YWc1dkoZYacV5k0YkGldW2C7KSEjLPOYbheLOdpjcKU-1705405737-1-Adrx87DMgWCxkUZ51j78gt02jh/oPd0Q0/oRx3upLwaY5TPaxwwn29FubgQ4kg+V20XSusgVDlEpRR2CDx5fAr8=; path=/; expires=Tue, 16-Jan-24 12:18:57 GMT; domain=.www.tlccasuals.com; HttpOnly; Secure; SameSite=None
+X-Developer: Page: 52.8ms, Render: 2.4ms, Mem: 2,048kB, Cache: 0Q (0.0ms), DB: 11Q (35.0ms), Prop: 0Q (0.0ms)
+X-Runtime: 0.090254
+X-Shop-Id: 609918
+Cache-Control: no-cache
+Vary: Accept-Encoding
+X-Request-Id: 2547cfdcb20c8f66cb71cae86232dad2
+X-Envoy-Upstream-Service-Time: 96
+Cf-Cache-Status: DYNAMIC
+Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
+Server: cloudflare
+Cf-Ray: 846621e3097630cf-FRA
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400

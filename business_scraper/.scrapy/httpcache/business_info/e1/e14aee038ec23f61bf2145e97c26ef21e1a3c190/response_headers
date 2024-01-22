@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:41:01 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 283
+X-Sorting-Hat-Shopid: 2030633011
+X-Storefront-Renderer-Rendered: 1
+Location: https://shopcharleerose.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 2030633011
+X-Shardid: 283
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=12, db;dur=5, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="6blv", requestID;desc="02de02fd-4a9e-41da-9c83-93bebac997e0"
+Server-Timing: cfRequestDuration;dur=39.000034
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 02de02fd-4a9e-41da-9c83-93bebac997e0
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=4F0741f6tjQi9E6yk0EHlQsWRx5gN1OkJ0UmeKnFIrWPWUps%2BpwGWrTMUv5kliQG2TYtkeyurWS7bcw9D22y47CtI2B9h9N1CMr%2FYy1s%2Flrivnzbs4Nyh0VmpcUrE%2BUd%2F5W%2B0GhmSz1X"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661643982118e1-FRA
+Alt-Svc: h3=":443"; ma=86400

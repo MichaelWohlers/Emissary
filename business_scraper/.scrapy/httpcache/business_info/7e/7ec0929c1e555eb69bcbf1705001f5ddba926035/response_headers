@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:37:35 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 101
+X-Sorting-Hat-Shopid: 14632550454
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=d006358d-7271-4bd1-a26a-afb2f6f08a1c; path=/; expires=Tue, 16 Jan 2024 12:07:35 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:37:35 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 11:37:35 GMT; SameSite=Lax
+Set-Cookie: cart_currency=EUR; path=/; expires=Tue, 30 Jan 2024 11:37:35 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=albertcouture.com; path=/; expires=Wed, 17 Jan 2024 11:37:35 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=3ea7b3d7-47fa-4bb9-b034-1353f730c9db; Expires=Wed, 15-Jan-25 11:37:35 GMT; Domain=albertcouture.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=e656eb3d-041a-4e5e-9ddd-73cb96203cb1; Expires=Tue, 16-Jan-24 12:07:35 GMT; Domain=albertcouture.com; Path=/; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+Etag: "cacheable:cdf4185b8d839a4cd8d65c7954303db8"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 14632550454
+X-Shardid: 101
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=22, db;dur=8, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="46528135222", servedBy;desc="mdh4", requestID;desc="624ece97-8b24-4a42-97a6-61bad9a2ae94"
+Server-Timing: cfRequestDuration;dur=67.999840
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 624ece97-8b24-4a42-97a6-61bad9a2ae94
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=yFZ%2FmjTW2sEf0CArOtbE2kNO4vGy3uzQy3%2BbRb9eu3qAQH2xjfjgmwSeqecviHJlpQGEtcRrGj8LNtUaOwAJZ0x9%2Fb1fjrNDxBQlxfF5boQfoB97S9Akjq1zxWv8YMBh4DVl"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8466113c8aa99948-FRA
+Alt-Svc: h3=":443"; ma=86400

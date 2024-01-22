@@ -1,0 +1,29 @@
+Date: Tue, 16 Jan 2024 11:46:53 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 320
+X-Sorting-Hat-Shopid: 77120274753
+X-Storefront-Renderer-Rendered: 1
+Location: https://www.orloffco.com/robots.txt
+X-Redirect-Reason: canonical_host_redirection
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 77120274753
+X-Shardid: 320
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=12, db;dur=5, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="bjmm", requestID;desc="93d7c286-0124-4814-9025-b14d95b1afd5"
+Server-Timing: cfRequestDuration;dur=42.999983
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 93d7c286-0124-4814-9025-b14d95b1afd5
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=wsHm7R0iUEOMTV8rOyPdwba47I40SGWbeK23KzRwZhV1mMhpRfpD0Q2whd7JYjOEmsnrOuROpRb%2BCYrg7dpUyd2103s92DNyn1W426V11ejDEC5u7%2Buf7GXPgiXWWQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661edb5bc64dcc-FRA
+Alt-Svc: h3=":443"; ma=86400

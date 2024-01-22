@@ -1,0 +1,7 @@
+Content-Length: 138
+Server: nginx
+Date: Tue, 16 Jan 2024 11:40:05 GMT
+Content-Type: text/html
+Location: https://bfancyboutique.com/robots.txt
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Content-Type-Options: nosniff

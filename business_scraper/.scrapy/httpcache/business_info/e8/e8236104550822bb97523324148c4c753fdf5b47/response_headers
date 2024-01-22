@@ -1,0 +1,42 @@
+Date: Tue, 16 Jan 2024 11:57:53 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 44
+X-Sorting-Hat-Shopid: 33535852589
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=6083a546-99a0-4a39-a364-2e9a961f3403; path=/; expires=Tue, 16 Jan 2024 12:27:53 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:57:53 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:57:53 GMT; SameSite=Lax
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:57:53 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=switchhoods.com; path=/; expires=Wed, 17 Jan 2024 11:57:53 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=2bc6ca33-10bb-40ce-90ba-946bfd0c9b86; Expires=Wed, 15-Jan-25 11:57:53 GMT; Domain=switchhoods.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=b39ee072-47c9-407f-afb2-52cf33518926; Expires=Tue, 16-Jan-24 12:27:53 GMT; Domain=switchhoods.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 11:57:53 GMT; Domain=switchhoods.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2Fpages%2Fstore-locations; Expires=Tue, 30-Jan-24 11:57:53 GMT; Domain=switchhoods.com; Path=/; HttpOnly; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+Etag: "cacheable:4eff6a9a5b506019cf9266fd0460a7d4"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Access-Control-Allow-Origin: *
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 33535852589
+X-Shardid: 44
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=79, db;dur=22, render;dur=24, wasm, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="127823773741", pageType;desc="page", servedBy;desc="6blv", requestID;desc="a27990e2-7d5a-4734-acf0-716055a81df9"
+Server-Timing: cfRequestDuration;dur=101.999998
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: a27990e2-7d5a-4734-acf0-716055a81df9
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=teFtPZITyz46c7mud6uLR%2B0HG2FUwdoYAnKjJdUleC8Wo3ws1FTsPtD3%2BpW28vK2PLO9henB7pGWL5383k0wDvn%2FDgbD8NPlS%2B%2FLOAB6RHuIAN2zPDh1ujHXL0tc9ydG%2Bw%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84662efa3c6903c4-FRA
+Alt-Svc: h3=":443"; ma=86400

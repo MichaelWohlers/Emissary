@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:51:05 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 303
+X-Sorting-Hat-Shopid: 70269796656
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=c3c6ad55-b403-48a1-b5d4-e488afdd2672; path=/; expires=Tue, 16 Jan 2024 12:21:05 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:51:05 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=CA; path=/; expires=Thu, 16 Jan 2025 11:51:05 GMT
+Set-Cookie: cart_currency=CAD; path=/; expires=Tue, 30 Jan 2024 11:51:05 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=lemoncyprusboutique.com; path=/; expires=Wed, 17 Jan 2024 11:51:05 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=07261b94-adc2-4772-a7ab-2aee40390a65; Expires=Wed, 15-Jan-25 11:51:05 GMT; Domain=lemoncyprusboutique.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=8fa26660-e726-4a68-9284-e6ea4778c5ac; Expires=Tue, 16-Jan-24 12:21:05 GMT; Domain=lemoncyprusboutique.com; Path=/; SameSite=Lax
+Etag: "cacheable:6e3d1d30baf4cf9d1c3f4d449582428d"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 70269796656
+X-Shardid: 303
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=11, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="151272063280", servedBy;desc="cnml", requestID;desc="23ec49f9-611b-42c0-85c0-6f6d557d5d53"
+Server-Timing: cfRequestDuration;dur=69.999933
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 23ec49f9-611b-42c0-85c0-6f6d557d5d53
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Edj4yxR8IDCrldTRMVvw6KCT2iuFkd87EeVIq%2BCE%2FB5Pa0SXQokRevJEFz2wesfvoeS5xw2wMFGfhwWBb%2BUljdCzUN016lao0vLUdQQ82eOxSkmV2dZr6pZWB70F4sw%2BCjpYwitFlqdc"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846625023d8e9247-FRA
+Alt-Svc: h3=":443"; ma=86400

@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 04:54:59 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 163
+X-Sorting-Hat-Shopid: 46547304612
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=d337487f-173d-4ce6-8ef9-a51f5e02dea8; path=/; expires=Tue, 16 Jan 2024 05:24:59 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 04:54:59 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 04:54:59 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 04:54:59 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=cooljsapparel.com; path=/; expires=Wed, 17 Jan 2024 04:54:59 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=a0892218-9317-4798-9c57-d3760248fc82; Expires=Wed, 15-Jan-25 04:54:59 GMT; Domain=cooljsapparel.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=cacb26ad-059b-401c-87ab-6b9f7d7f2c33; Expires=Tue, 16-Jan-24 05:24:59 GMT; Domain=cooljsapparel.com; Path=/; SameSite=Lax
+Etag: "cacheable:427cc25f6d048ddd54939d6b399770a5"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 46547304612
+X-Shardid: 163
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=10, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="128853311652", servedBy;desc="ggkf", requestID;desc="d48e959a-1826-47a9-9333-1fcc14df5d6d"
+Server-Timing: cfRequestDuration;dur=31.999826
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: d48e959a-1826-47a9-9333-1fcc14df5d6d
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=AdRNMNEs6Y1wL%2Fm3zOkgfiq3vv%2BHMJwkgkw1%2BQzAKfgYUY7Krj7J6ifJsaBGCCidW%2BAC%2BQAF75ckxNegGCNRUHrJFQu8J5i9XP6XBMesc4TI925KtTKxcvtb%2Fu%2Fl6BMotBR8ZGe7%2Fw%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8463c3802cce90da-FRA
+Alt-Svc: h3=":443"; ma=86400

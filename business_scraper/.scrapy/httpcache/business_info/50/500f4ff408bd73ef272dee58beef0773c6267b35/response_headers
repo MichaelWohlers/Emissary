@@ -1,0 +1,15 @@
+Date: Tue, 16 Jan 2024 07:07:45 GMT
+Content-Type: text/html; charset=UTF-8
+Location: https://mayasdesiboutique.com/robots.txt
+X-Redirect-By: WordPress
+X-Powered-By: WP Engine
+X-Cacheable: CacheAlways: forever
+Cache-Control: max-age=86400, must-revalidate
+X-Cache: HIT: 2
+Cf-Cache-Status: MISS
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Cu2u6p6mapYnWVJkvSL7q4iAqr%2BmirzHzz7%2Fwy7G12RYyz6j4faRsMQUSBXG1ISFoQyLihrz3IKRVjeFB%2FLCAFUO3APFjul60z%2BpgCrMKHxUU7q7%2BVA2yN7YCvzrgd988ggbutgQZyZSfHRD"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Vary: Accept-Encoding
+Server: cloudflare
+Cf-Ray: 846485f65e2a0ae1-AMS
+Alt-Svc: h3=":443"; ma=86400

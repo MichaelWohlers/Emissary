@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:20:46 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 102
+X-Sorting-Hat-Shopid: 9400736
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=37c13de5-c931-48ae-b865-39a6bb3ad65b; path=/; expires=Tue, 16 Jan 2024 11:50:46 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:20:46 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:20:46 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:20:46 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=laboutiquejewellery.com; path=/; expires=Wed, 17 Jan 2024 11:20:46 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=b2d81d44-eb88-4afe-bfc1-9b4c1610ffe1; Expires=Wed, 15-Jan-25 11:20:46 GMT; Domain=laboutiquejewellery.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=4da73c89-3992-4fcf-9c43-6f55f4fcbfe0; Expires=Tue, 16-Jan-24 11:50:46 GMT; Domain=laboutiquejewellery.com; Path=/; SameSite=Lax
+Etag: "cacheable:6dda9ec84ff40bce9e8f1e08b9ba2bad"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 9400736
+X-Shardid: 102
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=10, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="59001605", servedBy;desc="wt4r", requestID;desc="612a959b-59b1-4a57-83af-58198c9f570c"
+Server-Timing: cfRequestDuration;dur=44.999838
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 612a959b-59b1-4a57-83af-58198c9f570c
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=R3lk2SuCV%2BuPgI%2FbyAgwhrK1qw7BhFeWuqVeO9LwYanly91Kqm79VHubzSnjzX6dU%2FAw2%2Fkh5ezE6sAj5lVepwnSyCopNblKXUJJXqKZ7fk0S0FZHBprcSnQ5Se2XHzoz35CGThv19HSSrno5g%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8465f89848340414-FRA
+Alt-Svc: h3=":443"; ma=86400

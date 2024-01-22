@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:55:04 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 167
+X-Sorting-Hat-Shopid: 106972
+X-Storefront-Renderer-Rendered: 1
+Location: https://muskokabearwear.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 106972
+X-Shardid: 167
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=7, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="zqhd", requestID;desc="186227bd-9ccd-41cf-be35-5a0a001ce73d"
+Server-Timing: cfRequestDuration;dur=38.000107
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 186227bd-9ccd-41cf-be35-5a0a001ce73d
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=qfs86sKjDXEapnDwKCNnxPlXnqyOWY1J2kTfP9ymbWo%2FMNylxelgJPtZcuFoFGH3dxmrAktUGPkgSAs5o%2FtKZd3OLy%2BenI4Y2AjwXDk8K73JR42M5SBQjZAzk%2B6v%2BwUlhUwMtoM%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84662ad86f3a995d-FRA
+Alt-Svc: h3=":443"; ma=86400

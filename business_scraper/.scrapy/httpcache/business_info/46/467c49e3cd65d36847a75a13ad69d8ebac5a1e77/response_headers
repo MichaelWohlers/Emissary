@@ -1,0 +1,10 @@
+Date: Tue, 16 Jan 2024 11:44:52 GMT
+Cache-Control: max-age=3600
+Expires: Tue, 16 Jan 2024 12:44:52 GMT
+Location: https://www.simplyelegantboutique.com/robots.txt
+Set-Cookie: __cf_bm=zVJh12BN1iFY.DcmDBk0VpjLtoIudsc090Gbiu6eFuI-1705405492-1-AQiGkQBzA6+JvgI/dZy/TcbabeCX2QiugZxiJiEHhqlkDoZseuoV3ecQhiZBysckIFDGRfYZPOU1dB6yobAzyrc=; path=/; expires=Tue, 16-Jan-24 12:14:52 GMT; domain=.www.simplyelegantboutique.com; HttpOnly; SameSite=None
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+Server: cloudflare
+Cf-Ray: 84661beaffc43a7c-FRA
+Alt-Svc: h3=":443"; ma=86400

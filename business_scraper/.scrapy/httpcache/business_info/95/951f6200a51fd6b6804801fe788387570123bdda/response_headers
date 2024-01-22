@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:52:27 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 50
+X-Sorting-Hat-Shopid: 27294110
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=d525a6c3-7e32-4a5f-a070-70449b78e7e7; path=/; expires=Tue, 16 Jan 2024 12:22:27 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:52:27 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=CA; path=/; expires=Thu, 16 Jan 2025 11:52:27 GMT; SameSite=Lax
+Set-Cookie: cart_currency=CAD; path=/; expires=Tue, 30 Jan 2024 11:52:27 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=thebohohut.com; path=/; expires=Wed, 17 Jan 2024 11:52:27 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=f78223b8-badb-468a-bda9-c5b29da1f77d; Expires=Wed, 15-Jan-25 11:52:27 GMT; Domain=thebohohut.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=58fee2b7-db9a-4ac7-871d-62f8c08370f2; Expires=Tue, 16-Jan-24 12:22:27 GMT; Domain=thebohohut.com; Path=/; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+Etag: "cacheable:7a7f05226f796d60361f35915a3db811"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 27294110
+X-Shardid: 50
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=21, db;dur=8, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="32818954282", servedBy;desc="8zbg", requestID;desc="f1a15e72-32fe-436f-bf99-d293ae1d7b10"
+Server-Timing: cfRequestDuration;dur=49.999952
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: f1a15e72-32fe-436f-bf99-d293ae1d7b10
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=7ysdDA08kdp%2BH%2FrMDR48eE9xBDePW9RpZGKXYf%2BuFb50u8UedR2U6BkcBkanbgcUZYs%2FAEDLxLWEt9g%2FuMRbdWPhXZihiNhyWxAcFcWfbrBzMUnFT0kCFsYdihbnlogBupWPcg%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84662705c9259170-FRA
+Alt-Svc: h3=":443"; ma=86400

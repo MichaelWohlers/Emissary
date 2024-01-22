@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:46:38 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 114
+X-Sorting-Hat-Shopid: 20891519
+X-Storefront-Renderer-Rendered: 1
+Location: https://moonshineandlaceboutique.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 20891519
+X-Shardid: 114
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=12;desc="gc:1", db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="9vmx", requestID;desc="197796f9-4d3d-4a1f-a394-e7d67d505700"
+Server-Timing: cfRequestDuration;dur=43.999910
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 197796f9-4d3d-4a1f-a394-e7d67d505700
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Kitj0f0xb6MScMAmqRaYWFTitEj%2FCRqTTM%2BAmvnkf9L3EOpWKTf1FbohmlKwzZm7Hv5s6Du1QgV5nA7KQe9KYkNUnvPh5cDK0Q1%2FJKwH6QeEpdguW4rX%2BN5o72CDUHkZ7AgWdtxlnHsGD25OcZYnCpFn"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661e816c9d3659-FRA
+Alt-Svc: h3=":443"; ma=86400

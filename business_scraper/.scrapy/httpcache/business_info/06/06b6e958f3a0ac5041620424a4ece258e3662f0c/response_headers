@@ -1,0 +1,37 @@
+Date: Tue, 16 Jan 2024 11:45:49 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 224
+X-Sorting-Hat-Shopid: 25713836081
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=56648df7-2784-45ae-aafb-42ae800fa22a; path=/; expires=Tue, 16 Jan 2024 12:15:49 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:45:49 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=CA; path=/; expires=Thu, 16 Jan 2025 11:45:49 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Afalse%2C%22a%22%3Afalse%2C%22m%22%3Afalse%2C%22t%22%3Afalse%7D%2C%22display_banner%22%3Atrue%2C%22sale_of_data_region%22%3Afalse%7D; domain=cazzapetitezacks.com; path=/; expires=Wed, 17 Jan 2024 11:45:49 GMT; SameSite=Lax
+Set-Cookie: _tracking_consent=%7B%22region%22%3A%22DERP%22%2C%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.1%22%2C%22con%22%3A%7B%22CMP%22%3A%7B%22s%22%3A%22%22%2C%22m%22%3A%22%22%2C%22a%22%3A%22%22%2C%22p%22%3A%22%22%7D%7D%2C%22lim%22%3A%5B%22GDPR_BLOCK_ALL%22%5D%7D; Expires=Wed, 15-Jan-25 11:45:49 GMT; Domain=cazzapetitezacks.com; Path=/; SameSite=Lax
+Etag: "cacheable:389db09c35f1bbca3ff3c7238625f2e8"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 25713836081
+X-Shardid: 224
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=14;desc="gc:1", db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="137140994273", servedBy;desc="p8vz", requestID;desc="a17f0b8c-0d05-40b3-9196-1a88c5477006"
+Server-Timing: cfRequestDuration;dur=122.999907
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: a17f0b8c-0d05-40b3-9196-1a88c5477006
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=B%2BI%2Bs4kw3KB%2Fn4RYig4MpCpST4r9QQYB%2BZ6BAPjShJ9rdhv81gS66jzl5c4HQ1EdqZcYC9U%2BqxJzJbohNiz62HuLtd7RbOLWkGgRIx%2F8KgtbbS%2FY7Z%2F2Z%2FXkEcS5K1ynKjTUFMmq"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661d4dec4171af-FRA
+Alt-Svc: h3=":443"; ma=86400

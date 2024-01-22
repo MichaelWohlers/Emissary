@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:57:34 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 278
+X-Sorting-Hat-Shopid: 30105698388
+X-Storefront-Renderer-Rendered: 1
+Location: https://lovethedistrict.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 30105698388
+X-Shardid: 278
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=15;desc="gc:1", db;dur=5, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="zz65", requestID;desc="f0eb95ac-9f56-440e-ab32-223a478690df"
+Server-Timing: cfRequestDuration;dur=50.999880
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: f0eb95ac-9f56-440e-ab32-223a478690df
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=E8HdeLYaQggBvkcMf5Y%2BjZJh768%2F525tRzhVqFWn1c78MJ%2Fb59z31fRZ2esE1O1260vYjhMXyjA6LPq3PBwZsLv5xZJ3l7h9xgMsqGu3K1GpMMFU%2FZ0Yxba04ZS1IKXyQGXGk5gBdqmJ"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84662e80d9701d96-FRA
+Alt-Svc: h3=":443"; ma=86400

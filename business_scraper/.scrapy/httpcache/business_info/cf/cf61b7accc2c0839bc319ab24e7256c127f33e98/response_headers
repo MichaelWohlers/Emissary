@@ -1,0 +1,31 @@
+Content-Length: 33381
+Cache-Control: no-cache
+Cache-Control: no-transform
+Pragma: no-cache
+Content-Type: text/html; charset=utf-8
+Expires: Tue, 04 Dec 1993 21:29:02 GMT
+Content-Language: en-US
+Dc: ORD
+X-Edgeconnect-Midmile-Rtt: 97
+X-Edgeconnect-Origin-Mex-Latency: 24
+X-Frame-Options: DENY
+X-Akamai-Transformed: 9l 57185 0 pmb=mTOE,1
+Content-Encoding: gzip
+Date: Tue, 16 Jan 2024 11:34:01 GMT
+Vary: Accept-Encoding
+Set-Cookie: ADRUM_BTa=R:38|g:3ada85df-a65c-4464-938b-166774efd093; expires=Tue, 16-Jan-2024 11:34:31 GMT; path=/
+Set-Cookie: ADRUM_BTa=R:38|g:3ada85df-a65c-4464-938b-166774efd093|n:tjxecomm_85275dd5-0b6d-445d-bd37-0d3b023073a1; expires=Tue, 16-Jan-2024 11:34:31 GMT; path=/
+Set-Cookie: SameSite=None; expires=Tue, 16-Jan-2024 11:34:31 GMT; path=/; secure
+Set-Cookie: ADRUM_BT1=R:38|i:312036; expires=Tue, 16-Jan-2024 11:34:31 GMT; path=/
+Set-Cookie: ADRUM_BT1=R:38|i:312036|e:0; expires=Tue, 16-Jan-2024 11:34:31 GMT; path=/
+Set-Cookie: JSESSIONID=Fc4SDL1T820QqQFBlyGkvxOcxADA4tLY1-uffBui3u0m0C2TMaih!-1318094947; domain=.tjx.com; path=/; HttpOnly
+Set-Cookie: ADRUM_BT1=R:38|i:312036|e:0|d:0; expires=Tue, 16-Jan-2024 11:34:31 GMT; path=/
+Set-Cookie: ADRUM_BT2=R:38|i:311977; expires=Tue, 16-Jan-2024 11:34:31 GMT; path=/
+Set-Cookie: ADRUM_BT2=R:38|i:311977|e:56; expires=Tue, 16-Jan-2024 11:34:31 GMT; path=/
+Set-Cookie: akavpau_tjmaxx_vp=1705405141~id=9905a2e805f0267f5ad4ec83b74a70bb; Path=/; HttpOnly; Secure; SameSite=None
+Set-Cookie: x-tjx-CBTC=e23f533c840b4966956e4ba32af0a19a; path=/; domain=.tjmaxx.tjx.com; Secure
+Set-Cookie: _abck=5F5B9F035BFC2D3A8269AC1C3B952D69~-1~YAAQLyhDF5FG6w+NAQAAK74MEgshFyR19QqTsceuxt2WrBRAJJ3GyFGSpUZo/CtLioEZFOVGvnyXGXGlcx0KR2zA5R0ULOWoi0zTrgqY+S+x66Ic78q3RGyFPiOgaD/JxtPJgk+RqTZqZ0pZAyiCwxp4BQKn5y0tHfbxVf0Mj0gHx0DtzSZbu3GbNBTmdmpLw5dCBz7o7exYSGw/xZ8co/7oOVQKlpgXskflKB2DSD+4Bp42h1o3VQlDkOFdycqOx+RkBwj1DchEBDh/9lPvHAPT2e3PgZCzjqWv2VzS5cR7xhLse3gHEqIecCajATySWW/Yk+qrD9uJg5lqUpKYlmQa5ksc3CZeHg4J0jdg++sHyDKZ+UhSJvU=~-1~-1~1705408381; Domain=.tjx.com; Path=/; Expires=Wed, 15 Jan 2025 11:34:01 GMT; Max-Age=31536000; Secure
+Set-Cookie: bm_sz=F2F467D198F1E389719733BD46A9EE1D~YAAQLyhDF5JG6w+NAQAAK74MEhZ46xyvYdlpZwxpuvUZYo4oHsTOPXlqma8G9RRjLDEUF6yZDBkB1yssgupKASJR663dXyPxyELVQlHpueIdsrxfCovkz0bpPWZgUUKMO8Sab669ld6+x4E4u0lOFC40jiBXFXdVG43a+BTZgJecabFtTdZZ5BMN/Q1haiucqhy3hiOJuklLfDdpNao1sRiEYjQ7Vct0pl9iYEzFBAFfPevWa2jenT3h5Qhj0ND5tR4IgKVv+RoyM77ZpuOGY1w36Pt4jWtmNAt58ezZo90=~3556920~4273989; Domain=.tjx.com; Path=/; Expires=Tue, 16 Jan 2024 15:34:00 GMT; Max-Age=14399; Secure
+X-Req: ut,1705404841,23.67.40.47:26c15d0,104.119.188.8
+X-Xss-Protection: 1; mode=block;
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains

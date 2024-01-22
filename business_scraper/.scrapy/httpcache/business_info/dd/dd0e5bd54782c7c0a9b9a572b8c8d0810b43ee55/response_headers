@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:34:52 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 166
+X-Sorting-Hat-Shopid: 41627844775
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=85ff579d-2b11-4b05-a06d-9e9763bf3673; path=/; expires=Tue, 16 Jan 2024 12:04:52 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:34:52 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:34:52 GMT; SameSite=Lax
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:34:52 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=huntclothingco.com; path=/; expires=Wed, 17 Jan 2024 11:34:52 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=5a160ea6-edfd-4698-9acc-232e10500696; Expires=Wed, 15-Jan-25 11:34:52 GMT; Domain=huntclothingco.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=7f4b4f68-3591-4c07-bc16-bf3d4bac55cd; Expires=Tue, 16-Jan-24 12:04:52 GMT; Domain=huntclothingco.com; Path=/; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+Etag: "cacheable:f4fcbd77322b046bc9e4487ed8dbb352"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 41627844775
+X-Shardid: 166
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=15, db;dur=7, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="103248134311", servedBy;desc="xhlr", requestID;desc="5c71ee42-f630-4b89-a3fc-17e2284e1994"
+Server-Timing: cfRequestDuration;dur=39.000034
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 5c71ee42-f630-4b89-a3fc-17e2284e1994
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=zff6evyazR21T4XU114wJvSki4GUDGx33tzu3gL9ZQthxcMID7APQrvuJwvoU3WO6bdGdEjfOkkhIVEheB8XucgeagIC3zLZXfeUHZzstDFytmPsRK89xPcHCmmKen%2B%2FhMPvXQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84660d435de31e68-FRA
+Alt-Svc: h3=":443"; ma=86400

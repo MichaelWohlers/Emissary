@@ -1,0 +1,12 @@
+Content-Length: 0
+Server: Varnish
+Retry-After: 0
+Location: https://www.prissandpearls.com/
+Accept-Ranges: bytes
+Date: Tue, 16 Jan 2024 11:34:03 GMT
+Via: 1.1 varnish
+X-Served-By: cache-fra-eddf8230089-FRA
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1705404844.650392,VS0,VE0
+Strict-Transport-Security: max-age=900

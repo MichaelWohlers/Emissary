@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:37:14 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 226
+X-Sorting-Hat-Shopid: 45046202523
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=57ffd09b-9921-4563-ac01-953c72d5d33f; path=/; expires=Tue, 16 Jan 2024 12:07:14 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:37:14 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 11:37:14 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:37:14 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=loftvineboutique.com; path=/; expires=Wed, 17 Jan 2024 11:37:14 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=f9707dec-0feb-45d8-94dc-a9769411d5f3; Expires=Wed, 15-Jan-25 11:37:14 GMT; Domain=loftvineboutique.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=9b9b9825-7c02-41c6-a65a-2f2a093d9ef7; Expires=Tue, 16-Jan-24 12:07:14 GMT; Domain=loftvineboutique.com; Path=/; SameSite=Lax
+Etag: "cacheable:f4d553b53f787456a8765d6468cfcad7"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 45046202523
+X-Shardid: 226
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=12, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="127601115291", servedBy;desc="pqvk", requestID;desc="e4d26cc7-c354-47ec-b0c4-7c35b29a982a"
+Server-Timing: cfRequestDuration;dur=53.999901
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: e4d26cc7-c354-47ec-b0c4-7c35b29a982a
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=xpWFD%2F1eSICpKZQIxrQdDcHPyeGlgqaTAvRwcbV6x77n7BvIJ5WeIYzPDEhn%2FqCasNBpr1e6cMb8ihXCT0vV2AbyjIfBrTER5nuLujvmHQHoufMKV30sd%2Fg2lZlJsxbt9y6%2FsRny"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846610bacf5e1c38-FRA
+Alt-Svc: h3=":443"; ma=86400

@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:37:44 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 307
+X-Sorting-Hat-Shopid: 75804541236
+X-Storefront-Renderer-Rendered: 1
+Location: https://www.anothlevelboutique.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 75804541236
+X-Shardid: 307
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=25, db;dur=8, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="8zds", requestID;desc="c4c27fee-d8c1-419a-b3fd-2cd56c09038b"
+Server-Timing: cfRequestDuration;dur=77.000141
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: c4c27fee-d8c1-419a-b3fd-2cd56c09038b
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=pZBZl%2BZs5DSfTc5llqbSNijsnHWdXQHNbkqNa%2F3lYR8CzN6%2BiuofAAtv8jh3U9mZXgfvFD7fJa9H4PwnkMCrUBe%2FguC10S63wm3s1x1eduKmE2rqq3HSeAVTccAkZ9VfBdMGSzJxGxCIvGQQ7NY5G1r6Kf4%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661174b9514d89-FRA
+Alt-Svc: h3=":443"; ma=86400

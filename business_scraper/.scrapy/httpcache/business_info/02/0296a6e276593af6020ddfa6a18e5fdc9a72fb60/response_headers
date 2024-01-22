@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:36:22 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 253
+X-Sorting-Hat-Shopid: 40414281877
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=be1355eb-4b01-41a6-a3ed-f8336e3dc97a; path=/; expires=Tue, 16 Jan 2024 12:06:22 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:36:22 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 11:36:22 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:36:22 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=therusticrebel.com; path=/; expires=Wed, 17 Jan 2024 11:36:22 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=60f44fab-2483-447a-83f1-2616368b225b; Expires=Wed, 15-Jan-25 11:36:22 GMT; Domain=therusticrebel.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=bddc2c4d-42ff-4d36-bf24-cd8e2724a043; Expires=Tue, 16-Jan-24 12:06:22 GMT; Domain=therusticrebel.com; Path=/; SameSite=Lax
+Etag: "cacheable:180f282d01d079877403faa1cac86062"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 40414281877
+X-Shardid: 253
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=17, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="127425151125", servedBy;desc="mdh4", requestID;desc="d556e90f-959a-43bb-a29e-557ceac391de"
+Server-Timing: cfRequestDuration;dur=62.000036
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: d556e90f-959a-43bb-a29e-557ceac391de
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=nVk4QfBj6ynkBChCw0%2Fzz1tvSZaOhbQiPxk5pMEohx5CE9CuXC3qzseLjfQb2eX2FC45ngCAANmqepj83omZueOhMhJnylFJ3o11BPmBzNT0vIfdZ0oKpBjb%2BhYsWb7jEtB1og%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84660f730bf32bd1-FRA
+Alt-Svc: h3=":443"; ma=86400

@@ -1,0 +1,19 @@
+Content-Length: 141
+Date: Tue, 16 Jan 2024 11:44:57 GMT
+Content-Type: text/plain; charset=utf-8
+Body-Hash: C3FaxHPaT5rosC7wNKt+LKuaWxIxTsGTInNdd/MaWqiVZd6VGy8DNZdWYAifkOOIwYv8IOxhgQ98nU50ss7N/g==
+Cache-Control: max-age=0, s-maxage=3600, must-revalidate
+Content-Encoding: gzip
+Etag: W/"wo1zZh4YLcrmAtDeTbVNXTrZSVN5y_pVH3+BVQ5586+kiXw7L9DhFdbIMYLfAaBlXpvE_qSTFHyTDmLEdTMUEw=="
+Last-Modified: Fri, 12 Jan 2024 23:27:27 GMT
+Owner: 
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Vary: Accept-Encoding
+X-Yext-Serving-Tags: static_file
+X-Yext-Site: us2
+Cf-Cache-Status: MISS
+Accept-Ranges: bytes
+Set-Cookie: __cf_bm=5cJm5WhLd9FGvnmockzDctsNws9gxSgcK0TeBG.qs0w-1705405497-1-AYuKix0JHAptnKLyagSYGOI6bdXISIlFMHkHpYb4Pz6PD4zsJbaV4PIKswT2AEDe64GfVWkbVGFj3PRKeG/6O3Q=; path=/; expires=Tue, 16-Jan-24 12:14:57 GMT; domain=.stores.anntaylor.com; HttpOnly; Secure; SameSite=None
+Server: cloudflare
+Cf-Ray: 84661c069ba71d94-FRA
+Alt-Svc: h3=":443"; ma=86400

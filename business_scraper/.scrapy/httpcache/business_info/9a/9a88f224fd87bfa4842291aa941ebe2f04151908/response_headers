@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:50:59 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 148
+X-Sorting-Hat-Shopid: 54945677461
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=6b7789a0-6a09-4d69-b5ef-9cae81e9a6c4; path=/; expires=Tue, 16 Jan 2024 12:20:59 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:50:59 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 11:50:59 GMT; SameSite=Lax
+Set-Cookie: cart_currency=CAD; path=/; expires=Tue, 30 Jan 2024 11:50:59 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=tragically-hipp-fashion-gallery.myshopify.com; path=/; expires=Wed, 17 Jan 2024 11:50:59 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=43f82ae6-cde8-4429-9b0c-8d900046acc5; Expires=Wed, 15-Jan-25 11:50:59 GMT; Domain=tragically-hipp-fashion-gallery.myshopify.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=db1b443b-88b9-46dc-a9df-9f2e7ddfa25a; Expires=Tue, 16-Jan-24 12:20:59 GMT; Domain=tragically-hipp-fashion-gallery.myshopify.com; Path=/; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+Etag: "cacheable:36d3ba1b05df07c797d346e5e002597d"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 54945677461
+X-Shardid: 148
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=17, db;dur=8, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="120249745557", servedBy;desc="dt4r", requestID;desc="b622ddb7-be6f-48bf-a06f-d472b49b3ffd"
+Server-Timing: cfRequestDuration;dur=54.000139
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: b622ddb7-be6f-48bf-a06f-d472b49b3ffd
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=sCyMH2%2FUFcvFcqcyDwr3IUviorA%2BV0zquXOnRxxQJrjw3c0cimEBmJYMTtdLZ7u0UisltPGknE9Csou8LsMU4T9DP1OkCEkKApmpHahVaCBm7HlZVbD8%2F7QrOUMo5fcuBsT8JO0H8DAROx%2BBGK8KID%2BkQws1guHgCXFiecuFoQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846624df6ae971b8-FRA
+Alt-Svc: h3=":443"; ma=86400

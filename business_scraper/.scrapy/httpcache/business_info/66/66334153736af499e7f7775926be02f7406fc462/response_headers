@@ -1,0 +1,41 @@
+Date: Tue, 16 Jan 2024 11:58:50 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 104
+X-Sorting-Hat-Shopid: 25671172201
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=ef0029a0-37cb-4fa6-bbda-63ea4fcce637; path=/; expires=Tue, 16 Jan 2024 12:28:50 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:58:50 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:58:50 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:58:50 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=punchycactus.com; path=/; expires=Wed, 17 Jan 2024 11:58:50 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=9b5e75f1-3255-4d2e-9487-ee220528ee28; Expires=Wed, 15-Jan-25 11:58:50 GMT; Domain=punchycactus.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=881cf012-81dc-453a-b7db-d20ae3a842ba; Expires=Tue, 16-Jan-24 12:28:50 GMT; Domain=punchycactus.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 11:58:50 GMT; Domain=punchycactus.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2F; Expires=Tue, 30-Jan-24 11:58:50 GMT; Domain=punchycactus.com; Path=/; HttpOnly; SameSite=Lax
+Etag: "cacheable:f822b931bbfd9923a8429ef38841ae0d"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin, <//punchycactus.com/cdn/shop/files/punchy-cactus-western-boho-affordable-trendy-boutique.png?v=1682190956&width=600>; as="image"; rel="preload"; imagesrcset="//punchycactus.com/cdn/shop/files/punchy-cactus-western-boho-affordable-trendy-boutique.png?v=1682190956&width=150 150w, //punchycactus.com/cdn/shop/files/punchy-cactus-western-boho-affordable-trendy-boutique.png?v=1682190956&width=225 225w, //punchycactus.com/cdn/shop/files/punchy-cactus-western-boho-affordable-trendy-boutique.png?v=1682190956&width=300 300w"; imagesizes="(max-width: 300px) 50vw, 150px"
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 25671172201
+X-Shardid: 104
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=10, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="123564818537", pageType;desc="index", servedBy;desc="jkkm", requestID;desc="d28f8d06-3221-483f-827e-868a4dcea933"
+Server-Timing: cfRequestDuration;dur=36.999941
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: d28f8d06-3221-483f-827e-868a4dcea933
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=vd1irPTLUwThA0nJ%2FxNTsl1hgu2oE7xNg08NftQb7GHEdomX%2BCDV1xnoMBrWm6IfL0fuxX%2FRfDWMvLa%2F9ZOrIlLci%2Boy89Ean5IHMdQf0qjhN63qazBon94sAb0FWRhQ2gE%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8466305dcb6b9208-FRA
+Alt-Svc: h3=":443"; ma=86400

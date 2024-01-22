@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:51:26 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 225
+X-Sorting-Hat-Shopid: 61670818018
+X-Storefront-Renderer-Rendered: 1
+Location: https://whatnotboutique.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 61670818018
+X-Shardid: 225
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=10, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="jqdf", requestID;desc="a34bc7e0-03a3-47a3-b4dd-f2432a68ca4c"
+Server-Timing: cfRequestDuration;dur=53.000212
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: a34bc7e0-03a3-47a3-b4dd-f2432a68ca4c
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=ZCveSYSE8VzmWm2t%2Bg0tyzc9fNaM%2FSGWqEL5Jhgr2DYuB8GLWJsNEpUvDEvXKVVoBtdS%2FzJGuJIKqrQwY0CJfWRAMDW78qQ%2BJdbIoZvb2PpPOvtRul3LvRJDHxh1Kq26S38Ty00%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84662586beddbbb9-FRA
+Alt-Svc: h3=":443"; ma=86400

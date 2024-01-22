@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 12:02:37 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 285
+X-Sorting-Hat-Shopid: 25168445502
+X-Storefront-Renderer-Rendered: 1
+Location: https://indigothelabel.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 25168445502
+X-Shardid: 285
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=8, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="672c", requestID;desc="63cac09d-4bbb-468b-8a01-91db48fe25ff"
+Server-Timing: cfRequestDuration;dur=40.000200
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 63cac09d-4bbb-468b-8a01-91db48fe25ff
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=maDR6tddRKcpoNyofVj7iGnx7aYtf2N5uKJg%2Bgv7tpwKC1XbQG0jW8rYucqHrXaAci7yet3rp3LHdjQ3wIWaiUo7lSLIUDIieFHKtse1Vw9j4DrOoMJs7R4%2BM3C%2BKVR9vJR1LGTqnks%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846635ea2c2a1c44-FRA
+Alt-Svc: h3=":443"; ma=86400

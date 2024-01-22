@@ -1,0 +1,26 @@
+Date: Tue, 16 Jan 2024 11:50:55 GMT
+Content-Type: text/html;charset=utf-8
+P3P: CP="ALL PUR DSP CUR ADMi DEVi CONi OUR COR IND"
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Ua-Compatible: IE=Edge,chrome=1
+X-Xss-Protection: 1; mode=block
+Set-Cookie: session_id=af6a87e4539d8c38771d7c20ee623877; expires=Tue, 16-Jan-2024 12:20:50 GMT; Max-Age=1795; path=/; secure; HttpOnly; SameSite=none
+Set-Cookie: COOKIELAW=optin; expires=Thu, 16-Jan-2025 11:50:55 GMT; Max-Age=31622400; path=/; secure; SameSite=none
+Set-Cookie: COOKIELAW_SOCIAL=1; expires=Thu, 16-Jan-2025 11:50:55 GMT; Max-Age=31622400; path=/; secure; SameSite=none
+Set-Cookie: COOKIELAW_STATS=1; expires=Thu, 16-Jan-2025 11:50:55 GMT; Max-Age=31622400; path=/; secure; SameSite=none
+Set-Cookie: COOKIELAW_ADS=1; expires=Thu, 16-Jan-2025 11:50:55 GMT; Max-Age=31622400; path=/; secure; SameSite=none
+Set-Cookie: __cf_bm=9mbdazM8deLDqbtNbHrdio_XbI1LKY8XAJk2H1RVwX0-1705405855-1-AWryKbgR8THduOisxw+1dZrir4Appvln+yknrkzzrqo5HZjPG8EtvZrG2TOmlaoogZVb7JFpENAoMyyIylgMqIQ=; path=/; expires=Tue, 16-Jan-24 12:20:55 GMT; domain=.www.metrafashionhouse.com; HttpOnly; Secure; SameSite=None
+X-Developer: Page: 44.2ms, Render: 2.3ms, Mem: 2,048kB, Cache: 0Q (0.0ms), DB: 3Q (4.8ms), Prop: 0Q (0.0ms)
+X-Runtime: 0.051357
+X-Shop-Id: 638135
+Cache-Control: no-cache
+Vary: Accept-Encoding
+X-Request-Id: 2bdb3cf4d6f8fba532c1aac6c196b159
+X-Envoy-Upstream-Service-Time: 56
+Cf-Cache-Status: DYNAMIC
+Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
+Server: cloudflare
+Cf-Ray: 846624c58fe2085d-FRA
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400

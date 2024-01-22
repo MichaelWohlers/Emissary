@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:49:00 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 215
+X-Sorting-Hat-Shopid: 46303117463
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=a2a91b05-a610-41e7-93d5-b60389bab798; path=/; expires=Tue, 16 Jan 2024 12:18:59 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:48:59 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:49:00 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:49:00 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=iloveserendipity.com; path=/; expires=Wed, 17 Jan 2024 11:49:00 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=ff4c1883-99b9-4995-bd51-f6a8d9cba493; Expires=Wed, 15-Jan-25 11:49:00 GMT; Domain=iloveserendipity.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=4a332507-420d-4238-8f8a-75e49c99dcfe; Expires=Tue, 16-Jan-24 12:19:00 GMT; Domain=iloveserendipity.com; Path=/; SameSite=Lax
+Etag: "cacheable:7163408f5856c724170152dbb7ba4f77"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 46303117463
+X-Shardid: 215
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=9, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="137071788248", servedBy;desc="kknp", requestID;desc="dd351abb-4bc3-4518-b47a-8a4d0a67bef8"
+Server-Timing: cfRequestDuration;dur=52.000046
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: dd351abb-4bc3-4518-b47a-8a4d0a67bef8
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=sJdMCdoHC7tPj42YFEx6DVpYvWq3zotk4TXzbIkvRY4wf%2Fil7PlJYWMVgeekBeIOUvQrlCtgE8cFKuccXJHLras2lzH2Of6XyfJt28fPdTO6s74WBvY04BzpPUgiUc4H0qlPyI84"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846621f2bac75d49-FRA
+Alt-Svc: h3=":443"; ma=86400

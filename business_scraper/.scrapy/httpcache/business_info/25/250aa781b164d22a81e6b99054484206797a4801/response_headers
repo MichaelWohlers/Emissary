@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 04:00:46 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 211
+X-Sorting-Hat-Shopid: 6727860282
+X-Storefront-Renderer-Rendered: 1
+Location: https://imaginethatboutique.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 6727860282
+X-Shardid: 211
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=8, db;dur=2, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="zsn5", requestID;desc="9b61cecb-2b88-4e7a-9565-d50c64edd26d"
+Server-Timing: cfRequestDuration;dur=154.999971
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 9b61cecb-2b88-4e7a-9565-d50c64edd26d
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=bXBr6k14UGMyqzqjaSZx%2B8kq1m4idEa0jeJ5Aw5bF5QAWiGaoXxwGEo03NOR6r5it0iGkV33QbmS88AbtT%2F8XoOUW%2BMNrwEiM9ywT%2BIXWrFARiSmuHvXsQd9j5PuZBChX5HQ4pHCibiPjKe5Uw%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8463740feb66695e-FRA
+Alt-Svc: h3=":443"; ma=86400

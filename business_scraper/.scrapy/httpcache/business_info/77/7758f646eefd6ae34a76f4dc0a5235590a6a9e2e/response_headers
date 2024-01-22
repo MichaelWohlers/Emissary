@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:36:42 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 250
+X-Sorting-Hat-Shopid: 7429128255
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=cebedfcf-b626-4070-9ba3-aca91a0f13d6; path=/; expires=Tue, 16 Jan 2024 12:06:42 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:36:42 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 11:36:42 GMT
+Set-Cookie: cart_currency=EUR; path=/; expires=Tue, 30 Jan 2024 11:36:42 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=justbelieveboutique.com; path=/; expires=Wed, 17 Jan 2024 11:36:42 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=432e6b90-48b3-47d3-a579-37f8de858976; Expires=Wed, 15-Jan-25 11:36:42 GMT; Domain=justbelieveboutique.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=1f8f4720-e0de-4064-9ff5-3af481d4655f; Expires=Tue, 16-Jan-24 12:06:42 GMT; Domain=justbelieveboutique.com; Path=/; SameSite=Lax
+Etag: "cacheable:bdf839f0b216b21c94c97d792f140b69"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 7429128255
+X-Shardid: 250
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=13, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="138624729339", servedBy;desc="5z4n", requestID;desc="0bf86c1e-c53e-4134-8d9c-0482aba83ebe"
+Server-Timing: cfRequestDuration;dur=43.999910
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 0bf86c1e-c53e-4134-8d9c-0482aba83ebe
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=3N%2F17%2FOZ92S3QvkwVGpYmNeGYrrY1Wkv4YdwXp%2FULfnBt9i%2Ba7uhlCzA0PF%2BFu%2FCM4u2zsiCId6RB68ODdeyXGzPhx2EM9BXwZ%2BI%2B2pnPlzRIcdPtqeBdyJ66vE4nXzH8A3GYE0jNBeY"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84660ff30cb791e7-FRA
+Alt-Svc: h3=":443"; ma=86400

@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:19:51 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 60
+X-Sorting-Hat-Shopid: 9028462
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=05ada4c6-c7de-4e6d-97fa-ec00cb6c4b9f; path=/; expires=Tue, 16 Jan 2024 11:49:51 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:19:51 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:19:51 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:19:51 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=foxyflamingoboutique.com; path=/; expires=Wed, 17 Jan 2024 11:19:51 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=653c5ca1-d34d-4d7e-a77c-c31bf59ef9df; Expires=Wed, 15-Jan-25 11:19:51 GMT; Domain=foxyflamingoboutique.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=25aee917-9f55-46bd-903d-c01156c3b717; Expires=Tue, 16-Jan-24 11:49:51 GMT; Domain=foxyflamingoboutique.com; Path=/; SameSite=Lax
+Etag: "cacheable:b9645765e927086927fbfdc2d0658829"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 9028462
+X-Shardid: 60
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=9, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="32529907773", servedBy;desc="mlqz", requestID;desc="6c6b74d6-ad4d-4a2f-b48b-91a095369e5e"
+Server-Timing: cfRequestDuration;dur=33.999920
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 6c6b74d6-ad4d-4a2f-b48b-91a095369e5e
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=YQXQcuOUQuSqP%2BQAJtcNWuc40JIlbrleSwPAsI7dmOE%2BXsT6jNIojXS%2BesyjHaSkW%2FQmLycl61z5aqxbZIvO%2B%2F3BI%2FWeDGOx6cQ73MIXu%2Fc%2FHAvfzTHsm%2B04JUgH2UTaPDdiQ0uvYEXG%2BA%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8465f7419fa61e4c-FRA
+Alt-Svc: h3=":443"; ma=86400

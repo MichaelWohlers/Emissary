@@ -1,0 +1,29 @@
+Date: Tue, 16 Jan 2024 11:38:05 GMT
+Content-Type: text/html; charset=UTF-8
+X-Fw-Version: 5.0.0
+X-Fw-Hash: t8fedpna69
+X-Fw-Server: Flywheel/5.1.0
+X-Fw-Dynamic: TRUE
+Referrer-Policy: no-referrer-when-downgrade
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1
+Link: <https://www.labelshopper.com/wp-json/>; rel="https://api.w.org/"
+Link: <https://www.labelshopper.com/wp-json/wp/v2/pages/19>; rel="alternate"; type="application/json"
+Link: <https://www.labelshopper.com/>; rel=shortlink
+X-Cacheable: YES
+Fastly-Restarts: 1
+X-Served-By: cache-ams21070-AMS, cache-ams21047-AMS
+X-Cache: MISS, HIT
+X-Cache-Hits: 0, 1
+X-Timer: S1705405086.776740,VS0,VE1
+Vary: Accept-Encoding
+X-Fw-Serve: TRUE
+X-Fw-Static: NO
+X-Fw-Type: VISIT
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=47eV2DB8Ng02jN8v05byDWzXDw8IgpHvK74XgVUzifrLE8oRkjHD8bcuzUx3KaRVm5HuP3tsPROAyzElDt9QzmwUJ3BJ%2BGsree%2Bf10iBS8S6xO2EU%2FMuYD8sxRVtgMEFjD3Cf7f42A%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846611fa08bfb8ea-AMS
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400

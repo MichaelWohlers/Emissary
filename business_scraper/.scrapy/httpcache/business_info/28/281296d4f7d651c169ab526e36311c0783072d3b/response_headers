@@ -1,0 +1,42 @@
+Date: Tue, 16 Jan 2024 11:44:21 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 112
+X-Sorting-Hat-Shopid: 5024350321
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=75b2d26e-f32f-4b14-8d4d-213693107da4; path=/; expires=Tue, 16 Jan 2024 12:14:21 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:44:21 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:44:21 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:44:21 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=laceandleisureshoponline.com; path=/; expires=Wed, 17 Jan 2024 11:44:21 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=e6d37fdf-ca20-44d0-8ea8-5c48e3938654; Expires=Wed, 15-Jan-25 11:44:21 GMT; Domain=laceandleisureshoponline.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=426acc3f-f214-4108-9b25-dc1e5fbbc047; Expires=Tue, 16-Jan-24 12:14:21 GMT; Domain=laceandleisureshoponline.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 11:44:21 GMT; Domain=laceandleisureshoponline.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2Fpassword; Expires=Tue, 30-Jan-24 11:44:21 GMT; Domain=laceandleisureshoponline.com; Path=/; HttpOnly; SameSite=Lax
+Etag: "cacheable:1db8d4876ad5661506ae666cadbf73b4"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Robots-Tag: nofollow
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 5024350321
+X-Shardid: 112
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=12, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="38928646257", pageType;desc="password", servedBy;desc="fx2h", requestID;desc="f0bf8d8f-21da-4752-b4ff-f5505ded850b"
+Server-Timing: cfRequestDuration;dur=135.999918
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-us-east1,gcp-us-east1
+X-Request-Id: f0bf8d8f-21da-4752-b4ff-f5505ded850b
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=tsOTTShQSBf7ihmul3CHu%2B%2BCqgj6P6Ikv0MEroZNKnTc3o%2B%2FIYaQ0so8v%2FbHVYoJ%2Bk2FpsQTmoAQWLq5UTYsXm%2Bk2A0rpHiOuWkL5cOm4ZcuAVw7xvm7C7qKBiXRMURIEAZwP%2BPHCId3mzIbCLogassG"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661b23ce934d37-FRA
+Alt-Svc: h3=":443"; ma=86400

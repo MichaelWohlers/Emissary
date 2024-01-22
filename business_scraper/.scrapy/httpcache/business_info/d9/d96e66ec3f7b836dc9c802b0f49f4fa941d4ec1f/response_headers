@@ -1,0 +1,10 @@
+Content-Length: 0
+Date: Tue, 16 Jan 2024 11:42:35 GMT
+Location: https://www.modernmagnoliaco.com/
+Strict-Transport-Security: max-age=3600
+X-Wix-Request-Id: 1705405355.31827347311027070
+Age: 0
+Server-Timing: cache;desc=miss, varnish;desc=miss, dc;desc=84
+X-Seen-By: W1c2/pqHBqplxcWufHCkILxkNjrXdwdgtu6E0yACibU=,m0j2EEknGIVUW/liY8BLLrPqYKkRtIYY8UbngCHp0RnJftmKrOReD3ukbbas4YDo,2d58ifebGbosy5xc+FRalgza/idOQNQmFWAzM6lG0p1qQ4seFjj00nEhi4m7apNgMVGWDkxOAC9oEd7ar+m4Hw==,2UNV7KOq4oGjA5+PKsX47HgIR8CKb9pzx2qB/ovqFLO8ZDY613cHYLbuhNMgAom1,Sa95Q4GZdWNQrQ55uraJG44XQ2PzbNmZQioQxLEiv1M=,d02tGnB+e73AfkjXXAHGTK6AJc3ASEtIyKhMWu0Edrg=,2jmwVdffH1Py+LoakQW9nTxapeMpyi0PQDWiPXtW1XIz1iZC7bfxYqJBqrVmETSSWnWobD2/ZymbJ3YOPZhUCg==
+Cache-Control: no-cache
+X-Content-Type-Options: nosniff

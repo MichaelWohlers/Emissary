@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:49:32 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 320
+X-Sorting-Hat-Shopid: 71813628225
+X-Storefront-Renderer-Rendered: 1
+Location: https://theclosethanger.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 71813628225
+X-Shardid: 320
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=11, db;dur=5, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="5474", requestID;desc="2f7b0037-a09b-49cb-ad7f-9f27e7dd6c5f"
+Server-Timing: cfRequestDuration;dur=46.999931
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 2f7b0037-a09b-49cb-ad7f-9f27e7dd6c5f
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=xaJU0aDUVpknr8drDzd7RJQ4qiGBCcDIqG5rFKeOAI%2B6cOduqVLiJYYk6dK2TRTB724Uy6dVbXRw%2FKy16IWIRSlDYEfLrSiun0owJ5Udcj7%2BeuflODmvK9%2FW9CElhmJZ8%2BYFIds1UKiW"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846622be5fd691ed-FRA
+Alt-Svc: h3=":443"; ma=86400

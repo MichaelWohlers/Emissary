@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:56:40 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 235
+X-Sorting-Hat-Shopid: 29975380106
+X-Storefront-Renderer-Rendered: 1
+Location: https://brownstreetboutique.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 29975380106
+X-Shardid: 235
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=6, db;dur=2, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="67nn", requestID;desc="cd422244-4b3f-406d-a875-926b16989f19"
+Server-Timing: cfRequestDuration;dur=36.999941
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: cd422244-4b3f-406d-a875-926b16989f19
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=F6XjEr%2Bfgnp8yD5zNpFE5gxo2p3SH8WjsA%2FNZQh8rbBoF%2BAb%2BcEbs%2FzTGIIP4PkcalrnN8WTLF2vV9ckde6z0dkl0K19kkDXgcY%2BpAsKXLo%2Fco4J7z83f7Q32MlaR7U6XM3mlj9cU2s3aDy3Vg%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84662d2eecdcbc03-FRA
+Alt-Svc: h3=":443"; ma=86400

@@ -1,0 +1,41 @@
+Date: Tue, 16 Jan 2024 11:48:35 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 175
+X-Sorting-Hat-Shopid: 55166664880
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=90d74726-2a5f-4a8e-96ea-2322d7511438; path=/; expires=Tue, 16 Jan 2024 12:18:35 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:48:35 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:48:35 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:48:35 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=thecottontreeboutique.com; path=/; expires=Wed, 17 Jan 2024 11:48:35 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=21c2e083-9657-4694-8421-35e06d948b9f; Expires=Wed, 15-Jan-25 11:48:35 GMT; Domain=thecottontreeboutique.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=9476a19a-8809-461e-a307-de52ac10bdad; Expires=Tue, 16-Jan-24 12:18:35 GMT; Domain=thecottontreeboutique.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 11:48:35 GMT; Domain=thecottontreeboutique.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2F; Expires=Tue, 30-Jan-24 11:48:35 GMT; Domain=thecottontreeboutique.com; Path=/; HttpOnly; SameSite=Lax
+Etag: "cacheable:08eb0b282beb5ef7959af7122e8644c6"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 55166664880
+X-Shardid: 175
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=11, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="120556454064", pageType;desc="index", servedBy;desc="qx6h", requestID;desc="bdbb8fe5-8a23-4a5c-9065-4726f07f25d8"
+Server-Timing: cfRequestDuration;dur=48.000097
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: bdbb8fe5-8a23-4a5c-9065-4726f07f25d8
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=kiAASGH5O4KD83oBwgwY%2F1I3FGiDOuGBdaop7E8%2FO1QVanAdCAgJOpsNGd1fjb5xuMMY3Q5XOQX9CQdqfSJG6lMU4cAqyE7Ig1c7CcCJtF1scuo2KiGbLiHe1qIHamUmVNYC9YozhDY%2FqiY%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84662157ac4b1c36-FRA
+Alt-Svc: h3=":443"; ma=86400

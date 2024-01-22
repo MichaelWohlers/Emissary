@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 09:30:06 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 95
+X-Sorting-Hat-Shopid: 25185255520
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=9e4c3164-f315-4f2c-87e7-16eefab6c6cf; path=/; expires=Tue, 16 Jan 2024 10:00:06 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 09:30:06 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 09:30:06 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 09:30:06 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=shopetudeboutique.com; path=/; expires=Wed, 17 Jan 2024 09:30:06 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=6aaa3495-5b19-48e7-bc6c-197a61ce72d0; Expires=Wed, 15-Jan-25 09:30:06 GMT; Domain=shopetudeboutique.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=eb55b497-7e59-44a5-bd8a-779e0fb251ff; Expires=Tue, 16-Jan-24 10:00:06 GMT; Domain=shopetudeboutique.com; Path=/; SameSite=Lax
+Etag: "cacheable:a4e7f6b0859334891be9ea55dc3cdc04"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 25185255520
+X-Shardid: 95
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=9, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="82684543072", servedBy;desc="zkgl", requestID;desc="1ae1b711-370d-491c-8428-b8af720c6eba"
+Server-Timing: cfRequestDuration;dur=43.999910
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 1ae1b711-370d-491c-8428-b8af720c6eba
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=1iD%2FKBN72dAPcIzjltArU8vMwGtQ7ADg0SGA7t6bwCRiQ71rLiNvLVQFzwOShDiJBb9aXmFWdEZsj4QVDZwC%2FKKyo3qRV9QYhovkesFH%2FxA%2F7YmlY3gx6WZkLYNbEhB8sgARlt3XA6xXkLM%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8465567dae6790e2-FRA
+Alt-Svc: h3=":443"; ma=86400

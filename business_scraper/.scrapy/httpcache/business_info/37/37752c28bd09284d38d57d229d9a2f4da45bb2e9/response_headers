@@ -1,0 +1,41 @@
+Date: Tue, 16 Jan 2024 11:55:29 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 307
+X-Sorting-Hat-Shopid: 71981039924
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=f954dc37-1b9a-4444-870c-2760a3311789; path=/; expires=Tue, 16 Jan 2024 12:25:29 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:55:29 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:55:29 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:55:29 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=thedashery.com; path=/; expires=Wed, 17 Jan 2024 11:55:29 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=a764de7d-ba3c-41f4-8d4a-1405e59ad921; Expires=Wed, 15-Jan-25 11:55:29 GMT; Domain=thedashery.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=6dce8961-eb26-4ab1-9ca8-4d5123f2937a; Expires=Tue, 16-Jan-24 12:25:29 GMT; Domain=thedashery.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 11:55:29 GMT; Domain=thedashery.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2F; Expires=Tue, 30-Jan-24 11:55:29 GMT; Domain=thedashery.com; Path=/; HttpOnly; SameSite=Lax
+Etag: "cacheable:b1b9431b1ae4e8183cbc747d8841a7b4"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 71981039924
+X-Shardid: 307
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=11, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="146570641716", pageType;desc="index", servedBy;desc="qb7b", requestID;desc="3ec51242-a01a-4505-ace6-0cec8851bd15"
+Server-Timing: cfRequestDuration;dur=38.999796
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 3ec51242-a01a-4505-ace6-0cec8851bd15
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=aDU9KqtrIk5h8ta6j8BlLrFclmlmgcn0U9Echit446hZXCUkXXV1ef%2B3nTN%2FvcXpafNMRA6s%2FVx3Ueebej3roiXHI5v9p9VsR%2BPz6%2BwPBG%2FOABw9OGanxu0O4Ay8NXof"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84662b77bf909076-FRA
+Alt-Svc: h3=":443"; ma=86400

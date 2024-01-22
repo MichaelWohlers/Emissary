@@ -1,0 +1,10 @@
+Date: Tue, 16 Jan 2024 11:43:11 GMT
+Content-Type: text/html; charset=utf-8
+Location: https://www.finethreadsmadison.com/robots.txt
+X-Backend: varnish_ssl
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Cf-Cache-Status: MISS
+Vary: Accept-Encoding
+Server: cloudflare
+Cf-Ray: 8466196f99f96add-FRA
+Alt-Svc: h3=":443"; ma=86400

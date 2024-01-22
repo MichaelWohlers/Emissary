@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:49:01 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 235
+X-Sorting-Hat-Shopid: 22681616456
+X-Storefront-Renderer-Rendered: 1
+Location: https://ferneboutique.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 22681616456
+X-Shardid: 235
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=8, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="rtwn", requestID;desc="beff8925-6d05-4c6d-a9bc-e08a739148f0"
+Server-Timing: cfRequestDuration;dur=40.000200
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: beff8925-6d05-4c6d-a9bc-e08a739148f0
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=LUGF9tlxw8fYiohcB3j6%2BOq%2FgdvR%2FukjUvkI9nPs3uRbgpCk6iAzbSdmOPnq9lgLb%2BBojbMNW7wOzyS2ndQnGV14SGF5IVm23azXtJB3Y7CN6OrrNMDLT4u0DqIit%2FUiemXt72Rexg%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846621fe6b403816-FRA
+Alt-Svc: h3=":443"; ma=86400

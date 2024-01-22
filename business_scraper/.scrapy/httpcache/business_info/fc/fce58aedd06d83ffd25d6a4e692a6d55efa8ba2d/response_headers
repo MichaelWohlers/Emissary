@@ -1,0 +1,29 @@
+Date: Tue, 16 Jan 2024 11:49:16 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 182
+X-Sorting-Hat-Shopid: 60909781175
+X-Storefront-Renderer-Rendered: 1
+Location: https://meplusinc.com/robots.txt
+X-Redirect-Reason: canonical_host_redirection
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 60909781175
+X-Shardid: 182
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=10, db;dur=5, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="bkhr", requestID;desc="f10ed085-3b64-4da9-8ce5-f7be08d3cbc2"
+Server-Timing: cfRequestDuration;dur=33.999920
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: f10ed085-3b64-4da9-8ce5-f7be08d3cbc2
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=36C1MF6AfdiMEC%2F2F1Hru4xpq3PlNS7y1Hbu3SVXO40%2F5shgjlWu0rKNFm1sP%2BpOEixQyaMJdUVH%2BnwdJ40DVG1v8C98ypU896BxJXqEAKP%2FNLS0XOjWYRAHz23wXBz5dho9"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84662257fbc271be-FRA
+Alt-Svc: h3=":443"; ma=86400

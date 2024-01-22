@@ -1,0 +1,17 @@
+Content-Length: 138
+Date: Tue, 16 Jan 2024 12:02:02 GMT
+Content-Type: text/html
+Location: https://theannexbycheapskates.com/robots.txt
+X-Dc: gcp-europe-west3
+X-Request-Id: b33997df-e19f-40a2-b07e-075868be4888
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=OGTr9swkf%2FV%2BsBlAUEkXWfgpurfUNs%2FC7I2DKFY0IAjgrXOOUKh94vjqYanu8h4D5%2B1ldmXeWOgnQ04MxSGgMrGbgxl3lqGeGxeY5oYAF7RoSyhIX86xWRcME0Zfqm3P64FmRMB%2FtA%2FzRa7MWPwx"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server-Timing: cfRequestDuration;dur=19.999981
+Server: cloudflare
+Cf-Ray: 8466350faf9d3654-FRA
+Alt-Svc: h3=":443"; ma=86400

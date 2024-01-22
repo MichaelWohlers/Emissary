@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:20:38 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 79
+X-Sorting-Hat-Shopid: 27035238480
+X-Storefront-Renderer-Rendered: 1
+Location: https://boutiquelavilla.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 27035238480
+X-Shardid: 79
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=8, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="mp9s", requestID;desc="28be1f9b-d7f3-4cfb-b94e-6f6ae1b165bf"
+Server-Timing: cfRequestDuration;dur=46.999931
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 28be1f9b-d7f3-4cfb-b94e-6f6ae1b165bf
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=5nfdmCBYCjLCnVEHb04YEanZajphLo9bCd2qu2F4CpmzzSlOdllPXoCHQHWW0oCjtau%2FlYhgyz1GUPYngjqXABPt%2B8CgOwKSOMI6UQZl1YrKyghqES6J5i3rebwAk7%2BdjqEjm%2F6OHGYq"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8465f86b1aef3600-FRA
+Alt-Svc: h3=":443"; ma=86400

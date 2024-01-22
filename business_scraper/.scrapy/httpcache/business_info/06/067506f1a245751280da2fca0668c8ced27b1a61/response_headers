@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 12:03:24 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 307
+X-Sorting-Hat-Shopid: 22200705
+X-Storefront-Renderer-Rendered: 1
+Location: https://theplusfactor.ca/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 22200705
+X-Shardid: 307
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=8, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="qw2t", requestID;desc="ab810115-5e03-477e-a473-2cfd8f38f513"
+Server-Timing: cfRequestDuration;dur=51.999807
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: ab810115-5e03-477e-a473-2cfd8f38f513
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Mbamp0t8uir7OZlAVXFHIxfJuNgdZF12rweYopXGCB49QsnWBNNLcuP2lEwr4mcKASpnUw6vZnRdEwFVemYY67QQDiVHd2YDD0IQIlqx4stXotTcwZ1xvImf4ma1mSiubZQ%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8466370abb723a79-FRA
+Alt-Svc: h3=":443"; ma=86400

@@ -1,0 +1,38 @@
+Date: Tue, 16 Jan 2024 12:01:11 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 186
+X-Sorting-Hat-Shopid: 55017701563
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=a3fe76f1-29c6-4962-a273-98508c6f846d; path=/; expires=Tue, 16 Jan 2024 12:31:11 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 12:01:11 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 12:01:11 GMT
+Set-Cookie: cart_currency=EUR; path=/; expires=Tue, 30 Jan 2024 12:01:11 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Afalse%2C%22a%22%3Afalse%2C%22m%22%3Afalse%2C%22t%22%3Afalse%7D%2C%22display_banner%22%3Atrue%2C%22sale_of_data_region%22%3Afalse%7D; domain=julythird.ca; path=/; expires=Wed, 17 Jan 2024 12:01:11 GMT; SameSite=Lax
+Set-Cookie: _tracking_consent=%7B%22region%22%3A%22DERP%22%2C%22reg%22%3A%22GDPR%22%2C%22con%22%3A%7B%22CMP%22%3A%7B%22p%22%3A%22%22%2C%22s%22%3A%22%22%2C%22a%22%3A%22%22%2C%22m%22%3A%22%22%7D%7D%2C%22lim%22%3A%5B%22CCPA%22%2C%22GDPR_BLOCK_ALL%22%5D%2C%22v%22%3A%222.1%22%7D; Expires=Wed, 15-Jan-25 12:01:11 GMT; Domain=julythird.ca; Path=/; SameSite=Lax
+Etag: "cacheable:0a55d0e3be9e0d842b8e6afef8c272dc"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 55017701563
+X-Shardid: 186
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=16;desc="gc:1", db;dur=7, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="126565253307", servedBy;desc="2pxx", requestID;desc="6d36c284-9a09-47b3-be7a-b4bac87ae5b2"
+Server-Timing: cfRequestDuration;dur=46.999931
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 6d36c284-9a09-47b3-be7a-b4bac87ae5b2
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=5EcyjQ%2FaE4JtTahFSGtCNiFvbbJ92sA5Z0cnlqpPyO5XuzhvTQXxj2a8FV4tPHpr4bkQKhig1EmkZHXuXbMolaxPskLxpMJgwADPcQGmpyP87b%2BGYKS3uNmJHa57%2FA%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846633ceda953667-FRA
+Alt-Svc: h3=":443"; ma=86400

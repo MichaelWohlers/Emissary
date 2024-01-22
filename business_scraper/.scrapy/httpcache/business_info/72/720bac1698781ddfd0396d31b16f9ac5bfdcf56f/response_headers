@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:21:03 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 249
+X-Sorting-Hat-Shopid: 10151377
+X-Storefront-Renderer-Rendered: 1
+Location: https://www.accboutique.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 10151377
+X-Shardid: 249
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=10, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="lx4r", requestID;desc="aecef93b-1520-4fc5-85ab-7383d6c78d22"
+Server-Timing: cfRequestDuration;dur=40.999889
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: aecef93b-1520-4fc5-85ab-7383d6c78d22
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=wV%2Bb9XL1J1VEdlS0ZGaDdCoF2Usx0seu%2Fyt3O%2BXBJ5Tx0kvlTmZf24meg%2BTGt8frGdcdV93e4V7jOTeby8wwJw6Xl3XNwVr7zUAINhjx6o0occeJkE7xUnwHPZGE0xoImJkKmQ8%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8465f9029bab3612-FRA
+Alt-Svc: h3=":443"; ma=86400

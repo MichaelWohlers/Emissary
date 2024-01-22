@@ -1,0 +1,16 @@
+Content-Type: text/html; charset=UTF-8
+Link: <https://primrosesignatureboutique.com/wp-json/>; rel="https://api.w.org/"
+Link: <https://primrosesignatureboutique.com/wp-json/wp/v2/pages/11>; rel="alternate"; type="application/json"
+Link: <https://primrosesignatureboutique.com/>; rel=shortlink
+Etag: "19390-1705355510;gz"
+X-Litespeed-Cache: hit
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Date: Tue, 16 Jan 2024 11:48:25 GMT
+Server: LiteSpeed
+X-Turbo-Charged-By: LiteSpeed
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload;
+Referrer-Policy: no-referrer-when-downgrade

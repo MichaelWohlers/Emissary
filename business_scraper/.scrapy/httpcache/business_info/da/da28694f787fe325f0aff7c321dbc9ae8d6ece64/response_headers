@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:58:13 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 316
+X-Sorting-Hat-Shopid: 43070718112
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=bd088203-326e-42db-b3ee-e386e56ae035; path=/; expires=Tue, 16 Jan 2024 12:28:13 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:58:13 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:58:13 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:58:13 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=beyondthebasicsfashionboutique.com; path=/; expires=Wed, 17 Jan 2024 11:58:13 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=148f9354-defe-45b7-8429-70c565202b58; Expires=Wed, 15-Jan-25 11:58:13 GMT; Domain=beyondthebasicsfashionboutique.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=c45f4ec4-d646-45d1-95c4-941c7c880898; Expires=Tue, 16-Jan-24 12:28:13 GMT; Domain=beyondthebasicsfashionboutique.com; Path=/; SameSite=Lax
+Etag: "cacheable:e7d827e9d46c0aad0a22bf06e1f4c432"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 43070718112
+X-Shardid: 316
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=10, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="162937569597", servedBy;desc="mxgx", requestID;desc="8dae4cfc-7d23-4093-b181-6e838fd33867"
+Server-Timing: cfRequestDuration;dur=39.000034
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 8dae4cfc-7d23-4093-b181-6e838fd33867
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=IvSQR2%2BQuiJvb9n8BYuQGQ7KX7qEFj%2BXFXND8uCD1y9ZbdkX67sMLR78WXnl9%2BXonSABazEW5nIe1fojf8d7Wt5i3X3CmmOh3%2FoOjJ7wx3ynuSiL4MDVfgPhtMuC1Ze8p9OeXBnVyc1pwIvZlWqg%2B7ZTpsc%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84662f772e9e2ba2-FRA
+Alt-Svc: h3=":443"; ma=86400

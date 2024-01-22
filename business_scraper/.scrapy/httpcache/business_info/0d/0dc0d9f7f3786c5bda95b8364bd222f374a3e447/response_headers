@@ -1,0 +1,18 @@
+Content-Length: 126
+X-Powered-By: PHP/8.2.11
+X-Robots-Tag: noindex, follow
+Link: <https://www.coinbox2.com/wp-json/>; rel="https://api.w.org/"
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding,User-Agent
+Etag: "1738-1705350891;gz"
+X-Litespeed-Cache: hit
+Content-Encoding: gzip
+Date: Tue, 16 Jan 2024 12:04:01 GMT
+Server: LiteSpeed
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=31536000
+Referrer-Policy: no-referrer-when-downgrade
+Permissions-Policy: geolocation=(), accelerometer=Origin(), autoplay=(), camera=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), publickey-credentials-get=(), usb=()
+Alt-Svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000; v="43,46"

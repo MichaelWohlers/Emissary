@@ -1,0 +1,16 @@
+Content-Length: 128
+Date: Tue, 16 Jan 2024 11:50:47 GMT
+Server: Apache
+X-Powered-By: PHP/7.3.33
+X-Robots-Tag: noindex, follow
+Link: <https://fareenfashions.ca/wp-json/>; rel="https://api.w.org/"
+Set-Cookie: apbct_timestamp=1705405847; path=/; HttpOnly; SameSite=Lax
+Set-Cookie: apbct_site_landing_ts=1705405847; path=/; HttpOnly; SameSite=Lax
+Set-Cookie: apbct_page_hits=1; path=/; HttpOnly; SameSite=Lax
+Set-Cookie: apbct_cookies_test=%257B%2522cookies_names%2522%253A%255B%2522apbct_timestamp%2522%252C%2522apbct_site_landing_ts%2522%252C%2522apbct_page_hits%2522%255D%252C%2522check_value%2522%253A%2522038107fad082f05d1e300703fe3305c2%2522%257D; path=/; HttpOnly; SameSite=Lax
+Set-Cookie: apbct_urls=%7B%22fareenfashions.ca%2Frobots.txt%22%3A%5B1705405847%5D%7D; expires=Fri, 19-Jan-2024 11:50:47 GMT; Max-Age=259200; path=/; domain=fareenfashions.ca; HttpOnly; SameSite=Lax
+Set-Cookie: apbct_site_referer=UNKNOWN; expires=Fri, 19-Jan-2024 11:50:47 GMT; Max-Age=259200; path=/; domain=fareenfashions.ca; HttpOnly; SameSite=Lax
+Set-Cookie: mailchimp_landing_site=https%3A%2F%2Ffareenfashions.ca%2Frobots.txt; expires=Tue, 13-Feb-2024 11:50:47 GMT; Max-Age=2419200; path=/; secure; SameSite=Strict
+Vary: Accept-Encoding,User-Agent
+Content-Encoding: gzip
+Content-Type: text/plain; charset=utf-8

@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /apps/store/productDetail/
+Disallow: /apps/checkout/
+Disallow: /apps/jcom/contact/
+Disallow: /apps/profile/
+Disallow: /yearbooks/yearbook-gift-with-purchase.html
+Allow: /contact/index.mvc
+
+Sitemap: https://www.jostens.com/sitemap.xml

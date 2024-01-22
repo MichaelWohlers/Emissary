@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:46:53 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 298
+X-Sorting-Hat-Shopid: 74525606187
+X-Storefront-Renderer-Rendered: 1
+Location: https://oxandbull.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 74525606187
+X-Shardid: 298
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=7, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="mxgx", requestID;desc="a669a25f-c280-4668-999f-a665855f4a95"
+Server-Timing: cfRequestDuration;dur=35.000086
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: a669a25f-c280-4668-999f-a665855f4a95
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=S25MdV5w2kZBbQocM8M3V5nkpbBCiE%2BD%2FYzo6KO9pFuTljaIa2Ete%2B4%2B4M1HDu3gpH6j75e1gTllHI%2BSWaZW7x2DS%2FTBs%2FkUmv9aim0fu15bn1B3KSzAgxlaWjsYFBGUbkDl"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661ed93b1565d1-FRA
+Alt-Svc: h3=":443"; ma=86400

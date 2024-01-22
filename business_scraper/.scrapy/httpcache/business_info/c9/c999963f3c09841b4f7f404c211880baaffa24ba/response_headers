@@ -1,0 +1,14 @@
+Server: nginx
+Date: Tue, 16 Jan 2024 11:57:51 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+X-Xss-Protection: 0
+X-Content-Type-Options: nosniff
+Referrer-Policy: strict-origin-when-cross-origin
+Content-Security-Policy: upgrade-insecure-requests;
+X-Cache-Enabled: True
+Link: <https://curatedclosetco.com/wp-json/>; rel="https://api.w.org/", <https://curatedclosetco.com/wp-json/wp/v2/pages/8>; rel="alternate"; type="application/json", <https://curatedclosetco.com/>; rel=shortlink
+X-Httpd: 1
+Host-Header: 8441280b0c35cbc1147f8ba998a563a7
+X-Proxy-Cache: HIT
+Content-Encoding: gzip

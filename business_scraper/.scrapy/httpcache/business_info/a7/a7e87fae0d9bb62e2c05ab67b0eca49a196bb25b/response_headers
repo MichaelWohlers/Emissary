@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:34:15 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 232
+X-Sorting-Hat-Shopid: 30330912903
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=224f0d65-ae90-4167-9d96-7b664d75b791; path=/; expires=Tue, 16 Jan 2024 12:04:15 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:34:15 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:34:15 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:34:15 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=oohlalayellville.com; path=/; expires=Wed, 17 Jan 2024 11:34:15 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=304f925b-3437-4190-9063-072806b60cec; Expires=Wed, 15-Jan-25 11:34:15 GMT; Domain=oohlalayellville.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=111c2442-19e2-4bbc-9572-5b13fa2a8a45; Expires=Tue, 16-Jan-24 12:04:15 GMT; Domain=oohlalayellville.com; Path=/; SameSite=Lax
+Etag: "cacheable:bde13ebae867ca2f4074980f1056b5c9"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 30330912903
+X-Shardid: 232
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=17, db;dur=7, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="83866091655", servedBy;desc="9gm4", requestID;desc="cea66f5d-8089-4f1e-90fc-49a104639f01"
+Server-Timing: cfRequestDuration;dur=60.999870
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: cea66f5d-8089-4f1e-90fc-49a104639f01
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=lTn1AxUsp2sBHcyV1kMPrtklgA7mpcZtLevxBTNemWC%2BBxrvYWi1RWR9xpcStwZphyy4F%2FeNsUADLyjnP%2F%2FOFlPKWyo1HGOj%2Fnujx0s5l%2Fjq23jwbaksUGZ5EYo3qhXHB7cOmvcM"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84660c5a9e787185-FRA
+Alt-Svc: h3=":443"; ma=86400

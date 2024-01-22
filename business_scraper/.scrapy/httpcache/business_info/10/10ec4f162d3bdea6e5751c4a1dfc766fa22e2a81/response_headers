@@ -1,0 +1,26 @@
+Date: Tue, 16 Jan 2024 11:02:38 GMT
+Content-Type: text/html;charset=utf-8
+P3P: CP="ALL PUR DSP CUR ADMi DEVi CONi OUR COR IND"
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Ua-Compatible: IE=Edge,chrome=1
+X-Xss-Protection: 1; mode=block
+Set-Cookie: session_id=591a6fe385e4db5f37f7e6c64885e292; expires=Tue, 16-Jan-2024 11:32:33 GMT; Max-Age=1795; path=/; secure; HttpOnly; SameSite=none
+Set-Cookie: COOKIELAW=optin; expires=Thu, 16-Jan-2025 11:02:38 GMT; Max-Age=31622400; path=/; secure; SameSite=none
+Set-Cookie: COOKIELAW_SOCIAL=1; expires=Thu, 16-Jan-2025 11:02:38 GMT; Max-Age=31622400; path=/; secure; SameSite=none
+Set-Cookie: COOKIELAW_STATS=1; expires=Thu, 16-Jan-2025 11:02:38 GMT; Max-Age=31622400; path=/; secure; SameSite=none
+Set-Cookie: COOKIELAW_ADS=1; expires=Thu, 16-Jan-2025 11:02:38 GMT; Max-Age=31622400; path=/; secure; SameSite=none
+Set-Cookie: __cf_bm=YxR.8CcfID2OFhPod5EmbtFDReSMlxYMMsDlpSRoW78-1705402958-1-AYBBUMnK0R81FNc22W8+n7v83CDcdZmGNiK14f6mSFAakTG6znKWcbl/iaQlVPFjQyhDplU6wamG5OOTmK/jRUs=; path=/; expires=Tue, 16-Jan-24 11:32:38 GMT; domain=.www.adelanteaustin.com; HttpOnly; Secure; SameSite=None
+X-Developer: Page: 46.8ms, Render: 5.7ms, Mem: 2,048kB, Cache: 0Q (0.0ms), DB: 10Q (19.8ms), Prop: 0Q (0.0ms)
+X-Runtime: 0.072229
+X-Shop-Id: 616788
+Cache-Control: no-cache
+Vary: Accept-Encoding
+X-Request-Id: e5fbfd2760b2ddff13bf5ed118e4ebcd
+X-Envoy-Upstream-Service-Time: 76
+Cf-Cache-Status: DYNAMIC
+Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
+Server: cloudflare
+Cf-Ray: 8465de083f28360e-FRA
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400

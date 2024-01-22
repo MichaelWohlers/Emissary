@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:47:11 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 312
+X-Sorting-Hat-Shopid: 26416611362
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=94ccf0cc-59d1-4966-bf83-e61efaa194d7; path=/; expires=Tue, 16 Jan 2024 12:17:11 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:47:11 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:47:11 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:47:11 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=thetrendboutiquewi.com; path=/; expires=Wed, 17 Jan 2024 11:47:11 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=96acb378-f754-4225-8bce-9450d2412abb; Expires=Wed, 15-Jan-25 11:47:11 GMT; Domain=thetrendboutiquewi.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=fa6b80bd-58ed-44f3-9698-cdf78e1e61ce; Expires=Tue, 16-Jan-24 12:17:11 GMT; Domain=thetrendboutiquewi.com; Path=/; SameSite=Lax
+Etag: "cacheable:bb94bb168ec7c44b1ff112c6d35712f5"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 26416611362
+X-Shardid: 312
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=11, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="76451545122", servedBy;desc="k7hn", requestID;desc="dbd40e17-8775-4ae9-a279-d93c43a009a2"
+Server-Timing: cfRequestDuration;dur=47.000170
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: dbd40e17-8775-4ae9-a279-d93c43a009a2
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=lTab4aFppx3J5ja%2FnUnPka1rOD82UHleJ81hW8VVGKOBrgCAg4jopxOWHL%2BfeA79SSoY5lg86Cd6dh2Qr8HXSciXv5M7lTNnsne8wOLUcENvTA63BAK53ixQAz8UuIhCyEJ68qhHP8o%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661f49b96d2c3e-FRA
+Alt-Svc: h3=":443"; ma=86400

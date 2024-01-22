@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:37:09 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 226
+X-Sorting-Hat-Shopid: 45046202523
+X-Storefront-Renderer-Rendered: 1
+Location: https://loftvineboutique.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 45046202523
+X-Shardid: 226
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=12, db;dur=5, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="jww9", requestID;desc="1490966c-2a83-4fc0-9d43-f732a25351ac"
+Server-Timing: cfRequestDuration;dur=71.000099
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 1490966c-2a83-4fc0-9d43-f732a25351ac
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=NlXYlYhxkAy9TokOifc4t1jNVGl06zCSdiQTnoKbXvEZq4EWGg0PfJys3gNY2hQTsV5KBQdfgU%2BbbSzPZUfaYs38i0cZu3%2FgDlMI8GtAm78v%2FQh5MV2HMf%2BeQRqoFD5SxeRegvk%2BpeVC6g%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846610986fd89b49-FRA
+Alt-Svc: h3=":443"; ma=86400

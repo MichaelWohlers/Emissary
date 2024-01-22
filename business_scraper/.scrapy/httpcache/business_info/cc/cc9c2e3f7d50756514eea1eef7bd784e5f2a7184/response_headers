@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:47:01 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 58
+X-Sorting-Hat-Shopid: 34768388155
+X-Storefront-Renderer-Rendered: 1
+Location: https://shopwillowlax.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 34768388155
+X-Shardid: 58
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=9, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="8zds", requestID;desc="401fdf0e-767b-4ff3-9aaf-679a09c2c737"
+Server-Timing: cfRequestDuration;dur=47.999859
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 401fdf0e-767b-4ff3-9aaf-679a09c2c737
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=E2GVUc2WW%2FMn8beYKA0oXift8I%2BzntV0OPKdmwXU8iC23oxmphbpCwgTmXixGwy3OghXAIRTgQbF3DlTngde%2FjOp%2BaYdwJLaYjsS5VZBPKzCD1HZAffC051OOiELa7EbgW3NAOWRhQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661f0e6d539225-FRA
+Alt-Svc: h3=":443"; ma=86400

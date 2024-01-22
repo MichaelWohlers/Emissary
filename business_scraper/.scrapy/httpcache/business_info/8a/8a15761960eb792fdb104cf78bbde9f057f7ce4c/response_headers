@@ -1,0 +1,38 @@
+Date: Tue, 16 Jan 2024 11:47:55 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 294
+X-Sorting-Hat-Shopid: 70132990247
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=b3d71ffd-abf9-4913-80ca-9ce7fce3703a; path=/; expires=Tue, 16 Jan 2024 12:17:55 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:47:55 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:47:55 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:47:55 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Afalse%2C%22a%22%3Afalse%2C%22m%22%3Afalse%2C%22t%22%3Afalse%7D%2C%22display_banner%22%3Atrue%2C%22sale_of_data_region%22%3Afalse%7D; domain=jaybs-3484.myshopify.com; path=/; expires=Wed, 17 Jan 2024 11:47:55 GMT; SameSite=Lax
+Set-Cookie: _tracking_consent=%7B%22region%22%3A%22DERP%22%2C%22reg%22%3A%22GDPR%22%2C%22con%22%3A%7B%22CMP%22%3A%7B%22m%22%3A%22%22%2C%22a%22%3A%22%22%2C%22p%22%3A%22%22%2C%22s%22%3A%22%22%7D%7D%2C%22v%22%3A%222.1%22%2C%22lim%22%3A%5B%22GDPR_BLOCK_ALL%22%5D%7D; Expires=Wed, 15-Jan-25 11:47:55 GMT; Domain=jaybs-3484.myshopify.com; Path=/; SameSite=Lax
+Etag: "cacheable:97b54a2219540dc6ca2b6b52299158e8"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 70132990247
+X-Shardid: 294
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=9, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="140790595879", servedBy;desc="pqvk", requestID;desc="d6eccab7-703b-4876-9d72-033db43f2092"
+Server-Timing: cfRequestDuration;dur=42.999983
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: d6eccab7-703b-4876-9d72-033db43f2092
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=OlHIGaoNnsSm%2B734ZPo0iuBMcwtqtORY%2B2RRWimA49S5%2B6gkT4EznLg8SMQ8cezXz0BhECG53eEA0%2BeO8iIAbfm43az%2B26OG4pImM2sb88MdyJhmmq63KKEm6%2FjXSGYE745nqm5GN9zSpA%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8466205e48f15b62-FRA
+Alt-Svc: h3=":443"; ma=86400

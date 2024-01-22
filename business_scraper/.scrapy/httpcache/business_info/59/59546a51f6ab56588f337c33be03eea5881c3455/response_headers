@@ -1,0 +1,41 @@
+Date: Tue, 16 Jan 2024 11:37:29 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 171
+X-Sorting-Hat-Shopid: 41507520676
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=94ffa765-06bc-4530-9dd6-2e35a5cf43f6; path=/; expires=Tue, 16 Jan 2024 12:07:29 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:37:29 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:37:29 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:37:29 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=villageboutiquebolivar.com; path=/; expires=Wed, 17 Jan 2024 11:37:29 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=d68e49a9-25a7-45f6-9c5a-7ba94f22f613; Expires=Wed, 15-Jan-25 11:37:29 GMT; Domain=villageboutiquebolivar.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=83e95c47-2df3-4ccd-bfc2-364c5ae7e72b; Expires=Tue, 16-Jan-24 12:07:29 GMT; Domain=villageboutiquebolivar.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 11:37:29 GMT; Domain=villageboutiquebolivar.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2F; Expires=Tue, 30-Jan-24 11:37:29 GMT; Domain=villageboutiquebolivar.com; Path=/; HttpOnly; SameSite=Lax
+Etag: "cacheable:806405b7498e2add54963bd3029c3703"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 41507520676
+X-Shardid: 171
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=9, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="129838645420", pageType;desc="index", servedBy;desc="8zc8", requestID;desc="9e809dea-17e9-401e-ac99-56d9b87f6a56"
+Server-Timing: cfRequestDuration;dur=44.999838
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 9e809dea-17e9-401e-ac99-56d9b87f6a56
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=wh7s%2FzeWM3l7eOq1VucLI1E6QCDcE8HL1QCZm4rish04vlQ8mW3uCBx%2FzwjISkjyXTEZ6ridNOuUiRYoUbrkFoFSxRksxsUBpqh1QxUO7WzUwMlwIgaLKPF2EsYZ%2FfaPSVBwf7cEN%2FI0Udqj"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8466111a086c9170-FRA
+Alt-Svc: h3=":443"; ma=86400

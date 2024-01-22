@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:44:45 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 224
+X-Sorting-Hat-Shopid: 25999886
+X-Storefront-Renderer-Rendered: 1
+Location: https://shopfineryfashion.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 25999886
+X-Shardid: 224
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=10, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="w7lw", requestID;desc="370ce593-807c-4f06-a939-1a012c1153c9"
+Server-Timing: cfRequestDuration;dur=39.999962
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 370ce593-807c-4f06-a939-1a012c1153c9
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=7XswUlfSBeTs%2BXHj8mtL0pq5YoxazhcLJjJIfqj8kQMOSZClJ%2B01TNXemRQgTMHlJyPlqwQAnQdyzw0G9f6YdgynKr4ZV4vaOn5pbRm7CDYMuHvjK%2B%2BJzWPgYZL9uLIbp2%2Fu1HElh6pRdrk%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661bb97e9635e6-FRA
+Alt-Svc: h3=":443"; ma=86400

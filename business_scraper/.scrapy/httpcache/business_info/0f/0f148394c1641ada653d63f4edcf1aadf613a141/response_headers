@@ -1,0 +1,22 @@
+Date: Tue, 16 Jan 2024 11:48:54 GMT
+Content-Type: text/plain;charset=utf-8
+P3P: CP="ALL PUR DSP CUR ADMi DEVi CONi OUR COR IND"
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Ua-Compatible: IE=Edge,chrome=1
+X-Xss-Protection: 1; mode=block
+X-Developer: Page: 5.4ms, Render: 0.0ms, Mem: 2,048kB, Cache: 0Q (0.0ms), DB: 0Q (0.0ms), Prop: 0Q (0.0ms)
+X-Runtime: 0.005437
+X-Shop-Id: 
+Cache-Control: no-cache
+Content-Encoding: gzip
+Vary: Accept-Encoding
+X-Request-Id: fb642b7703b810448ec768ceed6cf1f1
+X-Envoy-Upstream-Service-Time: 8
+Cf-Cache-Status: MISS
+Last-Modified: Tue, 16 Jan 2024 11:48:54 GMT
+Set-Cookie: __cf_bm=aT2p6RorC7Khysxo3gHCabsmGB6jZUVoVgi6ux6LySM-1705405734-1-AbWK22756f62S83/XV2HqGIZiTKK7sdJvtMTfASvwMqxHZOet31a6a7u5VtJ0lKdJVu2Ntnk4MBmWKaWbdNdKaI=; path=/; expires=Tue, 16-Jan-24 12:18:54 GMT; domain=.www.tlccasuals.com; HttpOnly; Secure; SameSite=None
+Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
+Server: cloudflare
+Cf-Ray: 846621cf5bbd365a-FRA
+Alt-Svc: h3=":443"; ma=86400

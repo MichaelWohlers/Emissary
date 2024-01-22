@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:49:29 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 276
+X-Sorting-Hat-Shopid: 73473818901
+X-Storefront-Renderer-Rendered: 1
+Location: https://www.shopbestillboutique.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 73473818901
+X-Shardid: 276
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=23;desc="gc:1", db;dur=5, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="xn64", requestID;desc="05079a10-9793-45b5-a256-1762a265598d"
+Server-Timing: cfRequestDuration;dur=54.999828
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 05079a10-9793-45b5-a256-1762a265598d
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=7QuKHq7MGsZj6eH1ZEKMmrMTM%2FH9M3mG4r15hzVQR42PcPEgxiNF%2BzWN2%2B%2BQeZvsy7vZMrOjCP4L8B0e9RdtwLslro%2BZQnDIM%2BnNkJvv6EsFkPrWWt%2BV05idn6A8cb%2B4%2FcjVSGjgYLDZA%2B1u5g%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846622acbaee3821-FRA
+Alt-Svc: h3=":443"; ma=86400

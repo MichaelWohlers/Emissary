@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:43:32 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 321
+X-Sorting-Hat-Shopid: 66932113730
+X-Storefront-Renderer-Rendered: 1
+Location: https://thedesignchambers.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 66932113730
+X-Shardid: 321
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=8, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="h7h8", requestID;desc="dd52fd21-3432-4781-8aaf-e3e301f580b2"
+Server-Timing: cfRequestDuration;dur=54.999828
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: dd52fd21-3432-4781-8aaf-e3e301f580b2
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=MQdRWwCnQFgVEdSqkcHmdsVA1CsV0yb4g3%2FBH7TZfdiIhGT3CpkvscMFkIpnQfEeMnKLxiCfqtBO9DsIHcGs8h6R9iCo6b2mbmcC42JbEBul2Z0htOF7tvtXiYkgAzETkWnmGjqjRg%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846619f3688f043a-FRA
+Alt-Svc: h3=":443"; ma=86400

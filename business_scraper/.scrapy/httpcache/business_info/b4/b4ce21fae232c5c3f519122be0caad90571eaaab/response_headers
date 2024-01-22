@@ -1,0 +1,41 @@
+Date: Tue, 16 Jan 2024 11:37:35 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 249
+X-Sorting-Hat-Shopid: 62334796026
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=628c7c3c-ea7e-4df8-81fb-938187b2840b; path=/; expires=Tue, 16 Jan 2024 12:07:35 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:37:35 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:37:35 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:37:35 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=oneelevenolive.com; path=/; expires=Wed, 17 Jan 2024 11:37:35 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=8a77d212-181e-457f-909e-3c6d08c2c3d6; Expires=Wed, 15-Jan-25 11:37:35 GMT; Domain=oneelevenolive.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=201267ea-2546-488f-88f9-b81b628afa5e; Expires=Tue, 16-Jan-24 12:07:35 GMT; Domain=oneelevenolive.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 11:37:35 GMT; Domain=oneelevenolive.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2F; Expires=Tue, 30-Jan-24 11:37:35 GMT; Domain=oneelevenolive.com; Path=/; HttpOnly; SameSite=Lax
+Etag: "cacheable:4c10684e0f574e4e24a737e4cb4c5b6d"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin, <//www.oneelevenolive.com/cdn/shop/t/93/assets/theme.css?v=170204334973048289181702912331>; as="style"; rel="preload", <//www.oneelevenolive.com/cdn/shop/files/HERO_BANNERS_do_not_resize_64.png?v=1704726095&width=1600>; as="image"; rel="preload"; imagesrcset="//www.oneelevenolive.com/cdn/shop/files/HERO_BANNERS_do_not_resize_64.png?v=1704726095&width=360 360w, //www.oneelevenolive.com/cdn/shop/files/HERO_BANNERS_do_not_resize_64.png?v=1704726095&width=540 540w, //www.oneelevenolive.com/cdn/shop/files/HERO_BANNERS_do_not_resize_64.png?v=1704726095&width=720 720w, //www.oneelevenolive.com/cdn/shop/files/HERO_BANNERS_do_not_resize_64.png?v=1704726095&width=900 900w, //www.oneelevenolive.com/cdn/shop/files/HERO_BANNERS_do_not_resize_64.png?v=1704726095&width=1080 1080w, //www.oneelevenolive.com/cdn/shop/files/HERO_BANNERS_do_not_resize_64.png?v=1704726095&width=1600 1600w"; imagesizes="(min-width: 769px) 100vw, 100vw", <//www.oneelevenolive.com/cdn/shop/files/2_146d1c2f-a752-419b-8975-b45e17c0b73d.png?v=1696086473&width=1600>; as="image"; rel="preload"; imagesrcset="//www.oneelevenolive.com/cdn/shop/files/2_146d1c2f-a752-419b-8975-b45e17c0b73d.png?v=1696086473&width=360 360w, //www.oneelevenolive.com/cdn/shop/files/2_146d1c2f-a752-419b-8975-b45e17c0b73d.png?v=1696086473&width=540 540w, //www.oneelevenolive.com/cdn/shop/files/2_146d1c2f-a752-419b-8975-b45e17c0b73d.png?v=1696086473&width=720 720w, //www.oneelevenolive.com/cdn/shop/files/2_146d1c2f-a752-419b-8975-b45e17c0b73d.png?v=1696086473&width=900 900w, //www.oneelevenolive.com/cdn/shop/files/2_146d1c2f-a752-419b-8975-b45e17c0b73d.png?v=1696086473&width=1080 1080w, //www.oneelevenolive.com/cdn/shop/files/2_146d1c2f-a752-419b-8975-b45e17c0b73d.png?v=1696086473&width=1600 1600w"; imagesizes="(min-width: 769px) 100vw, 100vw"
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 62334796026
+X-Shardid: 249
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=12, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="138889265402", pageType;desc="index", servedBy;desc="m89h", requestID;desc="95cbe233-7d28-4419-9264-ce3a2252d2f2"
+Server-Timing: cfRequestDuration;dur=43.999910
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 95cbe233-7d28-4419-9264-ce3a2252d2f2
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=qUcNJZtxKqOIdtL6zmJcrFBG3Z4WukDoaiQqpTQ74E5GMefP6D2kJxmwofBc0mdnIsdD6l7SzfU%2BcvHvBcrfCZQTj1aslynMrO%2FMunEw98kvmvhyM9tmf%2FPgAmuZxGtFO%2BoFdjP%2BYLY%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8466113d8907bc04-FRA
+Alt-Svc: h3=":443"; ma=86400

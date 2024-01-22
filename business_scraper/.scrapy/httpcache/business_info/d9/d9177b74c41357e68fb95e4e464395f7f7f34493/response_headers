@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 09:29:59 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 95
+X-Sorting-Hat-Shopid: 25185255520
+X-Storefront-Renderer-Rendered: 1
+Location: https://www.shopetudeboutique.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 25185255520
+X-Shardid: 95
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=5, db;dur=2, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="zkgl", requestID;desc="67914d05-cf8e-433b-b942-996f1544683c"
+Server-Timing: cfRequestDuration;dur=37.999868
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 67914d05-cf8e-433b-b942-996f1544683c
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Yu4%2BBEYxwtN%2BctPl6%2FRQQz3pMDof7jSsaDOcvGfTBRIuk5WH8GB8sCP7MruDlysbqoWl7uZM%2BwekencazoFRZom4Ma0Z5lj1WvUMzxHWArKEX1TlOyyyzDLn05kE57EREyk1LccbTSOQa%2Bc%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846556529ae165aa-FRA
+Alt-Svc: h3=":443"; ma=86400

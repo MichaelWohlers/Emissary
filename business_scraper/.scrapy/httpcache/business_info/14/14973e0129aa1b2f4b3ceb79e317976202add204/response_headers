@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 12:03:12 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 220
+X-Sorting-Hat-Shopid: 52203782298
+X-Storefront-Renderer-Rendered: 1
+Location: https://www.stepup.fashion/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 52203782298
+X-Shardid: 220
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=14;desc="gc:1", db;dur=5, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="w6wv", requestID;desc="27eeb48a-3f34-4071-bad3-5c14360398a5"
+Server-Timing: cfRequestDuration;dur=50.000191
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 27eeb48a-3f34-4071-bad3-5c14360398a5
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=ffknR0HMp1X5ju7gCwZGlK2t%2BiYkzwVTDGx4%2BMSleoI0ETMvAalDCs0oLHqMIAjiHh42ng3EjRO%2FtbVFXsB91hElpE%2BPYNxnMiylChWTrbbhH9gIjNJgBrCAoxbza2sOMBk53A%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846636c5196e1c03-FRA
+Alt-Svc: h3=":443"; ma=86400

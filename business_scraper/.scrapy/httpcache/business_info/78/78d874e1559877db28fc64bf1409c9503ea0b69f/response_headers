@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 07:04:25 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 93
+X-Sorting-Hat-Shopid: 22188805
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=6a08a2d6-c4a9-417c-898d-cfd5d42dfd45; path=/; expires=Tue, 16 Jan 2024 07:34:25 GMT; secure; HttpOnly; SameSite=None
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 07:04:25 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 07:04:25 GMT; secure; SameSite=None
+Set-Cookie: cart_currency=EUR; path=/; expires=Tue, 30 Jan 2024 07:04:25 GMT; secure; SameSite=None
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=divasdenfashion.com; path=/; expires=Wed, 17 Jan 2024 07:04:25 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=e66866eb-356c-4c83-b58f-d150b3868930; Expires=Wed, 15-Jan-25 07:04:25 GMT; Domain=divasdenfashion.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=26c75b12-0aa7-4fe8-bbb6-ac19e80b94bb; Expires=Tue, 16-Jan-24 07:34:25 GMT; Domain=divasdenfashion.com; Path=/; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+Etag: "cacheable:a166f3ad151275c286b13f71a8ea77dd"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 22188805
+X-Shardid: 93
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=19, db;dur=8, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="120499142750", servedBy;desc="967r", requestID;desc="8becd57c-9d0d-4378-a85e-17b93233ea52"
+Server-Timing: cfRequestDuration;dur=52.000046
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 8becd57c-9d0d-4378-a85e-17b93233ea52
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=JNbqaXeNm9lOl1bTardj0sWmLWfAkuDZQUkWAXcTCcNkOuaBxyA6Q0DOTB%2BanoQVKTg2GcIV%2FhnyPeG9LGtJjqV1Pg%2BnT1YNEVY3wR8dqCRVcAcnm3AcSpstAbDKdpffZpfo5nRtRYkB"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84648117bbf4927d-FRA
+Alt-Svc: h3=":443"; ma=86400

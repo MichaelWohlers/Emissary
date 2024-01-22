@@ -1,0 +1,41 @@
+Date: Tue, 16 Jan 2024 11:02:47 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 251
+X-Sorting-Hat-Shopid: 5397151862
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=c72d2ce3-3d05-49d5-a90d-6a4c8312c3c4; path=/; expires=Tue, 16 Jan 2024 11:32:47 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:02:47 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 11:02:47 GMT; SameSite=Lax
+Set-Cookie: cart_currency=EUR; path=/; expires=Tue, 30 Jan 2024 11:02:47 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=inspiredwingsfashion.com; path=/; expires=Wed, 17 Jan 2024 11:02:47 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=4a6c2f81-faf5-471f-9114-bf2e9a68b151; Expires=Wed, 15-Jan-25 11:02:47 GMT; Domain=inspiredwingsfashion.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=c360b3cb-a873-4052-bf72-e761cb12fdaa; Expires=Tue, 16-Jan-24 11:32:47 GMT; Domain=inspiredwingsfashion.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 11:02:47 GMT; Domain=inspiredwingsfashion.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2F; Expires=Tue, 30-Jan-24 11:02:47 GMT; Domain=inspiredwingsfashion.com; Path=/; HttpOnly; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+Etag: "cacheable:99af711db31e16ced4583693b783daca"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 5397151862
+X-Shardid: 251
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=293;desc="gc:30", db;dur=79, parse;dur=5, render;dur=116, wasm, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="126931861654", pageType;desc="index", servedBy;desc="dx6r", requestID;desc="c195d797-470d-4a16-bca6-1a3163f5a27c"
+Server-Timing: cfRequestDuration;dur=319.999933
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: c195d797-470d-4a16-bca6-1a3163f5a27c
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=zPM7vxY2FkSg3h0nUxDiW0I9fOG3vUoIonoWzqeqjnan5aLOZbJ8q%2Bq5fjQBhgVB%2FwB0PshT8QefBizA5MH4bYU0M4E0Ds0R7NCoHLHhQhrlhVxsl%2FiSAvmRI3GoVdZ7TVHarHpZMP8EBQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8465de4228b26ab9-FRA
+Alt-Svc: h3=":443"; ma=86400

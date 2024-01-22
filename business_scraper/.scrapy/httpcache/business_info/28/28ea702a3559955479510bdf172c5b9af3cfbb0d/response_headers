@@ -1,0 +1,38 @@
+Date: Tue, 16 Jan 2024 12:02:12 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 246
+X-Sorting-Hat-Shopid: 55021207735
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=e31eca23-b88a-4190-b28c-84f1840f482e; path=/; expires=Tue, 16 Jan 2024 12:32:12 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 12:02:12 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=CA; path=/; expires=Thu, 16 Jan 2025 12:02:12 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=marie-claire.com; path=/; expires=Wed, 17 Jan 2024 12:02:12 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=3175ccfa-3331-44d2-8972-77d8c2fa57f0; Expires=Wed, 15-Jan-25 12:02:12 GMT; Domain=marie-claire.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=1032d452-84f1-48cb-8bb9-8aa56c6d2f16; Expires=Tue, 16-Jan-24 12:32:12 GMT; Domain=marie-claire.com; Path=/; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+Etag: "cacheable:32adb98f437ba52013770df10aa1766d"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 55021207735
+X-Shardid: 246
+Vary: Accept
+Content-Language: fr
+Powered-By: Shopify
+Server-Timing: processing;dur=21, db;dur=6, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="136777335031", servedBy;desc="5hs5", requestID;desc="7e8710b9-3b78-453e-b808-7bda2a9aa1b4"
+Server-Timing: cfRequestDuration;dur=69.999933
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 7e8710b9-3b78-453e-b808-7bda2a9aa1b4
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Hcbov3vq%2BGa%2FCcDjgy8QSX5NVJrr4116KuQ6usS%2FfKNzNSZA9dzHnXzQDIKrWQQ6XFMIREdPL%2Bl4GNnSgpcaJ61kFTK2VKYbkY45rmFLvGtbyTqrnZD9PvkGY7tkVSK4yvCkPGhK"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8466354a3f729028-FRA
+Alt-Svc: h3=":443"; ma=86400

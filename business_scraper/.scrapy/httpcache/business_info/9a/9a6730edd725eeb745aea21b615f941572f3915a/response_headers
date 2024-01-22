@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:38:05 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 314
+X-Sorting-Hat-Shopid: 37367021613
+X-Storefront-Renderer-Rendered: 1
+Location: https://alvindennis.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 37367021613
+X-Shardid: 314
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=9, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="bp2k", requestID;desc="b79f4f07-cf2a-4a4d-a7f9-5486de8933a7"
+Server-Timing: cfRequestDuration;dur=42.000055
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: b79f4f07-cf2a-4a4d-a7f9-5486de8933a7
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=9QHqVNEtMOaPANNnbOQRIJ52pPA0v5%2BjwgvPeykZt60bwlqEa7JqnNUJupv6KCT4FrZ%2FWeoS4WOejm2yCKT9P6W7Ycsg9qiXShBqNwTegvWiV9BxhQccpEXEtjIAUqQHXT%2BGx9k%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846611f86b7430d8-FRA
+Alt-Svc: h3=":443"; ma=86400

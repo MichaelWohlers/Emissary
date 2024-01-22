@@ -1,0 +1,22 @@
+Server: nginx
+Date: Tue, 16 Jan 2024 11:33:27 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding,Cookie
+X-Powered-By: WP Engine
+Set-Cookie: shield-notbot-nonce=7f50f5e5cd; expires=Tue, 16-Jan-2024 11:09:46 GMT; Max-Age=120; path=/; secure
+Referrer-Policy: unsafe-url
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+P3P: CP="ALL DSP NID CURa ADMa DEVa HISa OTPa OUR NOR NAV DEM"
+Link: <https://cititrends.com/wp-json/>; rel="https://api.w.org/"
+Link: <https://cititrends.com/wp-json/wp/v2/pages/1277>; rel="alternate"; type="application/json"
+Link: <https://cititrends.com/?p=1277>; rel=shortlink
+X-Cacheable: SHORT
+Cache-Control: max-age=600, must-revalidate
+X-Cache: HIT: 1
+X-Cache-Group: normal
+Content-Encoding: gzip

@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /super-admin
+Disallow: /api
+Disallow: /myboutique

@@ -1,0 +1,41 @@
+Date: Tue, 16 Jan 2024 11:57:55 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 229
+X-Sorting-Hat-Shopid: 363003964
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=e0531fbc-64e5-4520-b5f4-7fbb32f6b0d1; path=/; expires=Tue, 16 Jan 2024 12:27:55 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:57:55 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:57:55 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:57:55 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=motley-muse.com; path=/; expires=Wed, 17 Jan 2024 11:57:55 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=9a379068-6a42-4870-b045-4378d44c93c3; Expires=Wed, 15-Jan-25 11:57:55 GMT; Domain=motley-muse.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=7f83b67b-9bb6-4888-88c2-213947d3508a; Expires=Tue, 16-Jan-24 12:27:55 GMT; Domain=motley-muse.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 11:57:55 GMT; Domain=motley-muse.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2F; Expires=Tue, 30-Jan-24 11:57:55 GMT; Domain=motley-muse.com; Path=/; HttpOnly; SameSite=Lax
+Etag: "cacheable:c82a7d51f59c0011af9ad3ff2df79d30"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin, <//motley-muse.com/cdn/shop/t/116/assets/component-localization-form.css?v=143319823105703127341693704096>; as="style"; rel="preload", <//motley-muse.com/cdn/shop/files/Motley_Muse_7676ed28-e1f2-4baa-89e6-0c3ecca61d2a.png?v=1693705176&width=600>; as="image"; rel="preload"; imagesrcset="//motley-muse.com/cdn/shop/files/Motley_Muse_7676ed28-e1f2-4baa-89e6-0c3ecca61d2a.png?v=1693705176&width=50 50w, //motley-muse.com/cdn/shop/files/Motley_Muse_7676ed28-e1f2-4baa-89e6-0c3ecca61d2a.png?v=1693705176&width=75 75w, //motley-muse.com/cdn/shop/files/Motley_Muse_7676ed28-e1f2-4baa-89e6-0c3ecca61d2a.png?v=1693705176&width=100 100w"; imagesizes="(max-width: 100px) 50vw, 50px"
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 363003964
+X-Shardid: 229
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=18, db;dur=6, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="136983609574", pageType;desc="index", servedBy;desc="gtx6", requestID;desc="244160b2-7825-4292-b35e-cd5541606de9"
+Server-Timing: cfRequestDuration;dur=49.999714
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 244160b2-7825-4292-b35e-cd5541606de9
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=rDcEa0GGmD3zI%2BYhL94bdmSir4RPp8HvBttJkLpLHxGOJ383np3wGA%2BEzW6uQWZveoifz0pMhpwH6rPEtFExK%2B0RR%2BV88fDE7RSl01IBQ2ABayGEdOVPFXz%2FusuFCB%2Bopw%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84662f028cec5d72-FRA
+Alt-Svc: h3=":443"; ma=86400

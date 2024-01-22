@@ -1,0 +1,18 @@
+Set-Cookie: PHPSESSID=3837bcaac3a53a5d87400efca5f71cec; path=/; secure; HttpOnly
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+Link: <https://www.optical-fashions.com/wp-json/>; rel="https://api.w.org/"
+Link: <https://www.optical-fashions.com/wp-json/wp/v2/pages/39>; rel="alternate"; type="application/json"
+Link: <https://www.optical-fashions.com/>; rel=shortlink
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Date: Tue, 16 Jan 2024 11:49:05 GMT
+Server: LiteSpeed
+Strict-Transport-Security: max-age=31536000
+Edit: Set-Cookie (.) "$1;HttpOnly;Secure"
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff

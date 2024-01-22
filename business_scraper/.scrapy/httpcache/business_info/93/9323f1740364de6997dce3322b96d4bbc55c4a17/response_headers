@@ -1,0 +1,41 @@
+Date: Tue, 16 Jan 2024 11:35:55 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 314
+X-Sorting-Hat-Shopid: 6011737
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=f50c797a-1ef5-4c8d-b27b-9bab737f5673; path=/; expires=Tue, 16 Jan 2024 12:05:55 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:35:55 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:35:55 GMT; SameSite=Lax
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:35:55 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=thedressyowlboutique.com; path=/; expires=Wed, 17 Jan 2024 11:35:55 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=462c1955-13c7-4666-bbc4-c2a1d3b46a2b; Expires=Wed, 15-Jan-25 11:35:55 GMT; Domain=thedressyowlboutique.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=d2cb4fe5-041c-4980-970b-982168b2150f; Expires=Tue, 16-Jan-24 12:05:55 GMT; Domain=thedressyowlboutique.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 11:35:55 GMT; Domain=thedressyowlboutique.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2F; Expires=Tue, 30-Jan-24 11:35:55 GMT; Domain=thedressyowlboutique.com; Path=/; HttpOnly; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+Etag: "cacheable:98caba34e9474487809a73c44f2aa155"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 6011737
+X-Shardid: 314
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=268;desc="gc:71", db;dur=99, parse;dur=4, render;dur=87, wasm, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="72960016495", pageType;desc="index", servedBy;desc="gskx", requestID;desc="7d55e6cd-8b79-4155-b81e-5cfc85ba0dac"
+Server-Timing: cfRequestDuration;dur=298.999786
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 7d55e6cd-8b79-4155-b81e-5cfc85ba0dac
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Fg240rawREibljaU9yuhXzyyY4qfFozFt0XsClbccqf5e0XOQEc5CB8GpN%2BmVJ5Rwkv9TwcLenGYmA9h2ZGWOsh5Fp58I2WygZa33AMddF%2F4Dk2a0wWuPx%2BGuSlN7uxlK3QCXTthmA9EBo1DWcI%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84660ecbcaec4d37-FRA
+Alt-Svc: h3=":443"; ma=86400

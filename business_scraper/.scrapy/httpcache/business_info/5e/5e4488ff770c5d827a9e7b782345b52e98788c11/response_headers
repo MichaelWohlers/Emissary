@@ -1,0 +1,16 @@
+Content-Length: 116
+Date: Tue, 16 Jan 2024 11:53:50 GMT
+Content-Type: text/html; charset=UTF-8
+Location: https://beautygirlfashions.com/robots.txt
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Strict-Transport-Security: max-age=0
+X-Request-Id: ed0de8dae1bb97fbbaf06fe99e4b5a88
+Cf-Cache-Status: MISS
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=o4KJLOEh%2FgXj%2BNI4RPRnS1mwWv3fZSOWXYFvBav%2F9YRtsEdtv2z2wwm8C%2BY0L8%2F0uRBpPHDKRHqHzn%2Fm3knNBbZRste4o6z9p%2F3B11eZTCK6rEi3k2MbooaG7NWhHVpZcPqTjXCmk6UT7l7P"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Vary: Accept-Encoding
+Bc-Ray: 1
+Server: cloudflare
+Cf-Ray: 84662907df8d5c74-FRA
+Alt-Svc: h3=":443"; ma=86400

@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:45:29 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 65
+X-Sorting-Hat-Shopid: 25798377538
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=27daf2ec-eff7-44bd-bed9-19f4ac734e17; path=/; expires=Tue, 16 Jan 2024 12:15:29 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:45:29 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:45:29 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:45:29 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=jeanmaries.com; path=/; expires=Wed, 17 Jan 2024 11:45:29 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=ccdab91a-ddc0-4c32-9a34-0181456a65bc; Expires=Wed, 15-Jan-25 11:45:29 GMT; Domain=jeanmaries.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=f11a78aa-af10-4c36-8455-461f00eb5144; Expires=Tue, 16-Jan-24 12:15:29 GMT; Domain=jeanmaries.com; Path=/; SameSite=Lax
+Etag: "cacheable:880add10e92945f06744ac667d4b4de6"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 25798377538
+X-Shardid: 65
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=12, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="121705332802", servedBy;desc="jww9", requestID;desc="72d13ab5-520e-4bb7-b506-9217f0d40f17"
+Server-Timing: cfRequestDuration;dur=44.999838
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 72d13ab5-520e-4bb7-b506-9217f0d40f17
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=%2Fc7ly%2BROZbRmxC14gMLJzWq1lRT7b8xFkvUBlOfKPzMabQ%2FQ4a%2Bu6ukh7bBbTRYSoTXfU%2BG9lcDOYQLURzT6PvwlA3MIJqhPGqObfxWGAyRDkcd9fMiVIldOl8I5p12L"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661cd13a6a39e6-FRA
+Alt-Svc: h3=":443"; ma=86400

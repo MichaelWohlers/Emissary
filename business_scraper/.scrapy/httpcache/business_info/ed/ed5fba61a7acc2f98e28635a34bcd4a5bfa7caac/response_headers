@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:47:25 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 65
+X-Sorting-Hat-Shopid: 19012741
+X-Storefront-Renderer-Rendered: 1
+Location: https://www.shadesoffashionboutique.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 19012741
+X-Shardid: 65
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=8, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="l2p5", requestID;desc="5c80a3e8-6cb9-4c9c-8e0b-d28ac7248a5b"
+Server-Timing: cfRequestDuration;dur=35.000086
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 5c80a3e8-6cb9-4c9c-8e0b-d28ac7248a5b
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=vipZgKms775gxM9cXI6Zvtbe%2Bn46%2B7Qvi72mODMfT8PXjHBgvtpRBTU9SANDgMjgjfuAfXda6ElXzmSnf%2BzZQlwUQvD%2FV13YtS4erU68qAoosIW%2FAV8QcFXH5qimaJInY4QG5CFd0oXy4e5zzqcUHEw%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661fa6ed279b7c-FRA
+Alt-Svc: h3=":443"; ma=86400

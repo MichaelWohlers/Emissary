@@ -1,0 +1,19 @@
+Date: Tue, 16 Jan 2024 11:47:53 GMT
+Content-Type: text/html; charset=UTF-8
+Location: https://primsage.com/
+X-Cache-Enabled: True
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Expires: Tue, 16 Jan 2024 12:47:53 GMT
+Cache-Control: max-age=3600
+X-Redirect-By: WordPress
+X-Httpd-Modphp: 1
+Host-Header: 6b7412fb82ca5edfd0917e3957f05d89
+X-Proxy-Cache: MISS
+X-Proxy-Cache-Info: 0301 NC:000000 UP:
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=2%2BHsWdI%2BfNRW%2BsHg3F0b2n%2FyDpIp3nojyChS7P5AEpfO71OaIKVXOijoF5G8tNEmrTsdG804DOcKEmhLjlG0gWYHhyY6Frs3YDGmHF6KnC7Ci3AwBmL2Mibnu%2FB4WZ1lGFRh"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84662050985e6ec9-CDG
+Alt-Svc: h3=":443"; ma=86400

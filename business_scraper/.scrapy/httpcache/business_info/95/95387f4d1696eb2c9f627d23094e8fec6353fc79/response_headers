@@ -1,0 +1,26 @@
+Content-Length: 148257
+Server: nginx
+Content-Type: text/html; charset=UTF-8
+Cache-Control: max-age=10800, public
+X-Drupal-Dynamic-Cache: MISS
+Content-Language: en
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+X-Generator: Drupal 10 (https://www.drupal.org)
+X-Drupal-Cache: MISS
+Last-Modified: Tue, 16 Jan 2024 11:35:10 GMT
+Etag: "1705404910-gzip"
+Content-Encoding: gzip
+X-Request-Id: v-4e246b1a-b463-11ee-bda0-2f74b4c5ab96
+X-Ah-Environment: prod
+X-Acquia-View: 1
+Accept-Ranges: bytes
+Date: Tue, 16 Jan 2024 11:35:14 GMT
+Age: 0
+X-Served-By: cache-muc13979-MUC
+X-Cache: MISS, MISS
+X-Cache-Hits: 0
+X-Timer: S1705404910.757986,VS0,VE4255
+Vary: Cookie, Accept-Encoding,Host,User-Agent
+Via: Acquia Platform CDN 1.190

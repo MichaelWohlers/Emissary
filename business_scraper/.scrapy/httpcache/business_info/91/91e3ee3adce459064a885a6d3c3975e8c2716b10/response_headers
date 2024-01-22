@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:48:29 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 175
+X-Sorting-Hat-Shopid: 55166664880
+X-Storefront-Renderer-Rendered: 1
+Location: https://thecottontreeboutique.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 55166664880
+X-Shardid: 175
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=6, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="qx6h", requestID;desc="6ff89abc-1e43-4b6a-a244-b1965ccded67"
+Server-Timing: cfRequestDuration;dur=34.999847
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 6ff89abc-1e43-4b6a-a244-b1965ccded67
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=c7KwhKtL5%2B8%2F%2BAzE2GQAfpxC0%2BtBmJTC1i6yIkkOZgX8cEdUjTFdc4aBDhnGyMo1cGanmHeI%2BTm6sUnWpYhL1Tg6VmdO25KoR%2FUUlM85BsmIr0FXFAhfVAKzfuAOFFtyCQZGHSWcUliCx9g%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846621343d84bbf8-FRA
+Alt-Svc: h3=":443"; ma=86400

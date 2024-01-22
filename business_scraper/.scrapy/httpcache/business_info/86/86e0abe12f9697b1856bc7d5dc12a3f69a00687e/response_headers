@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:57:06 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 248
+X-Sorting-Hat-Shopid: 28880371809
+X-Storefront-Renderer-Rendered: 1
+Location: https://summercreek.co/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 28880371809
+X-Shardid: 248
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=7, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="cnml", requestID;desc="98f55e49-a35c-4c01-b1c2-09320dc2b9ea"
+Server-Timing: cfRequestDuration;dur=36.999941
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 98f55e49-a35c-4c01-b1c2-09320dc2b9ea
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=UpseFl3B%2FeB7%2BpgRExxhtm2Ss7veMQTJkSiqI2u1YMOgc%2B7%2B9AfE1IN7S8%2FDPgMifvsfN43ZQzHXv%2BgsDO%2B%2F9WcLGyZB5uwqWYTeBZIz7B%2Fdt6kcM08g6Cav3asTqssO"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84662dd1c9d38fd4-FRA
+Alt-Svc: h3=":443"; ma=86400

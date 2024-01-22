@@ -1,0 +1,14 @@
+Date: Tue, 16 Jan 2024 11:41:50 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Type: text/plain; charset=utf-8
+Content-Security-Policy: frame-ancestors 'self' godaddy.com *.godaddy.com test-godaddy.com *.test-godaddy.com dev-godaddy.com *.dev-godaddy.com *.dev-godaddy.com:8443
+Etag: W/"1df9dc76687684d1abbb382d7b74b67e-gzip"
+Cache-Control: max-age=0, private, must-revalidate
+X-Request-Id: 58e2e791-ac0b-4690-b26c-480ecd8866aa
+X-Runtime: 0.064636
+Via: 1.1 mysimplestore.com
+Vary: Accept-Encoding
+Content-Encoding: gzip

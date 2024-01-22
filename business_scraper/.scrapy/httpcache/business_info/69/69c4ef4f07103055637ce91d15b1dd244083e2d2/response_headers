@@ -1,0 +1,22 @@
+Date: Tue, 16 Jan 2024 11:50:36 GMT
+Content-Type: text/plain;charset=utf-8
+P3P: CP="ALL PUR DSP CUR ADMi DEVi CONi OUR COR IND"
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Ua-Compatible: IE=Edge,chrome=1
+X-Xss-Protection: 1; mode=block
+X-Developer: Page: 10.4ms, Render: 0.0ms, Mem: 2,048kB, Cache: 0Q (0.0ms), DB: 0Q (0.0ms), Prop: 0Q (0.0ms)
+X-Runtime: 0.010379
+X-Shop-Id: 
+Cache-Control: no-cache
+Content-Encoding: gzip
+Vary: Accept-Encoding
+X-Request-Id: 411744316673e83231730b588409f8f2
+X-Envoy-Upstream-Service-Time: 14
+Cf-Cache-Status: MISS
+Last-Modified: Tue, 16 Jan 2024 11:50:36 GMT
+Set-Cookie: __cf_bm=KvuDt8n_PsMKCr9lI4vSRYlVLzrKiNPb0t8uEzLn6qg-1705405836-1-AbYVfAWrJGxpQqEa+2OvuzfyAPo5NdLTtoJn2v2nfSdEcE4gCEzQvpufmoBq/YpHVVVqSvZBWE8U07JvO1pJRbM=; path=/; expires=Tue, 16-Jan-24 12:20:36 GMT; domain=.www.lacboutique.com; HttpOnly; Secure; SameSite=None
+Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
+Server: cloudflare
+Cf-Ray: 8466244c6831bbdf-FRA
+Alt-Svc: h3=":443"; ma=86400

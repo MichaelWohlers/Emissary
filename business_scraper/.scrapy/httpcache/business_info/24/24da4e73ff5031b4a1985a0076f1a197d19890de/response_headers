@@ -1,0 +1,10 @@
+Date: Tue, 16 Jan 2024 12:02:30 GMT
+Cache-Control: max-age=3600
+Expires: Tue, 16 Jan 2024 13:02:30 GMT
+Location: https://sonshine-closet.edan.io/
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=PEoWwrlNlv6WB1UDOyeu3sNMk2D9azUQL1WFmrpLnZP2LtVD2gN77qRGH2GgCJC%2BRyNjn9FfdujKvQZDJGbpOs%2By1%2BmOZhqUwo2B05R2IC34xIFnhaFd9LxMYgtGpFgdD%2FjCPFeUbbT3pg%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Vary: Accept-Encoding
+Server: cloudflare
+Cf-Ray: 846635b9e8ac7012-CDG
+Alt-Svc: h3=":443"; ma=86400

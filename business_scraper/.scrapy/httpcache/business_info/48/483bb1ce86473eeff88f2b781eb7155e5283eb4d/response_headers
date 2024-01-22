@@ -1,0 +1,25 @@
+Content-Length: 298
+Content-Type: text/plain; charset=utf-8
+Cache-Control: no-cache
+Etag: W/"2b4-qcE21VvUShdzaWF9smPWqW+edBI"
+X-Content-Type-Options: nosniff
+X-Dns-Prefetch-Control: off
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Request-Host: bananarepublic.gap.com
+X-Request-Host: bananarepublic.gap.com
+X-Vcap-Request-Id: 46668d7f-7a6e-4a1c-754c-e9d1ed89ab9a
+X-Xss-Protection: 1; mode=block
+X-E-Dc: azeus
+Content-Encoding: gzip
+Date: Tue, 16 Jan 2024 11:54:01 GMT
+Vary: Accept-Encoding
+Set-Cookie: s-prlb=e; path=/; domain=.gap.com
+Set-Cookie: prlb=e; path=/; domain=.gap.com
+Set-Cookie: AKA_A2=A; expires=Tue, 16-Jan-2024 12:54:01 GMT; path=/; domain=gap.com; secure; HttpOnly
+Server-Timing: cdn-cache; desc=REVALIDATE
+Server-Timing: edge; dur=124
+Server-Timing: origin; dur=45
+Server-Timing: ak_p; desc="1705406041743_35115170_63660251_16846_11850_49_52_-";dur=1
+Strict-Transport-Security: max-age=2628000 ; includeSubDomains
+Akamai-Grn: 0.a2d01702.1705406041.3cb60db

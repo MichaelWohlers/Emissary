@@ -1,0 +1,41 @@
+Date: Tue, 16 Jan 2024 11:36:34 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 299
+X-Sorting-Hat-Shopid: 67583639852
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=9c2c5388-9429-47f0-8342-4c8474ce1b0d; path=/; expires=Tue, 16 Jan 2024 12:06:33 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:36:34 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:36:34 GMT; SameSite=Lax
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:36:34 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=kerigans-bridal.myshopify.com; path=/; expires=Wed, 17 Jan 2024 11:36:34 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=d804d538-19e4-446b-a0fe-adcae5de51b5; Expires=Wed, 15-Jan-25 11:36:34 GMT; Domain=kerigans-bridal.myshopify.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=0da782d1-f055-4439-87c6-c20d42829228; Expires=Tue, 16-Jan-24 12:06:34 GMT; Domain=kerigans-bridal.myshopify.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 11:36:34 GMT; Domain=kerigans-bridal.myshopify.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2F%3Ffbclid%3DIwAR0yxiOXpB_s1Pu7xytIWkZbTcdbM_J-6HLbDOX3TfDKTLYMM9taowISuQE; Expires=Tue, 30-Jan-24 11:36:34 GMT; Domain=kerigans-bridal.myshopify.com; Path=/; HttpOnly; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+Etag: "cacheable:5faa81af00f1123678a2b618ba1455c1"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 67583639852
+X-Shardid: 299
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=564, db;dur=175, fetch;dur=82, parse;dur=8, render;dur=126, wasm, wasmDownload;dur=83, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="137851535660", pageType;desc="index", servedBy;desc="5474", requestID;desc="d78dd28d-2e00-47f9-a4ea-a0eb2670b174"
+Server-Timing: cfRequestDuration;dur=592.000008
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: d78dd28d-2e00-47f9-a4ea-a0eb2670b174
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=9ClobRUjzG%2BqM2dYM%2FVOy7E3ViMZlZJNK5OfZ5nfMdYX%2F5kr94%2Bb%2BRnJQ3gwRJLeSoWAauf5nbSYeH%2F0d8E2abkYlzxIgWre0uA7haW5e6963uZJoNp%2BHeyDHTJiVI0HPET3ggt1zfoxXCsPxpV8"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84660fba19f02bac-FRA
+Alt-Svc: h3=":443"; ma=86400

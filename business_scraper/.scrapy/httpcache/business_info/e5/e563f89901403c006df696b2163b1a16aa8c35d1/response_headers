@@ -1,0 +1,41 @@
+Date: Tue, 16 Jan 2024 11:43:00 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 226
+X-Sorting-Hat-Shopid: 24863882
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=4fac07b4-0e48-46fc-bb9d-fd87eb9d98c8; path=/; expires=Tue, 16 Jan 2024 12:13:00 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:43:00 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:43:00 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:43:00 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=modestdirect.com; path=/; expires=Wed, 17 Jan 2024 11:43:00 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=3b9ef758-680e-4c51-99a9-1c9fe6412dc5; Expires=Wed, 15-Jan-25 11:43:00 GMT; Domain=modestdirect.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=ea4a6943-20ac-4da4-a128-b7dc079a4bdf; Expires=Tue, 16-Jan-24 12:13:00 GMT; Domain=modestdirect.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 11:43:00 GMT; Domain=modestdirect.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2F; Expires=Tue, 30-Jan-24 11:43:00 GMT; Domain=modestdirect.com; Path=/; HttpOnly; SameSite=Lax
+Etag: "cacheable:946e0548ebfc4c66a0da3d53d5365b6e"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 24863882
+X-Shardid: 226
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=8, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="117337030824", pageType;desc="index", servedBy;desc="m89h", requestID;desc="276f6fa9-dad2-4ff5-aaf0-71e002061113"
+Server-Timing: cfRequestDuration;dur=38.999796
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 276f6fa9-dad2-4ff5-aaf0-71e002061113
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=%2Bkyvcy%2FD3Xq%2FY087M5K8zqNxU7FXQzzaPcWHYVKuLk%2FVF3DZnYksr%2BIO%2FQc1kEbHJhnYXMN597zFHerczEKeNPYRkH0gCrXTOPfneUFzUAEN4IbCbyk9pAvWme3KofKvezQ%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8466192baafc691b-FRA
+Alt-Svc: h3=":443"; ma=86400

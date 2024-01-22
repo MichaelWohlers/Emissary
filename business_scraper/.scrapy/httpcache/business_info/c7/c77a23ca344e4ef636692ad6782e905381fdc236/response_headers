@@ -1,0 +1,15 @@
+Content-Length: 0
+Location: https://www.gypsionjefferson.com/
+Strict-Transport-Security: max-age=3600
+X-Wix-Request-Id: 1705405148.8232735768563620038
+Cache-Control: public,max-age=0,must-revalidate
+Server: Pepyaka/1.21.6
+X-Content-Type-Options: nosniff
+Accept-Ranges: bytes
+Date: Tue, 16 Jan 2024 11:39:08 GMT
+Age: 3
+X-Served-By: cache-fra-etou8220072-FRA
+X-Cache: MISS
+Server-Timing: cache;desc=hit, varnish;desc=hit_miss, dc;desc=fastly_84_g
+X-Seen-By: yvSunuo/8ld62ehjr5B7kA==,yI4PPEXc3bvXNWfpzSkUarxkNjrXdwdgtu6E0yACibU=,m0j2EEknGIVUW/liY8BLLm+RUUxFrhyTYE58WvxHjklsl0ueLMGCVziLUYuJmnC9,2d58ifebGbosy5xc+FRalrY9Rsd0RXlHjufURvaZaXvKJgmERIXECUAGZuWct/kwIEddI2UqkzU67yQZ+KyTww==,2UNV7KOq4oGjA5+PKsX47ColFAsYHzhwVraIJxv2pmy8ZDY613cHYLbuhNMgAom1
+Via: 1.1 google

@@ -1,0 +1,16 @@
+Content-Length: 69
+Server: Sucuri/Cloudproxy
+Date: Tue, 16 Jan 2024 11:40:19 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sucuri-Id: 15004
+X-Xss-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: upgrade-insecure-requests;
+X-Robots-Tag: noindex, follow
+Link: <https://marco-polo.ca/wp-json/>; rel="https://api.w.org/"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Cache-Control: max-age=315360000
+Expires: Thu, 31 Dec 2037 23:55:55 GMT
+X-Sucuri-Cache: EXPIRED

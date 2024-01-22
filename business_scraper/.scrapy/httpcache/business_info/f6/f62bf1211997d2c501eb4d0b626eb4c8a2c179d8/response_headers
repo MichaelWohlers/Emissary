@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:02:57 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 313
+X-Sorting-Hat-Shopid: 72222769466
+X-Storefront-Renderer-Rendered: 1
+Location: https://www.shopcourtneys.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 72222769466
+X-Shardid: 313
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=7, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="mlqz", requestID;desc="832a473e-6161-4d38-b37c-76165301f65d"
+Server-Timing: cfRequestDuration;dur=43.999910
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 832a473e-6161-4d38-b37c-76165301f65d
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=8b%2B9wXhfxKdO7Cg8wozGC7rTH1OfGagpZhUXP%2BcY%2Bf0eDAODw5jBtqsKr%2FKxudKl7VUwUwFRen4eqsBSn4He7HvgNBEiX%2B2Wy2on5EDR2w18Fh8lPrnfh%2FUPFD4rVx8tcg0%2FcmX0tQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8465de830ff29a33-FRA
+Alt-Svc: h3=":443"; ma=86400

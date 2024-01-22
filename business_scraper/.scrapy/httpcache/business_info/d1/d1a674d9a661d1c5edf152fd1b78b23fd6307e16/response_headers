@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:36:41 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 230
+X-Sorting-Hat-Shopid: 46061813918
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=689f0e8e-09a1-49db-ab23-1731ecbf2948; path=/; expires=Tue, 16 Jan 2024 12:06:41 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:36:41 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 11:36:41 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:36:41 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=ivygreyonline.com; path=/; expires=Wed, 17 Jan 2024 11:36:41 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=e15ebdde-d1ba-4dd4-b6b1-4c26cf370c9a; Expires=Wed, 15-Jan-25 11:36:41 GMT; Domain=ivygreyonline.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=cf4bfd82-175e-4f9b-9fc7-e6956d292563; Expires=Tue, 16-Jan-24 12:06:41 GMT; Domain=ivygreyonline.com; Path=/; SameSite=Lax
+Etag: "cacheable:0327312328ec630d1d1ef4adc4b7e5e4"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 46061813918
+X-Shardid: 230
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=12, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="110990590110", servedBy;desc="qbbb", requestID;desc="3f334cc9-824f-47c1-bfeb-529f4133b1ef"
+Server-Timing: cfRequestDuration;dur=39.999962
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 3f334cc9-824f-47c1-bfeb-529f4133b1ef
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Jx%2FEqdaMlSo3L0jI3qiJkRl90spjF%2BQbW5oAKqM0liwqGm5dGSu12U1PWZxN%2BUBAJ1nVyJjhPG3jcptbMwco3L88xb8skIdCEhYNlYSchzsusvOGlNzNe9Tm%2BwbHdK3%2F0qI%2B"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84660fee09163a7c-FRA
+Alt-Svc: h3=":443"; ma=86400

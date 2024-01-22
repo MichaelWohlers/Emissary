@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:36:46 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 250
+X-Sorting-Hat-Shopid: 7429128255
+X-Storefront-Renderer-Rendered: 1
+Location: https://justbelieveboutique.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 7429128255
+X-Shardid: 250
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=11, db;dur=7, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="5z4n", requestID;desc="dd2047a8-6698-411a-b0a4-9af135861f38"
+Server-Timing: cfRequestDuration;dur=33.999920
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: dd2047a8-6698-411a-b0a4-9af135861f38
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=S5yMdZpt3n0qJ6p1UGHoU9WHVuIh0knedvsrbQqO%2FVx8B1cs1bMbBMogFJQriOp%2Foa%2B0BAkMDRXCm2CwY97TthU%2FQ1eqJLQY8LVsMWwamPBus4UvS3pPpPb8f9LxZeRAl8Hvodnrm7h5FqXlhQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846610096c0dbbc1-FRA
+Alt-Svc: h3=":443"; ma=86400

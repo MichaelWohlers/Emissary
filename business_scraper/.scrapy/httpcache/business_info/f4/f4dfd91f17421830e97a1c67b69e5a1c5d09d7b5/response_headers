@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:58:24 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 253
+X-Sorting-Hat-Shopid: 66056519934
+X-Storefront-Renderer-Rendered: 1
+Location: https://www.jdejeanfashion.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 66056519934
+X-Shardid: 253
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=15, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="mdh4", requestID;desc="a05f6c52-8071-4604-9745-b0e7326d4384"
+Server-Timing: cfRequestDuration;dur=46.999931
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: a05f6c52-8071-4604-9745-b0e7326d4384
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=LhCHxPuTgSXUF7fsY5w59T%2Ff2PDr6Z3F2T%2BA%2BBySu3f%2FLm8n1LLjR%2Ba6tPR6XxemKvlsMoSHtxL%2F12NehkBEDv7VQfSYj6CklATz9Qr9Mpk9WrNLmD7QfuFOuHsAoTPrA%2FwgY3LtWU0%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84662fba8d7037d4-FRA
+Alt-Svc: h3=":443"; ma=86400

@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:34:12 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 255
+X-Sorting-Hat-Shopid: 14262654
+X-Storefront-Renderer-Rendered: 1
+Location: https://shopjades.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 14262654
+X-Shardid: 255
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=8, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="6blv", requestID;desc="4cb070d1-6782-4447-af10-3ee36704b8d6"
+Server-Timing: cfRequestDuration;dur=79.999924
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 4cb070d1-6782-4447-af10-3ee36704b8d6
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=bDQkvn%2BZwfzilO56fY4MS%2Bin9xNSAda9oVmLBfE3woQF%2BZ3R83Q3DiHrPvEnFjjJxNSixzb5kLQWOP5Hm3Ho2B4taRizFWeqxHHSW1Bpm9btqUkmROHCT%2FenkE%2Bq9vCJVmnk"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84660c45987cbb95-FRA
+Alt-Svc: h3=":443"; ma=86400

@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:50:07 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 257
+X-Sorting-Hat-Shopid: 52832436388
+X-Storefront-Renderer-Rendered: 1
+Location: https://www.jluxgb.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 52832436388
+X-Shardid: 257
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=5, db;dur=2, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="9vmx", requestID;desc="6bd3e4fb-1e12-4b15-ad9f-ccf5ef670e2a"
+Server-Timing: cfRequestDuration;dur=32.999992
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 6bd3e4fb-1e12-4b15-ad9f-ccf5ef670e2a
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=ELM1cK3baVyjWWaaLzpJABfZy9H27ohn3GRveNXVPD%2BEVkeop0q6eSBTXAF%2BE4%2Bu9QUpieVRSTdnQe0mEGpbPDNDuPj0t8IUZdEJqKVLbFm9JjwUkdM92bslHTs%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8466239a19646937-FRA
+Alt-Svc: h3=":443"; ma=86400

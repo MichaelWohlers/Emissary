@@ -1,0 +1,12 @@
+Server: nginx
+Date: Tue, 16 Jan 2024 11:58:08 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+X-Robots-Tag: noindex, follow
+Link: <https://sandypt.com/wp-json/>; rel="https://api.w.org/"
+X-Tec-Api-Version: v1
+X-Tec-Api-Root: https://sandypt.com/wp-json/tribe/events/v1/
+X-Tec-Api-Origin: https://sandypt.com
+Set-Cookie: WP_SESSION_COOKIE=ebd94663fa3f0e9c8d9891c65a33262a%7C%7C1705408088%7C%7C1705407728; expires=Tue, 16-Jan-2024 12:28:08 GMT; Max-Age=1800; path=/
+X-Cache-Nxaccel: MISS
+Content-Encoding: gzip

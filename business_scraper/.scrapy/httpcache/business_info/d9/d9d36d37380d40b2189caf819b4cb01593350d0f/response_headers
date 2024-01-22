@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:59:30 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 45
+X-Sorting-Hat-Shopid: 20316205
+X-Storefront-Renderer-Rendered: 1
+Location: https://shopsteelejayde.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 20316205
+X-Shardid: 45
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=13, db;dur=5, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="rrkq", requestID;desc="b06ff807-a977-4bfd-ac59-bcb58d04a5fa"
+Server-Timing: cfRequestDuration;dur=46.000004
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: b06ff807-a977-4bfd-ac59-bcb58d04a5fa
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=t3IroP%2BqOEOr4Z2uXBONM1fcKBDsgauvc9X73a1FFCAJyVgrAh%2Bz%2Bed2hobUk3spO6dD825ncZKi0HWWRml1vZ9cWWC9DeHt19gZi2w%2FqMqZYFe4kDLMBxKq2xGLcX50QOWsV4WCil23"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84663156d9a46ae9-FRA
+Alt-Svc: h3=":443"; ma=86400

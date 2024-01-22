@@ -1,0 +1,21 @@
+Content-Length: 33245
+Content-Type: text/html;charset=utf-8
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+X-Akamai-Transformed: 9 30957 0 pmb=mTOE,1mRUM,2
+Content-Encoding: gzip
+Cache-Control: no-cache, no-store
+Date: Tue, 16 Jan 2024 11:33:21 GMT
+Vary: Accept-Encoding
+Set-Cookie: akainst=AM; path=/; domain=.www2.hm.com
+Set-Cookie: akamref=en_us; path=/; domain=www2.hm.com
+Set-Cookie: AKA_A2=A; expires=Tue, 16-Jan-2024 12:33:21 GMT; path=/; domain=hm.com; secure; HttpOnly
+Set-Cookie: akavpau_www2_en_us=1705405101~id=7cde61489cc0d76c828f168ab3398c88; Path=/; HttpOnly; Secure; SameSite=None
+Set-Cookie: _abck=D43965B9A01DEC67EA4BBE5C82FE4E81~-1~YAAQm6AkF8epgvaMAQAASCAMEgsqQF30HC2SJXOvOfVITVMdDbZDbtJGjZ9TxbQRTyWMzNdZ/0tpoTlSemdof7VpzfKvkCKxUKDg6yTcNZWyHmJKg7Inv+v9tpW8ZMrekBUoSGM2CmhYuff5UHLGq/7BXdoIsd5pKvXm5YM34M/wnlwEspW5RmLvlXP5v+K66Ylrm3so2BPrMmbmln7o6Tb3uCKxLlRFw2dQSnLHTDOl/qsDRtuGKidBXL+IaulT3Sw+dYuRgD51XIC453jhQqwzMhc33zjhGzsP/53KrngA9rGjwAmgh5oc3idyw2NhreBQwFNQ6UFQZmTk7lO/I7KStrsujzxbg1W15yjAJpLcDj7nhH6NzQ==~-1~-1~1705408298; Domain=.hm.com; Path=/; Expires=Wed, 15 Jan 2025 11:33:21 GMT; Max-Age=31536000; Secure
+Set-Cookie: bm_sz=603CAB2427098CB818627C8A30B53D45~YAAQm6AkF8ipgvaMAQAASCAMEhaMwsPadxG4s58Yn1yZjC6cYEnYjQrpyBlpXWw+ffdLAiRQWWrM82qiB6mquf4gUOYYU7HRVq5yovugSOVlhyJpOf04Q4R7bwfCQe3OZr2T4j7hS2o1dmUpKxkS1a8xPVmRbEE043KtkZx/hPGqFz7B57klfxYNacheMLmXK2x9DAsZI0I9vBdPipKBvrMrGsIeZoizBq0nlNPH4Z/pVYOWbc48KWs91zjTKv98pvCLzIWVQBIdVmcItQvSwNjKuHIQUhMIf2mnOt0HfDI694olVT3zewhQSvP17pI=~3687489~3420737; Domain=.hm.com; Path=/; Expires=Tue, 16 Jan 2024 15:33:19 GMT; Max-Age=14398
+Server-Timing: cdn-cache; desc=REVALIDATE
+Server-Timing: edge; dur=30
+Server-Timing: origin; dur=1101
+Server-Timing: ak_p; desc="1705404799620_388276379_1976743600_113155_18333_149_325_-";dur=1
+Link: <https://cdn.cookielaw.org>;rel="preconnect"
+Strict-Transport-Security: max-age=31536000; includeSubDomains

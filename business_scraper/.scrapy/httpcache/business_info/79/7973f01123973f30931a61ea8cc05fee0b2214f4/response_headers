@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 07:01:27 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 279
+X-Sorting-Hat-Shopid: 74763174168
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=4a573324-c40f-4093-9fcc-ee84160152f9; path=/; expires=Tue, 16 Jan 2024 07:31:27 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 07:01:27 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 07:01:27 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 07:01:27 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=sheikofficial.com; path=/; expires=Wed, 17 Jan 2024 07:01:27 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=c06e34b5-a587-4454-b9ec-95457f3ddbd1; Expires=Wed, 15-Jan-25 07:01:27 GMT; Domain=sheikofficial.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=5f45da83-c4e3-41b5-90a7-e62618e78252; Expires=Tue, 16-Jan-24 07:31:27 GMT; Domain=sheikofficial.com; Path=/; SameSite=Lax
+Etag: "cacheable:3db5557c794580e10619b3e8b46e90bd"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 74763174168
+X-Shardid: 279
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=13, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="147930546456", servedBy;desc="27n9", requestID;desc="694f57f2-2541-47ba-92a4-706e932b8c1f"
+Server-Timing: cfRequestDuration;dur=46.000004
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 694f57f2-2541-47ba-92a4-706e932b8c1f
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=eFPRcHnzxg3Ixa2vDVtt2YhruP0Vb3Hqd8%2FTZQpAIKXFcdqcbNMIgaNl1389Vgw7D1JzIu2klxCxHDRlAd9f55v3bXgPDml27EOOknVotdxB3xJXI0Outoa5Nj%2F7pxm12EHR%2B70l9A%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84647cbc49525c6e-FRA
+Alt-Svc: h3=":443"; ma=86400

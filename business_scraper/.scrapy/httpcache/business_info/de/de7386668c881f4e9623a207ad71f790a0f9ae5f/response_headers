@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:57:04 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 248
+X-Sorting-Hat-Shopid: 2058911788
+X-Storefront-Renderer-Rendered: 1
+Location: https://www.shopthemorrisonshop.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 2058911788
+X-Shardid: 248
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=7, db;dur=2, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="n9vb", requestID;desc="373dc5b7-e027-4956-9e8a-57181ff3d612"
+Server-Timing: cfRequestDuration;dur=45.000076
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 373dc5b7-e027-4956-9e8a-57181ff3d612
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=n8ecmzadHeVFLAKF3Su9dlaT7H5MLPyB8uro5GdN431J1fRozAncufaBPbmeoKUZib5kfhUmZCN%2FLNfhPpB%2Fzh30D03TfMSo1Pw1m62NZj9RMa245ERx9yx0yF9F01efBruUPoo1gLMTK4RWZQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84662dc668de5c14-FRA
+Alt-Svc: h3=":443"; ma=86400

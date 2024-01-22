@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:46:46 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 114
+X-Sorting-Hat-Shopid: 20891519
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=febdfbe6-755e-40a0-a466-2ccffc654f81; path=/; expires=Tue, 16 Jan 2024 12:16:46 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:46:46 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:46:46 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:46:46 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=moonshineandlaceboutique.com; path=/; expires=Wed, 17 Jan 2024 11:46:46 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=554cda15-7828-426a-9491-b403341357f2; Expires=Wed, 15-Jan-25 11:46:46 GMT; Domain=moonshineandlaceboutique.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=11b6734d-d70d-4125-9062-0e2fbea3a78d; Expires=Tue, 16-Jan-24 12:16:46 GMT; Domain=moonshineandlaceboutique.com; Path=/; SameSite=Lax
+Etag: "cacheable:10b3dc94d60f426acaf13e8a36d4c0a9"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 20891519
+X-Shardid: 114
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=12, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="82482823283", servedBy;desc="9vmx", requestID;desc="30341251-6bba-44b4-8246-bac68abe3368"
+Server-Timing: cfRequestDuration;dur=37.999868
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 30341251-6bba-44b4-8246-bac68abe3368
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=JNIAfKClB3yvCIQUJnYgOibV7BZWEUAg9UddcpFH0px96dsDyWIP1KrNzWd42ROHac%2BxMVQiPEzIKWVn7GaIMBivkcNPuqEOIxmy1uCX97DjyPcEw4ZRJEH0zIF038FxOZpfRrScwJPqKUCBcwU%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661eaeecde9c12-FRA
+Alt-Svc: h3=":443"; ma=86400

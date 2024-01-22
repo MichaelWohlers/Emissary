@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:40:26 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 163
+X-Sorting-Hat-Shopid: 55712022692
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=6a64e48a-ba50-496d-b528-3b8649095d44; path=/; expires=Tue, 16 Jan 2024 12:10:26 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:40:26 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 11:40:26 GMT
+Set-Cookie: cart_currency=EUR; path=/; expires=Tue, 30 Jan 2024 11:40:26 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=laestrellitafashion.com; path=/; expires=Wed, 17 Jan 2024 11:40:26 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=3e7a77d3-b584-4380-9197-8793b1335725; Expires=Wed, 15-Jan-25 11:40:26 GMT; Domain=laestrellitafashion.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=2dc9effe-5cbc-4512-b207-3d564580de23; Expires=Tue, 16-Jan-24 12:10:26 GMT; Domain=laestrellitafashion.com; Path=/; SameSite=Lax
+Etag: "cacheable:6d2b25980e4d6cae00361cd4b0644e6d"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 55712022692
+X-Shardid: 163
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=13, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="129739522212", servedBy;desc="jww9", requestID;desc="c7c47fbf-2469-4bd0-b41d-5e6eb1ab9a90"
+Server-Timing: cfRequestDuration;dur=46.000004
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: c7c47fbf-2469-4bd0-b41d-5e6eb1ab9a90
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=VlAJTN9jA3xOhYVrPvgk9rkvy9y0g3TlrdKy81239wyqV2E1rQsnbPLrVNJPQBo7ITR%2BxGpzJcuCCTNBLInYQgeWy%2BGAZABz7mZ2QQMPK%2BtatbK9mt10rQSDwNsR8FTYhQPNWCoYHviF"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8466156bcc2c9b39-FRA
+Alt-Svc: h3=":443"; ma=86400

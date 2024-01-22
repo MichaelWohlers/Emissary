@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 07:01:20 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 279
+X-Sorting-Hat-Shopid: 74763174168
+X-Storefront-Renderer-Rendered: 1
+Location: https://www.sheikofficial.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 74763174168
+X-Shardid: 279
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=24, db;dur=6, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="27n9", requestID;desc="9edeb3db-2f6d-4381-95a0-40e4ce2e7bdb"
+Server-Timing: cfRequestDuration;dur=56.999922
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 9edeb3db-2f6d-4381-95a0-40e4ce2e7bdb
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=R%2FWUEjakVEFee5FuyJJ2yYk87oNp9dlTPsb8DbW%2BNX02XUrOGR6TJ3F%2FmcPK1KTbNqOMwNay8PXRpyY4VoRFmrVGzX1tZJptOgbjsUPmqD5W9fo%2BrNDu1uTQ3JWnW55zfAVIiaFc9g%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84647c939f5539be-FRA
+Alt-Svc: h3=":443"; ma=86400

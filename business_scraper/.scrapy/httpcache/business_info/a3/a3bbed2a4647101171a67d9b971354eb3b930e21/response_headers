@@ -1,0 +1,42 @@
+Date: Tue, 16 Jan 2024 11:20:22 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 275
+X-Sorting-Hat-Shopid: 8783880
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=356c43c9-0f20-4211-ab29-61d8cf4a931e; path=/; expires=Tue, 16 Jan 2024 11:50:22 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:20:22 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 11:20:22 GMT; SameSite=Lax
+Set-Cookie: cart_currency=EUR; path=/; expires=Tue, 30 Jan 2024 11:20:22 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=mystiqueboutiquenyc.com; path=/; expires=Wed, 17 Jan 2024 11:20:22 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=52f41ccb-0b53-44d5-b2a5-d81511b981b9; Expires=Wed, 15-Jan-25 11:20:22 GMT; Domain=mystiqueboutiquenyc.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=9b5a7e35-1363-48a1-8e82-d67fb69478f1; Expires=Tue, 16-Jan-24 11:50:22 GMT; Domain=mystiqueboutiquenyc.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 11:20:22 GMT; Domain=mystiqueboutiquenyc.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2Fpassword; Expires=Tue, 30-Jan-24 11:20:22 GMT; Domain=mystiqueboutiquenyc.com; Path=/; HttpOnly; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Robots-Tag: nofollow
+Etag: "cacheable:8849d82740066f4e99a4dd25d218bcfe"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 8783880
+X-Shardid: 275
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=66, db;dur=26, render;dur=8, wasm, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="130112225465", pageType;desc="password", servedBy;desc="d69m", requestID;desc="9d35d9b2-0fb6-4f7a-abe6-784e790f359b"
+Server-Timing: cfRequestDuration;dur=214.999914
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-us-east1,gcp-us-east1
+X-Request-Id: 9d35d9b2-0fb6-4f7a-abe6-784e790f359b
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=HGwQTS%2FT0Hfx5WdDSJOMCTC8pMMQf8MloxNXn65fx698pt7rQKq6l4ZCyqe0Bxoypx43%2FxSxhBHtjFZvN1hkB4t6bQ%2BQOcin1d%2Fc%2BkttSLbjJQ3RYlIUxVzmYu%2BeTNixM8g2O%2F61Z1rLr1ATBA%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8465f800eede367f-FRA
+Alt-Svc: h3=":443"; ma=86400

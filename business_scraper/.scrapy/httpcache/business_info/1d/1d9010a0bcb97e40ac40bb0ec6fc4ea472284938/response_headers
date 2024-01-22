@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:49:38 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 295
+X-Sorting-Hat-Shopid: 13767933
+X-Storefront-Renderer-Rendered: 1
+Location: https://www.laneylus.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 13767933
+X-Shardid: 295
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=7, db;dur=2, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="rk96", requestID;desc="1998f3d4-d581-4b69-a189-612fc1d3f49f"
+Server-Timing: cfRequestDuration;dur=50.000191
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 1998f3d4-d581-4b69-a189-612fc1d3f49f
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=mWV5d8ix40%2B1EmAjiiEG73nbgKyyK71%2BdEtW3uxTkvqkpxvdgcsUbdZq9xME7582H%2BcHOo9f9qRbX7yj4UzlssbenH2tkWNarc1lGWoGyiupML%2BlMuLsafHDSSJTgno2cfc%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846622e5bd9c5d97-FRA
+Alt-Svc: h3=":443"; ma=86400

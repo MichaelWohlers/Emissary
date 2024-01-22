@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:46:03 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 179
+X-Sorting-Hat-Shopid: 51877839028
+X-Storefront-Renderer-Rendered: 1
+Location: https://ellajunes.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 51877839028
+X-Shardid: 179
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=8, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="bvfp", requestID;desc="d3eeb591-1833-4073-a65e-91551b9987e1"
+Server-Timing: cfRequestDuration;dur=47.999859
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: d3eeb591-1833-4073-a65e-91551b9987e1
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=0TBOyRfN40nqp4%2FBO6dQDyh0kaHvN8e%2BCGYDyJ02QdG8aWwZEmwLJRrm5WDDV5WPFDJ%2BD%2BatHpFvecbYaJuk3xaatFlJQbGBT9o270RumCxaL5qvWzxp7HOmaD7do%2BE%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661da34d7c5ca4-FRA
+Alt-Svc: h3=":443"; ma=86400

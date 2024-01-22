@@ -1,0 +1,20 @@
+Content-Type: text/plain
+Cache-Control: max-age=31622400
+Etag: W/"6598f6e3-632"
+Expires: Mon, 06 Jan 2025 12:12:59 GMT
+Last-Modified: Sat, 06 Jan 2024 06:44:51 GMT
+Server: nginx
+Strict-Transport-Security: max-age=300
+X-Pantheon-Styx-Hostname: styx-fe3-b-5ccf9cfdb-xbk2w
+X-Styx-Req-Id: eef47659-ac8c-11ee-8b2c-46f842d081ef
+Date: Sun, 14 Jan 2024 09:24:31 GMT
+X-Served-By: cache-chi-klot8100162-CHI, cache-fra-etou8220066-FRA
+X-Cache-Hits: 13, 1
+X-Timer: S1705224272.698728,VS0,VE3
+Via: 1.1 varnish, 1.1 varnish, 1.1 da749f044be44d389a30372d73356c4e.cloudfront.net (CloudFront)
+Content-Encoding: gzip
+Vary: Accept-Encoding
+X-Cache: Hit from cloudfront
+X-Amz-Cf-Pop: FRA56-P7
+X-Amz-Cf-Id: ATgKfY5g11mOERS-mDs1fir0pnd4tpBPWwpVC0UJ1ZONRtI1tvg1Xw==
+Age: 862116

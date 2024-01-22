@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 12:04:04 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 81
+X-Sorting-Hat-Shopid: 7919534162
+X-Storefront-Renderer-Rendered: 1
+Location: https://joy-and-company.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 7919534162
+X-Shardid: 81
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=9, db;dur=5, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="qbbb", requestID;desc="d5cb4cb4-104d-44ce-b598-efc79694109c"
+Server-Timing: cfRequestDuration;dur=46.000004
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: d5cb4cb4-104d-44ce-b598-efc79694109c
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=2T%2FfJ9KvjGqRl0Z3bW6Ybknj6O9AcWoYDMmVMnHHdue6nSOXowwtEh4a0%2F3ZSJ%2BaXWXdgp5rttudGyILWxsHO%2BahYbwrCV9odldv8lSXX5sz1estQYu4i%2BC%2BWEqLQP0%2FmD1kMRZnox%2BK"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846638056c076aea-FRA
+Alt-Svc: h3=":443"; ma=86400

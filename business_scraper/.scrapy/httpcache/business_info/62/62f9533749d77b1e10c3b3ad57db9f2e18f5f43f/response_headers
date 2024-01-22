@@ -1,0 +1,27 @@
+Content-Length: 11467
+X-Fw-Hash: jlipbwy5ip
+X-Fw-Server: Flywheel/5.1.0
+X-Fw-Version: 5.0.0
+X-Xss-Protection: 1
+X-Fw-Dynamic: TRUE
+Content-Encoding: gzip
+X-Ua-Compatible: IE=edge
+Link: <https://fidesign.net/index.php?rest_route=/>; rel="https://api.w.org/"
+Link: <https://fidesign.net/index.php?rest_route=/wp/v2/pages/68>; rel="alternate"; type="application/json"
+Link: <https://fidesign.net/>; rel=shortlink
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer-when-downgrade
+X-Content-Type-Options: nosniff
+Server: Flywheel/5.1.0
+X-Cacheable: YES
+Fastly-Restarts: 1
+Accept-Ranges: bytes
+Date: Tue, 16 Jan 2024 11:49:45 GMT
+X-Served-By: cache-fra-eddf8230096-FRA, cache-fra-eddf8230047-FRA
+X-Cache: MISS, HIT
+X-Cache-Hits: 0, 1
+X-Timer: S1705405786.674181,VS0,VE1
+Vary: Accept-Encoding
+X-Fw-Serve: TRUE
+X-Fw-Static: NO
+X-Fw-Type: VISIT

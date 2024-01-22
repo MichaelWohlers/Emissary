@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 07:08:14 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 43
+X-Sorting-Hat-Shopid: 36559355948
+X-Storefront-Renderer-Rendered: 1
+Location: https://www.myletitshine.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 36559355948
+X-Shardid: 43
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=24, db;dur=9, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="s74x", requestID;desc="16a630a8-6625-4d2e-a8e6-a7b6ba2baa08"
+Server-Timing: cfRequestDuration;dur=75.999975
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 16a630a8-6625-4d2e-a8e6-a7b6ba2baa08
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Jcyw3KDUtc1LEwXdKMwzTjnSgM83lBW%2ByRpHbMmgPAhSZ4jgKixCt1xbcICrhr0tuH1iKM6gemT%2B2eAaggF%2FvI%2BUbGj8CNHk3HfsfNO0vJqRC6ZQKhTbodyyOY4ENp6O38LGzrgu"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846486ad09141981-FRA
+Alt-Svc: h3=":443"; ma=86400

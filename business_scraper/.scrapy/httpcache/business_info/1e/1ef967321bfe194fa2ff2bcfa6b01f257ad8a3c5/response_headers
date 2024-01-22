@@ -1,0 +1,12 @@
+Cache-Control: no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=utf-8
+Content-Encoding: gzip
+Expires: -1
+Vary: Accept-Encoding
+Server: nginx
+Strict-Transport-Security: max-age=31622400; includeSubDomains; preload
+Set-Cookie: GuestToken=a29ce2c54d1a4cc685fde68409d9d924; expires=Thu, 15 Feb 2024 11:19:57 GMT; path=/; secure; httponly
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Date: Tue, 16 Jan 2024 11:19:57 GMT

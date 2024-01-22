@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:21:10 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 249
+X-Sorting-Hat-Shopid: 10151377
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=6111555d-9be8-44a5-8321-2d7c3575eca3; path=/; expires=Tue, 16 Jan 2024 11:51:10 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:21:10 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:21:10 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:21:10 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=accboutique.com; path=/; expires=Wed, 17 Jan 2024 11:21:10 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=54e4caf8-3eb2-4f46-94f0-856c2389c3ef; Expires=Wed, 15-Jan-25 11:21:10 GMT; Domain=accboutique.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=5608e5b8-4075-419b-8e20-79bcedb3a9e7; Expires=Tue, 16-Jan-24 11:51:10 GMT; Domain=accboutique.com; Path=/; SameSite=Lax
+Etag: "cacheable:f50e31e007207d4a3f142f5b94d1d101"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 10151377
+X-Shardid: 249
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=16, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="65386053", servedBy;desc="lx4r", requestID;desc="1f0a46a7-56b6-474f-86af-15024434e258"
+Server-Timing: cfRequestDuration;dur=46.999931
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 1f0a46a7-56b6-474f-86af-15024434e258
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=iCTu3PWe0igWh99G%2B8953JRdocVK%2Fjo1x3MfZLr4FWvT4TbYaYDXfMGJe9hQrNuZ0oXHQ9DINwI2Y1NT1%2Fxw1NOXx6Y%2BCXiWwl3O6py6QhNG2puoAo7KbF5DkwoM5DgOotiP7XQ%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8465f92d9d389b8e-FRA
+Alt-Svc: h3=":443"; ma=86400

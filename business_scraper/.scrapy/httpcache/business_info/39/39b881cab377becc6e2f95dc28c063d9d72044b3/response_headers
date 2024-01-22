@@ -1,0 +1,21 @@
+Content-Length: 0
+Location: https://www.facebook.com/1776clothingcompany
+Reporting-Endpoints: 
+Content-Security-Policy-Report-Only: default-src fb.me *.fb.me fbcdn.net *.fbcdn.net fbsbx.com *.fbsbx.com data: blob: chrome-extension: 'unsafe-inline' 'unsafe-eval';report-uri https://www.facebook.com/csp/reporting/?m=c&minimize=0;require-trusted-types-for 'script';
+Content-Security-Policy: default-src *.fbcdn.net fb.me;connect-src fb.me;img-src fb.me *.fbcdn.net;block-all-mixed-content;upgrade-insecure-requests;report-uri https://www.facebook.com/csp/reporting/?m=c&minimize=0;
+Document-Policy: force-load-at-top
+Permissions-Policy-Report-Only: autoplay=(), clipboard-read=(), clipboard-write=(), display-capture=(), encrypted-media=(), fullscreen=(), picture-in-picture=(), xr-spatial-tracking=()
+Permissions-Policy: accelerometer=(), ambient-light-sensor=(), bluetooth=(), camera=(), gamepad=(), geolocation=(), gyroscope=(), hid=(), idle-detection=(), keyboard-map=(), local-fonts=(), magnetometer=(), microphone=(), midi=(), otp-credentials=(), payment=(), publickey-credentials-get=(), screen-wake-lock=(), serial=(), usb=(), window-management=()
+Cross-Origin-Resource-Policy: cross-origin
+Cross-Origin-Opener-Policy: same-origin-allow-popups
+Pragma: no-cache
+Cache-Control: private, no-cache, no-store, must-revalidate
+Expires: Sat, 01 Jan 2000 00:00:00 GMT
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 0
+X-Frame-Options: DENY
+Strict-Transport-Security: max-age=31536000; preload; includeSubDomains
+Content-Type: text/html; charset="utf-8"
+X-Fb-Debug: DVakr4WfRlF6BgwJXf+o+nvdAXMxRhuZPGHTSou6PkaUjS7WP7BmG2z6BBzo1YVQh4khMDN0tSKBNNWVSEovQw==
+Date: Tue, 16 Jan 2024 12:02:29 GMT
+Alt-Svc: h3=":443"; ma=86400

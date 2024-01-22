@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 12:04:08 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 222
+X-Sorting-Hat-Shopid: 64369066207
+X-Storefront-Renderer-Rendered: 1
+Location: https://www.thesweetwatercompany.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 64369066207
+X-Shardid: 222
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=5, db;dur=2, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="w66h", requestID;desc="9535adcc-6a9a-448c-bd5d-0dafcae969ab"
+Server-Timing: cfRequestDuration;dur=35.000086
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 9535adcc-6a9a-448c-bd5d-0dafcae969ab
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=SSTZ3qPSFydrwdvL0D5F1ZLFmWFz1n5L9jkvI9prZDpLMeU3APvf7c%2BoISSkq3fmUZ4%2FLGYhSj4otHYzvcmmDk0Aj6JORzLVC4eL33LYAAmEWj%2BVdlP1o6xjum0y9gGDIQhnhnWWCvfJtvjw44Y%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8466381f18665c56-FRA
+Alt-Svc: h3=":443"; ma=86400

@@ -1,0 +1,38 @@
+Date: Tue, 16 Jan 2024 11:43:01 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 211
+X-Sorting-Hat-Shopid: 40818770079
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=ecb2bf54-fade-4206-aad2-38830d3141f5; path=/; expires=Tue, 16 Jan 2024 12:13:01 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:43:01 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:43:01 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:43:01 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Afalse%2C%22a%22%3Afalse%2C%22m%22%3Afalse%2C%22t%22%3Afalse%7D%2C%22display_banner%22%3Atrue%2C%22sale_of_data_region%22%3Afalse%7D; domain=avagracefashions.com; path=/; expires=Wed, 17 Jan 2024 11:43:01 GMT; SameSite=Lax
+Set-Cookie: _tracking_consent=%7B%22lim%22%3A%5B%22GDPR_BLOCK_ALL%22%5D%2C%22region%22%3A%22DERP%22%2C%22reg%22%3A%22GDPR%22%2C%22con%22%3A%7B%22CMP%22%3A%7B%22s%22%3A%22%22%2C%22p%22%3A%22%22%2C%22m%22%3A%22%22%2C%22a%22%3A%22%22%7D%7D%2C%22v%22%3A%222.1%22%7D; Expires=Wed, 15-Jan-25 11:43:01 GMT; Domain=avagracefashions.com; Path=/; SameSite=Lax
+Etag: "cacheable:d1377540fbed71b047735454b58d8b4f"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 40818770079
+X-Shardid: 211
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=16;desc="gc:1", db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="130560819412", pageType;desc="index", servedBy;desc="9gm4", requestID;desc="84e36bf5-2c09-4c34-b230-f5f470f86dbb"
+Server-Timing: cfRequestDuration;dur=54.999828
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 84e36bf5-2c09-4c34-b230-f5f470f86dbb
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=d2FcfuPJB2o%2B3H3B%2BavfkmoRpmsHEYtXwj3EJi2%2BMx8YdBWpBCPLIogbkU94N43Go8kXZITxXSZvR3wxN1Mereb0R%2Fijg24TiYUSideZuxgD5vQebVxhp4KvMZVDisPCB%2BONIRS7"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661931fc003a6d-FRA
+Alt-Svc: h3=":443"; ma=86400

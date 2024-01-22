@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:48:36 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 171
+X-Sorting-Hat-Shopid: 58669301932
+X-Storefront-Renderer-Rendered: 1
+Location: https://beautifullyseenboutique.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 58669301932
+X-Shardid: 171
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=12;desc="gc:1", db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="q558", requestID;desc="96a71712-9cf1-43e9-a7ff-66d2eab13ca7"
+Server-Timing: cfRequestDuration;dur=36.000013
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 96a71712-9cf1-43e9-a7ff-66d2eab13ca7
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=cQe%2B%2FSFWY3yewbJdpMB0ZJjcpVPAt5O5mNbWKRgfMGW0zfz%2BgKz5rqLOL16EbIm3i6rva%2F3it6eL%2Bn3%2FuEMyNEEo6lt4fEQxV315kmVnjm3IKm2a38YYEn8yjt9EbNIzOiwSKE2ydfxjEj%2BVtA%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8466215da8cd2c16-FRA
+Alt-Svc: h3=":443"; ma=86400

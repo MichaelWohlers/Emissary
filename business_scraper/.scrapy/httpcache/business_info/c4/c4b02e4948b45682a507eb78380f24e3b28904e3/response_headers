@@ -1,0 +1,16 @@
+Content-Length: 109
+Date: Tue, 16 Jan 2024 11:50:10 GMT
+Content-Type: text/plain; charset=utf-8
+Link: <http://niceasnew.com/wp-json/>; rel="https://api.w.org/"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Age: 5
+Last-Modified: Tue, 16 Jan 2024 11:50:05 GMT
+Accept-Ranges: bytes
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=VolqII8f7Zq9%2BHgY6qUTOBHs0ixFAQk1DnAbuVOeOINRZDMxMlZCAKPRt74akX53V9QgoCZ4QX6D4dfhkOIHeP5C6dMyWR7vG8UJZ8C3DPJCVXBZ17MK2aY3Y%2F%2FG9BcF"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846623abc83abb62-FRA
+Alt-Svc: h3=":443"; ma=86400

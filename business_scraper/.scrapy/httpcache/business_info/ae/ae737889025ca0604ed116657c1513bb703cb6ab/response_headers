@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 04:00:20 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 254
+X-Sorting-Hat-Shopid: 44005752983
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=eb32c8f3-02ee-449c-8a81-8639866522e8; path=/; expires=Tue, 16 Jan 2024 04:30:20 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 04:00:20 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 04:00:20 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 04:00:20 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Afalse%2C%22a%22%3Afalse%2C%22m%22%3Afalse%2C%22t%22%3Afalse%7D%2C%22display_banner%22%3Atrue%2C%22sale_of_data_region%22%3Afalse%7D; domain=trendingclothingdeal2.com; path=/; expires=Wed, 17 Jan 2024 04:00:20 GMT; SameSite=Lax
+Set-Cookie: _tracking_consent=%7B%22con%22%3A%7B%22CMP%22%3A%7B%22s%22%3A%22%22%2C%22p%22%3A%22%22%2C%22a%22%3A%22%22%2C%22m%22%3A%22%22%7D%7D%2C%22lim%22%3A%5B%22CCPA%22%2C%22GDPR_BLOCK_ALL%22%5D%2C%22v%22%3A%222.1%22%2C%22region%22%3A%22DERP%22%2C%22reg%22%3A%22GDPR%22%7D; Expires=Wed, 15-Jan-25 04:00:20 GMT; Domain=trendingclothingdeal2.com; Path=/; SameSite=Lax
+Etag: "cacheable:4eb16c094ad1b97da215f50fc1690633"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Access-Control-Allow-Origin: *
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 44005752983
+X-Shardid: 254
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=11;desc="gc:1", db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="132693950719", pageType;desc="page", servedBy;desc="s9wv", requestID;desc="e14d67fa-57da-4052-a61a-03f948db7375"
+Server-Timing: cfRequestDuration;dur=38.000107
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: e14d67fa-57da-4052-a61a-03f948db7375
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=uUYXvHP1M5FTKUaIj5lx0XBHVCOGUlch5n9r3NSYMxafVhUGyGEKW7U971ZuVs%2BxD5BmAnInIYXDZbNo7jYeMY7DWeJ7818YBU0%2Ftg2cWKQ0hjAnpWHyA8oAmwnwD4EByT48isXxmfbtBSY%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8463737288c39b40-FRA
+Alt-Svc: h3=":443"; ma=86400

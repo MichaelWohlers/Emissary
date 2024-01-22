@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 04:46:47 GMT
+Content-Type: text/plain; charset=utf-8
+Cache-Control: max-age=0, s-maxage=7200, must-revalidate
+Content-Encoding: gzip
+Etag: "ca121b5d03245bf82db00d14cee04e22"-gzip
+Expires: Mon, 15 Jan 2024 06:07:28 GMT
+Last-Modified: Tue, 23 May 2023 20:52:10 GMT
+Owner: sitescog-735
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Surrogate-Key: locations.cititrends.com locations.cititrends.com%2Frobots.txt
+Vary: Accept-Encoding
+X-Goog-Generation: 1684875130745179
+X-Goog-Hash: md5=yhIbXQMkW/gtsA0UzuBOIg==
+X-Goog-Metageneration: 1
+X-Goog-Reserved-Source-Generation: 1637198477649817
+X-Goog-Storage-Class: STANDARD
+X-Goog-Stored-Content-Encoding: identity
+X-Goog-Stored-Content-Length: 13
+X-Guploader-Uploadid: ABPtcPqtQ1bdAcXLvb52Buyd1W5FCu8cj8CARiVTpP8inGYnbOQDIyXZR3D0X5JABzdY3eL052q0-Gq8Hg
+X-Yext-Site: ne2
+X-Yext-Subendpoint: static
+Via: 1.1 google
+Alt-Svc: h3=":443"; ma=86400
+Cf-Cache-Status: HIT
+Age: 6226
+Set-Cookie: __cf_bm=oD_1k9XVEJChBOTY.fxc39.LZWvv3X7rKotDQ8dDkbU-1705380407-1-AYUFaFO5Oibk1OLU8yJwIEUszxf6NpZ3RbsLqqt2vkquFX5z5Zl6pG21I6pAlyo24FaaS2QyOTgE2K2VP1UqOaI=; path=/; expires=Tue, 16-Jan-24 05:16:47 GMT; domain=.locations.cititrends.com; HttpOnly; Secure; SameSite=None
+Server: cloudflare
+Cf-Ray: 8463b77ba96c30d6-FRA

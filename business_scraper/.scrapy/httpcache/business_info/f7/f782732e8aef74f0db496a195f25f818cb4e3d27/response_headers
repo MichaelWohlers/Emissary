@@ -1,0 +1,38 @@
+Date: Tue, 16 Jan 2024 11:47:07 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 227
+X-Sorting-Hat-Shopid: 65537900772
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=eb881cac-646e-43c5-85de-4eebb78dfdc3; path=/; expires=Tue, 16 Jan 2024 12:17:07 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:47:07 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 11:47:07 GMT
+Set-Cookie: cart_currency=EUR; path=/; expires=Tue, 30 Jan 2024 11:47:07 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Afalse%2C%22a%22%3Afalse%2C%22m%22%3Afalse%2C%22t%22%3Afalse%7D%2C%22display_banner%22%3Atrue%2C%22sale_of_data_region%22%3Afalse%7D; domain=dalesclothing.com; path=/; expires=Wed, 17 Jan 2024 11:47:07 GMT; SameSite=Lax
+Set-Cookie: _tracking_consent=%7B%22con%22%3A%7B%22CMP%22%3A%7B%22a%22%3A%22%22%2C%22p%22%3A%22%22%2C%22s%22%3A%22%22%2C%22m%22%3A%22%22%7D%7D%2C%22lim%22%3A%5B%22GDPR_BLOCK_ALL%22%5D%2C%22v%22%3A%222.1%22%2C%22region%22%3A%22DERP%22%2C%22reg%22%3A%22GDPR%22%7D; Expires=Wed, 15-Jan-25 11:47:07 GMT; Domain=dalesclothing.com; Path=/; SameSite=Lax
+Etag: "cacheable:c40dbc77b7c4cfe86d4f8fe9a92c0fd0"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 65537900772
+X-Shardid: 227
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=15, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="136732901604", servedBy;desc="wbt8", requestID;desc="5c3257e4-b88e-46cb-b8db-09a8ae0c49d3"
+Server-Timing: cfRequestDuration;dur=39.000034
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 5c3257e4-b88e-46cb-b8db-09a8ae0c49d3
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=%2Fgit1S651OGfIAXCNXP%2FOHhLAQfaChltdkrEZeCfGoKxeaBVlYFTuVkeB9hk5rg6XDuHR7rCDdV10X%2B5YDRfzsoCJAaKdCzjmZAG5KiJWXmdFJBWscxeAxwbjvWMKEtGjzlV"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661f351f77bbec-FRA
+Alt-Svc: h3=":443"; ma=86400

@@ -1,0 +1,42 @@
+Date: Tue, 16 Jan 2024 11:02:33 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 236
+X-Sorting-Hat-Shopid: 27193378
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=839ec1a0-55c2-48b2-bc7e-8ff959e244ba; path=/; expires=Tue, 16 Jan 2024 11:32:32 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:02:33 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 11:02:33 GMT; SameSite=Lax
+Set-Cookie: cart_currency=EUR; path=/; expires=Tue, 30 Jan 2024 11:02:33 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=charlotteheartboutique.com; path=/; expires=Wed, 17 Jan 2024 11:02:33 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=f2795da0-c117-450d-9c63-c96e66b31355; Expires=Wed, 15-Jan-25 11:02:33 GMT; Domain=charlotteheartboutique.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=1cea9c3d-48b1-4c2c-969a-2077e7142133; Expires=Tue, 16-Jan-24 11:32:33 GMT; Domain=charlotteheartboutique.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 11:02:33 GMT; Domain=charlotteheartboutique.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2Fpages%2Fcontact-us; Expires=Tue, 30-Jan-24 11:02:33 GMT; Domain=charlotteheartboutique.com; Path=/; HttpOnly; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+Etag: "cacheable:2e238878d272fb5ad999c602335e93de"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Access-Control-Allow-Origin: *
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 27193378
+X-Shardid: 236
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=232;desc="gc:68", db;dur=51, fetch;dur=1, parse;dur=2, render;dur=18, wasm, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="78882898017", pageType;desc="page", servedBy;desc="6rwf", requestID;desc="92d3bbaa-d9f3-4d8f-83f4-81fe8b56be6b"
+Server-Timing: cfRequestDuration;dur=288.000107
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 92d3bbaa-d9f3-4d8f-83f4-81fe8b56be6b
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=iGs04M4lRMbZmxO%2BW1UDzVB6MM3Io5a4pnC7gZv%2BhJHN%2FbALLH476JqPMT0tueUdpoksqNm%2BW427NvsTDZzSOSlJPJmMjXQAP3OURGDFucSt5k6ILdCjPMn%2FTvAzQO2paB5xvQLlyPzUdtOLKiAVXg%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8465dde77db43a78-FRA
+Alt-Svc: h3=":443"; ma=86400

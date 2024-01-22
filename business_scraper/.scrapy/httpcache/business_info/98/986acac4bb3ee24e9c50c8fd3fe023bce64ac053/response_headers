@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:49:34 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 178
+X-Sorting-Hat-Shopid: 23744667
+X-Storefront-Renderer-Rendered: 1
+Location: https://sisilyboutique.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 23744667
+X-Shardid: 178
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=8, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="bkhr", requestID;desc="421fa188-356b-4629-945d-7a9f4cb2c1e5"
+Server-Timing: cfRequestDuration;dur=36.000013
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 421fa188-356b-4629-945d-7a9f4cb2c1e5
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=3D5M91T1kEuu8AhEV1658gplx9%2Frha59fMWb%2B3zpSF4ItsAxc4IGhgY4MYNLkgt9e%2FR%2FHyQcYasQtBz2LREmdjnywIb9FublzB8Dmpj1quLbUTSvJGmWPnjZ5KxgxkDn8NzvDA%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846622ccf9e49174-FRA
+Alt-Svc: h3=":443"; ma=86400

@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 12:00:14 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 233
+X-Sorting-Hat-Shopid: 8853782605
+X-Storefront-Renderer-Rendered: 1
+Location: https://www.shopwithshari.net/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 8853782605
+X-Shardid: 233
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=7, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="mp9s", requestID;desc="4f8586f4-166e-4c00-a94e-50bce506b4bf"
+Server-Timing: cfRequestDuration;dur=36.999941
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 4f8586f4-166e-4c00-a94e-50bce506b4bf
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=VmO09CCO%2FLVQGrv6K8NZMOvxxt7L665UEVH9eK5MURyX5hSFoWWHiCMgb4ni%2B5QokTLPtDIoDum2kiNg%2F3WUddSDbPuWglAwBQYcgeHPze8MO%2B4Gs7lnHqZ9B22GTh7M2O3DlMNElg%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8466326d19812c2e-FRA
+Alt-Svc: h3=":443"; ma=86400

@@ -1,0 +1,41 @@
+Date: Tue, 16 Jan 2024 11:43:30 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 219
+X-Sorting-Hat-Shopid: 14104048
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=caf93b12-ca77-421c-8455-accda1f691b5; path=/; expires=Tue, 16 Jan 2024 12:13:30 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:43:30 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:43:30 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:43:30 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=everydaychicboutique.com; path=/; expires=Wed, 17 Jan 2024 11:43:30 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=ff02ef05-e464-4f8c-8d4c-be314ae30858; Expires=Wed, 15-Jan-25 11:43:30 GMT; Domain=everydaychicboutique.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=22971e9b-cecc-4e00-92fc-79ce0914dc97; Expires=Tue, 16-Jan-24 12:13:30 GMT; Domain=everydaychicboutique.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 11:43:30 GMT; Domain=everydaychicboutique.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2F; Expires=Tue, 30-Jan-24 11:43:30 GMT; Domain=everydaychicboutique.com; Path=/; HttpOnly; SameSite=Lax
+Etag: "cacheable:28dd6aa5381670592579d8c5a6dff44e"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin, <//www.everydaychicboutique.com/cdn/shop/t/114/assets/theme.css?v=79113970058850799661705120206>; as="style"; rel="preload", <//www.everydaychicboutique.com/cdn/shop/files/HERO_DESKTOP_1800_x_1600_px_1800_x_1000_px_5.gif?v=1705120375&width=2400>; as="image"; rel="preload"; imagesrcset="//www.everydaychicboutique.com/cdn/shop/files/HERO_DESKTOP_1800_x_1600_px_1800_x_1000_px_5.gif?v=1705120375&width=352 352w, //www.everydaychicboutique.com/cdn/shop/files/HERO_DESKTOP_1800_x_1600_px_1800_x_1000_px_5.gif?v=1705120375&width=832 832w, //www.everydaychicboutique.com/cdn/shop/files/HERO_DESKTOP_1800_x_1600_px_1800_x_1000_px_5.gif?v=1705120375&width=1200 1200w, //www.everydaychicboutique.com/cdn/shop/files/HERO_DESKTOP_1800_x_1600_px_1800_x_1000_px_5.gif?v=1705120375&width=1920 1920w"; imagesizes="100vw", <//www.everydaychicboutique.com/cdn/shop/files/Lounge_2024_894339c5-49d6-4368-8258-549973ba359d.png?v=1705119480&width=2600>; as="image"; rel="preload"; imagesrcset="//www.everydaychicboutique.com/cdn/shop/files/Lounge_2024_894339c5-49d6-4368-8258-549973ba359d.png?v=1705119480&width=352 352w, //www.everydaychicboutique.com/cdn/shop/files/Lounge_2024_894339c5-49d6-4368-8258-549973ba359d.png?v=1705119480&width=832 832w, //www.everydaychicboutique.com/cdn/shop/files/Lounge_2024_894339c5-49d6-4368-8258-549973ba359d.png?v=1705119480&width=1200 1200w, //www.everydaychicboutique.com/cdn/shop/files/Lounge_2024_894339c5-49d6-4368-8258-549973ba359d.png?v=1705119480&width=1920 1920w"; imagesizes="100vw"
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 14104048
+X-Shardid: 219
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=13, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="139569922268", pageType;desc="index", servedBy;desc="k7hn", requestID;desc="6d899ee8-9d1c-4ec8-887f-445f67ed90a2"
+Server-Timing: cfRequestDuration;dur=56.999922
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 6d899ee8-9d1c-4ec8-887f-445f67ed90a2
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Gy8wjzIIsGec4e9L8Xzs0sJz5rDofq3oqMmJZ%2Bh3db4iJtQsdgHPcTb91gs%2BBVdizaQ2JT07e%2Bu%2B%2FqoFPspkwKk1gJz1MsNRrl0qmBVYu0Xaf6JHGyjl5qY%2FjMWbNVgKS3gnXthleoVxfCGEBs4%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846619e7aa835c6e-FRA
+Alt-Svc: h3=":443"; ma=86400

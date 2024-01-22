@@ -1,0 +1,38 @@
+Date: Tue, 16 Jan 2024 11:51:47 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 161
+X-Sorting-Hat-Shopid: 40079163554
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=9d44a82b-75bd-47ca-a188-950a1334f21a; path=/; expires=Tue, 16 Jan 2024 12:21:47 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:51:47 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:51:47 GMT; SameSite=Lax
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:51:47 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Afalse%2C%22a%22%3Afalse%2C%22m%22%3Afalse%2C%22t%22%3Afalse%7D%2C%22display_banner%22%3Atrue%2C%22sale_of_data_region%22%3Afalse%7D; domain=shopfred.com; path=/; expires=Wed, 17 Jan 2024 11:51:47 GMT; SameSite=Lax
+Set-Cookie: _tracking_consent=%7B%22lim%22%3A%5B%22CCPA%22%2C%22GDPR_BLOCK_ALL%22%5D%2C%22v%22%3A%222.1%22%2C%22region%22%3A%22DERP%22%2C%22reg%22%3A%22GDPR%22%2C%22con%22%3A%7B%22CMP%22%3A%7B%22s%22%3A%22%22%2C%22m%22%3A%22%22%2C%22a%22%3A%22%22%2C%22p%22%3A%22%22%7D%7D%7D; Expires=Wed, 15-Jan-25 11:51:47 GMT; Domain=shopfred.com; Path=/; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+Etag: "cacheable:6f3576051ec78eabef3e5d5b31da008b"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 40079163554
+X-Shardid: 161
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=729;desc="gc:45", db;dur=206, fetch;dur=1, parse;dur=7, render;dur=364, wasm, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="129027375266", pageType;desc="index", servedBy;desc="2pxx", requestID;desc="8a4add92-eacb-46e4-b58e-e064c0650a89"
+Server-Timing: cfRequestDuration;dur=767.999887
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 8a4add92-eacb-46e4-b58e-e064c0650a89
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=MnC0VLbnIZSIpK0cNKUmBVRBAsjPk8Vumfs3toOhG37JMb8ZpLUXwzDymUO25rlMnEOGxlZPWj%2F3%2Bx3KSmnGCNbCgp9XoPXH1juiuXM4SElQ2MdJNumy859DSnObtA%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84662607ee7ebb44-FRA
+Alt-Svc: h3=":443"; ma=86400

@@ -1,0 +1,24 @@
+Server: Nacho Web Server
+Content-Type: text/html; charset=utf-8
+Vary: Cookie
+Vary: Accept-Encoding
+Access-Control-Allow-Origin: *
+Cache-Control: max-age=1800
+X-Sb-Proxy-Cache: HIT
+X-Frame-Options: SAMEORIGIN ALLOW-FROM https://design-use.ci360.sas.com
+X-Akamai-Transformed: 9 - 0 pmb=mNONE,1mTOE,4mRUM,2
+Content-Encoding: gzip
+Date: Tue, 16 Jan 2024 11:37:25 GMT
+Set-Cookie: AKA_A2=A; expires=Tue, 16-Jan-2024 12:37:25 GMT; path=/; domain=chicosofftherack.com; secure; HttpOnly
+Set-Cookie: _abck=6804FFE23FAE34DF8A75ECA9C220E696~-1~YAAQl48UAtZolhGNAQAAktwPEguz2WzV1308TICR0weBYkqR1igpvHffJUCynSCjMBNGqYZsbOvRgBfDzlA+U0JSCU0ZBTqWoxo5NyIY6DmWBM6YaRW6LfQjlcYyhgXJn7l7fnKDc47xE261q4VmQ7do/HHnRvhPQnJ2p7MVH9lfId2EY2J8lgtcqxKk3wzqvU3barnpHWnEOsyTDlneti/ShlDsCej0SwvHoym8yaIV5ll9UUcuGAV4LnCpg32ruh0V57KcrQ5ypvM6727WTRBL5znPRFPE1x0j11+qyxc4GrW8z8gSe8DXVh+uaW5H8Dmg4SmphjqoL8d32zgeC3vRAGcks1Nn9BsY/VgWhHfGXTcjMALQpytNbNCJDvDB81YT1C9O~-1~-1~-1; Domain=.chicosofftherack.com; Path=/; Expires=Wed, 15 Jan 2025 11:37:25 GMT; Max-Age=31536000; Secure
+Set-Cookie: ak_bmsc=14B98E6A79E9C1C8F641FBE3D0CD5D98~000000000000000000000000000000~YAAQl48UAtdolhGNAQAAktwPEhZfifmCn+UpCAtGED+DxWXR4FJFEBo1kA+6/vj/GGtJBvFX7PGhWSC0VgqhgE3514UKLZSW0WWvj4iwKNy4jvSzEJbtZf8cSUv8T88FH42sprUvFqrsIqKkW9gtY9Lm4lewbWzuGCK27FSW1OwJNps2HuGqfRPGvaDW8FVK/waj7S+ypRc9L7kFNsbg/EhFpqsnDkqQysQ9nCpyT9N7B+QRoQXkUV0OtuSHpjvRw2B+d8yJw0NA90fIJLlAPEIPcxUj/y+XSp8/cCwsa5l7IS5mPleHuZNsIXc1JvrCXrfAc8tVBtU+2j4JcqEv7OatRAJ4q66JhuGjOjO75VWQAxjwnoig+bZhbPCK3N/wclEgo2M=; Domain=.chicosofftherack.com; Path=/; Expires=Tue, 16 Jan 2024 13:37:25 GMT; Max-Age=7200; HttpOnly
+Set-Cookie: bm_mi=291A7E63311277443B55AA329388B84B~YAAQl48UAtholhGNAQAAktwPEhbpokc1bgG806aMzdwmv2+gK1KIxtIHOmiH1fsckjlJAGPF+1kcZr+1KR5CLKNgveE30CsOwWGTHQKPDxesLntOxWbT4mfD9k8b9hbkpdpEyt3O4WaSle6n4iGSK+txqA+eyFkn4WYOpn+jHUR8eZm6VxZH2oKMMAhVi3Uu9AbaAvE/KreEt+APZfYKpOxhDP0kFVF4nc33ACnsg9vsNDpC+M5iirxqsfz0h0nx8PHSc/wDD2Dx9LciwY8ovlYtI91Z4gnCHEnkdti3RZO1grCONUi9Pw9HI7lvAcy7T0eZO0mrwiGv48L0Dij5sUUm1EzqEuLcqumUHABxRwP1OO9JZ4idmzHrNtLPhvtGkjomWzJ0qQv9qVE=~1; Domain=.chicosofftherack.com; Path=/; Expires=Tue, 16 Jan 2024 11:37:25 GMT; Max-Age=0; Secure
+Set-Cookie: bm_sz=6DAB171FF3E92531ECD2466434D2BEBF~YAAQl48UAtlolhGNAQAAktwPEhYFWwcWDpi1RSJm9UxGZDqW+YmrB78Ozy4zNmrIlMkbOHI1ChrU1SuH5bKw8ywLT9dWx+FOVBPS+BmLwT8nwp7t737RH/yFtesDAXmZmD0F1NBzC6NxjRd+DjK0XOX/pBUwGQGfcn87vZf2Nf0MHlCMCjimIvGDZIOxrZI3wee13+pJJ/UVsWylIL8kTuuffYtXQy6fkyRt1Ae/KWTGMNgh7EF1yO1y12GRn9bQfkBfZoNfxRpLX21Fy2xNbSnln7YbwcTX4xhCsDqH6ShCVWAws+mAdfZ+G397fxUffQKz7lqN+R29K4Z99cvY0lFq6BxIBXW75opjKrIOxe0gQqYz8uHOHJHkzqG9~3355971~3294275; Domain=.chicosofftherack.com; Path=/; Expires=Tue, 16 Jan 2024 15:37:25 GMT; Max-Age=14400
+Server-Timing: cdn-cache; desc=MISS
+Server-Timing: edge; dur=133
+Server-Timing: origin; dur=28
+Server-Timing: ak_p; desc="1705405045692_34901911_3486526_16044_9234_55_44_-";dur=1
+X-Akam-Sw-Version: 0.5.0
+Link: <https://www.chicosofftherack.com/web_assets/fonts/rokkitt/Rokkitt-Regular.ttf>;rel="preload";as="font";type="font/ttf";crossorigin
+Link: <https://www.googletagmanager.com>;rel="preconnect",<https://www.google-analytics.com>;rel="preconnect",<https://cdnjs.cloudflare.com>;rel="preconnect"
+Strict-Transport-Security: max-age=86400

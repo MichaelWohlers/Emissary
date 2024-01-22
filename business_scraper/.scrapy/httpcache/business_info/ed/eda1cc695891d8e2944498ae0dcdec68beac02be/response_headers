@@ -1,0 +1,29 @@
+Date: Tue, 16 Jan 2024 11:40:18 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 245
+X-Sorting-Hat-Shopid: 52561772704
+X-Storefront-Renderer-Rendered: 1
+Location: https://inspiredfashion40.com/robots.txt
+X-Redirect-Reason: canonical_host_redirection
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 52561772704
+X-Shardid: 245
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=12, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="qw2t", requestID;desc="4d6c4c1f-f504-4a86-ab10-4b64c2f5816d"
+Server-Timing: cfRequestDuration;dur=55.999994
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 4d6c4c1f-f504-4a86-ab10-4b64c2f5816d
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=fNerTPIayuZbx8cYD%2BgywDcni1%2FqZjKCshBZhy%2BqKLHaaP3S2mbC60%2Bgpm60UrNH9vMY6u29l05B2GhTP7dZvs8qAXp8Puj%2FzfZn1v8A2FEWpH5KT7UlRPUY%2B2Ssor71JGNpKuwaSobwhFw%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846615365c0a5d72-FRA
+Alt-Svc: h3=":443"; ma=86400

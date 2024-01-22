@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:47:05 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 314
+X-Sorting-Hat-Shopid: 27321040974
+X-Storefront-Renderer-Rendered: 1
+Location: https://westmainboutique.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 27321040974
+X-Shardid: 314
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=21, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="jww9", requestID;desc="8d7d75d7-2834-4414-bc3d-048fd2835c88"
+Server-Timing: cfRequestDuration;dur=58.000088
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 8d7d75d7-2834-4414-bc3d-048fd2835c88
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=cj8d9Keik0vbwaCZj%2BeHSRuKkYAL6zkuBfgtCbh5Zq2%2BbKNmSEf7VNRLbDh2kFgDUp%2BrVdujwonAZsCWVwu1Af96JhdCQ5M6tzPeyVdGQw0iQoxu9gK0LU6RwS2IIgaxw%2FpQZ0TG"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661f273b26697b-FRA
+Alt-Svc: h3=":443"; ma=86400

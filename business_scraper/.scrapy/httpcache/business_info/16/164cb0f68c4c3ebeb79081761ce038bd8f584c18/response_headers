@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:37:28 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 249
+X-Sorting-Hat-Shopid: 62334796026
+X-Storefront-Renderer-Rendered: 1
+Location: https://www.oneelevenolive.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 62334796026
+X-Shardid: 249
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=6, db;dur=2, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="m89h", requestID;desc="3182dcad-bbe4-43ea-8069-85634864c71f"
+Server-Timing: cfRequestDuration;dur=42.000055
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 3182dcad-bbe4-43ea-8069-85634864c71f
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=njxOU%2BOocCldqmCnoTBZpoXs53QX3OvssJLUH5FqPQeCzbwGqQDMi5Wnhj9SoYtKXDYHhiWVscYoL4IrcCjsHGaMVYl917jt%2FUWv%2FLuS3hIg2bBin0UrUx5UYa0vVSzOM30mqD63N2E%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8466110f984f03a6-FRA
+Alt-Svc: h3=":443"; ma=86400

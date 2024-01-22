@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 04:54:06 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 163
+X-Sorting-Hat-Shopid: 50967380132
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=7ab4719e-336f-415a-92cc-359687012f35; path=/; expires=Tue, 16 Jan 2024 05:24:06 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 04:54:06 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 04:54:06 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 04:54:06 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=ezraexclusivefashionbar.com; path=/; expires=Wed, 17 Jan 2024 04:54:06 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=07e970d8-177a-46eb-a3c4-46c03430de38; Expires=Wed, 15-Jan-25 04:54:06 GMT; Domain=ezraexclusivefashionbar.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=4ba2c97c-eb53-430d-bc9e-37e8960ef69d; Expires=Tue, 16-Jan-24 05:24:06 GMT; Domain=ezraexclusivefashionbar.com; Path=/; SameSite=Lax
+Etag: "cacheable:e26aa0831c2fd070458be050e7184f5d"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 50967380132
+X-Shardid: 163
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=10;desc="gc:1", db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="115313410212", servedBy;desc="zgsh", requestID;desc="1c58e584-4dae-486a-a693-b3c80a4d8436"
+Server-Timing: cfRequestDuration;dur=37.999868
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 1c58e584-4dae-486a-a693-b3c80a4d8436
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=kEFYmkUO3DyuaTVVS70LsrQPzSPakKvSG0pEP%2FXhA4m2Us0SxQTVajbWc7jw9zgyN08LCqihdU0wczlO%2FRgRVMwFDcp12JHDw52DqDK9zD5YzIMvGeoZRzhjOrrKoBugjodyyFjyTCSZIz47U%2F7dK6c%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8463c23229b71c9f-FRA
+Alt-Svc: h3=":443"; ma=86400

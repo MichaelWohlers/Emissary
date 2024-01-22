@@ -1,0 +1,29 @@
+Date: Tue, 16 Jan 2024 11:35:39 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 280
+X-Sorting-Hat-Shopid: 72476918041
+X-Storefront-Renderer-Rendered: 1
+Location: https://urbantrendztn.com/
+X-Redirect-Reason: primary_domain_redirection
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 72476918041
+X-Shardid: 280
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=8, db;dur=2, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="5474", requestID;desc="dcf5858e-489a-40e2-995d-57a26e922fb8"
+Server-Timing: cfRequestDuration;dur=51.000118
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: dcf5858e-489a-40e2-995d-57a26e922fb8
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=igFFHtpyUTFS%2Bv7nAdsacAP0LOQ%2F2v%2FkclgDm9u%2FPL4IWhfxknv6RO2sJtXcvu6NJY2Q35DaCBP8tyaDoDQxVP8uic77IAOuBWOC1U7W9ynKzcbzy75dYJkTROSxPKQ6M5AXbl0%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84660e64bb9490ee-FRA
+Alt-Svc: h3=":443"; ma=86400

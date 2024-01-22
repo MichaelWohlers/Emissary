@@ -1,0 +1,10 @@
+Content-Length: 0
+Date: Tue, 16 Jan 2024 12:02:51 GMT
+Location: https://www.thenewfreestore.org/
+Strict-Transport-Security: max-age=3600
+X-Wix-Request-Id: 1705406571.195273888491217370
+Age: 0
+Server-Timing: cache;desc=miss, varnish;desc=miss, dc;desc=84
+X-Seen-By: REmTqJKTo7BM/eF7JdTbUrxkNjrXdwdgtu6E0yACibU=,m0j2EEknGIVUW/liY8BLLrPqYKkRtIYY8UbngCHp0RnJftmKrOReD3ukbbas4YDo,2d58ifebGbosy5xc+FRaln/wV03YwUTRNbnNi5XwDz+9Zu4gbACHnEmbLhFH0Vkvoni3EWH1XXps9LPRULsh0A==,2UNV7KOq4oGjA5+PKsX47IuEO720fXeweokiV/7A8wS8ZDY613cHYLbuhNMgAom1,oH45haSb+jN5pZFE/dwLjR2i6CKpmfCUVdCrCjv2j+g=,NGA4+op+pO0k0Gabeox+q7e81MrFxRSAC7cIOQJA1b8=,2jmwVdffH1Py+LoakQW9nXMM8T8+fZkr0ZgSfoOnR0H6SQnt+S+3AKf5ilNGIMeKAR05t0SpwbCOaf9rKUzxMA==
+Cache-Control: no-cache
+X-Content-Type-Options: nosniff

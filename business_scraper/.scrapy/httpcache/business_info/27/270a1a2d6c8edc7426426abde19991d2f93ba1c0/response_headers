@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:20:54 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 296
+X-Sorting-Hat-Shopid: 67187409193
+X-Storefront-Renderer-Rendered: 1
+Location: https://diferentwear-1918.myshopify.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 67187409193
+X-Shardid: 296
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=26, db;dur=7, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="n7sx", requestID;desc="31807481-10c6-4d49-b17c-562596563086"
+Server-Timing: cfRequestDuration;dur=62.000036
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 31807481-10c6-4d49-b17c-562596563086
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=HJRSMLRVm8tX%2FS7VWV2JbIeBM4TSYFcGPb%2BbcxiV2Eux6VaiRD3qOGQppyFGZP68htS62Z9ZQgK07zu3xcPb5TWn4Medqq5zJrln2ndXhfPJxbDlgGspc7SHEPqJ7eNIDuWoxqgZP2m42RXDjAK3o7w%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8465f8cc6b061e6e-FRA
+Alt-Svc: h3=":443"; ma=86400

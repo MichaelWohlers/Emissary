@@ -1,0 +1,38 @@
+Date: Tue, 16 Jan 2024 11:33:56 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 286
+X-Sorting-Hat-Shopid: 9727692
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=3740505f-7112-4289-9434-2a37ab6197d9; path=/; expires=Tue, 16 Jan 2024 12:03:56 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:33:56 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 11:33:56 GMT
+Set-Cookie: cart_currency=EUR; path=/; expires=Tue, 30 Jan 2024 11:33:56 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Afalse%2C%22a%22%3Afalse%2C%22m%22%3Afalse%2C%22t%22%3Afalse%7D%2C%22display_banner%22%3Atrue%2C%22sale_of_data_region%22%3Afalse%7D; domain=buycurvy.com; path=/; expires=Wed, 17 Jan 2024 11:33:56 GMT; SameSite=Lax
+Set-Cookie: _tracking_consent=%7B%22con%22%3A%7B%22CMP%22%3A%7B%22p%22%3A%22%22%2C%22s%22%3A%22%22%2C%22m%22%3A%22%22%2C%22a%22%3A%22%22%7D%7D%2C%22lim%22%3A%5B%22CCPA%22%2C%22GDPR_BLOCK_ALL%22%5D%2C%22region%22%3A%22DERP%22%2C%22v%22%3A%222.1%22%2C%22reg%22%3A%22GDPR%22%7D; Expires=Wed, 15-Jan-25 11:33:56 GMT; Domain=buycurvy.com; Path=/; SameSite=Lax
+Etag: "cacheable:cc5de273056ffe0663be693a8af0b9bd"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 9727692
+X-Shardid: 286
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=12, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="80130015266", servedBy;desc="mb7m", requestID;desc="17afa961-eebd-4070-ad1b-44eade0d9120"
+Server-Timing: cfRequestDuration;dur=42.000055
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 17afa961-eebd-4070-ad1b-44eade0d9120
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=AvwQJDOrzt%2FnFgeGJ8ESO5YEx9j66mEE3yCglnUvkSPojbntWmAjfPtYazbyX1UVEIFhq2czG0QElAsbeH6klZeYe1Ueimw1esu4GDqKVR9BGTpDW8cnqmdTgMokNAnJ%2F%2BE%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84660be14bc01c26-FRA
+Alt-Svc: h3=":443"; ma=86400

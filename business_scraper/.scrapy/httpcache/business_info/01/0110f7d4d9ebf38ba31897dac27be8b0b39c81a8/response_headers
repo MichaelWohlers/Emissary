@@ -1,0 +1,15 @@
+Content-Length: 509
+Content-Type: text/plain; charset=utf-8
+Etag: W/"1fd-K59vrFEnFP86s9kolMznXmhUbUE"
+Age: 0
+Cache-Control: private, max-age=0, must-revalidate
+Accept-Ranges: bytes
+X-Wix-Request-Id: 1705405125.981273303872157756
+Server: Pepyaka/1.21.6
+X-Content-Type-Options: nosniff
+Date: Tue, 16 Jan 2024 11:38:46 GMT
+X-Served-By: cache-fra-eddf8230037-FRA
+X-Cache: MISS
+Server-Timing: cache;desc=miss, varnish;desc=miss_miss, dc;desc=fastly_84_g
+X-Seen-By: yvSunuo/8ld62ehjr5B7kA==,GilIRCy+Ky2nI9KZaDKzWLxkNjrXdwdgtu6E0yACibU=,m0j2EEknGIVUW/liY8BLLk1Uxi5aVwrmRyfWZ8T7SgCdv/c7uH0ky0wFkt5EFvml,2d58ifebGbosy5xc+FRalkoEoE6RG+x9y1vKxYi79yJ4eqln6R332NxB+amKoR+NPZD2XDIL+bkFQwWUe+DyFQ==,2UNV7KOq4oGjA5+PKsX47IuEO720fXeweokiV/7A8wS8ZDY613cHYLbuhNMgAom1,Sa95Q4GZdWNQrQ55uraJG44XQ2PzbNmZQioQxLEiv1M=,o6VOeTbMKY7U4brBSq2ArYsiTWYX8YBhSWxRELWJlutj3PX/wGzIbnEXONH3CYxoxRUhZbzuIok9tfir//VTkViB5QmpRe2J37zq9nDD6cs=,rruzdI6DZLMDmLVrC/6YIyIXY2iEBGsaq5BVGuCVQdc=,4k9Y2CpE1yc6Kq2GMkMjna7diaQWOqfTU7Kywj8IVz0=,tznMqpp3e1oucszW+OT1FJfeSsiWIR0JNkyguypO2CZLZWvGRN6edGAOJ5IrdMN0uJb3v1UvwPq0L6JFhqMXKWSJxG7Jjlk06xxwVafcCVc=,7Ntv6FWVhBbAdJjX+0s6LIdU4haL7XxdYhNdOTO8RpE=,mvxQ9qSAmY38asKjFCcmG1ok4xnDLUJPKsd6qD64s9UORnSYvv1eMJhncS5Z461zh1TiFovtfF1iE105M7xGkQ==
+Via: 1.1 google

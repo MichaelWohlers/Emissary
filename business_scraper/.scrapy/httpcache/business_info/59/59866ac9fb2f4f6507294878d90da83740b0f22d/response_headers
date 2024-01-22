@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 04:00:09 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 152
+X-Sorting-Hat-Shopid: 6839009344
+X-Storefront-Renderer-Rendered: 1
+Location: https://shopsweetapricot.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 6839009344
+X-Shardid: 152
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=7, db;dur=2, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="h2z8", requestID;desc="5c672f3d-e0bc-48ce-9362-03af16d6a425"
+Server-Timing: cfRequestDuration;dur=27.999878
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 5c672f3d-e0bc-48ce-9362-03af16d6a425
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=9QcvGJI1rk%2FPVbn4JAsEtIc4k5%2Bbe62qr7Sf3%2BRIlJnd0N932y9QEqQikVAwbrPZ2d%2BcYCPVA2VVMcl%2B6XtR2699o6XuK8m9fS622m5KiM5SPDIuvmHjigE2x4Sngj5ExesT0CG1khiUjA%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8463732abe9a18f1-FRA
+Alt-Svc: h3=":443"; ma=86400

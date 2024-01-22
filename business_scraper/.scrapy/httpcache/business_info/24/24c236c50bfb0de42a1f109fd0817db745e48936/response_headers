@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:56:02 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 207
+X-Sorting-Hat-Shopid: 61547315408
+X-Storefront-Renderer-Rendered: 1
+Location: https://eveandmeboutique.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 61547315408
+X-Shardid: 207
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=16, db;dur=5, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="cnml", requestID;desc="3d16aa59-957f-4561-ba55-622debb23fcb"
+Server-Timing: cfRequestDuration;dur=47.999859
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 3d16aa59-957f-4561-ba55-622debb23fcb
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=F6%2F6kRJ7XVuUnN19RjuFebKqYXMbO3mWgg2r3Vd4wWN72NUPSLVU9okgynNmYdFT2OnSygLcM%2BxUDnNQNxRHRVHJ6I5TgoP1yqV%2BuYZOuatt%2FqpMeisnYf0OyXNOOJhNwKV4Dr3D9OKqJg%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84662c45dde403dc-FRA
+Alt-Svc: h3=":443"; ma=86400

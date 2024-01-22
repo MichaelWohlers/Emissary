@@ -1,0 +1,57 @@
+Server: nginx
+Rtss: 1-2-64
+Rtss1: a15site
+Content-Type: text/html; charset=utf-8
+Cross-Origin-Opener-Policy: same-origin-allow-popups
+Cross-Origin-Resource-Policy: same-origin
+X-Dns-Prefetch-Control: off
+X-Frame-Options: SAMEORIGIN
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+Origin-Agent-Cluster: ?1
+X-Permitted-Cross-Domain-Policies: none
+Referrer-Policy: same-origin
+X-Xss-Protection: 0
+Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: https://*.go-mpulse.net https://cdn.polyfill.io https://*.dynamicyield.com https://d16fk4ms6rqz1v.cloudfront.net https://cdn.merklesearch.com https://cdn.pbbl.co https://s.pinimg.com https://bat.bing.com https://assistjs.skimresources.com https://connect.facebook.net https://*.twitter.com https://cdn.groupbycloud.com https://tags.tiqcdn.com https://www.googleadservices.com https://js.appboycdn.com https://static.ads-twitter.com https://js-agent.newrelic.com https://*.afterpay.com https://mpsnare.iesnare.com https://bam.nr-data.net https://*.datasteam.io https://ci-mpsnare.iovation.com https://*.bazaarvoice.com https://*.bluecore.com https://*.salesforceliveagent.com https://static.site24x7rum.com https://*.paypal.com https://*.apple.com https://*.criteo.com https://tags.tiqcdn.cn https://adadvisor.net https://s3.amazonaws.com https://www.gstatic.com http://maps.google.cn https://www.myregistry.com https://www.shopstylecollective.com https://www.shopstylecollective.co.uk https://*.agkn.com https://polyfill.io http://ditu.google.cn https://*.clearpay.co.uk https://*.stg-sessionm.com https://*.sessionm.com https://maxcdn.bootstrapcdn.com https://fast.fonts.net https://app.curalate.com https://images.ctfassets.net https://*.google.com https://images.contentful.com https://h.nexac.com https://p.dlx.addthis.com https://y8ui6jzp.micpn.com https://ct1.ra.linksynergy.com https://consent.nxtck.com https://consent.mediaforge.com https://consent.jrs5.com https://*.linksynergy.com https://*.fpassets.com https://www.googletagmanager.com https://*.googleapis.com https://*.dc-storm.com https://*.ggpht.com https://*.akstat.io https://*.groupbycloud.com https://static.criteo.com https://cdn.dynamicyield.com https://*.rkdms.com https://*.gstatic.com http://images.freepeople.com https://www.google.ca https://www.google.com.au https://static.criteo.net https://www.google.co.uk https://*.freepeople.com https://*.facebook.com https://www.google.nl https://www.google.de https://www.google.fr https://www.google.es https://www.google.com.mx https://www.google.co.jp https://www.google.it https://www.google.co.il https://www.google.com.ar https://cdn.dashhudson.com https://track.securedvisit.com https://cx.atdmt.com https://fonts.gstatic.com https://use.fontawesome.com https://c.go-mpulse.net https://nyt2.dc-storm.com https://sentry.io https://*.fls.doubleclick.net https://www.facebook.com https://dis.as.criteo.com https://dis.us.criteo.com https://videos.contentful.com https://www.youtube.com https://dis.eu.criteo.com https://*.api.bazaarvoice.com https://videos.ctfassets.net https://*.g.doubleclick.net https://dev.appboy.com https://*.perimeterx.net https://api.bazaarvoice.com https://*.akamaihd.net https://freepeople.wufoo.com https://*.rewardstyle.com https://core.conversant.mgr.consensu.org https://*.scene7.com https://*.attn.tv https://*.dotomi.com https://events.attentivemobile.com https://*.adsymptotic.com https://t.co https://cdn.honey.io https://g.3gl.net https://r.3gl.net.cn https://r.3gl.net https://*.hotjar.com https://cdn.contentful.com wss://*.hotjar.com https://*.hotjar.io https://*.attentivemobile.com https://trustbadge.api.etrusted.com https://*.tealiumiq.com https://*.salesforce.com https://*.px-cloud.net https://app.viralsweep.com https://*.typeform.com https://sdk.iad-01.braze.com https://open.spotify.com https://idsync.rlcdn.com https://*.force.com https://*.crazyegg.com https://*.tiktok.com https://business.topbuzz.com https://s0.ipstatp.com https://d38xvr37kwwhcm.cloudfront.net https://downloads.contentful.com https://business-sg.topbuzz.com https://*.tiktokcdn.com https://*.8x8.com/ https://*.btttag.com https://*.ibytedtos.com https://*.krxd.net https://cdn.cookielaw.org https://*.evergage.com https://privacyportal.onetrust.com https://one.progmxs.com https://*.urbndata.com https://*.pinterest.com https://*.urbanairship.com https://aswpapius.com/ https://geolocation.onetrust.com https://*.bambuser.com https://aswpsdkus.com/ https://*.truefitcorp.com https://*.narvar.com https://ds.reson8.com https://*.clarity.ms https://*.bing.com https://*.grin.co https://www.cloudflare.com/cdn-cgi/trace https://*.analytics.google.com https://*.google-analytics.com https://*.quantserve.com https://*.quantcount.com https://*.rakuten.com https://*.adnxs.com https://www.alltrails.com/ https://*.adxcel.com https://*.adxcel-ec2.com https://*.ingest.sentry.io https://*.doubleclick.net https://*.rmtag.com https://*.salesforce-sites.com https://*.stylitics.com https://*.sc-static.net https://*.snapchat.com https://sc-static.net https://app.collectivevoice.com https://app.collectivevoiceqa.com https://*.jebbit.com https://*.vimeo.com https://*.stripe.com https://safevisit.online https://*.byspotify.com https://*.qualtrics.com https://*.googlesyndication.com; img-src 'self' data: *; frame-ancestors 'self';
+Cache-Control: private, max-age=0, proxy-revalidate, no-store, no-cache, must-revalidate
+Vary: Accept-Encoding
+X-Urbn-Site-Id: fp-us
+X-Urbn-Context-Path: /
+Content-Language: en
+Locale: en_US
+Pragma: no-cache
+Expires: Thu, 20 Jul 2023 11:22:24 GMT
+X-Akamai-Transformed: 9 - 0 pmb=mRUM,2
+Content-Encoding: gzip
+Date: Tue, 16 Jan 2024 11:45:00 GMT
+Set-Cookie: SS_IMAGE_VIEWER_VARIANT=2; path=/; domain=.freepeople.com; expires=Tue, 16-Jan-2024 12:14:59 GMT
+Set-Cookie: SSLB=1; path=/; domain=.freepeople.com; expires=Fri, 10-Jan-2025 11:49:59 GMT
+Set-Cookie: SSID_BE=CQCFSh2MAAAAAAA7bKZl92IDEDtspmUBAAAAAABnCYFnO2ymZQDRnHI0AQE1viYAO2ymZQEAczQBATi-JgA7bKZlAQC1NgEB_v8mADtspmUBADc3AQFGDCcAO2ymZQEAZTABAQ1RJgA7bKZlAQDQNAED5scmADtspmUBAFM1AQOz2CYAO2ymZQEAmzcBA_kWJwA7bKZlAQA4OAEBsScnADtspmUBADk4AQPKJycAO2ymZQEA; path=/; domain=.freepeople.com; expires=Wed, 15-Jan-2025 11:44:59 GMT
+Set-Cookie: SSSC_A15=513.G7324660844892218103.1|77925.2511117:78962.2539061:78963.2539064:79056.2541542:79187.2545843:79541.2555902:79671.2559046:79771.2561785:79928.2566065:79929.2566090; path=/; domain=.freepeople.com
+Set-Cookie: SSRT_A15=O2ymZQABAA; path=/; domain=.freepeople.com; expires=Wed, 15-Jan-2025 11:44:59 GMT
+Set-Cookie: urbn_auth_payload=%7B%22authToken%22%3A%22eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJmcCIsImV4cCI6MTcwNTQwNjA5OS4zMzgxODA4LCJpYXQiOjE3MDU0MDU0OTkuMzM4MTgwOCwiZGF0YSI6IntcImNyZWF0ZWRUaW1lXCI6IDE3MDU0MDU0OTkuMzM0MTcyMiwgXCJwcm9maWxlSWRcIjogXCJCbW41d01PYkdmWGVtNjZSR0VxcFJWZmRCdzkrcW44b05PK1ZKNzJEMFdEZU03THRadVNxTTE0Ri9DbkJYQ29ZNVUrM3JzMnJ4aGptNHBEMzBDY0lCdz09ZWEzN2E1MWFhZGY5OTU5MzIzZTQ0Y2ZlNGQyOTRkMTM2ZmM4MzlmNmExNzA0ZTAxMjRmOWJiNjkxMGM3YzU5ZlwiLCBcImFub255bW91c1wiOiB0cnVlLCBcInRyYWNlclwiOiBcIk9HVDVLQTdFTlpcIiwgXCJjYXJ0SWRcIjogXCJORHZENFNNS3UwcUxiTDhiV2xkeDFIYWJDRHN2N3Erb2tSalVYN2ltMERscXd4Zm1tbVRYMkw4VGJtYnRremNMNVUrM3JzMnJ4aGptNHBEMzBDY0lCdz09MzRmZTIxNmFlNzhlNWMwZThjNjQyYWNjZTYyOTc5ZjYyODM2OGY5ODY2YjczMGVhMjI0NTNhNGU4OTA0MTBhNVwiLCBcInNjb3BlXCI6IFtcIkdVRVNUXCJdLCBcInNpdGVJZFwiOiBcImZwLXVzXCIsIFwiYnJhbmRJZFwiOiBcImZwXCIsIFwic2l0ZUdyb3VwXCI6IFwiZnBcIiwgXCJkYXRhQ2VudGVySWRcIjogXCJVUy1QQVwiLCBcImdlb1JlZ2lvblwiOiBcIkVVLUxOXCIsIFwiZWRnZXNjYXBlXCI6IHtcInJlZ2lvbkNvZGVcIjogXCJIRVwifX0ifQ.-7oXyKEBPp-W-bTOoYWmA3gYF94-iocBCWd1qohhoQI%22%2C%22reauthToken%22%3A%22eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJmcCIsImV4cCI6MTcyMDk1NzQ5OS4zMzg3MzQxLCJpYXQiOjE3MDU0MDU0OTkuMzM4NzM0MSwiZGF0YSI6IntcImNyZWF0ZWRUaW1lXCI6IDE3MDU0MDU0OTkuMzM4NzE3MiwgXCJzY29wZVwiOiBbXCJHVUVTVFwiXSwgXCJ0cmFjZXJcIjogXCJPR1Q1S0E3RU5aXCIsIFwicHJvZmlsZUlkXCI6IFwiQm1uNXdNT2JHZlhlbTY2UkdFcXBSVmZkQnc5K3FuOG9OTytWSjcyRDBXRGVNN0x0WnVTcU0xNEYvQ25CWENvWTVVKzNyczJyeGhqbTRwRDMwQ2NJQnc9PWVhMzdhNTFhYWRmOTk1OTMyM2U0NGNmZTRkMjk0ZDEzNmZjODM5ZjZhMTcwNGUwMTI0ZjliYjY5MTBjN2M1OWZcIn0ifQ.VsxkjEMkWO4C3T6L-t3uxiR_XN89cM0hdSOKNYwgJfM%22%2C%22reauthExpiresIn%22%3A15552000%2C%22expiresIn%22%3A600%2C%22scope%22%3A%22GUEST%22%2C%22tracer%22%3A%22OGT5KA7ENZ%22%2C%22dataCenterId%22%3A%22US-PA%22%2C%22geoRegion%22%3A%22EU-LN%22%2C%22edgescape%22%3A%7B%22regionCode%22%3A%22HE%22%2C%22country%22%3A%22DE%22%2C%22city%22%3A%22FRANKFURT%22%7D%2C%22trueClientIp%22%3A%2295.90.220.54%22%2C%22createdAt%22%3A1705405499345%2C%22authExpiresTime%22%3A1705405979.345%2C%22reauthExpiresTime%22%3A1720957499.345%7D; Max-Age=15552000; Path=/; Expires=Sun, 14 Jul 2024 11:45:00 GMT
+Set-Cookie: urbn_language=en-US; Path=/
+Set-Cookie: urbn_currency=EUR; Path=/
+Set-Cookie: _pxhd=lbNO0Lrgjr0lhsNQjtEO63-uGobMXU1m1uqb1SqP3fZzf9BzmPo9yZ1FnAnyMGUfnMM2ug0dmaTP5heLaJU5mQ==:sNmIgbtIOOZr-sM0hmskJjq9zXbH3ecLxYA3q4NTYatKA-/6s9dhYFc/F1lVOjnG2r-ll7vPIxt6j6iX2wA1dgrs55UV9HtPCjiyqFJgjQw=; Max-Age=31536000; Path=/
+Set-Cookie: urbn_inventory_pool=INTL_DIRECT; Path=/
+Set-Cookie: urbn_data_center_id=US-PA; Max-Age=15552000; Path=/; Expires=Sun, 14 Jul 2024 11:45:00 GMT
+Set-Cookie: urbn_geo_region=EU-LN; Max-Age=15552000; Path=/; Expires=Sun, 14 Jul 2024 11:45:00 GMT
+Set-Cookie: urbn_edgescape_site_id=fp-us; Path=/
+Set-Cookie: urbn_site_id=fp-us; Path=/
+Set-Cookie: urbn_clear=true; Max-Age=86400; Path=/; Expires=Wed, 17 Jan 2024 11:44:59 GMT
+Set-Cookie: siteId=fp-us; Path=/
+Set-Cookie: urbn_uuid_session=4db65146-4f74-4e9e-8ce6-af49561a1382; Path=/; Secure; SameSite=None
+Set-Cookie: urbn_uuid=a14d65bc-d6e5-474a-b887-3c9eb3b0c5f7; Path=/; Expires=Thu, 16 Jan 2025 11:44:59 GMT; Secure; SameSite=None
+Set-Cookie: urbn_uuid=a14d65bc-d6e5-474a-b887-3c9eb3b0c5f7; Max-Age=31536000; Path=/; Expires=Wed, 15 Jan 2025 11:45:00 GMT; Secure; SameSite=None
+Set-Cookie: urbn_country=DE; Path=/
+Set-Cookie: urbn_channel=web; Path=/
+Set-Cookie: urbn_tracer=OGT5KA7ENZ; Max-Age=15552000; Path=/; Expires=Sun, 14 Jul 2024 11:45:00 GMT
+Set-Cookie: AKA_A2=A; expires=Tue, 16-Jan-2024 12:45:00 GMT; path=/; domain=freepeople.com; secure; HttpOnly
+Set-Cookie: akavpau_a15_freepeople_com_vp=1705405800~id=2c37b6eacd9ca4d82d0827e862fd8e8c; Path=/; HttpOnly; Secure; SameSite=None
+Set-Cookie: akacd_ss1=3882858298~rv=64~id=caa96178df9cd796cf5aed5280edfae5; path=/;; Secure; SameSite=None
+Server-Timing: cdn-cache; desc=MISS
+Server-Timing: edge; dur=325
+Server-Timing: origin; dur=1286
+Server-Timing: ak_p; desc="1705405499041_34664610_418182364_160786_5787_32_38_-";dur=1
+Link: <https://polyfill.io>;rel="preconnect",<https://cdn.cookielaw.org>;rel="preconnect",<https://freepeople501z.btttag.com>;rel="preconnect"
+Strict-Transport-Security: max-age=15768000

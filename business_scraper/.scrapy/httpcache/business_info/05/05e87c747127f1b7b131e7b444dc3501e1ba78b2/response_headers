@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 12:04:10 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 257
+X-Sorting-Hat-Shopid: 23944825
+X-Storefront-Renderer-Rendered: 1
+Location: https://jbevans.ca/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 23944825
+X-Shardid: 257
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=5, db;dur=2, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="pqvk", requestID;desc="bff6d0e2-7397-4ada-b9f9-2733263cebe3"
+Server-Timing: cfRequestDuration;dur=39.999962
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: bff6d0e2-7397-4ada-b9f9-2733263cebe3
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=jYb%2BzgUOzAV9X5X4rdvb72wzzKajR6dvP8EzLgbsP6QoUi%2FI3et3sYbfMKtJlBBQOz2isHbDZRd5Z7cNr3Llqaesh1zrCAbz51l2aAq1yV4ulUHCKjrfQvuxgqGYo%2FT4"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8466382e1eb33a74-FRA
+Alt-Svc: h3=":443"; ma=86400

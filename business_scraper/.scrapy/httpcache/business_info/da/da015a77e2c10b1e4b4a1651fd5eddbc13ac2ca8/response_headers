@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 07:06:28 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 223
+X-Sorting-Hat-Shopid: 1685028921
+X-Storefront-Renderer-Rendered: 1
+Location: https://glamfoxboutique.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 1685028921
+X-Shardid: 223
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=10, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="4n6h", requestID;desc="af80c80e-85a8-4a0c-9997-ab7c9c121c2a"
+Server-Timing: cfRequestDuration;dur=37.999868
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: af80c80e-85a8-4a0c-9997-ab7c9c121c2a
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=rgN7pJZrxvpU5FFxw1SQqLHZS9LHbjIuWHnRENJQfgVyBhMdU%2FUV6%2BSxClgMreTrTBz4IsepOWpZkRBAgDzG82CBSx%2B3%2BzP%2FVtcPBfrIih9hdkx8cRvN9ovLVmheqlfWt674T7w%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846484184d861e58-FRA
+Alt-Svc: h3=":443"; ma=86400

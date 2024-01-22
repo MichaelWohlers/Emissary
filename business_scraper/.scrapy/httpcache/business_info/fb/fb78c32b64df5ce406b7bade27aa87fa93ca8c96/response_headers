@@ -1,0 +1,41 @@
+Date: Tue, 16 Jan 2024 11:35:32 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 239
+X-Sorting-Hat-Shopid: 62765236464
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=67ffb1c4-a3c4-45b6-8eff-58efa437510d; path=/; expires=Tue, 16 Jan 2024 12:05:32 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:35:32 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:35:32 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:35:32 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=joonieglam.com; path=/; expires=Wed, 17 Jan 2024 11:35:32 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=2d7d1b2f-1614-47f9-9506-e2abd349962e; Expires=Wed, 15-Jan-25 11:35:32 GMT; Domain=joonieglam.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=d2235987-d2ad-4666-9826-1eda95775ecc; Expires=Tue, 16-Jan-24 12:05:32 GMT; Domain=joonieglam.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 11:35:32 GMT; Domain=joonieglam.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2F; Expires=Tue, 30-Jan-24 11:35:32 GMT; Domain=joonieglam.com; Path=/; HttpOnly; SameSite=Lax
+Etag: "cacheable:fa139b2d25d111b4ac9f92ac19cd4a81"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 62765236464
+X-Shardid: 239
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=10, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="130621997296", pageType;desc="index", servedBy;desc="mb7m", requestID;desc="17be473a-142c-4801-a8f0-cef4829643dd"
+Server-Timing: cfRequestDuration;dur=42.999744
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 17be473a-142c-4801-a8f0-cef4829643dd
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=gJo0hqZx4FBy9C8mNZ6pDcIrh1pYZIbsacWL9hhDFxM8mwwsd6YnIERFKNdwTVZ2eZ4W7QWX1oI53MKqyeMTZ2%2Bjb%2Fr5FVuEgt9LBzDoXVm%2BgHqu6DC7igWWLjEiKzqs"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84660e3c28dd1c05-FRA
+Alt-Svc: h3=":443"; ma=86400

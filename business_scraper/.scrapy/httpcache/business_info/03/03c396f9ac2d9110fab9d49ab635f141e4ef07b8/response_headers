@@ -1,0 +1,8 @@
+Content-Length: 0
+Server: nginx
+Date: Tue, 16 Jan 2024 11:58:01 GMT
+Content-Type: text/html; charset=UTF-8
+X-Redirect-By: WordPress
+Set-Cookie: WP_SESSION_COOKIE=25a24270346d41637a9ea66b835b7ad9%7C%7C1705408081%7C%7C1705407721; expires=Tue, 16-Jan-2024 12:28:01 GMT; Max-Age=1800; path=/
+Location: http://sandypt.com/robots.txt
+X-Cache-Nxaccel: MISS

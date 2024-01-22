@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:49:20 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 300
+X-Sorting-Hat-Shopid: 24949764
+X-Storefront-Renderer-Rendered: 1
+Location: https://rarethreads.ca/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 24949764
+X-Shardid: 300
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=10, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="dngn", requestID;desc="5673c208-e6a5-4fbe-b0e4-09714ddfeab4"
+Server-Timing: cfRequestDuration;dur=37.999868
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 5673c208-e6a5-4fbe-b0e4-09714ddfeab4
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=JpMzmQVJnjmUY32bGCnKGC9jRavxGlogIQN0aVzivfY8p3iEBf3fcrik4puI%2BqIQ3e%2FCeynMH33eUE5NoymYgZmMzwF%2Bejdt0nnRxOOr%2FbicxtX62u7mxnTva3VSDonn"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846622752bdd3815-FRA
+Alt-Svc: h3=":443"; ma=86400

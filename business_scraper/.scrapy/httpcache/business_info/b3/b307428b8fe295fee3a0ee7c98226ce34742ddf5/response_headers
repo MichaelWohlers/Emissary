@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:34:55 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 320
+X-Sorting-Hat-Shopid: 81698423105
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=ff6cbc91-cc92-4fa9-99b2-be0ff4fdd3a5; path=/; expires=Tue, 16 Jan 2024 12:04:55 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:34:55 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:34:55 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:34:55 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=outrageousattire.com; path=/; expires=Wed, 17 Jan 2024 11:34:55 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=88cb3aff-2a29-43e2-b942-c3c6d3d977ff; Expires=Wed, 15-Jan-25 11:34:55 GMT; Domain=outrageousattire.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=a4c1f023-7a32-4b12-a6ba-99cd8d33118f; Expires=Tue, 16-Jan-24 12:04:55 GMT; Domain=outrageousattire.com; Path=/; SameSite=Lax
+Etag: "cacheable:95c155647c338cbed0c1640fed1a8ba2"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 81698423105
+X-Shardid: 320
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=10, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="158934139201", servedBy;desc="x6bp", requestID;desc="93b5938d-4394-409e-a62e-a81e66752938"
+Server-Timing: cfRequestDuration;dur=39.000034
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 93b5938d-4394-409e-a62e-a81e66752938
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=4OtNePiA%2BfNnriBqg7u%2Fh8yMSjH3aWCY2a60PlzAVJs5ggdPHfotQGNydK5YbKrAVBG2s%2Bn5nIq6Sb2mT30qkJiXMy1SI1gzOVlj1R33qiB6QuvnxlvzmTegkzWWddVF14owk1oG%2FgGCRg%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84660d55eeeb9a3f-FRA
+Alt-Svc: h3=":443"; ma=86400

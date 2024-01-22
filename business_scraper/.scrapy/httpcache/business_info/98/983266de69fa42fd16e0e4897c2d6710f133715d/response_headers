@@ -1,0 +1,32 @@
+Content-Encoding: gzip
+Accept-Ranges: bytes
+Age: 0
+Cache-Control: private, max-age=0, proxy-revalidate, no-store, no-cache, must-revalidate
+Cf-Cache-Status: MISS
+Cf-Ray: 846612c5afa460f9-LHR
+Content-Type: text/plain;charset=UTF-8
+Date: Tue, 16 Jan 2024 11:38:38 GMT
+Expires: Thu, 20 Jul 2023 11:27:40 GMT
+Pragma: no-cache
+Rtss: 2-13-162
+Server: Apache
+Server-Timing: layer0-cache;desc="MISS", edge_pop;desc=lhr, country;desc=GB, xrj;desc="%7B%7D", asn;desc=15570
+Set-Cookie: SSID=CQCfZB0qAAAAAAC-aqZlLGOCKL5qpmUBAAAAAAAAAAAAvmqmZQCZyDQ4AQEfJycAvmqmZQEAuicBA46HJQC-aqZlAQBGMQEBNm4mAL5qpmUBAA; path=/; domain=.garageclothing.com; expires=Wed, 15-Jan-2025 11:38:38 GMT
+Set-Cookie: SSSC=846.G7324659208920654636.1|75706.2459534:78150.2518582:79924.2565919; path=/; domain=.garageclothing.com
+Set-Cookie: SSRT=vmqmZQAAAA; path=/; domain=.garageclothing.com; expires=Wed, 15-Jan-2025 11:38:38 GMT
+Set-Cookie: layer0_environment_id_info=b07740fd-305d-49e5-8ee8-2da343a3f189; SameSite=Strict; Path=/
+Set-Cookie: layer0_bucket=99; SameSite=Lax; Path=/; Max-Age=2147483647; HttpOnly
+Set-Cookie: layer0_destination=Layer0Traditional; SameSite=Strict; Path=/
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Vary: accept-encoding,user-agent
+Via: 1.1 varnish (Varnish/6.6), HTTP/1.1 Layer0
+X-0-Cache-Hash: 2c993c5c76d2b6487171d3051112e7f8d3b7037fde5fc36d4f249c8a2fe447c3
+X-0-Caching-Status: disabled
+X-0-Components: eh=1.2.2,c=4.19.4,e=lhr,ec=1.9.12,ed=1.4.6,b=origin
+X-0-Status: eh=200,ed=200
+X-0-T: eh=394,ect=391,ecc=pass,edt=389,edd=4,edf=385
+X-0-Version: 260 4.19.4 28 2024-01-11T12:03:20.135Z 1.7.3
+X-Dw-Request-Base-Id: APY4nL5qpmUBAAB_
+X-Edgio-Set: 3.5
+X-Matched-Routes: 4,53
+X-Request-Id: fe333916628052b994ed2c6035d8eb05a4f31210

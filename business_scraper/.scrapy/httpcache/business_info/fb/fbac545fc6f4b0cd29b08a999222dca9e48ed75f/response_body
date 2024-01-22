@@ -1,0 +1,38 @@
+#Google Organic
+User-agent: Googlebot
+Disallow: /*?replyto=*
+ 
+#Bing Organic
+User-agent: bingbot
+Disallow: /*?
+ 
+#Yahoo Organic
+User-agent: Slurp
+Disallow: /*?
+ 
+#AdWords
+User-agent: AdsBot-Google
+Disallow:
+ 
+#Image
+User-agent: Googlebot-Image
+Disallow:
+ 
+#AdSense
+User-agent: Mediapartners-Google
+Disallow:
+ 
+#Bing Ads
+User-agent: AdIdxBot
+Disallow:
+
+#Semrush SiteAuditBot
+User-agent: SiteAuditBot
+Disallow:
+
+Sitemap: https://stores.mooresclothing.ca/sitemap-subsites.xml
+
+
+
+
+

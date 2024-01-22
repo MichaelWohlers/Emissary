@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:48:54 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 215
+X-Sorting-Hat-Shopid: 46303117463
+X-Storefront-Renderer-Rendered: 1
+Location: https://iloveserendipity.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 46303117463
+X-Shardid: 215
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=6, db;dur=2, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="kknp", requestID;desc="80b3985b-89ff-474d-bea5-d25afaa1a781"
+Server-Timing: cfRequestDuration;dur=38.000107
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 80b3985b-89ff-474d-bea5-d25afaa1a781
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=xGS5%2BISaTeopYVW5ZuVcLiKs%2B3KFNJCVfo87RLNCMrT5x6XfxNy%2FmHszfv%2BDwfCpamNp5FnXcTnCY7GL3rXgF5CCNBC2G7zZuJK6hQLfMI6CDjkeWOSQ%2FN%2FXifyAQL6eK%2FBgkI2WfplyzQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846621cf59542c76-FRA
+Alt-Svc: h3=":443"; ma=86400

@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 04:00:02 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 177
+X-Sorting-Hat-Shopid: 59311882418
+X-Storefront-Renderer-Rendered: 1
+Location: https://klotheer.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 59311882418
+X-Shardid: 177
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=7;desc="gc:1", db;dur=2, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="89hb", requestID;desc="dc0430b8-cfe3-4a80-8705-4075c4ad9103"
+Server-Timing: cfRequestDuration;dur=33.999920
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: dc0430b8-cfe3-4a80-8705-4075c4ad9103
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=nEapa6%2BvVnIduzZpNJpbRuBz6J3Xlfoy1fpjeCfWjRYwwO%2FcjtmBkLky5llWO5g1o6JK0GphQfWUpwLxlJjZr29Tlv4gWXjPnVU8ahZ7S4%2FGYZebBYyR6F3A6qBMFw%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846373001fcc362f-FRA
+Alt-Svc: h3=":443"; ma=86400

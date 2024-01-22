@@ -1,0 +1,12 @@
+Date: Tue, 16 Jan 2024 11:49:22 GMT
+Content-Type: text/html
+Location: https://metamorphusfashions.ca/robots.txt
+X-Hrouter: hrouter4
+Cf-Cache-Status: MISS
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=9yzFrmjgczuW%2FUaJodhfoAdGiJBBU3FB6IuIauuL4lZNtoyrF8IOEEYKFfiiQxdkeeUmQg9D6YHQW2SHE53C1EtU44VZ3s3budEpxVwRgRJ1gUYoJle6FpyXtOhtwz8qy3HtLXdO7RGNxH6Mpw%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+Server: cloudflare
+Cf-Ray: 8466227eba8903e1-CDG
+Alt-Svc: h3=":443"; ma=86400

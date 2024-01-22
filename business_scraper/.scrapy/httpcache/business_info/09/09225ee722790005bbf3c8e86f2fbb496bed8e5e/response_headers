@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:20:34 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 313
+X-Sorting-Hat-Shopid: 76803342650
+X-Storefront-Renderer-Rendered: 1
+Location: https://sexxxplus.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 76803342650
+X-Shardid: 313
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=8, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="g577", requestID;desc="3282ecc2-b396-454f-91ec-cdf403411e78"
+Server-Timing: cfRequestDuration;dur=35.999775
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 3282ecc2-b396-454f-91ec-cdf403411e78
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=uwHasYiZ%2FAOZMajh%2FHEs7aOrOdz9FrZaXzqKi8A%2F%2BgDKGvOhGSgmj%2BblCUCIBeEsetW4gRtmrhVUoEht4WvzMvaWd39RMCFNZip%2BjmFvzv1uV%2FyOWqkc9HqTwgCLiho%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8465f8501c949be6-FRA
+Alt-Svc: h3=":443"; ma=86400

@@ -1,0 +1,29 @@
+Content-Length: 239
+Content-Type: text/html; charset=utf-8
+Abseg_Different: true
+Location: https://oldnavy.gap.com/stores/pa/altoona/oldnavy-5354.html?cookieInitializationAttempted=true
+Mybrand: on
+X-Page-Speed: 1.13.35.2-0
+X-Request-Host: oldnavy.gap.com
+X-Vcap-Request-Id: 0f367951-bf61-4b45-723c-75f17e0ce39f
+X-E-Dc: azeus
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Tue, 16 Jan 2024 11:33:40 GMT
+Set-Cookie: unknownShopperId=189AE370B46311EEA19991CB91E83246; Domain=.gap.com; Path=/; Expires=Fri, 16 Jan 2026 11:33:40 GMT
+Set-Cookie: ABSeg=bdss-b/brand-on/cmtyprfui-b/ds-b/on01-a/on02-a/on07-a/on100-a/on102-a/on105-a/on110-a/on111-a/on112-b/on113-x/on114-a/on120-a/on129-a/on132-a/on143-b/on146-x/on151-x/on152-x/on160-x/on162-c/on168-a/on172-a/on173-a/on174-a/on178-a/on180-a/on19-b/on30-a/on32-a/on36-b/on43-a/on44-b/on48-a/on50-a/on51-a/on52-a/on53-a/on56-a/on58-a/on60-a/on62-a/on64-a/on73-a/on84-a/on88-a/onbx-lf/onseg-true/oss-B/pgAT-p/pgBR-p/pgGP-p/pgON-p/plpredesign-B/prfwallet-b/signinui-pm/v-2/xb115-a/xb122-x/xb137-prsc/xb141-x/xb169-a/xb182-a/xb183-a/xb186-a/xb187-a/xb188-a/xb34-a/xb72-a/xl74-a/xsr75-b/xss83-b; Domain=.gap.com; Path=/; Expires=Wed, 17 Jan 2024 07:59:59 GMT
+Set-Cookie: NGRedirect={"redirect_accountSettings":"true","redirect_signIn":"true","redirect_shoppingBag":"true","redirect_orderHistory":"true","redirect_signOut":"true","redirect_orderLookup":"true","redirect_shippingAddress":"true","redirect_resetPassword":"true","redirect_profile":"true","redirect_customerValue":"true","redirect_wallet":"true"}; Domain=.gap.com; Path=/; Expires=Wed, 17 Jan 2024 07:59:59 GMT
+Set-Cookie: locale=en_US|||; Domain=.gap.com; Path=/
+Set-Cookie: s-prlb=e; path=/; domain=.gap.com
+Set-Cookie: prlb=e; path=/; domain=.gap.com
+Set-Cookie: AKA_A2=A; expires=Tue, 16-Jan-2024 12:33:40 GMT; path=/; domain=gap.com; secure; HttpOnly
+Set-Cookie: _abck=716745392AE67FBD68535156739A362D~-1~YAAQotAXAv7IUQ6NAQAAmmsMEguJPtBEOplKqvdQf1gXKZ+QmABoCpI9K4SmAweKk/KQ7KFit/xRAjDON/8+1pn+lHTiXFZ37Ksrxo4njgWbyDo9YaA3EtepyAlkj8UMLqpHY2B6yZmRXWK353S/OK2XS0TzbhUGVvOsjRo12YbeRpzDt5zAQx9X58DhRkKo+mIzxOd/j031ZbmekWTZhAfmmtN8tMTerNXwGpGUEJz/59HlbjnJqbtGDm3+2q99UgWZU9cPwsYVIRh4p3v3NRV6/Q1STijdYyWy1aOKDXlKTroIbiK/gZ73ynBWVpJ92RQvewn++v68IKyXcdptr655QF1Bq6tMw4tkj/RJLPd2EF/qfmFMNh8=~-1~-1~-1; Domain=.gap.com; Path=/; Expires=Wed, 15 Jan 2025 11:33:40 GMT; Max-Age=31536000; Secure
+Set-Cookie: bm_sz=F1A908E55A2190CDDC271CD6B7D8DB70~YAAQotAXAv/IUQ6NAQAAmmsMEhahA/DXlGl0ymFDAWdPemHJpy57k4Dp8lHsH7ga8oYXz79TEkXPVkwKHfFSOnAGhgRgHLPkVZrJtLTUW8HOj4tPZ30NwuxrHM7O5sYyDKepC7bycmFviZ5ZDj4433paOavMe81ODLfMeo0eRZBR972rQhOxvQnUlGPNo02xvO0Vj2qxvN2mc009vf3aL6trVdEUKpE0P/OeZAXb3ij+VgdDLDk4CzqNSZOxdhwcnLc1dXaNPST7hWVNLTqC9R085wMDaXwaRAo04ALY+0GMXmBEUpnFJ4htVnnWB8vETEcCsw5COx75~4405569~3425847; Domain=.gap.com; Path=/; Expires=Tue, 16 Jan 2024 15:33:40 GMT; Max-Age=14400
+Server-Timing: cdn-cache; desc=MISS
+Server-Timing: edge; dur=136
+Server-Timing: origin; dur=83
+Server-Timing: ak_p; desc="1705404820107_35115170_61935638_21909_14071_35_37_-";dur=1
+X-Akam-Sw-Version: 0.5.0
+Link: <https://oldnavy.gap.com/static_content/onesitecategory/components/mfe/sitewide-app/static/d23d96ae.woff2>;rel="preload";as="font";type="font/woff2";crossorigin,<https://oldnavy.gap.com/static_content/onesitecategory/components/mfe/sitewide-app/static/7fa96aa0.woff2>;rel="preload";as="font";type="font/woff2";crossorigin
+Strict-Transport-Security: max-age=2628000 ; includeSubDomains
+Akamai-Grn: 0.a2d01702.1705404820.3b11016

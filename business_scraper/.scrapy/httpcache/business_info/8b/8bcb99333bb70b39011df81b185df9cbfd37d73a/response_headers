@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:02:37 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 217
+X-Sorting-Hat-Shopid: 53513978019
+X-Storefront-Renderer-Rendered: 1
+Location: https://shopyandi.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 53513978019
+X-Shardid: 217
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=23, db;dur=6, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="zqhd", requestID;desc="076b13d9-44d4-40a9-818d-a398bc3e0f8b"
+Server-Timing: cfRequestDuration;dur=52.000046
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 076b13d9-44d4-40a9-818d-a398bc3e0f8b
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=BjPq2E6BDFCO9VPgUFU9Nr%2BNEleologxJcM8Uq%2BKBOKCEJQhyhEpflGia60MJIsxnVCLpDkVualheK%2FMeryZunwNdJsGnKqxzTLcAbi7YGLZBUCLn4cTwSlhuqDgMmCBKF3I"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8465de039fe665b2-FRA
+Alt-Svc: h3=":443"; ma=86400

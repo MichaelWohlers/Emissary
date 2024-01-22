@@ -1,0 +1,20 @@
+Date: Tue, 16 Jan 2024 11:41:39 GMT
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding
+X-Frame-Options: ALLOW-FROM https://my.bigcartel.com
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Permitted-Cross-Domain-Policies: none
+Referrer-Policy: strict-origin-when-cross-origin
+Strict-Transport-Security: max-age=31556952
+Cache-Control: max-age=0, private, must-revalidate
+Content-Security-Policy: frame-ancestors https://my.bigcartel.com https://www.bigcartel.com https://bigcartel.com https://*.bc-site-staging.pages.dev http://localhost:3000
+Set-Cookie: _storefront_session=3kSY%2BajF5cMvok4jKZ6O4F%2B%2FiU%2FCGYJ2u0AEzrdmDHl7RhEL51o7xiNcS7mJOef%2FrHmwp6SGKERn4stwIIkK0FDOV8wGAsM6toWKchP7K9ShHux45j8tDPPvXKTcYzH4soRlSulYii7Fv%2FTDTkB%2FBaf0nx5Nomu5P9VwYSGIFrf17VqmVs56ICb7bssinfSX9b%2Bpyo2cTgqkEk%2BPJhYNvOnX2YgctZg%2FIfB16BvzkFS4VyDeGBgzH0oAGo3e9lto6PeKXRqGDbpZjOyWx2FlUURFxg6y%2FZ7wYAIxAzNueWf6QWz06G4Hwc6OpThVIAC%2BRZ7RBI37SppABekin49cctqazOFLaR9neGBCyS62JY3jGlJkE18ke97OWjyFmCm9DTMnQMI%2BW0UFfJj7OHn8LVHtwZfZiMY8rVeys1ktSfZ6aYkGSDz0H6Rw0gNWzv92z00FvAombyBR9l4oSFyYgiR8NHRs0tOqOJuUkmd2ux2XEWJ8GYHLNgQz%2B%2BvkY3OdUiQgv68j7DfjuGir1S0m5YYq8RpHXbm5OAZ1--8Jx3VDVVf1JbPtrv--utRzlSnqwfcJNrOxz8%2FOCg%3D%3D; path=/; HttpOnly
+Set-Cookie: _cfuvid=pNyqjOg9ufE4SsFvHWDUC_dopnxLLoGpBtwTytH8N8Y-1705405299130-0-604800000; path=/; domain=.bigcartel.com; HttpOnly; Secure; SameSite=None
+X-Request-Id: 795fc1a2-4ab4-49c3-b719-2538a0c58c65
+X-Runtime: 0.116932
+Cf-Cache-Status: DYNAMIC
+Server: cloudflare
+Cf-Ray: 8466172d4cc14d89-FRA
+Content-Encoding: gzip

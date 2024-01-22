@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:35:15 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 79
+X-Sorting-Hat-Shopid: 55325261904
+X-Storefront-Renderer-Rendered: 1
+Location: https://shopdowntownboutique417.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 55325261904
+X-Shardid: 79
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=8, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="bkhr", requestID;desc="00f05428-53da-400f-b4c3-f0a0e4d29b5d"
+Server-Timing: cfRequestDuration;dur=42.999983
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 00f05428-53da-400f-b4c3-f0a0e4d29b5d
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=a9DShsJ84QZV2AQ6fs0RT%2BoR5QVGq1iYbUvOgECgy8XGSX4GFcw%2BBAmV%2FtYonp8OsiwdDZRHZBkRWMjju36gvm%2FDFUffItNVY0F6aGYkHXpByQ9cFkjww56RiB2E7SzMq2n7PEwwhwwTE9T8aCWR6pY%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84660dd3be2f30d2-FRA
+Alt-Svc: h3=":443"; ma=86400

@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:52:22 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 283
+X-Sorting-Hat-Shopid: 21817895
+X-Storefront-Renderer-Rendered: 1
+Location: https://tigsstore.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 21817895
+X-Shardid: 283
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=13, db;dur=5, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="h7h8", requestID;desc="a3a21027-c1bc-4dcb-bfec-9d52c5dc28e9"
+Server-Timing: cfRequestDuration;dur=39.999962
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: a3a21027-c1bc-4dcb-bfec-9d52c5dc28e9
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=WvwbLNiiLhcgcP2UDQ7vZSYNCNw%2FG7nmjKKyAC7%2FaEz5c%2BSHZQoSiderlnxmxeVdVsD6Y2Wu01Qv8ra5gnomwxOuXBQ%2FRizglX%2B4MFJP%2FaQ4YDtau4ii35XqtVXD2sY%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846626e478c89158-FRA
+Alt-Svc: h3=":443"; ma=86400

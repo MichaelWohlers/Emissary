@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:36:10 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 291
+X-Sorting-Hat-Shopid: 77549273380
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=e9ff8092-0853-4bf6-86b1-1b90857338e3; path=/; expires=Tue, 16 Jan 2024 12:06:10 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:36:10 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:36:10 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:36:10 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=mypastelpennies.com; path=/; expires=Wed, 17 Jan 2024 11:36:10 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=12a31481-96bd-449e-86ce-628f87c5cdc3; Expires=Wed, 15-Jan-25 11:36:10 GMT; Domain=mypastelpennies.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=8aaf2eeb-731b-44fb-8ccc-695573e70aa2; Expires=Tue, 16-Jan-24 12:06:10 GMT; Domain=mypastelpennies.com; Path=/; SameSite=Lax
+Etag: "cacheable:97f9bbdd97063c4ac0e53c03af4a453e"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 77549273380
+X-Shardid: 291
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=11, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="151593025828", servedBy;desc="86jk", requestID;desc="6bbeee81-e786-46cc-a983-db0d6dc93984"
+Server-Timing: cfRequestDuration;dur=39.000034
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 6bbeee81-e786-46cc-a983-db0d6dc93984
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=BjUxum%2BVC%2F%2F3bHRcWYK8xSv76JuxDu9WCWa0EbTTeXMmlahKX3BBQpMTo6u9v1XVUmbZg0Lu2ArXhcyYCAzhKPOBxn95n8mE9LrcHg2boyJp%2FcdvKPrvJfczvokZO0%2BZdekjHIE%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84660f2c6a7e0374-FRA
+Alt-Svc: h3=":443"; ma=86400

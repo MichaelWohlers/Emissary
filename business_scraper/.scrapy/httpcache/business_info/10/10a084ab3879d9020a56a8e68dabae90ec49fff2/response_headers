@@ -1,0 +1,41 @@
+Date: Tue, 16 Jan 2024 12:03:09 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 321
+X-Sorting-Hat-Shopid: 67594289474
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=c5030d44-269c-40bf-bd76-f992d2e93011; path=/; expires=Tue, 16 Jan 2024 12:33:07 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 12:03:09 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=CA; path=/; expires=Thu, 16 Jan 2025 12:03:09 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Afalse%2C%22a%22%3Afalse%2C%22m%22%3Afalse%2C%22t%22%3Afalse%7D%2C%22display_banner%22%3Atrue%2C%22sale_of_data_region%22%3Afalse%7D; domain=eclipsestores.com; path=/; expires=Wed, 17 Jan 2024 12:03:09 GMT; SameSite=Lax
+Set-Cookie: _tracking_consent=%7B%22con%22%3A%7B%22CMP%22%3A%7B%22a%22%3A%22%22%2C%22p%22%3A%22%22%2C%22s%22%3A%22%22%2C%22m%22%3A%22%22%7D%7D%2C%22lim%22%3A%5B%22GDPR_BLOCK_ALL%22%5D%2C%22v%22%3A%222.1%22%2C%22region%22%3A%22DERP%22%2C%22reg%22%3A%22GDPR%22%7D; Expires=Wed, 15-Jan-25 12:03:09 GMT; Domain=eclipsestores.com; Path=/; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin, <//eclipsestores.com/cdn/shop/t/119/assets/font-settings.css?v=144547294636716319101703855333>; as="style"; rel="preload", <//eclipsestores.com/cdn/shop/t/119/assets/theme.css?v=29543107756624241091703768811>; as="style"; rel="preload", <//eclipsestores.com/cdn/shop/t/119/assets/theme-custom.css?v=146188533131942712361703768811>; as="style"; rel="preload", <//eclipsestores.com/cdn/shop/t/119/assets/vendor.js?v=131139509784942254651703768811>; as="script"; rel="preload", <//eclipsestores.com/cdn/shop/t/119/assets/theme.dev.js?v=87911128692548098741703768811>; as="script"; rel="preload", <//eclipsestores.com/cdn/shop/t/119/assets/theme.css?v=29543107756624241091703768811>; as="script"; rel="preload", <//eclipsestores.com/cdn/shop/t/119/assets/theme-custom.css?v=146188533131942712361703768811>; as="script"; rel="preload", <//eclipsestores.com/cdn/shop/files/New_Mobile_Jan_12_2023.jpg?v=1705085721&width=800>; as="image"; rel="preload"; imagesrcset="
+Link: 
+Link: //eclipsestores.com/cdn/shop/files/New_Mobile_Jan_12_2023.jpg?v=1705085721&width=352 352w,  //eclipsestores.com/cdn/shop/files/New_Mobile_Jan_12_2023.jpg?v=1705085721&width=400 400w,  //eclipsestores.com/cdn/shop/files/New_Mobile_Jan_12_2023.jpg?v=1705085721&width=768 768w,
+Link: //eclipsestores.com/cdn/shop/files/New_Mobile_Jan_12_2023.jpg?v=1705085721&width=800 800w
+Link: "; imagesizes="100vw"
+Etag: "cacheable:8853d3ec1e431bf21bc701bffe7b3831"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 67594289474
+X-Shardid: 321
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=1310;desc="gc:246", db;dur=117, render;dur=791, wasm, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="164084285762", pageType;desc="index", servedBy;desc="jqdf", requestID;desc="79e10828-1283-4fcb-8b28-6242edd29ab5"
+Server-Timing: cfRequestDuration;dur=1351.999998
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 79e10828-1283-4fcb-8b28-6242edd29ab5
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=spAY1%2FDU3HNAxUak9AsZB87UpsspT4mOu8IQ6XaQNGcQvDQx56bK1Mhw9aaX8cfh5pHmzHWPCFBuhOjXHNzoxQWNY7UQHW3RjzZvRQWxwErA52PtmbOjZHWwW9bi2tN0dZ3l"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846636a63d605d96-FRA
+Alt-Svc: h3=":443"; ma=86400

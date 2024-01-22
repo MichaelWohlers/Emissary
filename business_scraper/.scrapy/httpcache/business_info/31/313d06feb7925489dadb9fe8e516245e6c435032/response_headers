@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:47:32 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 303
+X-Sorting-Hat-Shopid: 50436341910
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=953cad0e-1bfc-424a-bc23-fef468a545fc; path=/; expires=Tue, 16 Jan 2024 12:17:32 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:47:32 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:47:32 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:47:32 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=shopkaylee.com; path=/; expires=Wed, 17 Jan 2024 11:47:32 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=e7c07bbc-b46b-4c00-a63c-c0545854e9a6; Expires=Wed, 15-Jan-25 11:47:32 GMT; Domain=shopkaylee.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=390ec92a-8db9-4602-bfc3-c738b9614e54; Expires=Tue, 16-Jan-24 12:17:32 GMT; Domain=shopkaylee.com; Path=/; SameSite=Lax
+Etag: "cacheable:e1a5fe7447f6e97492ba293cf4d6bfaf"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 50436341910
+X-Shardid: 303
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=11, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="131110568086", servedBy;desc="vfm8", requestID;desc="9ac5a1e1-250c-44a4-94a0-e5f8ff8b50ee"
+Server-Timing: cfRequestDuration;dur=39.000034
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 9ac5a1e1-250c-44a4-94a0-e5f8ff8b50ee
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=SPi1GuKx%2F8eof2esCLPFS5Nzld9DqdrePGOo5eZXb15Re6PzNmTigP1tFVLgOWfd5DImMRqmG3mKwTrWW1wEPU3bi%2FV1TpJxB0QqMNl2djPRDF%2BieU1hX1ZyCFH6Eo5g"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661fccd83a3a9c-FRA
+Alt-Svc: h3=":443"; ma=86400

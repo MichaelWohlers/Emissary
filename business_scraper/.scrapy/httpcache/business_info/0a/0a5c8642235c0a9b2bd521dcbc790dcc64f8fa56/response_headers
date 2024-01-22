@@ -1,0 +1,37 @@
+Date: Tue, 16 Jan 2024 12:03:47 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 46
+X-Sorting-Hat-Shopid: 13048250432
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=b2dcdbd7-a688-4bb7-98f7-8a9361779325; path=/; expires=Tue, 16 Jan 2024 12:33:47 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 12:03:47 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 12:03:47 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Afalse%2C%22a%22%3Afalse%2C%22m%22%3Afalse%2C%22t%22%3Afalse%7D%2C%22display_banner%22%3Atrue%2C%22sale_of_data_region%22%3Afalse%7D; domain=annabellacreation.com; path=/; expires=Wed, 17 Jan 2024 12:03:47 GMT; SameSite=Lax
+Set-Cookie: _tracking_consent=%7B%22reg%22%3A%22GDPR%22%2C%22con%22%3A%7B%22CMP%22%3A%7B%22m%22%3A%22%22%2C%22a%22%3A%22%22%2C%22p%22%3A%22%22%2C%22s%22%3A%22%22%7D%7D%2C%22lim%22%3A%5B%22GDPR_BLOCK_ALL%22%5D%2C%22v%22%3A%222.1%22%2C%22region%22%3A%22DERP%22%7D; Expires=Wed, 15-Jan-25 12:03:47 GMT; Domain=annabellacreation.com; Path=/; SameSite=Lax
+Etag: "cacheable:39a48a9d54a1cb89affb787d4005fe47"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 13048250432
+X-Shardid: 46
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=12, db;dur=5, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="80446455855", servedBy;desc="sdbg", requestID;desc="2976272d-9ca0-4ef8-96a2-1e06bfa6e0b6"
+Server-Timing: cfRequestDuration;dur=55.999994
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 2976272d-9ca0-4ef8-96a2-1e06bfa6e0b6
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=%2FL1huTHNCFChK8cVBMUkMY7E85Mk%2F2WbHHp9F07fSgljezjNha8ZtUgROgH5EcFqf0AMwqtARX961UEh%2BixDzIwe1o5ypUirtO6K84tMA562aDYGV1M4tXpZLRfatkuVeaGyvooyXOAaknw%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8466379c6aca9004-FRA
+Alt-Svc: h3=":443"; ma=86400

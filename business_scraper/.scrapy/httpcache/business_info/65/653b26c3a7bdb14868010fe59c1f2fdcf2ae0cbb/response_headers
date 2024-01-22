@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:36:15 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 253
+X-Sorting-Hat-Shopid: 40414281877
+X-Storefront-Renderer-Rendered: 1
+Location: https://therusticrebel.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 40414281877
+X-Shardid: 253
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=16, db;dur=6, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="mdh4", requestID;desc="14d48c2f-ebc5-427f-a1d0-ef9b56efb93c"
+Server-Timing: cfRequestDuration;dur=49.000025
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 14d48c2f-ebc5-427f-a1d0-ef9b56efb93c
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=1aGkR3TFbd0vaj8Cvn%2FxTYhqm76i9FHMWoRFOxD7JhMtgIKez4WoJVaIoOJrO0mn0icbgtuq8waStJF8NDLC9Mos5KaoaaL0CFQeW%2FS1G3MB9srgRv96G5F1XGp4QK%2FrPdUy6Q%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84660f4a18551e53-FRA
+Alt-Svc: h3=":443"; ma=86400

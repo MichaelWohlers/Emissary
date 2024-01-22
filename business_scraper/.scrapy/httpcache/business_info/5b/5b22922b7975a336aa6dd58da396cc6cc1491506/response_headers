@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:21:05 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 159
+X-Sorting-Hat-Shopid: 51509035168
+X-Storefront-Renderer-Rendered: 1
+Location: https://wafaboutique.myshopify.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 51509035168
+X-Shardid: 159
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=7, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="w9br", requestID;desc="9a265060-22dc-40cc-9a7a-907e95bb8c8f"
+Server-Timing: cfRequestDuration;dur=39.000034
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 9a265060-22dc-40cc-9a7a-907e95bb8c8f
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Wa%2BCCbCQmalneZv%2BFe0cgl%2B6yzO0X62TLsYGjQFOmWwPoUyksAh2vASeXfEughapCM90YD2ptHNy9Uq036SDix4i%2BXj%2BuxEEZH0lTIPt%2B0f4Je8WY7H2ChYYW9R95kOTpXm%2Bre5cC5gH9oLm"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8465f9137fd5927d-FRA
+Alt-Svc: h3=":443"; ma=86400

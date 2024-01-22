@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:48:39 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 280
+X-Sorting-Hat-Shopid: 1428357167
+X-Storefront-Renderer-Rendered: 1
+Location: https://www.couleeboutique.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 1428357167
+X-Shardid: 280
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=16, db;dur=5, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="wbt8", requestID;desc="f2fd7138-07db-4cd3-a1c4-42a890d30b5b"
+Server-Timing: cfRequestDuration;dur=48.000097
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: f2fd7138-07db-4cd3-a1c4-42a890d30b5b
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=h6ohIzfSs1vwMf6c8k4rBnACTXxD09ukajQB%2BDJyL25DOEIgAEOm0M%2FtCeqP8LkfFSg2xagTivGtfJ7WzrHI%2BbCifG%2FKOC%2FFswm0GAtaIvilXXsDQdPcSg8QMTrdUfDQ3lB%2BmSIK8RA%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846621740e9319b3-FRA
+Alt-Svc: h3=":443"; ma=86400

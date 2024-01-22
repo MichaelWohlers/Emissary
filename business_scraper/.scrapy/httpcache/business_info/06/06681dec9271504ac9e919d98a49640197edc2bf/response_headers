@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:35:21 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 135
+X-Sorting-Hat-Shopid: 58910605448
+X-Storefront-Renderer-Rendered: 1
+Location: https://blacklagoonclothing.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 58910605448
+X-Shardid: 135
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=10, db;dur=5, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="tnnw", requestID;desc="64de9c0b-65a6-4ffd-a964-6dd552d0af1e"
+Server-Timing: cfRequestDuration;dur=65.000057
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 64de9c0b-65a6-4ffd-a964-6dd552d0af1e
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=X73%2B5%2B8Z9xxdSG2BmJ5b7f3SwSsOQuScnY0Upl82A4rgJyicmNZ5P7Vf3BWgcMLTNxP87wCnKY99TVJRxFmbpYvD5%2F0IbhlYNWIMMDElHG8DZ214pHPlGtGNFjDPVji%2BFsZc8flp7FmSUQQ24Q%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84660df3ff4c5d4a-FRA
+Alt-Svc: h3=":443"; ma=86400

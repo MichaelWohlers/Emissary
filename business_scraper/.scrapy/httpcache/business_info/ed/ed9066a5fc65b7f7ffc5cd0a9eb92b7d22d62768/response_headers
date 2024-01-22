@@ -1,0 +1,27 @@
+Content-Length: 265
+Content-Type: text/plain;charset=UTF-8
+Date: Tue, 16 Jan 2024 10:54:54 GMT
+Strict-Transport-Security: max-age=3600;includeSubDomains
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+X-Dot-Server: dotcms-jostens-prod-1|a7c2653ce0
+X-Jostens-Dotcms: uat-20230330
+Content-Disposition: inline; filename="robots.txt"
+Expires: Wed, 15 Jan 2025 10:54:54 +0000
+Cache-Control: public, max-age=31536000
+Last-Modified: Tue, 11 Oct 2022 12:01:26 +0000
+Etag: W/dot:7bd3bdb2-e34d-4522-b1f3-c1be014f1d33:1665489686000:265
+Accept-Ranges: bytes
+X-Cache: Hit from cloudfront
+Via: 1.1 b46eb018a497b81ccf0e0f2bac7d3eb2.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: MSP50-P2
+Alt-Svc: h3=":443"; ma=86400
+X-Amz-Cf-Id: it-d5NQOm3LFVBDAAka4yCTOywFGdll-HAac9EflWd9gIq8YyUMBIA==
+Age: 2605
+Referrer-Policy: strict-origin-when-cross-origin
+Vary: Origin
+X-Jostens-Fref: 30
+Set-Cookie: AWSALB=osGDbP4ERAUy0aek8dTAmZBldeEs4Z+RdP+QxJ4LFI7/daCRAgtOPbC3D7r5DUj6mmZD5711BG7QXTvb0iUyG3BDApdtmHJxy+Gs68XYbRzpuicDLHwWCDZQ38tf; Expires=Tue, 23 Jan 2024 10:54:54 GMT; Path=/; Secure; SameSite=None
+Set-Cookie: AWSALBCORS=osGDbP4ERAUy0aek8dTAmZBldeEs4Z+RdP+QxJ4LFI7/daCRAgtOPbC3D7r5DUj6mmZD5711BG7QXTvb0iUyG3BDApdtmHJxy+Gs68XYbRzpuicDLHwWCDZQ38tf; Expires=Tue, 23 Jan 2024 10:54:54 GMT; Path=/; SameSite=None; Secure
+Set-Cookie: BIGipServerpool_www_prodcms_http=!jfdeqKsp7SpII9V0DYc6ZVIdh7g1LHiWkOp/G2mIhFC5kmsxOeHXCjMkFdN5c4ttiYdqU7JVR/xfupE=; path=/; Httponly; Secure; SameSite=None

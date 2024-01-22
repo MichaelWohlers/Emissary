@@ -1,0 +1,2141 @@
+<!DOCTYPE html><html class="js svg flexbox csstransforms" lang="en"><head>
+<script type="text/javascript" async="" src="//civilalchemy.com/cdn/s/trekkie.storefront.f2da2901761ed691d459433ada0e4d90e085713c.min.js"></script><script>
+window.KiwiSizing = window.KiwiSizing === undefined ? {} : window.KiwiSizing;
+KiwiSizing.shop = "civil-alchemy-st-louis.myshopify.com";
+
+
+</script>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#f6f5f1">
+  <link rel="canonical" href="https://civilalchemy.com/"><title>Civil Alchemy St Louis</title><!-- /snippets/social-meta-tags.liquid -->
+
+
+
+
+<meta property="og:site_name" content="Civil Alchemy St Louis">
+<meta property="og:url" content="https://civilalchemy.com/">
+<meta property="og:title" content="Civil Alchemy St Louis">
+<meta property="og:type" content="website">
+<meta property="og:description" content="Civil Alchemy St Louis">
+
+
+
+
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Civil Alchemy St Louis">
+<meta name="twitter:description" content="Civil Alchemy St Louis">
+
+
+  <link href="//civilalchemy.com/cdn/shop/t/1/assets/theme.scss.css?v=111971283135003391181705072782" rel="stylesheet" type="text/css" media="all">
+  
+  <script>
+    var theme = {
+      strings: {
+        addToCart: "Add to cart",
+        soldOut: "Sold out",
+        unavailable: "Unavailable",
+        regularPrice: "Regular price",
+        sale: "Sale",
+        showMore: "Show More",
+        showLess: "Show Less",
+        addressError: "Error looking up that address",
+        addressNoResults: "No results for that address",
+        addressQueryLimit: "You have exceeded the Google API usage limit. Consider upgrading to a \u003ca href=\"https:\/\/developers.google.com\/maps\/premium\/usage-limits\"\u003ePremium Plan\u003c\/a\u003e.",
+        authError: "There was a problem authenticating your Google Maps account.",
+        newWindow: "Opens in a new window.",
+        external: "Opens external website.",
+        newWindowExternal: "Opens external website in a new window."
+      },
+      moneyFormat: "${{amount}}"
+    }
+
+    document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
+  </script><script src="//civilalchemy.com/cdn/shop/t/1/assets/lazysizes.js?v=68441465964607740661554231793" async="async"></script>
+  <script src="//civilalchemy.com/cdn/shop/t/1/assets/vendor.js?v=12001839194546984181554231793" defer="defer"></script>
+  <script src="//civilalchemy.com/cdn/shop/t/1/assets/theme.js?v=63318469594981962241639410886" defer="defer"></script>
+  
+  <link href="https://fonts.googleapis.com/css?family=Cabin&amp;display=swap" rel="stylesheet">
+
+  <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script><meta name="facebook-domain-verification" content="zv81ii9abi37gpwakkjh6mk387h7hc">
+<meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/8660025410/digital_wallets/dialog">
+<meta name="shopify-checkout-api-token" content="69b9fbbd61b44de94647148106f7b126">
+<script async="async" src="/checkouts/internal/preloads.js?permanent-domain=civil-alchemy-st-louis.myshopify.com&amp;locale=en-US"></script>
+<script id="apple-pay-shop-capabilities" type="application/json">{"shopId":8660025410,"countryCode":"US","currencyCode":"USD","merchantCapabilities":["supports3DS"],"merchantId":"gid:\/\/shopify\/Shop\/8660025410","merchantName":"Civil Alchemy St Louis","requiredBillingContactFields":["postalAddress","email","phone"],"requiredShippingContactFields":["postalAddress","email","phone"],"shippingType":"shipping","supportedNetworks":["visa","masterCard","amex","discover","elo","jcb"],"total":{"type":"pending","label":"Civil Alchemy St Louis","amount":"1.00"},"shopifyPaymentsEnabled":true,"supportsSubscriptions":true}</script>
+<script id="shopify-features" type="application/json">{"accessToken":"69b9fbbd61b44de94647148106f7b126","betas":["rich-media-storefront-analytics"],"domain":"civilalchemy.com","predictiveSearch":true,"shopId":8660025410,"smart_payment_buttons_url":"https:\/\/civilalchemy.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js","dynamic_checkout_cart_url":"https:\/\/civilalchemy.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js","locale":"en","optimusEnabled":true,"optimusHidden":false,"shopPromisePDPV3Enabled":true}</script>
+<script>var Shopify = Shopify || {};
+Shopify.shop = "civil-alchemy-st-louis.myshopify.com";
+Shopify.locale = "en";
+Shopify.currency = {"active":"USD","rate":"1.0"};
+Shopify.country = "US";
+Shopify.theme = {"name":"Debut","id":35635331138,"theme_store_id":796,"role":"main"};
+Shopify.theme.handle = "null";
+Shopify.theme.style = {"id":null,"handle":null};
+Shopify.cdnHost = "civilalchemy.com/cdn";
+Shopify.routes = Shopify.routes || {};
+Shopify.routes.root = "/";</script>
+<script type="module">!function(o){(o.Shopify=o.Shopify||{}).modules=!0}(window);</script>
+<script>!function(o){function n(){var o=[];function n(){o.push(Array.prototype.slice.apply(arguments))}return n.q=o,n}var t=o.Shopify=o.Shopify||{};t.loadFeatures=n(),t.autoloadFeatures=n()}(window);</script>
+<script>window.ShopifyPay = window.ShopifyPay || {};
+window.ShopifyPay.apiHost = "shop.app\/pay";</script>
+<script>
+  window.Shopify = window.Shopify || {};
+  if (!window.Shopify.featureAssets) window.Shopify.featureAssets = {};
+  window.Shopify.featureAssets['shop-js'] = {"pay-button":["modules/client.pay-button_fa7a4091.en.esm.js","modules/chunk.common_089ed268.esm.js"],"init-shop-email-lookup-coordinator":["modules/client.init-shop-email-lookup-coordinator_c4786d7f.en.esm.js","modules/chunk.common_089ed268.esm.js"],"init-customer-accounts":["modules/client.init-customer-accounts_b72e2e23.en.esm.js","modules/chunk.common_089ed268.esm.js"],"init-customer-accounts-sign-up":["modules/client.init-customer-accounts-sign-up_24bcc88f.en.esm.js","modules/chunk.common_089ed268.esm.js"],"init-shop-for-new-customer-accounts":["modules/client.init-shop-for-new-customer-accounts_d6ce5df6.en.esm.js","modules/chunk.common_089ed268.esm.js"],"shop-pay-payment-request":["modules/client.shop-pay-payment-request_44b42b1f.en.esm.js","modules/chunk.common_089ed268.esm.js","modules/chunk.shop-pay_24d0dbcb.esm.js"],"discount-app":["modules/client.discount-app_ca134bdb.en.esm.js","modules/chunk.common_089ed268.esm.js"],"login-button":["modules/client.login-button_7c13706c.en.esm.js","modules/chunk.common_089ed268.esm.js"],"payment-terms":["modules/client.payment-terms_924ece13.en.esm.js","modules/chunk.common_089ed268.esm.js"]};
+</script>
+<script>(function() {
+  function asyncLoad() {
+    var urls = ["https:\/\/app.kiwisizing.com\/web\/js\/dist\/kiwiSizing\/plugin\/SizingPlugin.prod.js?v=310\u0026shop=civil-alchemy-st-louis.myshopify.com","https:\/\/chimpstatic.com\/mcjs-connected\/js\/users\/970204199b6bceb361dace894\/aef1d1293baba58ed3c46370a.js?shop=civil-alchemy-st-louis.myshopify.com","https:\/\/cdn.hextom.com\/js\/quickannouncementbar.js?shop=civil-alchemy-st-louis.myshopify.com","https:\/\/cdn.shopify.com\/s\/files\/1\/0086\/6002\/5410\/t\/1\/assets\/affirmShopify.js?v=1617299375\u0026shop=civil-alchemy-st-louis.myshopify.com","https:\/\/static.klaviyo.com\/onsite\/js\/klaviyo.js?company_id=TjtXKR\u0026shop=civil-alchemy-st-louis.myshopify.com"];
+    for (var i = 0; i < urls.length; i++) {
+      var s = document.createElement('script');
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = urls[i];
+      var x = document.getElementsByTagName('script')[0];
+      x.parentNode.insertBefore(s, x);
+    }
+  };
+  if(window.attachEvent) {
+    window.attachEvent('onload', asyncLoad);
+  } else {
+    window.addEventListener('load', asyncLoad, false);
+  }
+})();</script>
+<script id="__st">var __st={"a":8660025410,"offset":-21600,"reqid":"9d98a692-27fc-4b34-9959-d1904d49d914","pageurl":"civilalchemy.com\/","u":"3b0037f14285","p":"home"};</script>
+<script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
+<script>!function(o){o.addEventListener("DOMContentLoaded",function(){window.Shopify=window.Shopify||{},window.Shopify.recaptchaV3=window.Shopify.recaptchaV3||{siteKey:"6LcCR2cUAAAAANS1Gpq_mDIJ2pQuJphsSQaUEuc9"};var t=['form[action*="/contact"] input[name="form_type"][value="contact"]','form[action*="/comments"] input[name="form_type"][value="new_comment"]','form[action*="/account"] input[name="form_type"][value="customer_login"]','form[action*="/account"] input[name="form_type"][value="recover_customer_password"]','form[action*="/account"] input[name="form_type"][value="create_customer"]','form[action*="/contact"] input[name="form_type"][value="customer"]'].join(",");function n(e){e=e.target;null==e||null!=(e=function e(t,n){if(null==t.parentElement)return null;if("FORM"!=t.parentElement.tagName)return e(t.parentElement,n);for(var o=t.parentElement.action,r=0;r<n.length;r++)if(-1!==o.indexOf(n[r]))return t.parentElement;return null}(e,["/contact","/comments","/account"]))&&null!=e.querySelector(t)&&((e=o.createElement("script")).setAttribute("src","https://cdn.shopify.com/shopifycloud/storefront-recaptcha-v3/v0.6/index.js"),o.body.appendChild(e),o.removeEventListener("focus",n,!0),o.removeEventListener("change",n,!0),o.removeEventListener("click",n,!0))}o.addEventListener("click",n,!0),o.addEventListener("change",n,!0),o.addEventListener("focus",n,!0)})}(document);</script>
+<script integrity="sha256-h4dvokWvGcvRSqiG7VnGqoonxF0k3NeoHPLSMjUGIz4=" data-source-attribution="shopify.loadfeatures" defer="defer" src="//civilalchemy.com/cdn/shopifycloud/shopify/assets/storefront/load_feature-87876fa245af19cbd14aa886ed59c6aa8a27c45d24dcd7a81cf2d2323506233e.js" crossorigin="anonymous"></script>
+<script crossorigin="anonymous" defer="defer" src="//civilalchemy.com/cdn/shopifycloud/shopify/assets/shopify_pay/storefront-a2d444786d996da5634fbbaeeffe6104ee672440dfa6cdcaebfb27dceaaf9c0f.js?v=20220906"></script>
+<script integrity="sha256-HAs5a9TQVLlKuuHrahvWuke+s1UlxXohfHeoYv8G2D8=" data-source-attribution="shopify.dynamic-checkout" defer="defer" src="//civilalchemy.com/cdn/shopifycloud/shopify/assets/storefront/features-1c0b396bd4d054b94abae1eb6a1bd6ba47beb35525c57a217c77a862ff06d83f.js" crossorigin="anonymous"></script>
+<link rel="stylesheet" media="screen" href="//civilalchemy.com/cdn/shop/t/1/compiled_assets/styles.css?7388">
+<script id="sections-script" data-sections="homepage-hero,pre-footer" defer="defer" src="//civilalchemy.com/cdn/shop/t/1/compiled_assets/scripts.js?7388"></script>
+
+<style id="shopify-dynamic-checkout-cart">@media screen and (min-width: 750px) {
+  #dynamic-checkout-cart {
+    min-height: 50px;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  #dynamic-checkout-cart {
+    min-height: 120px;
+  }
+}
+</style><script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.end');</script>
+<!-- BEGIN app block: shopify://apps/gift-reggie-gift-registry/blocks/app-embed-block/00fe746e-081c-46a2-a15d-bcbd6f41b0f0 --><script type="application/json" id="gift_reggie_data">
+  {
+    "storefrontAccessToken": null,
+    "registryId": null,
+    "registryAdmin": null,
+    "customerId": null,
+    
+
+    "productId": null,
+    "rootUrl": "\/",
+    "currentLanguage": null,
+
+    "button_layout": "column",
+    "button_order": "registry_wishlist",
+    "button_alignment": "justify",
+    "behavior_on_no_id": "disable",
+    "wishlist_button_visibility": "everyone",
+    "registry_button_visibility": "everyone",
+    "registry_button_behavior": "ajax",
+    "online_store_version": "1",
+    "button_location_override": "",
+    "button_location_override_position": "inside",
+
+    "wishlist_button_appearance": "button",
+    "registry_button_appearance": "button",
+    "wishlist_button_classname": "",
+    "registry_button_classname": "",
+    "wishlist_button_image_not_present": null,
+    "wishlist_button_image_is_present": null,
+    "registry_button_image": null,
+
+    "checkout_button_selector": "",
+
+    "i18n": {
+      "wishlist": {
+        "idleAdd": "Add to Wishlist",
+        "idleRemove": "Remove from Wishlist",
+        "pending": "...",
+        "successAdd": "Added to Wishlist",
+        "successRemove": "Removed from Wishlist",
+        "noVariant": "Add to Wishlist",
+        "error": "Error"
+      },
+      "registry": {
+        "idleAdd": "Add to Registry",
+        "idleRemove": "Remove from Registry",
+        "pending": "...",
+        "successAdd": "Added to Registry",
+        "successRemove": "Removed from Registry",
+        "noVariant": "Add to Registry",
+        "error": "Error"
+      }
+    }
+  }
+</script>
+<style>
+  :root {
+    --gift-reggie-wishlist-button-background-color: #f6f5f1;
+    --gift-reggie-wishlist-button-text-color: #333333;
+    --gift-reggie-registry-button-background-color: #f6f5f1;
+    --gift-reggie-registry-button-text-color: #333333;
+  }
+</style><style>
+    
+  </style>
+<!-- END app app block --><script src="https://cdn.shopify.com/extensions/4efbc87e-5fa1-47a3-a69c-1f5f7bd437ef/gift-reggie-gift-registry-17/assets/app-embed-block.js" type="text/javascript" defer="defer"></script>
+<link href="https://cdn.shopify.com/extensions/4efbc87e-5fa1-47a3-a69c-1f5f7bd437ef/gift-reggie-gift-registry-17/assets/app-embed-block.css" rel="stylesheet" type="text/css" media="all">
+<script src="https://cdn.shopify.com/extensions/4e812c36-ca33-43ad-b15e-d4852f86aeeb/magical-form-fields-8/assets/magical-custom-fields.js" type="text/javascript" defer="defer"></script>
+<link href="https://cdn.shopify.com/extensions/4e812c36-ca33-43ad-b15e-d4852f86aeeb/magical-form-fields-8/assets/magical-custom-fields.css" rel="stylesheet" type="text/css" media="all">
+<meta property="og:image" content="https://cdn.shopify.com/s/files/1/0086/6002/5410/files/Civil_Alchemy.png?height=628&amp;pad_color=f6f5f1&amp;v=1614296208&amp;width=1200">
+<meta property="og:image:secure_url" content="https://cdn.shopify.com/s/files/1/0086/6002/5410/files/Civil_Alchemy.png?height=628&amp;pad_color=f6f5f1&amp;v=1614296208&amp;width=1200">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="628">
+<link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch">
+<script>(function(){if ("sendBeacon" in navigator && "performance" in window) {var session_token = document.cookie.match(/_shopify_s=([^;]*)/);function handle_abandonment_event(e) {var entries = performance.getEntries().filter(function(entry) {return /monorail-edge.shopifysvc.com/.test(entry.name);});if (!window.abandonment_tracked && entries.length === 0) {window.abandonment_tracked = true;var currentMs = Date.now();var navigation_start = performance.timing.navigationStart;var payload = {shop_id: 8660025410,url: window.location.href,navigation_start,duration: currentMs - navigation_start,session_token: session_token && session_token.length === 2 ? session_token[1] : "",page_type: "index"};window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({schema_id: "online_store_buyer_site_abandonment/1.1",payload: payload,metadata: {event_created_at_ms: currentMs,event_sent_at_ms: currentMs}}));}}window.addEventListener('pagehide', handle_abandonment_event);}}());</script>
+<script id="web-pixels-manager-setup">(function e(e,n,a,t,o,r,i){var s=null!==e,l=("function"==typeof BigInt&&BigInt.toString().indexOf("[native code]")?"modern":"legacy").substring(0,1),c=t.substring(0,1);if(s){window.Shopify=window.Shopify||{};var d=window.Shopify;d.analytics=d.analytics||{};var u=d.analytics;u.replayQueue=[],u.publish=function(e,n,a){u.replayQueue.push([e,n,a])};try{self.performance.mark("wpm:start")}catch(e){}}var p,f,y,h,v,m,w,g,b,_=[a,"/wpm","/",c,r,l,".js"].join("");f=(p={src:_,async:!0,onload:function(){if(e){var a=window.webPixelsManager.init(e);null==n||n(a);var t=window.Shopify.analytics;t.replayQueue.forEach((function(e){var n=e[0],t=e[1],o=e[2];a.publishCustomEvent(n,t,o)})),t.replayQueue=[],t.publish=a.publishCustomEvent,t.visitor=a.visitor}},onerror:function(){var n=(null==e?void 0:e.storefrontBaseUrl)?e.storefrontBaseUrl.replace(/\/$/,""):self.location.origin,a="".concat(n,"/.well-known/shopify/monorail/unstable/produce_batch"),t=JSON.stringify({metadata:{event_sent_at_ms:(new Date).getTime()},events:[{schema_id:"web_pixels_manager_load/2.0",payload:{version:o||"latest",page_url:self.location.href,status:"failed",error_msg:"".concat(_," has failed to load")},metadata:{event_created_at_ms:(new Date).getTime()}}]});try{if(self.navigator.sendBeacon.bind(self.navigator)(a,t))return!0}catch(e){}var r=new XMLHttpRequest;try{return r.open("POST",a,!0),r.setRequestHeader("Content-Type","text/plain"),r.send(t),!0}catch(e){console&&console.warn&&console.warn("[Web Pixels Manager] Got an unhandled error while logging a load error.")}return!1}}).src,y=p.async,h=void 0===y||y,v=p.onload,m=p.onerror,w=document.createElement("script"),g=document.head,b=document.body,w.async=h,w.src=f,v&&w.addEventListener("load",v),m&&w.addEventListener("error",m),g?g.appendChild(w):b?b.appendChild(w):console.error("Did not find a head or body element to append the script")})({shopId: 8660025410,storefrontBaseUrl: "https://civilalchemy.com",cdnBaseUrl: "https://civilalchemy.com/cdn",surface: "storefront-renderer",enabledBetaFlags: ["web_pixels_async_pixel_refactor","web_pixels_manager_performance_improvement"],webPixelsConfigList: [{"id":"shopify-app-pixel","configuration":"{}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"0570","apiClientId":"shopify-pixel","type":"APP"},{"id":"shopify-custom-pixel","eventPayloadVersion":"v1","runtimeContext":"LAX","scriptVersion":"0570","apiClientId":"shopify-pixel","type":"CUSTOM"}],initData: {"cart":null,"checkout":null,"customer":null,"productVariants":[]},},function pageEvents(webPixelsManagerAPI) {webPixelsManagerAPI.publish("page_viewed");},"https://civilalchemy.com/cdn","browser","0.0.415","08d9d536wbc499b5ep9e0ec6b9m18e2802a",["web_pixels_async_pixel_refactor","web_pixels_manager_performance_improvement"]);</script><script async="" src="https://civilalchemy.com/cdn/wpm/b08d9d536wbc499b5ep9e0ec6b9m18e2802al.js"></script>  <script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
+window.ShopifyAnalytics.meta.currency = 'USD';
+var meta = {"page":{"pageType":"home"}};
+for (var attr in meta) {
+  window.ShopifyAnalytics.meta[attr] = meta[attr];
+}</script>
+<script>window.ShopifyAnalytics.merchantGoogleAnalytics = function() {
+  
+};
+</script>
+<script class="analytics">(function () {
+    var customDocumentWrite = function(content) {
+      var jquery = null;
+
+      if (window.jQuery) {
+        jquery = window.jQuery;
+      } else if (window.Checkout && window.Checkout.$) {
+        jquery = window.Checkout.$;
+      }
+
+      if (jquery) {
+        jquery('body').append(content);
+      }
+    };
+
+    var hasLoggedConversion = function(token) {
+      if (token) {
+        return document.cookie.indexOf('loggedConversion=' + token) !== -1;
+      }
+      return false;
+    }
+
+    var setCookieIfConversion = function(token) {
+      if (token) {
+        var twoMonthsFromNow = new Date(Date.now());
+        twoMonthsFromNow.setMonth(twoMonthsFromNow.getMonth() + 2);
+
+        document.cookie = 'loggedConversion=' + token + '; expires=' + twoMonthsFromNow;
+      }
+    }
+
+    var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
+    if (trekkie.integrations) {
+      return;
+    }
+    trekkie.methods = [
+      'identify',
+      'page',
+      'ready',
+      'track',
+      'trackForm',
+      'trackLink'
+    ];
+    trekkie.factory = function(method) {
+      return function() {
+        var args = Array.prototype.slice.call(arguments);
+        args.unshift(method);
+        trekkie.push(args);
+        return trekkie;
+      };
+    };
+    for (var i = 0; i < trekkie.methods.length; i++) {
+      var key = trekkie.methods[i];
+      trekkie[key] = trekkie.factory(key);
+    }
+    trekkie.load = function(config) {
+      trekkie.config = config || {};
+      trekkie.config.initialDocumentCookie = document.cookie;
+      var first = document.getElementsByTagName('script')[0];
+      var script = document.createElement('script');
+      script.type = 'text/javascript';
+      script.onerror = function(e) {
+        var scriptFallback = document.createElement('script');
+        scriptFallback.type = 'text/javascript';
+        scriptFallback.onerror = function(error) {
+                var Monorail = {
+      produce: function produce(monorailDomain, schemaId, payload) {
+        var currentMs = new Date().getTime();
+        var event = {
+          schema_id: schemaId,
+          payload: payload,
+          metadata: {
+            event_created_at_ms: currentMs,
+            event_sent_at_ms: currentMs
+          }
+        };
+        return Monorail.sendRequest("https://" + monorailDomain + "/v1/produce", JSON.stringify(event));
+      },
+      sendRequest: function sendRequest(endpointUrl, payload) {
+        // Try the sendBeacon API
+        if (window && window.navigator && typeof window.navigator.sendBeacon === 'function' && typeof window.Blob === 'function' && !Monorail.isIos12()) {
+          var blobData = new window.Blob([payload], {
+            type: 'text/plain'
+          });
+
+          if (window.navigator.sendBeacon(endpointUrl, blobData)) {
+            return true;
+          } // sendBeacon was not successful
+
+        } // XHR beacon
+
+        var xhr = new XMLHttpRequest();
+
+        try {
+          xhr.open('POST', endpointUrl);
+          xhr.setRequestHeader('Content-Type', 'text/plain');
+          xhr.send(payload);
+        } catch (e) {
+          console.log(e);
+        }
+
+        return false;
+      },
+      isIos12: function isIos12() {
+        return window.navigator.userAgent.lastIndexOf('iPhone; CPU iPhone OS 12_') !== -1 || window.navigator.userAgent.lastIndexOf('iPad; CPU OS 12_') !== -1;
+      }
+    };
+    Monorail.produce('monorail-edge.shopifysvc.com',
+      'trekkie_storefront_load_errors/1.1',
+      {shop_id: 8660025410,
+      theme_id: 35635331138,
+      app_name: "storefront",
+      context_url: window.location.href,
+      source_url: "//civilalchemy.com/cdn/s/trekkie.storefront.f2da2901761ed691d459433ada0e4d90e085713c.min.js"});
+
+        };
+        scriptFallback.async = true;
+        scriptFallback.src = '//civilalchemy.com/cdn/s/trekkie.storefront.f2da2901761ed691d459433ada0e4d90e085713c.min.js';
+        first.parentNode.insertBefore(scriptFallback, first);
+      };
+      script.async = true;
+      script.src = '//civilalchemy.com/cdn/s/trekkie.storefront.f2da2901761ed691d459433ada0e4d90e085713c.min.js';
+      first.parentNode.insertBefore(script, first);
+    };
+    trekkie.load(
+      {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":8660025410,"isMerchantRequest":null,"themeId":35635331138,"themeCityHash":"15744239283571748566","contentLanguage":"en","currency":"USD"},"isServerSideCookieWritingEnabled":true,"monorailRegion":"shop_domain"},"Facebook Pixel":{"pixelIds":["143167599654751","171602750096854"],"agent":"plshopify1.2"},"Session Attribution":{},"S2S":{"facebookCapiEnabled":true,"facebookAppPixelId":"171602750096854","source":"trekkie-storefront-renderer"}}
+    );
+
+    var loaded = false;
+    trekkie.ready(function() {
+      if (loaded) return;
+      loaded = true;
+
+      window.ShopifyAnalytics.lib = window.trekkie;
+
+  
+      var originalDocumentWrite = document.write;
+      document.write = customDocumentWrite;
+      try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
+      document.write = originalDocumentWrite;
+
+      window.ShopifyAnalytics.lib.page(null,{"pageType":"home"});
+
+      var match = window.location.pathname.match(/checkouts\/(.+)\/(thank_you|post_purchase)/)
+      var token = match? match[1]: undefined;
+      if (!hasLoggedConversion(token)) {
+        setCookieIfConversion(token);
+        
+      }
+    });
+
+
+        var eventsListenerScript = document.createElement('script');
+        eventsListenerScript.async = true;
+        eventsListenerScript.src = "//civilalchemy.com/cdn/shopifycloud/shopify/assets/shop_events_listener-a7c63dba65ccddc484f77541dc8ca437e60e1e9e297fe1c3faebf6523a0ede9b.js";
+        document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
+
+})();</script><script async="" src="//civilalchemy.com/cdn/shopifycloud/shopify/assets/shop_events_listener-a7c63dba65ccddc484f77541dc8ca437e60e1e9e297fe1c3faebf6523a0ede9b.js"></script>
+<script class="boomerang">
+(function () {
+  if (window.BOOMR && (window.BOOMR.version || window.BOOMR.snippetExecuted)) {
+    return;
+  }
+  window.BOOMR = window.BOOMR || {};
+  window.BOOMR.snippetStart = new Date().getTime();
+  window.BOOMR.snippetExecuted = true;
+  window.BOOMR.snippetVersion = 12;
+  window.BOOMR.application = "storefront-renderer";
+  window.BOOMR.themeName = "Debut";
+  window.BOOMR.themeVersion = "11.2.3";
+  window.BOOMR.shopId = 8660025410;
+  window.BOOMR.themeId = 35635331138;
+  window.BOOMR.renderRegion = "gcp-europe-west1";
+  window.BOOMR.url =
+    "https://civilalchemy.com/cdn/shopifycloud/boomerang/shopify-boomerang-1.0.0.min.js";
+  var where = document.currentScript || document.getElementsByTagName("script")[0];
+  var parentNode = where.parentNode;
+  var promoted = false;
+  var LOADER_TIMEOUT = 3000;
+  function promote() {
+    if (promoted) {
+      return;
+    }
+    var script = document.createElement("script");
+    script.id = "boomr-scr-as";
+    script.src = window.BOOMR.url;
+    script.async = true;
+    parentNode.appendChild(script);
+    promoted = true;
+  }
+  function iframeLoader(wasFallback) {
+    promoted = true;
+    var dom, bootstrap, iframe, iframeStyle;
+    var doc = document;
+    var win = window;
+    window.BOOMR.snippetMethod = wasFallback ? "if" : "i";
+    bootstrap = function(parent, scriptId) {
+      var script = doc.createElement("script");
+      script.id = scriptId || "boomr-if-as";
+      script.src = window.BOOMR.url;
+      BOOMR_lstart = new Date().getTime();
+      parent = parent || doc.body;
+      parent.appendChild(script);
+    };
+    if (!window.addEventListener && window.attachEvent && navigator.userAgent.match(/MSIE [67]./)) {
+      window.BOOMR.snippetMethod = "s";
+      bootstrap(parentNode, "boomr-async");
+      return;
+    }
+    iframe = document.createElement("IFRAME");
+    iframe.src = "about:blank";
+    iframe.title = "";
+    iframe.role = "presentation";
+    iframe.loading = "eager";
+    iframeStyle = (iframe.frameElement || iframe).style;
+    iframeStyle.width = 0;
+    iframeStyle.height = 0;
+    iframeStyle.border = 0;
+    iframeStyle.display = "none";
+    parentNode.appendChild(iframe);
+    try {
+      win = iframe.contentWindow;
+      doc = win.document.open();
+    } catch (e) {
+      dom = document.domain;
+      iframe.src = "javascript:var d=document.open();d.domain='" + dom + "';void(0);";
+      win = iframe.contentWindow;
+      doc = win.document.open();
+    }
+    if (dom) {
+      doc._boomrl = function() {
+        this.domain = dom;
+        bootstrap();
+      };
+      doc.write("<body onload='document._boomrl();'>");
+    } else {
+      win._boomrl = function() {
+        bootstrap();
+      };
+      if (win.addEventListener) {
+        win.addEventListener("load", win._boomrl, false);
+      } else if (win.attachEvent) {
+        win.attachEvent("onload", win._boomrl);
+      }
+    }
+    doc.close();
+  }
+  var link = document.createElement("link");
+  if (link.relList &&
+    typeof link.relList.supports === "function" &&
+    link.relList.supports("preload") &&
+    ("as" in link)) {
+    window.BOOMR.snippetMethod = "p";
+    link.href = window.BOOMR.url;
+    link.rel = "preload";
+    link.as = "script";
+    link.addEventListener("load", promote);
+    link.addEventListener("error", function() {
+      iframeLoader(true);
+    });
+    setTimeout(function() {
+      if (!promoted) {
+        iframeLoader(true);
+      }
+    }, LOADER_TIMEOUT);
+    BOOMR_lstart = new Date().getTime();
+    parentNode.appendChild(link);
+  } else {
+    iframeLoader(false);
+  }
+  function boomerangSaveLoadTime(e) {
+    window.BOOMR_onload = (e && e.timeStamp) || new Date().getTime();
+  }
+  if (window.addEventListener) {
+    window.addEventListener("load", boomerangSaveLoadTime, false);
+  } else if (window.attachEvent) {
+    window.attachEvent("onload", boomerangSaveLoadTime);
+  }
+  if (document.addEventListener) {
+    document.addEventListener("onBoomerangLoaded", function(e) {
+      e.detail.BOOMR.init({
+        ResourceTiming: {
+          enabled: true,
+          trackedResourceTypes: ["script", "img", "css"]
+        },
+      });
+      e.detail.BOOMR.t_end = new Date().getTime();
+    });
+  } else if (document.attachEvent) {
+    document.attachEvent("onpropertychange", function(e) {
+      if (!e) e=event;
+      if (e.propertyName === "onBoomerangLoaded") {
+        e.detail.BOOMR.init({
+          ResourceTiming: {
+            enabled: true,
+            trackedResourceTypes: ["script", "img", "css"]
+          },
+        });
+        e.detail.BOOMR.t_end = new Date().getTime();
+      }
+    });
+  }
+})();</script><iframe src="about:blank" title="" style="width: 0px; height: 0px; border: 0px; display: none;"></iframe>
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script><script type="text/javascript" src="//code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script></head>
+
+<body class="template-index">
+
+  <a class="in-page-link visually-hidden skip-link" href="#MainContent">Skip to content</a>
+
+  <div id="SearchDrawer" class="search-bar drawer drawer--top" role="dialog" aria-modal="true" aria-label="Search">
+    <div class="search-bar__table">
+      <div class="search-bar__table-cell search-bar__form-wrapper">
+        <form class="search search-bar__form" action="/search" method="get" role="search">
+          <input class="search__input search-bar__input" type="search" name="q" value="" placeholder="Search" aria-label="Search">
+          <button class="search-bar__submit search__submit btn--link" type="submit">
+            <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-search" viewBox="0 0 37 40"><path d="M35.6 36l-9.8-9.8c4.1-5.4 3.6-13.2-1.3-18.1-5.4-5.4-14.2-5.4-19.7 0-5.4 5.4-5.4 14.2 0 19.7 2.6 2.6 6.1 4.1 9.8 4.1 3 0 5.9-1 8.3-2.8l9.8 9.8c.4.4.9.6 1.4.6s1-.2 1.4-.6c.9-.9.9-2.1.1-2.9zm-20.9-8.2c-2.6 0-5.1-1-7-2.9-3.9-3.9-3.9-10.1 0-14C9.6 9 12.2 8 14.7 8s5.1 1 7 2.9c3.9 3.9 3.9 10.1 0 14-1.9 1.9-4.4 2.9-7 2.9z"></path></svg>
+            <span class="icon__fallback-text">Submit</span>
+          </button>
+        </form>
+      </div>
+      <div class="search-bar__table-cell text-right">
+        <button type="button" class="btn--link search-bar__close js-drawer-close">
+          <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-close" viewBox="0 0 40 40"><path d="M23.868 20.015L39.117 4.78c1.11-1.108 1.11-2.77 0-3.877-1.109-1.108-2.773-1.108-3.882 0L19.986 16.137 4.737.904C3.628-.204 1.965-.204.856.904c-1.11 1.108-1.11 2.77 0 3.877l15.249 15.234L.855 35.248c-1.108 1.108-1.108 2.77 0 3.877.555.554 1.248.831 1.942.831s1.386-.277 1.94-.83l15.25-15.234 15.248 15.233c.555.554 1.248.831 1.941.831s1.387-.277 1.941-.83c1.11-1.109 1.11-2.77 0-3.878L23.868 20.015z" class="layer"></path></svg>
+          <span class="icon__fallback-text">Close search</span>
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <div id="shopify-section-header" class="shopify-section">
+
+<div data-section-id="header" data-section-type="header-section">
+  
+
+
+  <header class="site-header" role="banner">
+    
+    <span class="site-header__background"></span>
+    
+    <button class="site-header__hamburger js-mobile-nav-toggle" aria-controls="MobileNav" aria-expanded="false" aria-label="Menu">
+      <span></span>
+      <span></span>
+    </button>
+    
+    <nav class="site-nav" id="AccessibleNav" role="navigation">
+      <ul class="site-nav list--inline ">
+  
+
+
+
+    
+      <li class="site-nav--has-dropdown" data-has-dropdowns="">
+        <button class="site-nav__link site-nav__link--main site-nav__link--button" type="button" aria-expanded="false" aria-controls="SiteNavLabel-shop">
+          <span class="site-nav__label">Shop</span>
+        </button>
+
+        <div class="site-nav__dropdown site-nav__dropdown--right" id="SiteNavLabel-shop">
+          
+            <ul>
+              
+                <li>
+                  <a href="/collections/civil-alchemy-brand" class="site-nav__link site-nav__child-link">
+                    <span class="site-nav__label">The Brand</span>
+                  </a>
+                </li>
+              
+                <li>
+                  <a href="/collections/florals" class="site-nav__link site-nav__child-link">
+                    <span class="site-nav__label">Florals</span>
+                  </a>
+                </li>
+              
+                <li>
+                  <a href="/collections/apparel" class="site-nav__link site-nav__child-link">
+                    <span class="site-nav__label">Apparel </span>
+                  </a>
+                </li>
+              
+                <li>
+                  <a href="https://civilalchemy.com/collections/footwear" class="site-nav__link site-nav__child-link">
+                    <span class="site-nav__label">Footwear</span>
+                  </a>
+                </li>
+              
+                <li>
+                  <a href="/collections/kitchen" class="site-nav__link site-nav__child-link">
+                    <span class="site-nav__label">Home &amp; Kitchen</span>
+                  </a>
+                </li>
+              
+                <li>
+                  <a href="/collections/accessories" class="site-nav__link site-nav__child-link">
+                    <span class="site-nav__label">Accessories</span>
+                  </a>
+                </li>
+              
+                <li>
+                  <a href="/collections/jewelry" class="site-nav__link site-nav__child-link">
+                    <span class="site-nav__label">Jewelry</span>
+                  </a>
+                </li>
+              
+                <li>
+                  <a href="/collections/garden-hobby" class="site-nav__link site-nav__child-link">
+                    <span class="site-nav__label">Garden &amp; Hobby</span>
+                  </a>
+                </li>
+              
+                <li>
+                  <a href="/collections/books" class="site-nav__link site-nav__child-link">
+                    <span class="site-nav__label">Books</span>
+                  </a>
+                </li>
+              
+                <li>
+                  <a href="https://civilalchemy.com/collections/kids" class="site-nav__link site-nav__child-link">
+                    <span class="site-nav__label">Kids</span>
+                  </a>
+                </li>
+              
+                <li>
+                  <a href="https://civilalchemy.com/blogs/news/wine-liquor-beer-pre-order" class="site-nav__link site-nav__child-link">
+                    <span class="site-nav__label">Spirits</span>
+                  </a>
+                </li>
+              
+                <li>
+                  <a href="/products/gift-card" class="site-nav__link site-nav__child-link site-nav__link--last">
+                    <span class="site-nav__label">Gift Cards</span>
+                  </a>
+                </li>
+              
+            </ul>
+          
+        </div>
+      </li>
+    
+  
+
+
+
+    
+      <li class="site-nav--has-dropdown" data-has-dropdowns="">
+        <button class="site-nav__link site-nav__link--main site-nav__link--button" type="button" aria-expanded="false" aria-controls="SiteNavLabel-journal">
+          <span class="site-nav__label">Journal</span>
+        </button>
+
+        <div class="site-nav__dropdown site-nav__dropdown--right" id="SiteNavLabel-journal">
+          
+            <ul>
+              
+                <li>
+                  <a href="/blogs/news" class="site-nav__link site-nav__child-link">
+                    <span class="site-nav__label">News</span>
+                  </a>
+                </li>
+              
+                <li>
+                  <a href="/pages/wholesale" class="site-nav__link site-nav__child-link">
+                    <span class="site-nav__label">Wholesale</span>
+                  </a>
+                </li>
+              
+                <li>
+                  <a href="/blogs/lookbook" class="site-nav__link site-nav__child-link">
+                    <span class="site-nav__label">Lookbook</span>
+                  </a>
+                </li>
+              
+                <li>
+                  <a href="/blogs/events" class="site-nav__link site-nav__child-link">
+                    <span class="site-nav__label">Events</span>
+                  </a>
+                </li>
+              
+                <li>
+                  <a href="/blogs/reflections" class="site-nav__link site-nav__child-link site-nav__link--last">
+                    <span class="site-nav__label">Reflections</span>
+                  </a>
+                </li>
+              
+            </ul>
+          
+        </div>
+      </li>
+    
+  
+
+
+
+    
+      <li>
+        <a href="/pages/about" class="site-nav__link site-nav__link--main">
+          <span class="site-nav__label">About</span>
+        </a>
+      </li>
+    
+  
+</ul>
+
+    </nav>
+    
+    <a href="/" class="site-header__logo">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3917.11 310">
+		<path d="M266.75,220.9,287,230.69A152.25,152.25,0,0,1,2.5,155C2.5,71,70.72,2.5,155.05,2.5c55.85,0,105,30.88,131.57,76.44l-20.24,9.79c-22.87-38-64.1-64-111.33-64C83.46,24.72,25,83.46,25,155c0,71.92,58.47,130.28,130.06,130.28C202.66,285.28,243.89,259.3,266.75,220.9ZM400.86,8.15H423v293.7H400.86Zm281.79,293.7H659L524.48,8.15h24.74l121.44,270,121.82-270h24.36ZM918.72,8.15h22.11v293.7H918.72Zm160.35,293.7V8.15h22.11V280h169v21.84ZM1632.53,8.15h24l134.18,293.7h-24.36l-30-66.27H1552.69l-29.61,66.27h-24.74Zm12,24.1-82.08,182.24h164.17Zm248.06,269.6V8.15h22.12V280h169v21.84Zm518.68-81,20.24,9.79A152.25,152.25,0,0,1,2147,155c0-84,68.22-152.5,152.55-152.5,55.85,0,105,30.88,131.57,76.44l-20.24,9.79c-22.87-38-64.1-64-111.33-64C2228,24.72,2169.5,83.46,2169.5,155c0,71.92,58.47,130.28,130.06,130.28C2347.17,285.28,2388.4,259.3,2411.26,220.9ZM2768.39,8.15h22.12v293.7h-22.12V168.18h-200.9V301.85h-22.12V8.15h22.12V147.09h200.9Zm160.73,293.7V8.15H3130V30H2951.23v117.1h152.18v21.09H2951.23V280H3130v21.84Zm342.88,0h-22.11V8.15h21l127.44,254.54L3525.76,8.15h21v293.7h-22.12v-247l-118.82,237.6h-15.36L3272,55.59ZM3674.11,8.15l106.08,163,106.45-163h25.86l-121.07,186V301.85h-22.11V194.54L3648.25,8.15Z" stroke="#3d4246" stroke-width="5" fill-rule="evenodd"></path>
+	  </svg>
+    </a>
+
+    
+    <a href="/cart" class="site-header__mobile-cart-count">(0)</a>
+    
+    <div class="site-header__desktop-links">
+      <a href="/cart" class="site-header__desktop-cart-count">Cart (0)</a>
+      
+      
+        
+        <a href="/account/login" class="site-header__account">
+          <span>Log in</span>
+        </a>
+        
+      
+      
+      <button type="button" class="site-header__search js-drawer-open-top">
+        <span>Search</span>
+      </button>
+    </div>
+
+    <nav class="mobile-nav-wrapper medium-up--hide" role="navigation">
+      <ul id="MobileNav" class="mobile-nav">
+        
+<li class="mobile-nav__item border-bottom">
+            
+              
+              <button type="button" class="btn--link js-toggle-submenu mobile-nav__link" data-target="shop-1" data-level="1" aria-expanded="false">
+                <span class="mobile-nav__label">Shop</span>
+                <div class="mobile-nav__icon">
+                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16.98 25.81" class="icon icon-chevron-right">
+  <polygon points="1.27 25.81 0 24.27 13.83 12.91 0 1.54 1.27 0 16.98 12.91 1.27 25.81"></polygon>
+</svg>
+
+                </div>
+              </button>
+              <ul class="mobile-nav__dropdown" data-parent="shop-1" data-level="2">
+                <li class="visually-hidden" tabindex="-1" data-menu-title="2">Shop Menu</li>
+                <li class="mobile-nav__item border-bottom">
+                  <div class="mobile-nav__table">
+                    <div class="mobile-nav__table-cell mobile-nav__return">
+                      <button class="btn--link js-toggle-submenu mobile-nav__return-btn" type="button" aria-expanded="true" aria-label="Shop">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16.98 25.81" class="icon icon-chevron-left">
+  <polygon points="15.71 0 16.98 1.54 3.15 12.91 16.98 24.27 15.71 25.81 0 12.91 15.71 0" fill="none"></polygon>
+</svg>
+
+                      </button>
+                    </div>
+
+                    <span class="mobile-nav__sublist-link mobile-nav__sublist-header mobile-nav__sublist-header--main-nav-parent">
+                      <span class="mobile-nav__label">Shop</span>
+                    </span>
+                  </div>
+                </li>
+
+                
+                  <li class="mobile-nav__item border-bottom">
+                    
+                      <a href="/collections/civil-alchemy-brand" class="mobile-nav__sublist-link">
+                        <span class="mobile-nav__label">The Brand</span>
+                      </a>
+                    
+                  </li>
+                
+                  <li class="mobile-nav__item border-bottom">
+                    
+                      <a href="/collections/florals" class="mobile-nav__sublist-link">
+                        <span class="mobile-nav__label">Florals</span>
+                      </a>
+                    
+                  </li>
+                
+                  <li class="mobile-nav__item border-bottom">
+                    
+                      <a href="/collections/apparel" class="mobile-nav__sublist-link">
+                        <span class="mobile-nav__label">Apparel </span>
+                      </a>
+                    
+                  </li>
+                
+                  <li class="mobile-nav__item border-bottom">
+                    
+                      <a href="https://civilalchemy.com/collections/footwear" class="mobile-nav__sublist-link">
+                        <span class="mobile-nav__label">Footwear</span>
+                      </a>
+                    
+                  </li>
+                
+                  <li class="mobile-nav__item border-bottom">
+                    
+                      <a href="/collections/kitchen" class="mobile-nav__sublist-link">
+                        <span class="mobile-nav__label">Home &amp; Kitchen</span>
+                      </a>
+                    
+                  </li>
+                
+                  <li class="mobile-nav__item border-bottom">
+                    
+                      <a href="/collections/accessories" class="mobile-nav__sublist-link">
+                        <span class="mobile-nav__label">Accessories</span>
+                      </a>
+                    
+                  </li>
+                
+                  <li class="mobile-nav__item border-bottom">
+                    
+                      <a href="/collections/jewelry" class="mobile-nav__sublist-link">
+                        <span class="mobile-nav__label">Jewelry</span>
+                      </a>
+                    
+                  </li>
+                
+                  <li class="mobile-nav__item border-bottom">
+                    
+                      <a href="/collections/garden-hobby" class="mobile-nav__sublist-link">
+                        <span class="mobile-nav__label">Garden &amp; Hobby</span>
+                      </a>
+                    
+                  </li>
+                
+                  <li class="mobile-nav__item border-bottom">
+                    
+                      <a href="/collections/books" class="mobile-nav__sublist-link">
+                        <span class="mobile-nav__label">Books</span>
+                      </a>
+                    
+                  </li>
+                
+                  <li class="mobile-nav__item border-bottom">
+                    
+                      <a href="https://civilalchemy.com/collections/kids" class="mobile-nav__sublist-link">
+                        <span class="mobile-nav__label">Kids</span>
+                      </a>
+                    
+                  </li>
+                
+                  <li class="mobile-nav__item border-bottom">
+                    
+                      <a href="https://civilalchemy.com/blogs/news/wine-liquor-beer-pre-order" class="mobile-nav__sublist-link">
+                        <span class="mobile-nav__label">Spirits</span>
+                      </a>
+                    
+                  </li>
+                
+                  <li class="mobile-nav__item">
+                    
+                      <a href="/products/gift-card" class="mobile-nav__sublist-link">
+                        <span class="mobile-nav__label">Gift Cards</span>
+                      </a>
+                    
+                  </li>
+                
+              </ul>
+            
+          </li>
+        
+<li class="mobile-nav__item border-bottom">
+            
+              
+              <button type="button" class="btn--link js-toggle-submenu mobile-nav__link" data-target="journal-2" data-level="1" aria-expanded="false">
+                <span class="mobile-nav__label">Journal</span>
+                <div class="mobile-nav__icon">
+                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16.98 25.81" class="icon icon-chevron-right">
+  <polygon points="1.27 25.81 0 24.27 13.83 12.91 0 1.54 1.27 0 16.98 12.91 1.27 25.81"></polygon>
+</svg>
+
+                </div>
+              </button>
+              <ul class="mobile-nav__dropdown" data-parent="journal-2" data-level="2">
+                <li class="visually-hidden" tabindex="-1" data-menu-title="2">Journal Menu</li>
+                <li class="mobile-nav__item border-bottom">
+                  <div class="mobile-nav__table">
+                    <div class="mobile-nav__table-cell mobile-nav__return">
+                      <button class="btn--link js-toggle-submenu mobile-nav__return-btn" type="button" aria-expanded="true" aria-label="Journal">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16.98 25.81" class="icon icon-chevron-left">
+  <polygon points="15.71 0 16.98 1.54 3.15 12.91 16.98 24.27 15.71 25.81 0 12.91 15.71 0" fill="none"></polygon>
+</svg>
+
+                      </button>
+                    </div>
+
+                    <span class="mobile-nav__sublist-link mobile-nav__sublist-header mobile-nav__sublist-header--main-nav-parent">
+                      <span class="mobile-nav__label">Journal</span>
+                    </span>
+                  </div>
+                </li>
+
+                
+                  <li class="mobile-nav__item border-bottom">
+                    
+                      <a href="/blogs/news" class="mobile-nav__sublist-link">
+                        <span class="mobile-nav__label">News</span>
+                      </a>
+                    
+                  </li>
+                
+                  <li class="mobile-nav__item border-bottom">
+                    
+                      <a href="/pages/wholesale" class="mobile-nav__sublist-link">
+                        <span class="mobile-nav__label">Wholesale</span>
+                      </a>
+                    
+                  </li>
+                
+                  <li class="mobile-nav__item border-bottom">
+                    
+                      <a href="/blogs/lookbook" class="mobile-nav__sublist-link">
+                        <span class="mobile-nav__label">Lookbook</span>
+                      </a>
+                    
+                  </li>
+                
+                  <li class="mobile-nav__item border-bottom">
+                    
+                      <a href="/blogs/events" class="mobile-nav__sublist-link">
+                        <span class="mobile-nav__label">Events</span>
+                      </a>
+                    
+                  </li>
+                
+                  <li class="mobile-nav__item">
+                    
+                      <a href="/blogs/reflections" class="mobile-nav__sublist-link">
+                        <span class="mobile-nav__label">Reflections</span>
+                      </a>
+                    
+                  </li>
+                
+              </ul>
+            
+          </li>
+        
+<li class="mobile-nav__item">
+            
+              <a href="/pages/about" class="mobile-nav__link">
+                <span class="mobile-nav__label">About</span>
+              </a>
+            
+          </li>
+        
+        
+      </ul>
+    </nav>
+  </header>
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "name": "Civil Alchemy St Louis",
+  
+    
+    "logo": "https:\/\/civilalchemy.com\/cdn\/shop\/files\/Civil_Alchemy_small.png?v=1614296208",
+  
+  "sameAs": [
+    "",
+    "https:\/\/www.facebook.com\/civilalchemy\/",
+    "",
+    "https:\/\/www.instagram.com\/civilalchemy\/",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "url": "https:\/\/civilalchemy.com"
+}
+</script>
+
+
+  
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "WebSite",
+      "name": "Civil Alchemy St Louis",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https:\/\/civilalchemy.com\/search?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      },
+      "url": "https:\/\/civilalchemy.com"
+    }
+  </script>
+
+
+
+</div>
+
+  <div class="page-container" id="PageContainer">
+
+    <main class="main-content js-focus-hidden" id="MainContent" role="main" tabindex="-1">
+      <!-- BEGIN content_for_index --><div id="shopify-section-1559571731816" class="shopify-section"><div class="homepage-hero">
+  <div class="homepage-hero__content">
+  	<div class="homepage-hero__item homepage-hero__image-left">
+      <div class="homepage-hero__image">
+        <img src="//civilalchemy.com/cdn/shop/files/IMG_6113_632x843_crop_center.jpg?v=1675264818" alt="">
+      </div>
+      <div class="homepage-hero__text">
+        <p>Functional, Quality, Inspired Goods</p>
+      </div>
+    </div>
+    
+    <div class="homepage-hero__item homepage-hero__image-right">
+      <div class="homepage-hero__image">
+        <img src="//civilalchemy.com/cdn/shop/files/nfimUKPH_632x843_crop_center.jpg?v=1705336287" alt="">
+      </div>
+      <div class="homepage-hero__text">
+        <a href="https://civilalchemy.com/pages/civil-alchemy-gift-registry" class="homepage-hero__cta">Gift Registries</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+</div><div id="shopify-section-1559444395276" class="shopify-section index-section"><div class="featured-collections">
+  
+    <div class="section-header text-center">
+      <h2>Featured Categories</h2>
+    </div>
+  
+
+  
+
+  <div class="collection-grid">
+    <ul class="grid grid--uniform">
+      
+        <li class="grid__item small--one-half medium-up--one-third">
+
+<div class="collection-grid-item">
+  <a href="/collections/civil-alchemy-brand" class="collection-grid-item__link">
+    
+      <div class="collection-grid-item__overlay box ratio-container lazyload js" data-bgset="//civilalchemy.com/cdn/shop/collections/IMG_2394_180x.jpg?v=1570574498 180w 180h,
+    //civilalchemy.com/cdn/shop/collections/IMG_2394_360x.jpg?v=1570574498 360w 360h,
+    //civilalchemy.com/cdn/shop/collections/IMG_2394_540x.jpg?v=1570574498 540w 540h,
+    //civilalchemy.com/cdn/shop/collections/IMG_2394_720x.jpg?v=1570574498 720w 720h,
+    //civilalchemy.com/cdn/shop/collections/IMG_2394_900x.jpg?v=1570574498 900w 900h,
+    //civilalchemy.com/cdn/shop/collections/IMG_2394_1080x.jpg?v=1570574498 1080w 1080h,
+    //civilalchemy.com/cdn/shop/collections/IMG_2394_1296x.jpg?v=1570574498 1296w 1296h,
+    //civilalchemy.com/cdn/shop/collections/IMG_2394_1512x.jpg?v=1570574498 1512w 1512h,
+    //civilalchemy.com/cdn/shop/collections/IMG_2394_1728x.jpg?v=1570574498 1728w 1728h,
+    //civilalchemy.com/cdn/shop/collections/IMG_2394_1950x.jpg?v=1570574498 1950w 1950h,
+    //civilalchemy.com/cdn/shop/collections/IMG_2394_2100x.jpg?v=1570574498 2100w 2100h,
+    //civilalchemy.com/cdn/shop/collections/IMG_2394_2260x.jpg?v=1570574498 2260w 2260h,
+    //civilalchemy.com/cdn/shop/collections/IMG_2394_2450x.jpg?v=1570574498 2450w 2450h,
+    //civilalchemy.com/cdn/shop/collections/IMG_2394_2700x.jpg?v=1570574498 2700w 2700h,
+    //civilalchemy.com/cdn/shop/collections/IMG_2394_3000x.jpg?v=1570574498 3000w 3000h,
+    
+    
+    
+    //civilalchemy.com/cdn/shop/collections/IMG_2394.jpg?v=1570574498 3024w 3024h" data-sizes="auto" data-parent-fit="cover" style="background-image: url('//civilalchemy.com/cdn/shop/collections/IMG_2394_430x582.jpg?v=1570574498')">
+      </div>
+      <noscript>
+        &lt;div class="collection-grid-item__overlay" style="background-image: url('//civilalchemy.com/cdn/shop/collections/IMG_2394_1024x1024.jpg?v=1570574498')"&gt;&lt;/div&gt;
+      </noscript>
+    
+
+    <div class="collection-grid-item__title-wrapper">
+      <div class="collection-grid-item__title h3">
+        
+          Civil Alchemy Brand
+        
+      </div>
+    </div>
+  </a>
+</div>
+
+        </li>
+      
+        <li class="grid__item small--one-half medium-up--one-third">
+
+<div class="collection-grid-item">
+  <a href="/collections/florals" class="collection-grid-item__link">
+    
+      <div class="collection-grid-item__overlay box ratio-container lazyload js" data-bgset="//civilalchemy.com/cdn/shop/collections/Photo_Feb_10_12_31_37_PM_1_180x.jpg?v=1705352429 180w 252h,
+    //civilalchemy.com/cdn/shop/collections/Photo_Feb_10_12_31_37_PM_1_360x.jpg?v=1705352429 360w 504h,
+    //civilalchemy.com/cdn/shop/collections/Photo_Feb_10_12_31_37_PM_1_540x.jpg?v=1705352429 540w 756h,
+    //civilalchemy.com/cdn/shop/collections/Photo_Feb_10_12_31_37_PM_1_720x.jpg?v=1705352429 720w 1008h,
+    //civilalchemy.com/cdn/shop/collections/Photo_Feb_10_12_31_37_PM_1_900x.jpg?v=1705352429 900w 1260h,
+    //civilalchemy.com/cdn/shop/collections/Photo_Feb_10_12_31_37_PM_1_1080x.jpg?v=1705352429 1080w 1512h,
+    //civilalchemy.com/cdn/shop/collections/Photo_Feb_10_12_31_37_PM_1_1296x.jpg?v=1705352429 1296w 1814h,
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    //civilalchemy.com/cdn/shop/collections/Photo_Feb_10_12_31_37_PM_1.jpg?v=1705352429 1500w 2100h" data-sizes="auto" data-parent-fit="cover" style="background-image: url('//civilalchemy.com/cdn/shop/collections/Photo_Feb_10_12_31_37_PM_1_430x582.jpg?v=1705352429')">
+      </div>
+      <noscript>
+        &lt;div class="collection-grid-item__overlay" style="background-image: url('//civilalchemy.com/cdn/shop/collections/Photo_Feb_10_12_31_37_PM_1_1024x1024.jpg?v=1705352429')"&gt;&lt;/div&gt;
+      </noscript>
+    
+
+    <div class="collection-grid-item__title-wrapper">
+      <div class="collection-grid-item__title h3">
+        
+          Florals
+        
+      </div>
+    </div>
+  </a>
+</div>
+
+        </li>
+      
+        <li class="grid__item small--one-half medium-up--one-third">
+
+<div class="collection-grid-item">
+  <a href="/collections/apparel" class="collection-grid-item__link">
+    
+      <div class="collection-grid-item__overlay box ratio-container lazyload js" data-bgset="//civilalchemy.com/cdn/shop/collections/1005-536x354_ee7f8d9f-997b-4e0b-b28e-e2d5c8146b18_180x.jpg?v=1705335572 180w 270h,
+    //civilalchemy.com/cdn/shop/collections/1005-536x354_ee7f8d9f-997b-4e0b-b28e-e2d5c8146b18_360x.jpg?v=1705335572 360w 540h,
+    //civilalchemy.com/cdn/shop/collections/1005-536x354_ee7f8d9f-997b-4e0b-b28e-e2d5c8146b18_540x.jpg?v=1705335572 540w 810h,
+    //civilalchemy.com/cdn/shop/collections/1005-536x354_ee7f8d9f-997b-4e0b-b28e-e2d5c8146b18_720x.jpg?v=1705335572 720w 1080h,
+    //civilalchemy.com/cdn/shop/collections/1005-536x354_ee7f8d9f-997b-4e0b-b28e-e2d5c8146b18_900x.jpg?v=1705335572 900w 1350h,
+    //civilalchemy.com/cdn/shop/collections/1005-536x354_ee7f8d9f-997b-4e0b-b28e-e2d5c8146b18_1080x.jpg?v=1705335572 1080w 1620h,
+    //civilalchemy.com/cdn/shop/collections/1005-536x354_ee7f8d9f-997b-4e0b-b28e-e2d5c8146b18_1296x.jpg?v=1705335572 1296w 1944h,
+    //civilalchemy.com/cdn/shop/collections/1005-536x354_ee7f8d9f-997b-4e0b-b28e-e2d5c8146b18_1512x.jpg?v=1705335572 1512w 2268h,
+    //civilalchemy.com/cdn/shop/collections/1005-536x354_ee7f8d9f-997b-4e0b-b28e-e2d5c8146b18_1728x.jpg?v=1705335572 1728w 2592h,
+    //civilalchemy.com/cdn/shop/collections/1005-536x354_ee7f8d9f-997b-4e0b-b28e-e2d5c8146b18_1950x.jpg?v=1705335572 1950w 2925h,
+    //civilalchemy.com/cdn/shop/collections/1005-536x354_ee7f8d9f-997b-4e0b-b28e-e2d5c8146b18_2100x.jpg?v=1705335572 2100w 3150h,
+    //civilalchemy.com/cdn/shop/collections/1005-536x354_ee7f8d9f-997b-4e0b-b28e-e2d5c8146b18_2260x.jpg?v=1705335572 2260w 3390h,
+    //civilalchemy.com/cdn/shop/collections/1005-536x354_ee7f8d9f-997b-4e0b-b28e-e2d5c8146b18_2450x.jpg?v=1705335572 2450w 3675h,
+    //civilalchemy.com/cdn/shop/collections/1005-536x354_ee7f8d9f-997b-4e0b-b28e-e2d5c8146b18_2700x.jpg?v=1705335572 2700w 4050h,
+    //civilalchemy.com/cdn/shop/collections/1005-536x354_ee7f8d9f-997b-4e0b-b28e-e2d5c8146b18_3000x.jpg?v=1705335572 3000w 4500h,
+    //civilalchemy.com/cdn/shop/collections/1005-536x354_ee7f8d9f-997b-4e0b-b28e-e2d5c8146b18_3350x.jpg?v=1705335572 3350w 5025h,
+    //civilalchemy.com/cdn/shop/collections/1005-536x354_ee7f8d9f-997b-4e0b-b28e-e2d5c8146b18_3750x.jpg?v=1705335572 3750w 5625h,
+    
+    //civilalchemy.com/cdn/shop/collections/1005-536x354_ee7f8d9f-997b-4e0b-b28e-e2d5c8146b18.jpg?v=1705335572 4000w 6000h" data-sizes="auto" data-parent-fit="cover" style="background-image: url('//civilalchemy.com/cdn/shop/collections/1005-536x354_ee7f8d9f-997b-4e0b-b28e-e2d5c8146b18_430x582.jpg?v=1705335572')">
+      </div>
+      <noscript>
+        &lt;div class="collection-grid-item__overlay" style="background-image: url('//civilalchemy.com/cdn/shop/collections/1005-536x354_ee7f8d9f-997b-4e0b-b28e-e2d5c8146b18_1024x1024.jpg?v=1705335572')"&gt;&lt;/div&gt;
+      </noscript>
+    
+
+    <div class="collection-grid-item__title-wrapper">
+      <div class="collection-grid-item__title h3">
+        
+          Apparel
+        
+      </div>
+    </div>
+  </a>
+</div>
+
+        </li>
+      
+        <li class="grid__item small--one-half medium-up--one-third">
+
+<div class="collection-grid-item">
+  <a href="/collections/kitchen" class="collection-grid-item__link">
+    
+      <div class="collection-grid-item__overlay box ratio-container lazyload js" data-bgset="//civilalchemy.com/cdn/shop/collections/IMG_8125_180x.jpg?v=1705335236 180w 270h,
+    //civilalchemy.com/cdn/shop/collections/IMG_8125_360x.jpg?v=1705335236 360w 540h,
+    //civilalchemy.com/cdn/shop/collections/IMG_8125_540x.jpg?v=1705335236 540w 810h,
+    //civilalchemy.com/cdn/shop/collections/IMG_8125_720x.jpg?v=1705335236 720w 1080h,
+    //civilalchemy.com/cdn/shop/collections/IMG_8125_900x.jpg?v=1705335236 900w 1350h,
+    //civilalchemy.com/cdn/shop/collections/IMG_8125_1080x.jpg?v=1705335236 1080w 1620h,
+    //civilalchemy.com/cdn/shop/collections/IMG_8125_1296x.jpg?v=1705335236 1296w 1944h,
+    //civilalchemy.com/cdn/shop/collections/IMG_8125_1512x.jpg?v=1705335236 1512w 2268h,
+    //civilalchemy.com/cdn/shop/collections/IMG_8125_1728x.jpg?v=1705335236 1728w 2592h,
+    //civilalchemy.com/cdn/shop/collections/IMG_8125_1950x.jpg?v=1705335236 1950w 2925h,
+    //civilalchemy.com/cdn/shop/collections/IMG_8125_2100x.jpg?v=1705335236 2100w 3150h,
+    //civilalchemy.com/cdn/shop/collections/IMG_8125_2260x.jpg?v=1705335236 2260w 3390h,
+    //civilalchemy.com/cdn/shop/collections/IMG_8125_2450x.jpg?v=1705335236 2450w 3675h,
+    //civilalchemy.com/cdn/shop/collections/IMG_8125_2700x.jpg?v=1705335236 2700w 4050h,
+    //civilalchemy.com/cdn/shop/collections/IMG_8125_3000x.jpg?v=1705335236 3000w 4500h,
+    //civilalchemy.com/cdn/shop/collections/IMG_8125_3350x.jpg?v=1705335236 3350w 5025h,
+    //civilalchemy.com/cdn/shop/collections/IMG_8125_3750x.jpg?v=1705335236 3750w 5625h,
+    
+    //civilalchemy.com/cdn/shop/collections/IMG_8125.jpg?v=1705335236 3840w 5760h" data-sizes="auto" data-parent-fit="cover" style="background-image: url('//civilalchemy.com/cdn/shop/collections/IMG_8125_430x582.jpg?v=1705335236')">
+      </div>
+      <noscript>
+        &lt;div class="collection-grid-item__overlay" style="background-image: url('//civilalchemy.com/cdn/shop/collections/IMG_8125_1024x1024.jpg?v=1705335236')"&gt;&lt;/div&gt;
+      </noscript>
+    
+
+    <div class="collection-grid-item__title-wrapper">
+      <div class="collection-grid-item__title h3">
+        
+          Home
+        
+      </div>
+    </div>
+  </a>
+</div>
+
+        </li>
+      
+        <li class="grid__item small--one-half medium-up--one-third">
+
+<div class="collection-grid-item">
+  <a href="/collections/jewelry" class="collection-grid-item__link">
+    
+      <div class="collection-grid-item__overlay box ratio-container lazyload js" data-bgset="//civilalchemy.com/cdn/shop/collections/Jewelry_1_180x.jpg?v=1705335116 180w 270h,
+    //civilalchemy.com/cdn/shop/collections/Jewelry_1_360x.jpg?v=1705335116 360w 540h,
+    //civilalchemy.com/cdn/shop/collections/Jewelry_1_540x.jpg?v=1705335116 540w 810h,
+    //civilalchemy.com/cdn/shop/collections/Jewelry_1_720x.jpg?v=1705335116 720w 1080h,
+    //civilalchemy.com/cdn/shop/collections/Jewelry_1_900x.jpg?v=1705335116 900w 1350h,
+    //civilalchemy.com/cdn/shop/collections/Jewelry_1_1080x.jpg?v=1705335116 1080w 1620h,
+    //civilalchemy.com/cdn/shop/collections/Jewelry_1_1296x.jpg?v=1705335116 1296w 1944h,
+    //civilalchemy.com/cdn/shop/collections/Jewelry_1_1512x.jpg?v=1705335116 1512w 2268h,
+    //civilalchemy.com/cdn/shop/collections/Jewelry_1_1728x.jpg?v=1705335116 1728w 2592h,
+    //civilalchemy.com/cdn/shop/collections/Jewelry_1_1950x.jpg?v=1705335116 1950w 2925h,
+    //civilalchemy.com/cdn/shop/collections/Jewelry_1_2100x.jpg?v=1705335116 2100w 3150h,
+    //civilalchemy.com/cdn/shop/collections/Jewelry_1_2260x.jpg?v=1705335116 2260w 3390h,
+    //civilalchemy.com/cdn/shop/collections/Jewelry_1_2450x.jpg?v=1705335116 2450w 3675h,
+    //civilalchemy.com/cdn/shop/collections/Jewelry_1_2700x.jpg?v=1705335116 2700w 4050h,
+    //civilalchemy.com/cdn/shop/collections/Jewelry_1_3000x.jpg?v=1705335116 3000w 4500h,
+    //civilalchemy.com/cdn/shop/collections/Jewelry_1_3350x.jpg?v=1705335116 3350w 5025h,
+    //civilalchemy.com/cdn/shop/collections/Jewelry_1_3750x.jpg?v=1705335116 3750w 5625h,
+    
+    //civilalchemy.com/cdn/shop/collections/Jewelry_1.jpg?v=1705335116 3840w 5760h" data-sizes="auto" data-parent-fit="cover" style="background-image: url('//civilalchemy.com/cdn/shop/collections/Jewelry_1_430x582.jpg?v=1705335116')">
+      </div>
+      <noscript>
+        &lt;div class="collection-grid-item__overlay" style="background-image: url('//civilalchemy.com/cdn/shop/collections/Jewelry_1_1024x1024.jpg?v=1705335116')"&gt;&lt;/div&gt;
+      </noscript>
+    
+
+    <div class="collection-grid-item__title-wrapper">
+      <div class="collection-grid-item__title h3">
+        
+          Jewelry + Fragrance
+        
+      </div>
+    </div>
+  </a>
+</div>
+
+        </li>
+      
+        <li class="grid__item small--one-half medium-up--one-third">
+
+<div class="collection-grid-item">
+  <a href="/collections/garden-hobby" class="collection-grid-item__link">
+    
+      <div class="collection-grid-item__overlay box ratio-container lazyload js" data-bgset="//civilalchemy.com/cdn/shop/collections/1PiwPGs_180x.jpg?v=1705334884 180w 270h,
+    //civilalchemy.com/cdn/shop/collections/1PiwPGs_360x.jpg?v=1705334884 360w 540h,
+    //civilalchemy.com/cdn/shop/collections/1PiwPGs_540x.jpg?v=1705334884 540w 810h,
+    //civilalchemy.com/cdn/shop/collections/1PiwPGs_720x.jpg?v=1705334884 720w 1080h,
+    //civilalchemy.com/cdn/shop/collections/1PiwPGs_900x.jpg?v=1705334884 900w 1350h,
+    //civilalchemy.com/cdn/shop/collections/1PiwPGs_1080x.jpg?v=1705334884 1080w 1620h,
+    //civilalchemy.com/cdn/shop/collections/1PiwPGs_1296x.jpg?v=1705334884 1296w 1944h,
+    //civilalchemy.com/cdn/shop/collections/1PiwPGs_1512x.jpg?v=1705334884 1512w 2268h,
+    //civilalchemy.com/cdn/shop/collections/1PiwPGs_1728x.jpg?v=1705334884 1728w 2592h,
+    //civilalchemy.com/cdn/shop/collections/1PiwPGs_1950x.jpg?v=1705334884 1950w 2925h,
+    //civilalchemy.com/cdn/shop/collections/1PiwPGs_2100x.jpg?v=1705334884 2100w 3150h,
+    //civilalchemy.com/cdn/shop/collections/1PiwPGs_2260x.jpg?v=1705334884 2260w 3390h,
+    //civilalchemy.com/cdn/shop/collections/1PiwPGs_2450x.jpg?v=1705334884 2450w 3675h,
+    //civilalchemy.com/cdn/shop/collections/1PiwPGs_2700x.jpg?v=1705334884 2700w 4050h,
+    //civilalchemy.com/cdn/shop/collections/1PiwPGs_3000x.jpg?v=1705334884 3000w 4500h,
+    //civilalchemy.com/cdn/shop/collections/1PiwPGs_3350x.jpg?v=1705334884 3350w 5025h,
+    //civilalchemy.com/cdn/shop/collections/1PiwPGs_3750x.jpg?v=1705334884 3750w 5625h,
+    
+    //civilalchemy.com/cdn/shop/collections/1PiwPGs.jpg?v=1705334884 3840w 5760h" data-sizes="auto" data-parent-fit="cover" style="background-image: url('//civilalchemy.com/cdn/shop/collections/1PiwPGs_430x582.jpg?v=1705334884')">
+      </div>
+      <noscript>
+        &lt;div class="collection-grid-item__overlay" style="background-image: url('//civilalchemy.com/cdn/shop/collections/1PiwPGs_1024x1024.jpg?v=1705334884')"&gt;&lt;/div&gt;
+      </noscript>
+    
+
+    <div class="collection-grid-item__title-wrapper">
+      <div class="collection-grid-item__title h3">
+        
+          Garden + Hobby
+        
+      </div>
+    </div>
+  </a>
+</div>
+
+        </li>
+      
+    </ul>
+  </div>
+
+  
+</div>
+
+
+
+
+</div><div id="shopify-section-1592859059098" class="shopify-section">
+<div class="pre-footer">
+  <div class="pre-footer__content page-width">
+    <div class="pre-footer__image">
+	    <img src="//civilalchemy.com/cdn/shop/files/unnamed_5_765x523_crop_center.jpg?v=1614335995" alt="">
+    </div>
+    <div class="pre-footer__text">
+	    <h2>GIFT CARDS</h2>
+    	<p>Shopping for someone else but not sure what to give them? Give them the gift of choice with a Civil Alchemy gift card.</p>
+	    <a href="https://civilalchemy.com/products/gift-card">Click Here for Gift Cards</a>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+</div><!-- END content_for_index -->
+
+    </main>
+	
+    <div id="shopify-section-footer" class="shopify-section">
+<style>
+  .site-footer__hr {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.0);
+  }
+
+  .site-footer p,
+  .site-footer h4,
+  .site-footer small {
+    color: #3d4246;
+  }
+
+  .site-footer {
+    background-color: rgba(0,0,0,0);
+  }
+
+  .site-footer a:hover {
+    color: #61696f;
+  }
+</style>
+
+<footer class="site-footer" role="contentinfo">
+  <div class="page-width">
+    <div class="site-footer__content"><div class="site-footer__item
+                    
+                    site-footer__item--one-quarter
+                    ">
+          <div class="site-footer__item-inner site-footer__item-inner--newsletter"><p class="h3">Keep in Touch.</p><p>Sign up for our newsletter</p>
+                <div class="site-footer__newsletter
+                          "><form method="post" action="/contact#ContactFooter" id="ContactFooter" accept-charset="UTF-8" class="contact-form" novalidate="novalidate"><input type="hidden" name="form_type" value="customer"><input type="hidden" name="utf8" value="✓">
+<input type="hidden" name="contact[tags]" value="newsletter">
+                    <div class="input-group ">
+                      <input type="email" name="contact[email]" id="ContactFooter-email" class="input-group__field newsletter__input" value="" placeholder="Email address" aria-label="Email address" aria-required="true" required="" autocorrect="off" autocapitalize="off">
+                      <span class="input-group__btn">
+                        <button type="submit" class="btn newsletter__submit" name="commit" id="Subscribe">
+                          <span class="newsletter__submit-text--large text">Subscribe</span>
+                          <span class="icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64.31 12.82">
+  <polygon points="56.62 0 55.34 1.54 59.99 5.41 0 5.41 0 7.41 59.99 7.41 55.34 11.28 56.62 12.82 64.31 6.41 56.62 0"></polygon>
+</svg>
+</span>
+                        </button>
+                      </span>
+                    </div>
+                    
+                  </form>
+                </div></div>
+        </div><div class="site-footer__item
+                    
+                    site-footer__item--one-quarter
+                    ">
+          <div class="site-footer__item-inner site-footer__item-inner--link_list"><p class="h3"></p><ul class="site-footer__linklist
+                            "><li class="site-footer__linklist-item">
+                        <a href="/pages/policies">
+                          Policies
+                        </a>
+                      </li><li class="site-footer__linklist-item">
+                        <a href="/pages/careers">
+                          Careers
+                        </a>
+                      </li><li class="site-footer__linklist-item">
+                        <a href="/pages/terms-of-use">
+                          Terms of Use
+                        </a>
+                      </li><li class="site-footer__linklist-item">
+                        <a href="/pages/wholesale">
+                          Wholesale
+                        </a>
+                      </li></ul></div>
+        </div><div class="site-footer__item
+                    
+                    site-footer__item--one-quarter
+                    ">
+          <div class="site-footer__item-inner site-footer__item-inner--text"><p class="h3"></p><div class="site-footer__rte
+                              ">
+                      <p><a href="https://www.instagram.com/civilalchemy/" title="https://www.instagram.com/civilalchemy/" target="_blank">Instagram</a><br><a href="https://www.facebook.com/civilalchemy/" title="https://www.facebook.com/civilalchemy/" target="_blank">Facebook</a><br><a href="mailto:info@civilalchemy.com" title="mailto:info@civilalchemy.com">Email</a></p>
+                  </div></div>
+        </div><div class="site-footer__item
+                    
+                    site-footer__item--one-quarter
+                    ">
+          <div class="site-footer__item-inner site-footer__item-inner--text"><p class="h3"></p><div class="site-footer__rte
+                              ">
+                      <p>Tel: <a href="tel:314-801-7577" title="tel:314-801-7577">314-801-7577</a><br>8154 Big Bend Boulevard<br>Webster Groves, MO 63119</p>
+                  </div></div>
+        </div></div>
+  </div>
+
+  <hr class="site-footer__hr">
+
+  <div class="page-width">
+    <div class="grid grid--no-gutters small--text-center">
+      <div class="grid__item one-half small--one-whole">
+        <!--<ul class="list--inline site-footer__social-icons social-icons site-footer__icon-list"><li>
+                <a class="social-icons__link" href="https://www.facebook.com/civilalchemy/" aria-describedby="a11y-external-message"><svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-facebook" viewBox="0 0 20 20"><path fill="#444" d="M18.05.811q.439 0 .744.305t.305.744v16.637q0 .439-.305.744t-.744.305h-4.732v-7.221h2.415l.342-2.854h-2.757v-1.83q0-.659.293-1t1.073-.342h1.488V3.762q-.976-.098-2.171-.098-1.634 0-2.635.964t-1 2.72V9.47H7.951v2.854h2.415v7.221H1.413q-.439 0-.744-.305t-.305-.744V1.859q0-.439.305-.744T1.413.81H18.05z"/></svg><span class="icon__fallback-text">Facebook</span>
+                </a>
+              </li><li>
+                <a class="social-icons__link" href="https://www.instagram.com/civilalchemy/" aria-describedby="a11y-external-message"><svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-instagram" viewBox="0 0 512 512"><path d="M256 49.5c67.3 0 75.2.3 101.8 1.5 24.6 1.1 37.9 5.2 46.8 8.7 11.8 4.6 20.2 10 29 18.8s14.3 17.2 18.8 29c3.4 8.9 7.6 22.2 8.7 46.8 1.2 26.6 1.5 34.5 1.5 101.8s-.3 75.2-1.5 101.8c-1.1 24.6-5.2 37.9-8.7 46.8-4.6 11.8-10 20.2-18.8 29s-17.2 14.3-29 18.8c-8.9 3.4-22.2 7.6-46.8 8.7-26.6 1.2-34.5 1.5-101.8 1.5s-75.2-.3-101.8-1.5c-24.6-1.1-37.9-5.2-46.8-8.7-11.8-4.6-20.2-10-29-18.8s-14.3-17.2-18.8-29c-3.4-8.9-7.6-22.2-8.7-46.8-1.2-26.6-1.5-34.5-1.5-101.8s.3-75.2 1.5-101.8c1.1-24.6 5.2-37.9 8.7-46.8 4.6-11.8 10-20.2 18.8-29s17.2-14.3 29-18.8c8.9-3.4 22.2-7.6 46.8-8.7 26.6-1.3 34.5-1.5 101.8-1.5m0-45.4c-68.4 0-77 .3-103.9 1.5C125.3 6.8 107 11.1 91 17.3c-16.6 6.4-30.6 15.1-44.6 29.1-14 14-22.6 28.1-29.1 44.6-6.2 16-10.5 34.3-11.7 61.2C4.4 179 4.1 187.6 4.1 256s.3 77 1.5 103.9c1.2 26.8 5.5 45.1 11.7 61.2 6.4 16.6 15.1 30.6 29.1 44.6 14 14 28.1 22.6 44.6 29.1 16 6.2 34.3 10.5 61.2 11.7 26.9 1.2 35.4 1.5 103.9 1.5s77-.3 103.9-1.5c26.8-1.2 45.1-5.5 61.2-11.7 16.6-6.4 30.6-15.1 44.6-29.1 14-14 22.6-28.1 29.1-44.6 6.2-16 10.5-34.3 11.7-61.2 1.2-26.9 1.5-35.4 1.5-103.9s-.3-77-1.5-103.9c-1.2-26.8-5.5-45.1-11.7-61.2-6.4-16.6-15.1-30.6-29.1-44.6-14-14-28.1-22.6-44.6-29.1-16-6.2-34.3-10.5-61.2-11.7-27-1.1-35.6-1.4-104-1.4z"/><path d="M256 126.6c-71.4 0-129.4 57.9-129.4 129.4s58 129.4 129.4 129.4 129.4-58 129.4-129.4-58-129.4-129.4-129.4zm0 213.4c-46.4 0-84-37.6-84-84s37.6-84 84-84 84 37.6 84 84-37.6 84-84 84z"/><circle cx="390.5" cy="121.5" r="30.2"/></svg><span class="icon__fallback-text">Instagram</span>
+                </a>
+              </li></ul>-->
+      </div>
+
+      <div class="grid__item one-half small--one-whole">
+        
+      </div>
+      <div class="grid__item">
+        <small class="site-footer__copyright-content">© 2024, <a href="/" title="">Civil Alchemy St Louis</a></small>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+
+
+</div>
+
+    <div id="slideshow-info" class="visually-hidden" aria-hidden="true">Use left/right arrows to navigate the slideshow or swipe left/right if using a mobile device</div>
+
+  </div>
+
+  <ul hidden="">
+    <li id="a11y-refresh-page-message">choosing a selection results in a full page refresh</li>
+    <li id="a11y-selection-message">press the space key then arrow keys to make a selection</li>
+  </ul>
+<script type="text/javascript">if(typeof window.pn === "undefined"){window.pn = {};}if(typeof window.pn.shop === "undefined"){window.pn.shop = {};}window.pn.shop={"id":15114,"shopify_domain":"civil-alchemy-st-louis.myshopify.com","form_selector":"form[action^='/cart/add']","button_selector":"form[action^='/cart/add']:first [type=submit]:visible:first","app_enabled":true,"charge_active":true,"account_status":"installed","custom_css":"","cart_label_text":"Out of Stock Item","button_style_id":null,"description_style_id":null,"cart_label_style_id":null,"badge_style_id":null,"apply_default_to_all":false,"timezone":"America/Chicago","product_image_container_selector":"div.product-single__photos:first,#slider-product-template, .photos__item--main:first, #productPhotoContainer-product-template","order_tag":"Pre-order","variant_selector":"form[action^='/cart/add']:first select:visible, .radio-wrapper fieldset, form[action^='/cart/add']:first input[type='radio']","collection_photo_container_selector":"","collection_grid_id_selector_prefix":null,"enable_collection_page_badge":false,"primary_domain":"civilalchemy.com","stock_insufficient_message":"Not enough stock. Only {{qty}} remaining.","limit_order_quantity":false,"enable_collection_page_button":true,"add_to_cart_text":"Add to Cart","show_collection_badge_only_if_all_variants_out_of_stock":false,"out_of_stock_text":"Sold Out","notify_when_partial_preorder":false,"notify_when_partial_preorder_message":"Only {{qty}} unit(s) in stock. {{qty}} unit(s) will be filled now and the rest will be on pre-order.","partial_preorder_notice_placement_selector":"","fss_selector_prefix":"","fss_parent_selector":"form","quickview_support_enabled":false,"product_link_selector":"a[href*='/products/']:visible","product_link_selector_has":"img","product_container_handle_element_selector":"a[href*='products/{{handle}}']","product_container_handle_element_selector_has":"img","product_container_handle_element_selector_closest":"div, li, article, figure","money_format":"${{amount}}","left_a_review":false,"display_you_got_a_preorder_popup":true,"display_you_got_a_preorder_reminder":false,"using_settings_method":true,"mixed_cart_warning_title":"Attention: you have pre-order and in-stock items in the same cart","mixed_cart_warning_text":"Fulfillment of your order will be processed when all of your items are available.  You will receive an order fulfillment email when the entire order is ready for pick up.","mixed_cart_warning_enabled":true,"preorder_emails_enabled":false,"email_credit_remaining":0,"sender_email":"","sender_email_verified":false,"pn_note_label":"Pre-Ordered","preorder_email_cc_enabled":false,"update_pending":false,"ensure_preorder":false,"js_version":2,"never_load_jquery":false,"hide_buy_now_button":true,"plan_id":4,"clickless_quickview_support_enabled":true,"reinit_collection_badges":false,"preorders":8,"total_preorder_product_value":27775,"total_order_value":47634,"always_sync_inventory":false,"product_page_price_selector":null,"cart_subtotal_selector":null,"checkout_button_selector":null,"quantity_button_selector":null,"quantity_field_selector":null,"mutation_ids":null,"mutation_classes":null,"line_item_original_price_selector":null,"line_item_total_price_selector":null,"ajax_line_item_original_price_selector":null,"ajax_line_item_total_price_selector":null,"ajax_cart_item_key":null,"cart_item_key":null,"theme_id":2,"enabled_line_item_discount":true,"enabled_ajax_cart":true,"product_page_sale_price_selector":null,"bcc_emails":null,"plan_name":null,"plan_display_name":null,"shopify_charge_id":null,"use_new_pricing":false,"show_express_checkout_buttons":false,"show_nofify_me_button":false,"product_qty_in_location_for_notify_alert":null,"notify_popup_heading":"Notify me when available","notify_popup_desc":"We will send you a notification as soon as this product is available again.","notify_btn_text":"NOTIFY ME","notify_popup_footer_text":"We don't share your email with anybody","notify_popup_success_msg":"Your are successfully subscribed for email notifications.","notify_popup_already_subscribed_msg":"You are already subscribed for notifications for this product.","notify_popup_notify_btn_color":"#c90000","notify_email_content":"\u003cp\u003eHi,\u003c/p\u003e\n\u003cp\u003eYour Subscribed product is back in stock.\u003c/p\u003e\n\u003cp\u003eYou can follow this {{product_link}} and make a purchase of your favourite product.\u003c/p\u003e","is_recurring_notify_alert":false,"is_notify_widget_installed":false,"main_notify_btn":"Notify Me","notify_alert_along_pn_btn":false,"notify_bg_color":null,"notify_border_color":null,"notify_email_count":0,"notify_alert_button_selector":null,"trial_ends_on":"2020-06-04T00:00:00.000Z","trial_days":"7","trial_created_at":"2020-05-28T15:07:29.000Z","total_recovery_amount":"0.0","has_any_due_recovery_amount":false,"new_recovery_charge_created":false,"collected_recovery_amount":"0.0","remaining_recovery_amount":"0.0","merchant_willing_to_pay_recovery_amount":true,"recovery_amount_notice_start_date":null,"current_charge_amount":"0.0","total_recovery_months":0,"preorder_email_package_id":null,"shopify_purchase_option_enabled":false,"access_scopes":null};window.pn.styles=[{"id":56559,"created_at":"2020-05-27T21:53:14.508Z","updated_at":"2020-05-27T21:57:58.998Z","text_color":"","font_size":"","font_family":"","padding":"","margin":"","background_color":"","border_color":"","border_radius":"","border_width":"","shape":null,"custom_css":null,"shop_id":15114,"badge_shadow":true,"badge_gradient":true},{"id":56560,"created_at":"2020-05-27T21:53:14.513Z","updated_at":"2020-05-27T21:57:59.000Z","text_color":"","font_size":"","font_family":"","padding":"","margin":"","background_color":"","border_color":"","border_radius":"","border_width":"","shape":null,"custom_css":null,"shop_id":15114,"badge_shadow":true,"badge_gradient":true},{"id":56561,"created_at":"2020-05-27T21:53:14.517Z","updated_at":"2020-05-27T21:57:59.002Z","text_color":"","font_size":"","font_family":"","padding":null,"margin":null,"background_color":"","border_color":null,"border_radius":null,"border_width":null,"shape":null,"custom_css":null,"shop_id":15114,"badge_shadow":true,"badge_gradient":true},{"id":56562,"created_at":"2020-05-27T21:53:14.521Z","updated_at":"2020-05-27T21:57:59.005Z","text_color":"","font_size":"","font_family":"","padding":"","margin":"","background_color":"","border_color":"","border_radius":"","border_width":"","shape":null,"custom_css":null,"shop_id":15114,"badge_shadow":true,"badge_gradient":true}];</script><script type="text/javascript">window.pn.datastore={"theme_setting":{"id":2,"theme_name":"Default","product_page_price_selector":".price__pricing-group .price__regular .price-item.price-item--regular, .price-item--sale","cart_subtotal_selector":".cart__subtotal:visible, h2.subtotal:visible, p.subtotal_amount:visible, span.total:visible, .mini-cart__total-price:visible, .cart__total:visible, #cartform div.align-right h2:visible, .ajaxcart__subtotal:visible, .cart-total:visible, #basket-right h4:visible, .subtotal .price:visible, .cart-footer__subtotal:visible, .cart-subtotal--price:visible, .cart-drawer__subtotal-price:visible,.totals__subtotal-value,.cart-subtotal__price,.js-contents .totals","checkout_button_selector":"input[type='submit'].action_button.right:visible,input[name='checkout']:visible,button[name='checkout']:visible,[href$='checkout']:visible,input[name='goto_pp']:visible,button[name='goto_pp']:visible,input[name='goto_gc']:visible,button[name='goto_gc']:visible,.additional-checkout-button:visible,.google-wallet-button-holder:visible,.amazon-payments-pay-button:visible","quantity_button_selector":"form[action=\"/cart\"] .js--qty-adjuster, form[action=\"/cart\"] .js-qty__adjust","quantity_field_selector":"","mutation_ids":"","mutation_classes":"","line_item_original_price_selector":"{{ item.price | money }},{{ item.original_price | money }}","line_item_total_price_selector":"{{ item.line_price | money }},{{ item.original_line_price | money }}","ajax_line_item_original_price_selector":"","ajax_line_item_total_price_selector":"","ajax_cart_item_key":null,"cart_item_key":"","created_at":"2020-07-13T10:32:45.617Z","updated_at":"2021-11-23T18:31:27.175Z","product_page_sale_price_selector":"span.price-item.price-item--sale, .price__sale.price-item.price-item--regular"}};</script><script src="https://preorder-now.herokuapp.com/widget/javascript?shop=civil-alchemy-st-louis.myshopify.com"></script><style>
+div[class*='preorder-container-'].product__image-container{overflow:visible;}
+#Collection .grid--view-items{overflow:visible;}
+div[class*='preorder-container-'],li[class*='preorder-container-'],td[class*='preorder-container-']{position:relative;}
+
+.preorder-badge.rectangle {
+  position: absolute;
+  top:20px;
+  right:20px;
+  padding:10px;
+  width:20%;
+  text-align: center;
+  font-weight: bold;  
+  color: #FFF;
+  overflow:hidden;
+}
+
+.preorder-badge.circle {
+  display: table; 
+  position: absolute;
+  top:20px;
+  right:20px;
+  padding:10px;
+  width:100px;
+  height:100px;
+  border-radius:50%;
+  text-align: center;
+  font-weight: bold;  
+  color: #FFF;  
+  overflow:hidden;
+}
+
+.preorder-badge.circle span{
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.preorder-badge.ribbon {
+  position: absolute;
+  right: -5px; top: -5px;
+  z-index: 1;
+  overflow: hidden;
+  width: 75px; height: 75px;
+  text-align: right;
+}
+.preorder-badge.ribbon span {
+  font-size: 10px;
+  font-weight: bold;
+  color: #FFF;
+  text-transform: uppercase;
+  text-align: center;
+  line-height: 20px;
+  transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+  width: 100px;
+  display: block;
+  position: absolute;
+  top: 19px; right: -21px;
+}
+.preorder-badge.ribbon span::before {
+  content: "";
+  position: absolute; left: 0px; top: 100%;
+  z-index: -1;
+  border-left: 3px solid #888888;
+  border-right: 3px solid transparent;
+  border-bottom: 3px solid transparent;
+  border-top: 3px solid #888888;
+}
+.preorder-badge.ribbon span::after {
+  content: "";
+  position: absolute; right: 0px; top: 100%;
+  z-index: -1;
+  border-left: 3px solid transparent;
+  border-right: 3px solid #888888;
+  border-bottom: 3px solid transparent;
+  border-top: 3px solid #888888;
+}
+.cart__row .preorder-badge{
+  display:none;
+}
+@media only screen and (max-width: 600px) {
+	.preorder-badge.circle{
+		top: 10px;
+		right: 10px;
+		padding: 5px;
+		width: 60px;
+		height: 60px;
+		border-radius: 50%;
+		text-align: center;
+		font-weight: bold;
+		overflow: hidden;
+		line-height: 16px;
+		font-size: 12px;
+	}
+}
+
+/* PN MIXED CART WARNING MODAL CSS */
+.jquery-modal.blocker.current{
+  z-index:999999999;
+}
+.pn-mixed-cart-warning-title{
+  margin-top: 30px;
+  margin-bottom: 10px;
+  text-align:center;
+}
+.pn-modal {
+  opacity:1;
+  display:none;
+  overflow:visible;
+  padding:0px;
+}
+.pn-manual-modal-container{
+  display: block; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 9999; /* Sit on top */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */ 
+}
+.pn-manual-modal-content{
+  background-color: #fefefe;
+  margin: 15% auto; /* 15% from the top and centered */
+  padding: 20px;
+  border: 1px solid #888;
+  width: 80%; /* Could be more or less, depending on screen size */  
+  max-width:600px;
+}
+.pn-mixed-cart-warning-content{
+  text-align:center;
+}
+#pn-modal-close-btn{
+  float:right;
+  font-size:22px;
+  cursor:pointer;
+}
+.loading-image {
+  width: 85px;
+}
+.loader{
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 2;
+  overflow: auto;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(255, 255, 255, 0.79);
+  display: none;
+  align-items: center;
+  justify-content: center;
+}
+.ui-widget-overlay{
+  opacity: 0.6 !important;
+  background: #fff !important;
+}
+.ui-dialog{
+  position: fixed !important;
+  height: auto;
+  width: 300px;
+  top: 0 !important;
+  left: 363.5px;
+  display: block;
+  z-index: 10000000000;
+}
+
+progress {
+  text-align: center;
+  height: 1.6em;
+  width: 100%;
+  -webkit-appearance: none;
+  border: none;
+  
+  /* Set the progressbar to relative */
+  position:relative;
+  border-radius: 4px;
+  color: white;
+  overflow: hidden;
+}
+progress:before {
+  content: attr(data-label);
+  font-size: 0.8em;
+  vertical-align: 0;
+  
+  /*Position text over the progress bar */
+  position:absolute;
+  left:0;
+  right:0;
+}
+progress::-webkit-progress-bar {
+  background-color: #f5f5f5;
+}
+.nav-progress::-webkit-progress-bar{
+  background-color: #ffffff !important;
+}
+progress::-webkit-progress-value {
+  background-image: -webkit-linear-gradient(45deg,rgba(255,255,255,.15) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.15) 50%,rgba(255,255,255,.15) 75%,transparent 75%,transparent);
+  background-image: -o-linear-gradient(45deg,rgba(255,255,255,.15) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.15) 50%,rgba(255,255,255,.15) 75%,transparent 75%,transparent);
+  background-image: linear-gradient(45deg,rgba(255,255,255,.15) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.15) 50%,rgba(255,255,255,.15) 75%,transparent 75%,transparent);
+  -webkit-background-size: 40px 40px;
+  background-size: 40px 40px;
+  background-color: #5cb75c;
+}
+progress::-moz-progress-bar {
+  background-color: #f5f5f5;
+}
+.progress_percent{
+  left: 9px;
+  display: flex;
+  position: absolute;
+  z-index: 100;
+  margin-left: 64%;
+}
+.pg-mg{
+  margin-left: 50%;
+}
+.setting-note{
+  padding-left: 20px;
+}
+
+.watch-later-btn{
+  background-color: #fff;
+  border-color: #ccc;
+  box-shadow: none;
+  color: #333;
+  display: flex;
+  align-items: center;
+}
+
+.watch-later-btn span{
+  margin-right: 6px;
+  position: relative;
+  top: 2px;
+}
+.watch-later-btn img{
+  height: 20px;
+  width:20px;
+}
+
+.line-through {
+   text-decoration: line-through;
+}
+
+
+/*notify email popup css*/
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100;200;300;400;500;600;700&display=swap');
+#notify-stock-back-modal .bg-black,
+.ordersfy-modal {
+  font-family: 'Josefin Sans', sans-serif;
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 555;
+}
+#notify-stock-back-modal .bg-black {
+  background-color: rgba(0, 0, 0, 0.3);
+}
+#notify-stock-back-modal .inner-container {
+  position: relative;
+  z-index: 556;
+  width: 100%;
+  max-width: 420px;
+  padding: 15px;
+}
+#notify-stock-back-modal .white-box-in {
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 6px;
+  position: relative;
+}
+#notify-stock-back-modal .white-box-in h1 {
+  font-weight: 500;
+  font-size: 24px;
+  margin: 5px 0;
+}
+#notify-stock-back-modal .white-box-in p {
+  margin-top: 0;
+  line-height: 24px;
+  font-size: 16px;
+  margin-bottom: 15px;
+}
+#notify-stock-back-modal .email-form {
+  border-top: 1px solid #e4e4e4;
+  padding-top: 15px;
+}
+#notify-stock-back-modal .email-form input {
+  width: 100%;
+  border: 1px solid #e4e4e4;
+  padding: 10px 15px;
+  font-weight: 500;
+  font-size: 16px;
+  border-radius: 3px;
+  outline: none;
+  -moz-transition: .3s linear;
+  -webkit-transition: .3s ease-out;
+  transition: .3s linear;
+  margin-bottom: 10px;
+}
+#notify-stock-back-modal .email-form input:focus {
+  border-color: #212b36;
+}
+#notify-stock-back-modal .error-field input {
+  border-color: #dc3545 !important;
+}
+#notify-stock-back-modal .error-field .error {
+  color: #dc3545;
+  font-size: 14px;
+}
+
+#notify-stock-back-modal .email-form .notify-btn {
+  width: 100%;
+  background-color: #212b36;
+  color: #fff;
+  padding: 10px 15px;
+  text-align: center;
+  margin-top: 15px;
+  display: block;
+  border: 0;
+  border-radius: 6px;
+  text-transform: uppercase;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 1px;
+  margin-bottom: 15px;
+  cursor: pointer;
+}
+#notify-stock-back-modal .powerby {
+  color: #fff;
+  text-decoration: none;
+  margin-top: 15px;
+  display: inline-flex;
+  align-items: center;
+}
+#notify-stock-back-modal .text-center {
+  text-align: center;
+}
+#notify-stock-back-modal .cross-me {
+  display: inline-flex;
+  padding: 15px;
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: 22;
+  cursor: pointer;
+}
+
+/*partial payment css*/
+.c-widget {
+  max-width: 400px;
+  /*margin: 0 auto;*/
+}
+.c-widget .sd_payment_type {
+  float: left;
+  width: 100%;
+  margin: 10px 0 5px;
+}
+.c-widget .sd_payment_type label {
+  float: left;
+  width: 100%;
+  font-size: 14px;
+}
+.c-widget .product-form__item label {
+  display: block;
+}
+.c-widget .sd_payment_type.sd-custom-price-type span {
+  width: 100%;
+  padding: 0;
+  float: left;
+  margin: 10px 0 0;
+  padding-right: 15px;
+}
+.c-widget .sd_payment_type [type="radio"]:checked+label, 
+.c-widget .sd_payment_type [type="radio"]:not(:checked)+label {
+  position: relative;
+  padding-left: 40px;
+  cursor: pointer;
+  line-height: 20px;
+  display: inline-block;
+  color: #666;
+}
+.c-widget .sd_payment_type span label {
+  border: 1px solid #e0e0e0;
+  padding: 10px;
+  font-size: 14px;
+  color: #707070;
+  font-weight: 500;
+  margin-bottom: 5px;
+  border-radius: 4px;
+}
+.c-widget .sd_payment_type label {
+  float: left;
+  width: 100%;
+  font-size: 14px;
+}
+.c-widget .sd_payment_type [type="radio"]:checked+label:before, 
+.c-widget .sd_payment_type [type="radio"]:not(:checked)+label:before {
+  content: '';
+  position: absolute;
+  left: 10px;
+  top: 11px;
+  width: 18px;
+  height: 18px;
+  border: 1px solid #ddd;
+  border-radius: 18px;
+  background: #fff;
+}
+.c-widget .sd_payment_type [type="radio"]:not(:checked)+label:after {
+  opacity: 0;
+  -webkit-transform: scale(0);
+  transform: scale(0);
+}
+.c-widget .sd_payment_type [type="radio"]:checked+label:after, 
+.c-widget .sd_payment_type [type="radio"]:not(:checked)+label:after {
+  content: '';
+  position: absolute;
+  -webkit-transition: all 0.2s ease;
+  transition: all 0.2s ease;
+  left: 17px;
+  top: 15px;
+  width: 5px;
+  height: 8px;
+  border: solid #ffffff;
+  border-width: 0 2px 2px 0;
+  transform: rotate(45deg);
+}
+.c-widget .sd_payment_type [type="radio"]:checked, 
+.c-widget .sd_payment_type [type="radio"]:not(:checked) {
+  position: absolute;
+  left: -9999px;
+}
+.c-widget .sd_payment_type [type="radio"]:checked+label:before {
+  background-color: #007bff;
+  border-color: #007bff;
+}
+.c-widget .sd-span-custompart-price {
+  border: 1px solid #ddd;
+  max-width: 150px;
+  display: flex;
+  align-items: center;
+  border-radius: 4px;
+  min-height: 42px;
+}
+.c-widget .sd-span-custompart-price span.sd-cust-currency {
+  padding: 5px 15px;
+  border-right: 1px solid #ccc;
+  display: inline-block;
+  font-size: 15px;
+  font-weight: 600;
+}
+.c-widget input.price-input-preorder {
+  -moz-appearance: textfield;
+  padding: 7px 15px;
+  border: 0px;
+  outline: none;
+  min-height: unset;
+  font-size: 15px;
+  width: 100%;
+  display: inline-block;
+}
+
+.partial-initial-payment {
+  color: #68b562;
+  font-size: 15px;
+}
+.pn-partial-payment {
+  display: block;
+  width: 100%;
+}
+.pn-partial-payment ul {
+  display: inline-block;
+  /*-webkit-box-shadow: 0px 0px 10px 1px rgb(0 0 0 / 10%);*/
+  margin: 20px 0;
+  border: 1px solid #fff;
+  font-size: 14px;
+}
+.pn-partial-payment ul li {
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+.pn-partial-payment ul li.active {
+  background-color: #00800017;
+}
+.pn-partial-payment ul li span {
+  min-width: 150px;
+  text-align: left;
+  margin-right: 10px;
+  word-break: break-word;
+}
+
+</style><script type="text/javascript">
+  
+    window.pn.cart = {};
+  	window.pn.cart = {"note":null,"attributes":{},"original_total_price":0,"total_price":0,"total_discount":0,"total_weight":0.0,"item_count":0,"items":[],"requires_shipping":false,"currency":"USD","items_subtotal_price":0,"cart_level_discount_applications":[],"checkout_charge_amount":0}
+    window.pn.cart.items = [];
+
+    
+
+    if (typeof window.pn.cart.items == "object") {
+      for (var i=0; i<window.pn.cart.items.length; i++) {
+        ["sku", "vendor", "url", "image", "handle", "product_type", "product_description"].map(function(a) {
+          delete window.pn.cart.items[i][a]
+        })
+      }
+    }
+  
+</script>
+
+
+<script>
+if(typeof pn === "undefined"){
+  pn = {};
+}
+if(typeof pn.settings === "undefined"){
+  pn.settings = {};
+}
+pn.settings.defaultSetting={"id":38990919,"a":"Preorder Now","b":true,"c":null,"d":"Out of stock","e":false,"f":"Only {{qty}} remaining","g":null,"h":null,"i":false,"j":null,"k":null,"l":null,"m":"default","n":null,"o":true,"handle":null,"p":null,"y":null,"q":false,"r":false,"s":null,"t":null,"u":1,"v":false,"w":"ribbon","tag":null,"x":null,"z":"no_discount","aa":"0.0","ab":0,"price":"0.0","compare_at_price":"0.0","partial_payment_z":"no_partial_discount","partial_payment_aa":"0.0","partial_payment_ab":0,"selling_plan_group_id":null,"selling_plan_group_name":null,"partial_payment_charge_date":null};
+pn.settings.singleProductSettings=[];
+pn.settings.tagSettings=[];
+</script>
+<style type="text/css">
+  .pn-original-subtotal{
+    text-decoration: line-through;
+    display:inline-block;
+  }
+  .pn-discounted-subtotal{
+    font-weight:bold;
+    margin-left:20px;
+    display:inline-block;
+    font-size: 1.3em;
+  }
+
+  .pn-line-item-original-price {
+    text-decoration: line-through;
+  }
+
+  .pn-line-item-discounted-price {
+    font-size: 1.2em;
+    margin-left: 8px;
+  }
+</style>
+
+
+
+<div id="pn-mixed-cart-warning" class="pn-modal">
+  <div id="pn-mixed-cart-warning-content">
+    <span id="pn-modal-close-btn">x</span>
+    <p class="pn-mixed-cart-heading" id="pn-mixed-cart-warning-title"></p>
+    <div id="pn-mixed-cart-warning-text"></div>
+  </div>
+</div>
+  
+<!-- **BEGIN** Hextom QAB Integration // Main Include - DO NOT MODIFY -->
+    <!-- **BEGIN** Hextom QAB Integration // Main - DO NOT MODIFY -->
+<script type="application/javascript">
+    window.hextom_qab_meta = {
+        p1: [
+            
+        ],
+        p2: {
+            
+        }
+    };
+</script>
+<!-- **END** Hextom QAB Integration // Main - DO NOT MODIFY -->
+    <!-- **END** Hextom QAB Integration // Main Include - DO NOT MODIFY -->
+ <div class="index-section--flush powr-popup" id="cdae4645_1625849635"></div>
+ <div id="shopify-block-14974507362743789004" class="shopify-block shopify-app-block"><style>
+  
+  
+  custom-fields .ma-custom-field-group,
+  custom-fields .ma-custom-field,
+  custom-fields .ma-custom-field span,
+  custom-fields .ma-custom-field label,
+  custom-fields .ma-custom-field input,
+  custom-fields .ma-custom-field select,
+  custom-fields .ma-custom-field textarea,
+  custom-fields .ma-custom-field fieldset,
+  custom-fields .ma-custom-field fieldset legend {
+    font-family:-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Ubuntu, Helvetica Neue, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+    font-style:normal;
+    font-weight:400;
+    letter-spacing:normal;
+  }
+  custom-fields .ma-custom-field-group {
+    text-align: left;
+    color: #222223;
+  }
+  custom-fields .ma-custom-field input[type="text"],
+  custom-fields .ma-custom-field input[type="date"],
+  custom-fields .ma-custom-field input[type="time"],
+  custom-fields .ma-custom-field select,
+  custom-fields .ma-custom-field textarea {
+    background-color: #ffffff;
+    color: #222223;
+    border-color:#898f94 #aeb4b9 #aeb4b9 #aeb4b9;
+    border-radius: 4px;
+  }
+  custom-fields .ma-custom-field input[type="text"]::placeholder,
+  custom-fields .ma-custom-field input[type="date"]::placeholder,
+  custom-fields .ma-custom-field input[type="time"]::placeholder,
+  custom-fields .ma-custom-field select::placeholder,
+  custom-fields .ma-custom-field textarea::placeholder {
+    color:#6d7175;
+  }
+  custom-fields .ma-custom-field span.field-description {
+    color:#6d7175;
+  }
+  custom-fields .ma-custom-field input[type="text"].invalid,
+  custom-fields .ma-custom-field input[type="date"].invalid,
+  custom-fields .ma-custom-field input[type="time"].invalid,
+  custom-fields .ma-custom-field select.invalid,
+  custom-fields .ma-custom-field textarea.invalid {
+    border-color: #fd5749;
+    background-color: #fff4f4;
+  }
+  custom-fields .field-required-indicator {
+    color: #d72c0d;
+  }
+  custom-fields .ma-custom-field span.field-feedback .field-invalid {
+    color: #d72c0d;
+  }
+  custom-fields .ma-custom-field span.field-feedback svg path {
+    fill: #d72c0d;
+  }
+  
+</style>
+<magical-custom-fields data-id="14974507362743789004"><script type="application/json">
+    {
+      "shop": "https://civilalchemy.com",
+      "cart_url": "/cart",
+      "field_groups" : [{
+        "id" : "x_QzcOLED9UZghsAnfMIt",
+        "name" : "Subscription Start Date",
+        "status" : "active",
+        "fields" : [{"id":1,"type":"date","title":"Start Date","description":"Which FRIDAY would you like your subscription to start?","placeholder":"","required":true,"options":[],"validation":[{"column":"","value":""}]}],
+        "logic" : {"appliedTo":["products"],"appliedDisjunctively":["true"],"conditions":[],"products":[{"id":"4725060927554","variants":[{"id":"40123093712962"},{"id":"32544706953282"},{"id":"32544706986050"}]}],"collections":[]}
+      },{
+        "id" : "gIlI-hUwZ1Kg2wRh7M4Fs",
+        "name" : "Flower Pre-Order Pick Up/Delivery Date",
+        "status" : "active",
+        "fields" : [{"id":1,"type":"date","title":"Date Needed","description":"Please select your pick up or delivery date.","placeholder":"","required":true,"options":[],"validation":[{"column":"","value":""}]}],
+        "logic" : {"appliedTo":["products"],"appliedDisjunctively":["true"],"conditions":[],"products":[{"id":"6581078261826","variants":[{"id":"39629180993602"},{"id":"39345741168706"},{"id":"39345741201474"},{"id":"39629181026370"},{"id":"39629181059138"},{"id":"39345741365314"},{"id":"39345741398082"},{"id":"39629181091906"},{"id":"39629181124674"},{"id":"39629181157442"},{"id":"39629181190210"},{"id":"39629181222978"}]}],"collections":[]}
+      }],
+      "current_product": {
+        "id": "",
+        "product_type": null,
+        "variant_options": [],
+        "selected_variant": "",
+        "collections": []
+      },
+      "locale": {
+        "required": "Required",
+        "required_prompt": "Please complete this required field.",
+        "date_not_available": "This date is not available, please select another.",
+        "upload_file": "Upload file",
+        "drop_file": "Drop file here",
+        "uploading": "Uploading...",
+        "file_uploading": "File is being uploaded",
+        "upload_success": "Successfully uploaded",
+        "upload_error": "There was an error",
+        "upload_error_help": "Try uploading a new file",
+        "max_file_size_error": "File too large. Max 20mb allowed",
+        "invalid_file_type": "Invalid file. Allowed:",
+        "character_min_prompt": "Enter at least [CHAR_MIN] characters."
+      }
+    }
+  </script>
+</magical-custom-fields>
+
+
+</div> 
+
+</div><div id="WebPixelsManagerSandboxContainer"><iframe src="https://civilalchemy.com/wpm@08d9d536wbc499b5ep9e0ec6b9m18e2802a/web-pixel-shopify-custom-pixel@0570/sandbox/legacy/" id="web-pixel-sandbox-CUSTOM-shopify-custom-pixel-LAX-08d9d536wbc499b5ep9e0ec6b9m18e2802a" name="web-pixel-sandbox-CUSTOM-shopify-custom-pixel-LAX-08d9d536wbc499b5ep9e0ec6b9m18e2802a" sandbox="allow-scripts allow-forms" tabindex="-1" aria-hidden="true" style="display:none; height:0; width:0; visibility: hidden;"></iframe></div></body></html>

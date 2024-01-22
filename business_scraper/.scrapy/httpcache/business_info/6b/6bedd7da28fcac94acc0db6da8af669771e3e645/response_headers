@@ -1,0 +1,10 @@
+Date: Tue, 16 Jan 2024 11:53:05 GMT
+Cache-Control: max-age=3600
+Expires: Tue, 16 Jan 2024 12:53:05 GMT
+Location: https://evelieblu.com/robots.txt
+Set-Cookie: __cf_bm=MF3E5c56a.HK13HHl5olilBjfXOAnvmUoCMlPKoOowk-1705405985-1-AU+NNtONJvlvTrFSqut4qBPbwa8k5gJRMQQOK4JepOY9cx5lg4ck3AqO/MsOoYM9t5/rZFuCJJlPcK99taQPeoQ=; path=/; expires=Tue, 16-Jan-24 12:23:05 GMT; domain=.evelieblu.com; HttpOnly; SameSite=None
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+Server: cloudflare
+Cf-Ray: 846627f18b479259-FRA
+Alt-Svc: h3=":443"; ma=86400

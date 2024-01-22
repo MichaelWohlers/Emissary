@@ -1,0 +1,25 @@
+X-Fw-Hash: e8dmf4v3ct
+Set-Cookie: wp-client-view=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0
+Cache-Control: private, max-age=0
+X-Fw-Server: Flywheel/5.1.0
+X-Fw-Version: 5.0.0
+X-Xss-Protection: 1
+Content-Encoding: gzip
+X-Fw-Dynamic: TRUE
+Accept-Ranges: bytes
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer-when-downgrade
+X-Content-Type-Options: nosniff
+X-Pingback: https://www.malefashionsco.com/xmlrpc.php
+Server: Flywheel/5.1.0
+X-Cacheable: NO:Not Cacheable
+Fastly-Restarts: 1
+Date: Tue, 16 Jan 2024 11:58:41 GMT
+X-Served-By: cache-fra-eddf8230110-FRA, cache-fra-eddf8230110-FRA
+X-Cache: MISS, MISS
+X-Cache-Hits: 0, 0
+X-Timer: S1705406320.490490,VS0,VE570
+Vary: Accept-Encoding, Authorization
+X-Fw-Serve: TRUE
+X-Fw-Static: NO
+X-Fw-Type: VISIT

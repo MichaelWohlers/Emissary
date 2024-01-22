@@ -1,0 +1,38 @@
+Date: Tue, 16 Jan 2024 04:00:21 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 315
+X-Sorting-Hat-Shopid: 55755473091
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=7444aaa3-9242-44f5-9f5a-585c9c19fdb8; path=/; expires=Tue, 16 Jan 2024 04:30:21 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 04:00:21 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 04:00:21 GMT
+Set-Cookie: cart_currency=EUR; path=/; expires=Tue, 30 Jan 2024 04:00:21 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Afalse%2C%22a%22%3Afalse%2C%22m%22%3Afalse%2C%22t%22%3Afalse%7D%2C%22display_banner%22%3Atrue%2C%22sale_of_data_region%22%3Afalse%7D; domain=alisonandcoboutique.com; path=/; expires=Wed, 17 Jan 2024 04:00:21 GMT; SameSite=Lax
+Set-Cookie: _tracking_consent=%7B%22lim%22%3A%5B%22GDPR_BLOCK_ALL%22%5D%2C%22v%22%3A%222.1%22%2C%22region%22%3A%22DERP%22%2C%22reg%22%3A%22GDPR%22%2C%22con%22%3A%7B%22CMP%22%3A%7B%22s%22%3A%22%22%2C%22m%22%3A%22%22%2C%22a%22%3A%22%22%2C%22p%22%3A%22%22%7D%7D%7D; Expires=Wed, 15-Jan-25 04:00:21 GMT; Domain=alisonandcoboutique.com; Path=/; SameSite=Lax
+Etag: "cacheable:9619c891f8bc353c57e2e8120c994735"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 55755473091
+X-Shardid: 315
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=14, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="148748173628", servedBy;desc="njq6", requestID;desc="27f50f13-2dd6-42b8-8d70-6758c9b4cf3b"
+Server-Timing: cfRequestDuration;dur=41.999817
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 27f50f13-2dd6-42b8-8d70-6758c9b4cf3b
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Hfc9osq4ZH7JtEakf5MWFosWzEWYrfKYs14IZe6WhhP0MeRDZxmp8QVbcCGU1rf2AwAqGjSHhSQtGElXlpYhuhb%2BqYCP9pzf0I2mOeawAh6yflOkqXdcUmvQFKVxz8p%2F%2FbEsSm0QW0tZ"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84637376aacf3a8e-FRA
+Alt-Svc: h3=":443"; ma=86400

@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:53:18 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 231
+X-Sorting-Hat-Shopid: 64344752360
+X-Storefront-Renderer-Rendered: 1
+Location: https://www.traditionalmamaco.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 64344752360
+X-Shardid: 231
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=8, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="rtwn", requestID;desc="d66e3edb-e747-4a35-a45e-8069ec6e021b"
+Server-Timing: cfRequestDuration;dur=34.999847
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: d66e3edb-e747-4a35-a45e-8069ec6e021b
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=dYU6ka9zRtMUeYww2vwRRBlu94gLugPl0iS5t6iSb%2Fd%2FzhrElbc7gkv94FoZw1NH2eWvBAaHJvHrpoWefZT5K5twlSAotbB3u076g3wwqgdCihdQvlvrlJ26My4GeZhT8mIyNrn5oyujpyc%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84662840aa563638-FRA
+Alt-Svc: h3=":443"; ma=86400

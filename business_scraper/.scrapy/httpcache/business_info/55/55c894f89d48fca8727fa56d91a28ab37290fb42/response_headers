@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:20:21 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 88
+X-Sorting-Hat-Shopid: 20523113
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=10af099f-1d59-47e0-971a-761ae26c7063; path=/; expires=Tue, 16 Jan 2024 11:50:20 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:20:21 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 11:20:21 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:20:21 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Afalse%2C%22a%22%3Afalse%2C%22m%22%3Afalse%2C%22t%22%3Afalse%7D%2C%22display_banner%22%3Atrue%2C%22sale_of_data_region%22%3Afalse%7D; domain=giulianasboutique.com; path=/; expires=Wed, 17 Jan 2024 11:20:21 GMT; SameSite=Lax
+Set-Cookie: _tracking_consent=%7B%22lim%22%3A%5B%22GDPR_BLOCK_ALL%22%5D%2C%22region%22%3A%22DERP%22%2C%22reg%22%3A%22GDPR%22%2C%22con%22%3A%7B%22CMP%22%3A%7B%22s%22%3A%22%22%2C%22p%22%3A%22%22%2C%22m%22%3A%22%22%2C%22a%22%3A%22%22%7D%7D%2C%22v%22%3A%222.1%22%7D; Expires=Wed, 15-Jan-25 11:20:21 GMT; Domain=giulianasboutique.com; Path=/; SameSite=Lax
+Etag: "cacheable:6d3caf99b0fe5a684b87c69fcbb7119d"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Access-Control-Allow-Origin: *
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 20523113
+X-Shardid: 88
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=12, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="35625271385", pageType;desc="page", servedBy;desc="8zc8", requestID;desc="7cbfa7e6-e3dc-404a-91e7-413136b2dacc"
+Server-Timing: cfRequestDuration;dur=47.999859
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 7cbfa7e6-e3dc-404a-91e7-413136b2dacc
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=GDtgYwqofrmCRg7GSKSbirYgFdor1mI%2Bw2%2BgaNZfrXqqEpGTNtoYsYIp4SYBY4Pes0M5ME5jEkL%2BFWTUHnOfvKc3H%2BOo8jyaumpr8mn5MaB0O6c6055nTsCV7x3EQUAUmbLuZaLJWw%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8465f7fb0c232be2-FRA
+Alt-Svc: h3=":443"; ma=86400

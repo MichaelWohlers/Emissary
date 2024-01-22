@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 04:53:46 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 178
+X-Sorting-Hat-Shopid: 60829073587
+X-Storefront-Renderer-Rendered: 1
+Location: https://www.thetailorboutique.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 60829073587
+X-Shardid: 178
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=7, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="mkzv", requestID;desc="e28dcae6-f78e-4ca0-865f-f3014a2aa5e8"
+Server-Timing: cfRequestDuration;dur=36.999941
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: e28dcae6-f78e-4ca0-865f-f3014a2aa5e8
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=EhuXz%2Fs1INH5Wrrsf5BgSn8ro%2F4rUoPwUV%2B0Z2du71Hhcp%2F9UmqMsQZonQIVKDRMgLpq8HsCFThp5bEKvCukpAcUkzv79dNHvMbPbnDDgfx2hIZGCggodnXd8YMRJDxcUnwhBjdk1Kr%2Ba5w%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8463c1b55d94bb7d-FRA
+Alt-Svc: h3=":443"; ma=86400

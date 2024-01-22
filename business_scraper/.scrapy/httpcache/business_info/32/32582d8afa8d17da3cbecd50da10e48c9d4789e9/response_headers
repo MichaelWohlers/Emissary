@@ -1,0 +1,14 @@
+Cache-Control: max-age=0, private, must-revalidate
+Content-Encoding: gzip
+Content-Type: text/html; charset=utf-8
+Date: Tue, 16 Jan 2024 11:43:22 GMT
+Etag: W/"8e159d780ffcd03e062bd7e6e8ca13f3"
+Set-Cookie: disable_ga=0; path=/; expires=Fri, 16 Feb 2024 11:43:22 -0000
+Set-Cookie: _sites_session=SDZGWDJWRmVOb0M5bHFtRGRMR1Q2Y3FTRTc3cDh2SVkvZ1Frd0JMbkxEL2NTekhQSUpFZVRxUGx2YnBJTS9sdFlOdmNjUmlIbTAyYkpMRDJEQ3NBUk1ZU3lqNnR6aVpIVGV1dy8zNEFjdzg9LS1XY1o2cVdRZUJzcXI5bUN4SXdkNVdRPT0%3D--da512541cc672f4667e9b9707f676793b7cb8995; path=/; HttpOnly
+Status: 200 OK
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Request-Id: 45e2e6fa-efba-46f5-9fea-538853c65550
+X-Runtime: 0.040769
+X-Xss-Protection: 1; mode=block

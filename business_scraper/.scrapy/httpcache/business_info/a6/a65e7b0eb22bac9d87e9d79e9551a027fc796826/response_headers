@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 03:59:40 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 65
+X-Sorting-Hat-Shopid: 8660025410
+X-Storefront-Renderer-Rendered: 1
+Location: https://civilalchemy.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 8660025410
+X-Shardid: 65
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=6, db;dur=2, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="zg6l", requestID;desc="e8645322-d077-4d06-8ae6-64c9dbb9c3d5"
+Server-Timing: cfRequestDuration;dur=29.999971
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: e8645322-d077-4d06-8ae6-64c9dbb9c3d5
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=8IsCCk2M%2BX49n6llLog6pr1xLlMB9APTIGE3leWdcH%2BwPsK4eWJIVU1hlHa%2Fstmmj2llDnTOOsm%2FfVtByxlcuwMe1JCzHIu%2FnV6NgS%2BzSDc%2B9jJkIuTJFX%2Fb0mqKCyF3seepuZJq"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846372759e0f5b6e-FRA
+Alt-Svc: h3=":443"; ma=86400

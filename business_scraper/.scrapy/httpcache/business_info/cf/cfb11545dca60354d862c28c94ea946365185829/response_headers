@@ -1,0 +1,29 @@
+Date: Tue, 16 Jan 2024 11:49:39 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 299
+X-Sorting-Hat-Shopid: 85490729260
+X-Storefront-Renderer-Rendered: 1
+X-Cache: allow
+Location: https://luxycharms.ca/password
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 85490729260
+X-Shardid: 299
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=9, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="164428022060", pageType;desc="index", servedBy;desc="gtx6", requestID;desc="9f3562c3-3803-489f-9978-5b88c239a21d"
+Server-Timing: cfRequestDuration;dur=39.000034
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 9f3562c3-3803-489f-9978-5b88c239a21d
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=uhJqMj4u%2BplALW%2BLytRoNhvx1q9SeeHHcJnWsrw0m0dOlomgY8b7ccReGQqNB6CQZrdXR3mSz2FJ6qWhJOMNBz1T1c58OiTHGi0WuSrYmRKRTbv4Hz0lc%2BSgy7WiANo%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846622e92bc83620-FRA
+Alt-Svc: h3=":443"; ma=86400

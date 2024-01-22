@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 07:02:01 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 241
+X-Sorting-Hat-Shopid: 20609106020
+X-Storefront-Renderer-Rendered: 1
+Location: https://basixthreads.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 20609106020
+X-Shardid: 241
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=45;desc="gc:26", db;dur=6, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="tqdd", requestID;desc="d0a35d41-2801-4ddb-879b-a97d392d7514"
+Server-Timing: cfRequestDuration;dur=250.000000
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: d0a35d41-2801-4ddb-879b-a97d392d7514
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=i9%2BGaYcZg9e7%2BivuibVWLzlwXvtyLINMDEyh24Sl4L%2Bp600lA4UWV9as%2FqDk1vhKP4U8xWK4LagtklQYEkSQS0GD6TTqBAB68b5d2%2BmrkNjxzjzE17xoUJP0286yqbmFEU9us4EJ"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84647d91a8772c6f-FRA
+Alt-Svc: h3=":443"; ma=86400

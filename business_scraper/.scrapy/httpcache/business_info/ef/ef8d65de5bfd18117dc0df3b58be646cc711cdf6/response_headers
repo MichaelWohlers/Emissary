@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:43:15 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 22
+X-Sorting-Hat-Shopid: 55969710103
+X-Storefront-Renderer-Rendered: 1
+Location: https://ciao-bella-usa.myshopify.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 55969710103
+X-Shardid: 22
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=14, db;dur=5, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="l2p5", requestID;desc="00df9a2d-cc0f-47fd-a721-922a16520fb3"
+Server-Timing: cfRequestDuration;dur=52.000046
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 00df9a2d-cc0f-47fd-a721-922a16520fb3
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=tcVy5eezrzwrtwvIER03NBSs7DBsBv2b7stMy1QcL0azLl%2F%2FoNIvNsaAJ8PCD1Q9AMiG52wy9X5b%2Bm2zFy2bwZz97yfzvZms57PhJeajbeBf9DLf97sotWvLu9axWhQvO3E%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8466198adc881cc7-FRA
+Alt-Svc: h3=":443"; ma=86400

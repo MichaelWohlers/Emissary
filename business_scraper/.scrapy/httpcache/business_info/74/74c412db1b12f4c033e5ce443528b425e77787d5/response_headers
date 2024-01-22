@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 07:01:28 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 321
+X-Sorting-Hat-Shopid: 16089613
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=c3f580bf-b2cb-4723-9212-13a06c426f7b; path=/; expires=Tue, 16 Jan 2024 07:31:28 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 07:01:28 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 07:01:28 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 07:01:28 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=sassyantlerboutique.com; path=/; expires=Wed, 17 Jan 2024 07:01:28 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=e94336f7-76dd-4994-a023-d2a2d8b4a93b; Expires=Wed, 15-Jan-25 07:01:28 GMT; Domain=sassyantlerboutique.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=5cce32d3-780b-4f80-a906-2e2e600ab5eb; Expires=Tue, 16-Jan-24 07:31:28 GMT; Domain=sassyantlerboutique.com; Path=/; SameSite=Lax
+Etag: "cacheable:cd9d04126368a5b37f05c94f945c35c1"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 16089613
+X-Shardid: 321
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=14, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="164224008514", servedBy;desc="cd2j", requestID;desc="3ac997a9-b4d4-426f-a78a-36cbc44d2fab"
+Server-Timing: cfRequestDuration;dur=42.999744
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 3ac997a9-b4d4-426f-a78a-36cbc44d2fab
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=NdJXfHly%2BRPHMsqkOgehyvyDGk3nPn98fnO7wXhSGbQyXQrPBeVpn8eRByIBG%2BwU4A4kKFHdIWKEqQ0ADHtvfQjCCmgoUx6FePmWu7jKmsB1auBctvEaGp2uV5YGRW9xyntUYdLHGTJO"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84647cc3d8a4912a-FRA
+Alt-Svc: h3=":443"; ma=86400

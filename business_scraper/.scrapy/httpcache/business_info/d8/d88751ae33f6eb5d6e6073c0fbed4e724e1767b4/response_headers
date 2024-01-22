@@ -1,0 +1,15 @@
+Content-Length: 0
+Location: https://www.vibuti.ca/
+Strict-Transport-Security: max-age=3600
+X-Wix-Request-Id: 1705404044.5432728896135615680
+Cache-Control: public,max-age=0,must-revalidate
+Server: Pepyaka/1.21.6
+X-Content-Type-Options: nosniff
+Accept-Ranges: bytes
+Date: Tue, 16 Jan 2024 11:20:44 GMT
+Age: 0
+X-Served-By: cache-fra-etou8220090-FRA
+X-Cache: MISS
+Server-Timing: cache;desc=hit, varnish;desc=hit_miss, dc;desc=fastly_84_g
+X-Seen-By: yvSunuo/8ld62ehjr5B7kA==,GilIRCy+Ky2nI9KZaDKzWLxkNjrXdwdgtu6E0yACibU=,m0j2EEknGIVUW/liY8BLLipZQud0JJhczI9MlHF1U4rJftmKrOReD3ukbbas4YDo,2d58ifebGbosy5xc+FRalqj9O5x6eUCtJDa5i77F86i1E+pC5dmhw0qpu+5+xm+6lInHKETWtpjz7SyLTv6Bog==,2UNV7KOq4oGjA5+PKsX47MFl+aAq3kv1KMK28mCi9t28ZDY613cHYLbuhNMgAom1
+Via: 1.1 google

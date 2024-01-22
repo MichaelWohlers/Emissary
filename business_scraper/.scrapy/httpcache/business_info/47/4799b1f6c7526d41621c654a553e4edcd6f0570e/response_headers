@@ -1,0 +1,12 @@
+Content-Length: 0
+Date: Tue, 16 Jan 2024 11:03:15 GMT
+Location: /locations/new-beginnings-boutique
+Cache-Control: max-age=300, s-maxage=86400
+X-Cache: Miss from cloudfront
+Via: 1.1 f815d676e23e62be6eba5756491a262c.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: LAX3-C4
+X-Amz-Cf-Id: 9eQx68LiKP-2jya6hvf6qYHleXJlFMv1m1aPMRd4KzyCqI4GVO1oSQ==
+Server-Timing: dtSInfo;desc="0", dtRpid;desc="-1618964229"
+Set-Cookie: dtCookie=v_4_srv_2_sn_767C377446CAAB866625A248BED49062_perc_100000_ol_0_mul_1_app-3Ace9095ad452678ab_1; Path=/; Domain=.sharp.com; secure
+Set-Cookie: TS01ed0cdc=019f637273ee9c34f22bf4858c9ded018ab1893314bb85f44c343a66e22ac16305982cac7349133027cb9506d6339a6582a8bbb622090af9f9d58c9b4014df6e4ecf67ae60; Path=/; Domain=.www.sharp.com
+Set-Cookie: TS229c295a027=08391a8659ab20004b96e2eb3d1ab7b571191df4bb19baa913216f95154b9ef657fe6263ccfc4bf1085f5e8ce21130009792dcc8940c6e6763465f60dd227f7169fda5b16628559bb5a89b5f785afcfe2735c74bd30e23e2ae9219757c7ed304; Path=/

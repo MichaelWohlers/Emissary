@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:55:12 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 59
+X-Sorting-Hat-Shopid: 8848698
+X-Storefront-Renderer-Rendered: 1
+Location: https://yourwildhearts.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 8848698
+X-Shardid: 59
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=6, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="dngn", requestID;desc="de4d7570-825c-4db3-87f6-a0a7784e5794"
+Server-Timing: cfRequestDuration;dur=41.999817
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: de4d7570-825c-4db3-87f6-a0a7784e5794
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=75TGZAee%2B1zX9oS25DEhhuyhYdd0x5yyu9WEDrQQY9NKUR6zo52uO3flqkJGQJ0pkpfClFPvlp9O1S57OkR1cBjpMl6IaATa2B%2B%2FwkDpQbnfTojr1cUAPbv2B8OgE%2B5tlToBWA%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84662b0a6f05693a-FRA
+Alt-Svc: h3=":443"; ma=86400

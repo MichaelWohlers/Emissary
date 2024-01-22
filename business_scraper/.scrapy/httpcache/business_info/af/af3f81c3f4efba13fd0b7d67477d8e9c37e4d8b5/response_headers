@@ -1,0 +1,23 @@
+Content-Length: 90
+Date: Tue, 16 Jan 2024 11:39:38 GMT
+Content-Type: text/plain; charset=utf-8
+Cache-Control: max-age=0, s-maxage=7200, must-revalidate
+Content-Encoding: gzip
+Etag: "d3523529c4fa475434fd8b656cbdefa9"-gzip
+Last-Modified: Wed, 05 Oct 2022 21:46:25 GMT
+Owner: sitescog-36378
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Surrogate-Key: stores.aeropostale.com stores.aeropostale.com%2Frobots.txt
+Vary: Accept-Encoding
+X-Amz-Id-2: YbdIJcOPsgymGfcb4i51RyWP8bUd+Vc/ntgHJ5m52O1E+fPjADnXYbl3K6/Fc2rLtxYQwcSVGTg=
+X-Amz-Request-Id: 2XQYPSXKY4GMQA2Y
+X-Amz-Server-Side-Encryption: AES256
+X-Amz-Version-Id: null
+X-Yext-Site: us2
+X-Yext-Subendpoint: static
+Cf-Cache-Status: HIT
+Accept-Ranges: bytes
+Set-Cookie: __cf_bm=oZdWrBjmmL3iXrCJHkypjh79HCEz5jEqUmeve8xdBZE-1705405178-1-AZhwdREr4/ww0acN0PXEJhbhs5gU2D6UPoUq4YsvEY6CHQx/KO5ZKTnBD5ydK+CiTcdUS3TmYPJD6/2Pi+Pfouw=; path=/; expires=Tue, 16-Jan-24 12:09:38 GMT; domain=.stores.aeropostale.com; HttpOnly; Secure; SameSite=None
+Server: cloudflare
+Cf-Ray: 8466143e2b4f3a72-FRA
+Alt-Svc: h3=":443"; ma=86400

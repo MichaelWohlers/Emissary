@@ -1,0 +1,15 @@
+Content-Length: 448
+Date: Tue, 16 Jan 2024 12:01:54 GMT
+Content-Type: text/plain; charset=utf-8
+Etag: W/"1c0-LEvfIZx80gSA6qEjkhDT6fK6I20"
+Pragma: no-cache
+Cache-Control: no-store, no-cache
+Age: 0
+X-Seen-By: W1c2/pqHBqplxcWufHCkILxkNjrXdwdgtu6E0yACibU=,m0j2EEknGIVUW/liY8BLLrPqYKkRtIYY8UbngCHp0RnJftmKrOReD3ukbbas4YDo,2d58ifebGbosy5xc+FRalgT1TLTZCGOXLM/KWt1epznsUFXrHVbl49Vo2kI1f41nlJKNcXOFgcLbDY1XBPoP/A==,2UNV7KOq4oGjA5+PKsX47ColFAsYHzhwVraIJxv2pmy8ZDY613cHYLbuhNMgAom1,bH6JkH8j79BIB1DcCkJWKpvN8B2NemXe/RDj2/TddH4=,BfhY9jxOau+XeVK9cd1MFeJV7/VB3v3QjfiRRoZzfVs=,o6VOeTbMKY7U4brBSq2ArYsiTWYX8YBhSWxRELWJluumgK17fMMTH2fN20sdZz61oR3bzmGfLMADmta5bLiot1iB5QmpRe2J37zq9nDD6cs=
+Accept-Ranges: bytes
+X-Wix-Request-Id: 1705406514.223273868048117368
+X-Content-Type-Options: nosniff
+Set-Cookie: TS016e3841=01d72e6d16d15186f8c27b32a4b964e5de8923fca99e142eecc1b869b89539e7e37679e5f855c1aaf3820b03c91387cc4ef36d84f3; Path=/; Domain=.wixsite.com
+Via: 1.1 google
+Glb-X-Seen-By: EfvZA+OgEGFLqdOQy8lt/qPVHS2uYwk9QIDwvNzX8eo=
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000

@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:36:26 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 256
+X-Sorting-Hat-Shopid: 1164050492
+X-Storefront-Renderer-Rendered: 1
+Location: https://shopredeemedboutique.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 1164050492
+X-Shardid: 256
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=10, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="rrkq", requestID;desc="efe9f3f8-8f64-4d08-8a42-495182bd174f"
+Server-Timing: cfRequestDuration;dur=48.000097
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: efe9f3f8-8f64-4d08-8a42-495182bd174f
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Y6OGvRIkZmgT7BJ5BSr3plz4Uqmehd%2BnWSS3GgA%2Bd4LRpWvG%2BalAW4ZIffvWEDaafBHo%2BdaeERV5vX7uwYunMTkGrURQ%2FJCdkmx31f9uvMJkd0XaZVVU6iT%2FYYa%2BIJlqutD58bB8UvQEyhyLk1U%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84660f8bbafe30d2-FRA
+Alt-Svc: h3=":443"; ma=86400

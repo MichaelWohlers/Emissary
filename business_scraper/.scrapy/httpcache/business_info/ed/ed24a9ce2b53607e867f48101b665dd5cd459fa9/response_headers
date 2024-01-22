@@ -1,0 +1,29 @@
+Date: Tue, 16 Jan 2024 11:56:54 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 47
+X-Sorting-Hat-Shopid: 27405713456
+X-Storefront-Renderer-Rendered: 1
+Location: https://omgigishop.com/
+X-Redirect-Reason: canonical_host_redirection
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 27405713456
+X-Shardid: 47
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=8, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="jww9", requestID;desc="d8708463-c635-4db3-96d4-8a8d6270413c"
+Server-Timing: cfRequestDuration;dur=38.000107
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: d8708463-c635-4db3-96d4-8a8d6270413c
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=LnUj9YM2zGx5hvGFwlxeXQVbSD3CmgLACL%2F3EAA6yv6o9d7I8IJuhG5pON6XCnxOTMjlkpDFrA2fp1LRutJzAD2nBsbIrP42gTRdsrFzYlLWrpHb%2FNiPs4VAv%2Buix5ixRy%2FHxg%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84662d8909192c29-FRA
+Alt-Svc: h3=":443"; ma=86400

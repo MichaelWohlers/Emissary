@@ -1,0 +1,12 @@
+Content-Length: 109
+Date: Tue, 16 Jan 2024 11:33:24 GMT
+Server: Apache/2.4.29 (Ubuntu)
+X-Frame-Options: SAMEORIGIN
+X-Robots-Tag: noindex, follow
+Link: <https://www.world.com/wp-json/>; rel="https://api.w.org/"
+Cache-Control: no-store, no-cache, must-revalidate, max-age=0
+Expires: Tue, 16 Jan 2024 11:33:24 GMT
+Vary: Accept-Encoding,User-Agent
+Content-Encoding: gzip
+Pragma: no-cache
+Content-Type: text/plain; charset=utf-8

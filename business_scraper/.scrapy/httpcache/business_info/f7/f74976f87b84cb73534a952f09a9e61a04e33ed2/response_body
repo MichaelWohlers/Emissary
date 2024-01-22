@@ -1,0 +1,642 @@
+<!DOCTYPE html>
+<!--
+	Leniolabs
+	Stahls/CadXComerce
+	Theme: Modern
+--><html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Acme">
+<script crossorigin="anonymous" src="https://polyfill.io/v3/polyfill.min.js?features=default%2CString.prototype.startsWith%2CArray.prototype.includes%2CString.prototype.includes%2Cfetch%2CPromise%2CPromise.prototype.finally"></script>
+	<meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+<script>window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"dfcc3ae65e","applicationID":"745641755","transactionName":"dFgKRRRYXAhVQEsQQ1ZFS1kHWVQIVUBLE1JQUg==","queueTime":0,"applicationTime":298,"agent":""}</script>
+<script>(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM||(NREUM={})).loader_config={licenseKey:"dfcc3ae65e",applicationID:"745641755"};;/*! For license information please see nr-loader-rum-1.250.0.min.js.LICENSE.txt */
+(()=>{var e,t,r={234:(e,t,r)=>{"use strict";r.d(t,{P_:()=>v,Mt:()=>b,C5:()=>s,DL:()=>A,OP:()=>S,lF:()=>T,Yu:()=>x,Dg:()=>m,CX:()=>c,GE:()=>_,sU:()=>R});var n=r(8632),i=r(9567);const a={beacon:n.ce.beacon,errorBeacon:n.ce.errorBeacon,licenseKey:void 0,applicationID:void 0,sa:void 0,queueTime:void 0,applicationTime:void 0,ttGuid:void 0,user:void 0,account:void 0,product:void 0,extra:void 0,jsAttributes:{},userAttributes:void 0,atts:void 0,transactionName:void 0,tNamePlain:void 0},o={};function s(e){if(!e)throw new Error("All info objects require an agent identifier!");if(!o[e])throw new Error("Info for ".concat(e," was never set"));return o[e]}function c(e,t){if(!e)throw new Error("All info objects require an agent identifier!");o[e]=(0,i.D)(t,a);const r=(0,n.ek)(e);r&&(r.info=o[e])}const u=e=>{if(!e||"string"!=typeof e)return!1;try{document.createDocumentFragment().querySelector(e)}catch{return!1}return!0};var d=r(7056),l=r(50);const f="[data-nr-mask]",g=()=>{const e={mask_selector:"*",block_selector:"[data-nr-block]",mask_input_options:{color:!1,date:!1,"datetime-local":!1,email:!1,month:!1,number:!1,range:!1,search:!1,tel:!1,text:!1,time:!1,url:!1,week:!1,textarea:!1,select:!1,password:!0}};return{feature_flags:[],proxy:{assets:void 0,beacon:void 0},privacy:{cookies_enabled:!0},ajax:{deny_list:void 0,block_internal:!0,enabled:!0,harvestTimeSeconds:10,autoStart:!0},distributed_tracing:{enabled:void 0,exclude_newrelic_header:void 0,cors_use_newrelic_header:void 0,cors_use_tracecontext_headers:void 0,allowed_origins:void 0},session:{domain:void 0,expiresMs:d.oD,inactiveMs:d.Hb},ssl:void 0,obfuscate:void 0,jserrors:{enabled:!0,harvestTimeSeconds:10,autoStart:!0},metrics:{enabled:!0,autoStart:!0},page_action:{enabled:!0,harvestTimeSeconds:30,autoStart:!0},page_view_event:{enabled:!0,autoStart:!0},page_view_timing:{enabled:!0,harvestTimeSeconds:30,long_task:!1,autoStart:!0},session_trace:{enabled:!0,harvestTimeSeconds:10,autoStart:!0},harvest:{tooManyRequestsDelay:60},session_replay:{autoStart:!0,enabled:!1,harvestTimeSeconds:60,sampling_rate:50,error_sampling_rate:50,collect_fonts:!1,inline_images:!1,inline_stylesheet:!0,mask_all_inputs:!0,get mask_text_selector(){return e.mask_selector},set mask_text_selector(t){u(t)?e.mask_selector="".concat(t,",").concat(f):""===t||null===t?e.mask_selector=f:(0,l.Z)("An invalid session_replay.mask_selector was provided. '*' will be used.",t)},get block_class(){return"nr-block"},get ignore_class(){return"nr-ignore"},get mask_text_class(){return"nr-mask"},get block_selector(){return e.block_selector},set block_selector(t){u(t)?e.block_selector+=",".concat(t):""!==t&&(0,l.Z)("An invalid session_replay.block_selector was provided and will not be used",t)},get mask_input_options(){return e.mask_input_options},set mask_input_options(t){t&&"object"==typeof t?e.mask_input_options={...t,password:!0}:(0,l.Z)("An invalid session_replay.mask_input_option was provided and will not be used",t)}},spa:{enabled:!0,harvestTimeSeconds:10,autoStart:!0}}},p={},h="All configuration objects require an agent identifier!";function v(e){if(!e)throw new Error(h);if(!p[e])throw new Error("Configuration for ".concat(e," was never set"));return p[e]}function m(e,t){if(!e)throw new Error(h);p[e]=(0,i.D)(t,g());const r=(0,n.ek)(e);r&&(r.init=p[e])}function b(e,t){if(!e)throw new Error(h);var r=v(e);if(r){for(var n=t.split("."),i=0;i<n.length-1;i++)if("object"!=typeof(r=r[n[i]]))return;r=r[n[n.length-1]]}return r}const y={accountID:void 0,trustKey:void 0,agentID:void 0,licenseKey:void 0,applicationID:void 0,xpid:void 0},w={};function A(e){if(!e)throw new Error("All loader-config objects require an agent identifier!");if(!w[e])throw new Error("LoaderConfig for ".concat(e," was never set"));return w[e]}function _(e,t){if(!e)throw new Error("All loader-config objects require an agent identifier!");w[e]=(0,i.D)(t,y);const r=(0,n.ek)(e);r&&(r.loader_config=w[e])}const x=(0,n.mF)().o;var E=r(385),D=r(6818);const k={buildEnv:D.Re,customTransaction:void 0,disabled:!1,distMethod:D.gF,isolatedBacklog:!1,loaderType:void 0,maxBytes:3e4,offset:Math.floor(E._A?.performance?.timeOrigin||E._A?.performance?.timing?.navigationStart||Date.now()),onerror:void 0,origin:""+E._A.location,ptid:void 0,releaseIds:{},session:void 0,xhrWrappable:"function"==typeof E._A.XMLHttpRequest?.prototype?.addEventListener,version:D.q4,denyList:void 0},j={};function S(e){if(!e)throw new Error("All runtime objects require an agent identifier!");if(!j[e])throw new Error("Runtime for ".concat(e," was never set"));return j[e]}function R(e,t){if(!e)throw new Error("All runtime objects require an agent identifier!");j[e]=(0,i.D)(t,k);const r=(0,n.ek)(e);r&&(r.runtime=j[e])}function T(e){return function(e){try{const t=s(e);return!!t.licenseKey&&!!t.errorBeacon&&!!t.applicationID}catch(e){return!1}}(e)}},9567:(e,t,r)=>{"use strict";r.d(t,{D:()=>i});var n=r(50);function i(e,t){try{if(!e||"object"!=typeof e)return(0,n.Z)("Setting a Configurable requires an object as input");if(!t||"object"!=typeof t)return(0,n.Z)("Setting a Configurable requires a model to set its initial properties");const r=Object.create(Object.getPrototypeOf(t),Object.getOwnPropertyDescriptors(t)),a=0===Object.keys(r).length?e:r;for(let o in a)if(void 0!==e[o])try{Array.isArray(e[o])&&Array.isArray(t[o])?r[o]=Array.from(new Set([...e[o],...t[o]])):"object"==typeof e[o]&&"object"==typeof t[o]?r[o]=i(e[o],t[o]):r[o]=e[o]}catch(e){(0,n.Z)("An error occurred while setting a property of a Configurable",e)}return r}catch(e){(0,n.Z)("An error occured while setting a Configurable",e)}}},6818:(e,t,r)=>{"use strict";r.d(t,{Re:()=>i,gF:()=>a,q4:()=>n});const n="1.250.0",i="PROD",a="CDN"},385:(e,t,r)=>{"use strict";r.d(t,{Nk:()=>d,Tt:()=>s,_A:()=>a,cv:()=>l,iS:()=>o,il:()=>n,ux:()=>c,v6:()=>i,w1:()=>u});const n="undefined"!=typeof window&&!!window.document,i="undefined"!=typeof WorkerGlobalScope&&("undefined"!=typeof self&&self instanceof WorkerGlobalScope&&self.navigator instanceof WorkerNavigator||"undefined"!=typeof globalThis&&globalThis instanceof WorkerGlobalScope&&globalThis.navigator instanceof WorkerNavigator),a=n?window:"undefined"!=typeof WorkerGlobalScope&&("undefined"!=typeof self&&self instanceof WorkerGlobalScope&&self||"undefined"!=typeof globalThis&&globalThis instanceof WorkerGlobalScope&&globalThis),o=(a?.document?.readyState,Boolean("hidden"===a?.document?.visibilityState)),s=(a?.location,/iPad|iPhone|iPod/.test(a.navigator?.userAgent)),c=s&&"undefined"==typeof SharedWorker,u=((()=>{const e=a.navigator?.userAgent?.match(/Firefox[/\s](\d+\.\d+)/);Array.isArray(e)&&e.length>=2&&e[1]})(),Boolean(n&&window.document.documentMode)),d=!!a.navigator?.sendBeacon,l=Math.floor(a?.performance?.timeOrigin||a?.performance?.timing?.navigationStart||Date.now())},1117:(e,t,r)=>{"use strict";r.d(t,{w:()=>a});var n=r(50);const i={agentIdentifier:"",ee:void 0};class a{constructor(e){try{if("object"!=typeof e)return(0,n.Z)("shared context requires an object as input");this.sharedContext={},Object.assign(this.sharedContext,i),Object.entries(e).forEach((e=>{let[t,r]=e;Object.keys(i).includes(t)&&(this.sharedContext[t]=r)}))}catch(e){(0,n.Z)("An error occured while setting SharedContext",e)}}}},8e3:(e,t,r)=>{"use strict";r.d(t,{L:()=>d,R:()=>c});var n=r(8325),i=r(1284),a=r(4322),o=r(3325);const s={};function c(e,t){const r={staged:!1,priority:o.p[t]||0};u(e),s[e].get(t)||s[e].set(t,r)}function u(e){e&&(s[e]||(s[e]=new Map))}function d(){let e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:"",t=arguments.length>1&&void 0!==arguments[1]?arguments[1]:"feature";if(u(e),!e||!s[e].get(t))return o(t);s[e].get(t).staged=!0;const r=[...s[e]];function o(t){const r=e?n.ee.get(e):n.ee,o=a.X.handlers;if(r.backlog&&o){var s=r.backlog[t],c=o[t];if(c){for(var u=0;s&&u<s.length;++u)l(s[u],c);(0,i.D)(c,(function(e,t){(0,i.D)(t,(function(t,r){r[0].on(e,r[1])}))}))}delete o[t],r.backlog[t]=null,r.emit("drain-"+t,[])}}r.every((e=>{let[t,r]=e;return r.staged}))&&(r.sort(((e,t)=>e[1].priority-t[1].priority)),r.forEach((t=>{let[r]=t;s[e].delete(r),o(r)})))}function l(e,t){var r=e[1];(0,i.D)(t[r],(function(t,r){var n=e[0];if(r[0]===n){var i=r[1],a=e[3],o=e[2];i.apply(a,o)}}))}},8325:(e,t,r)=>{"use strict";r.d(t,{A:()=>c,ee:()=>u});var n=r(8632),i=r(2210),a=r(234);class o{constructor(e){this.contextId=e}}var s=r(3117);const c="nr@context:".concat(s.a),u=function e(t,r){var n={},s={},d={},f=!1;try{f=16===r.length&&(0,a.OP)(r).isolatedBacklog}catch(e){}var g={on:h,addEventListener:h,removeEventListener:function(e,t){var r=n[e];if(!r)return;for(var i=0;i<r.length;i++)r[i]===t&&r.splice(i,1)},emit:function(e,r,n,i,a){!1!==a&&(a=!0);if(u.aborted&&!i)return;t&&a&&t.emit(e,r,n);for(var o=p(n),c=v(e),d=c.length,l=0;l<d;l++)c[l].apply(o,r);var f=b()[s[e]];f&&f.push([g,e,r,o]);return o},get:m,listeners:v,context:p,buffer:function(e,t){const r=b();if(t=t||"feature",g.aborted)return;Object.entries(e||{}).forEach((e=>{let[n,i]=e;s[i]=t,t in r||(r[t]=[])}))},abort:l,aborted:!1,isBuffering:function(e){return!!b()[s[e]]},debugId:r,backlog:f?{}:t&&"object"==typeof t.backlog?t.backlog:{}};return g;function p(e){return e&&e instanceof o?e:e?(0,i.X)(e,c,(()=>new o(c))):new o(c)}function h(e,t){n[e]=v(e).concat(t)}function v(e){return n[e]||[]}function m(t){return d[t]=d[t]||e(g,t)}function b(){return g.backlog}}(void 0,"globalEE"),d=(0,n.fP)();function l(){u.aborted=!0,u.backlog={}}d.ee||(d.ee=u)},5546:(e,t,r)=>{"use strict";r.d(t,{E:()=>n,p:()=>i});var n=r(8325).ee.get("handle");function i(e,t,r,i,a){a?(a.buffer([e],i),a.emit(e,t,r)):(n.buffer([e],i),n.emit(e,t,r))}},4322:(e,t,r)=>{"use strict";r.d(t,{X:()=>a});var n=r(5546);a.on=o;var i=a.handlers={};function a(e,t,r,a){o(a||n.E,i,e,t,r)}function o(e,t,r,i,a){a||(a="feature"),e||(e=n.E);var o=t[a]=t[a]||{};(o[r]=o[r]||[]).push([e,i])}},3239:(e,t,r)=>{"use strict";r.d(t,{bP:()=>s,iz:()=>c,m$:()=>o});var n=r(385);let i=!1,a=!1;try{const e={get passive(){return i=!0,!1},get signal(){return a=!0,!1}};n._A.addEventListener("test",null,e),n._A.removeEventListener("test",null,e)}catch(e){}function o(e,t){return i||a?{capture:!!e,passive:i,signal:t}:!!e}function s(e,t){let r=arguments.length>2&&void 0!==arguments[2]&&arguments[2],n=arguments.length>3?arguments[3]:void 0;window.addEventListener(e,t,o(r,n))}function c(e,t){let r=arguments.length>2&&void 0!==arguments[2]&&arguments[2],n=arguments.length>3?arguments[3]:void 0;document.addEventListener(e,t,o(r,n))}},3117:(e,t,r)=>{"use strict";r.d(t,{a:()=>n});const n=(0,r(4402).Rl)()},4402:(e,t,r)=>{"use strict";r.d(t,{Rl:()=>o,ky:()=>s});var n=r(385);const i="xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx";function a(e,t){return e?15&e[t]:16*Math.random()|0}function o(){const e=n._A?.crypto||n._A?.msCrypto;let t,r=0;return e&&e.getRandomValues&&(t=e.getRandomValues(new Uint8Array(30))),i.split("").map((e=>"x"===e?a(t,r++).toString(16):"y"===e?(3&a()|8).toString(16):e)).join("")}function s(e){const t=n._A?.crypto||n._A?.msCrypto;let r,i=0;t&&t.getRandomValues&&(r=t.getRandomValues(new Uint8Array(e)));const o=[];for(var s=0;s<e;s++)o.push(a(r,i++).toString(16));return o.join("")}},7056:(e,t,r)=>{"use strict";r.d(t,{Bq:()=>n,Hb:()=>a,IK:()=>c,oD:()=>i,uT:()=>s,wO:()=>o});const n="NRBA",i=144e5,a=18e5,o={PAUSE:"session-pause",RESET:"session-reset",RESUME:"session-resume",UPDATE:"session-update"},s={SAME_TAB:"same-tab",CROSS_TAB:"cross-tab"},c={OFF:0,FULL:1,ERROR:2}},7894:(e,t,r)=>{"use strict";function n(){return Math.round(performance.now())}r.d(t,{z:()=>n})},50:(e,t,r)=>{"use strict";function n(e,t){"function"==typeof console.warn&&(console.warn("New Relic: ".concat(e)),t&&console.warn(t))}r.d(t,{Z:()=>n})},2825:(e,t,r)=>{"use strict";r.d(t,{N:()=>d,T:()=>l});var n=r(8325),i=r(5546),a=r(3325),o=r(385);const s="newrelic";const c={stn:[a.D.sessionTrace],err:[a.D.jserrors,a.D.metrics],ins:[a.D.pageAction],spa:[a.D.spa],sr:[a.D.sessionReplay,a.D.sessionTrace]},u=new Set;function d(e,t){const r=n.ee.get(t);e&&"object"==typeof e&&(u.has(t)||(Object.entries(e).forEach((e=>{let[t,n]=e;c[t]?c[t].forEach((e=>{n?(0,i.p)("feat-"+t,[],void 0,e,r):(0,i.p)("block-"+t,[],void 0,e,r),(0,i.p)("rumresp-"+t,[Boolean(n)],void 0,e,r)})):n&&(0,i.p)("feat-"+t,[],void 0,void 0,r),l[t]=Boolean(n)})),Object.keys(c).forEach((e=>{void 0===l[e]&&(c[e]?.forEach((t=>(0,i.p)("rumresp-"+e,[!1],void 0,t,r))),l[e]=!1)})),u.add(t),function(){let e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};try{o._A.dispatchEvent(new CustomEvent(s,{detail:e}))}catch(e){}}({loaded:!0})))}const l={}},2210:(e,t,r)=>{"use strict";r.d(t,{X:()=>i});var n=Object.prototype.hasOwnProperty;function i(e,t,r){if(n.call(e,t))return e[t];var i=r();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:i,writable:!0,enumerable:!1}),i}catch(e){}return e[t]=i,i}},1284:(e,t,r)=>{"use strict";r.d(t,{D:()=>n});const n=(e,t)=>Object.entries(e||{}).map((e=>{let[r,n]=e;return t(r,n)}))},4351:(e,t,r)=>{"use strict";r.d(t,{P:()=>a});var n=r(8325);const i=()=>{const e=new WeakSet;return(t,r)=>{if("object"==typeof r&&null!==r){if(e.has(r))return;e.add(r)}return r}};function a(e){try{return JSON.stringify(e,i())}catch(e){try{n.ee.emit("internal-error",[e])}catch(e){}}}},3960:(e,t,r)=>{"use strict";r.d(t,{KB:()=>o,b2:()=>a});var n=r(3239);function i(){return"undefined"==typeof document||"complete"===document.readyState}function a(e,t){if(i())return e();(0,n.bP)("load",e,t)}function o(e){if(i())return e();(0,n.iz)("DOMContentLoaded",e)}},8632:(e,t,r)=>{"use strict";r.d(t,{EZ:()=>d,ce:()=>a,ek:()=>u,fP:()=>o,gG:()=>l,h5:()=>c,mF:()=>s});var n=r(7894),i=r(385);const a={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net"};function o(){return i._A.NREUM||(i._A.NREUM={}),void 0===i._A.newrelic&&(i._A.newrelic=i._A.NREUM),i._A.NREUM}function s(){let e=o();return e.o||(e.o={ST:i._A.setTimeout,SI:i._A.setImmediate,CT:i._A.clearTimeout,XHR:i._A.XMLHttpRequest,REQ:i._A.Request,EV:i._A.Event,PR:i._A.Promise,MO:i._A.MutationObserver,FETCH:i._A.fetch}),e}function c(e,t){let r=o();r.initializedAgents??={},t.initializedAt={ms:(0,n.z)(),date:new Date},r.initializedAgents[e]=t}function u(e){let t=o();return t.initializedAgents?.[e]}function d(e,t){o()[e]=t}function l(){return function(){let e=o();const t=e.info||{};e.info={beacon:a.beacon,errorBeacon:a.errorBeacon,...t}}(),function(){let e=o();const t=e.init||{};e.init={...t}}(),s(),function(){let e=o();const t=e.loader_config||{};e.loader_config={...t}}(),o()}},7956:(e,t,r)=>{"use strict";r.d(t,{N:()=>i});var n=r(3239);function i(e){let t=arguments.length>1&&void 0!==arguments[1]&&arguments[1],r=arguments.length>2?arguments[2]:void 0,i=arguments.length>3?arguments[3]:void 0;(0,n.iz)("visibilitychange",(function(){if(t)return void("hidden"===document.visibilityState&&e());e(document.visibilityState)}),r,i)}},3081:(e,t,r)=>{"use strict";r.d(t,{gF:()=>a,mY:()=>i,t9:()=>n,vz:()=>s,xS:()=>o});const n=r(3325).D.metrics,i="sm",a="cm",o="storeSupportabilityMetrics",s="storeEventMetrics"},7633:(e,t,r)=>{"use strict";r.d(t,{t:()=>n});const n=r(3325).D.pageViewEvent},9251:(e,t,r)=>{"use strict";r.d(t,{t:()=>n});const n=r(3325).D.pageViewTiming},5938:(e,t,r)=>{"use strict";r.d(t,{W:()=>i});var n=r(8325);class i{constructor(e,t,r){this.agentIdentifier=e,this.aggregator=t,this.ee=n.ee.get(e),this.featureName=r,this.blocked=!1}}},7530:(e,t,r)=>{"use strict";r.d(t,{j:()=>b});var n=r(3325),i=r(234),a=r(5546),o=r(8325),s=r(7894),c=r(8e3),u=r(3960),d=r(385),l=r(50),f=r(3081),g=r(8632);function p(){const e=(0,g.gG)();["setErrorHandler","finished","addToTrace","addRelease","addPageAction","setCurrentRouteName","setPageViewName","setCustomAttribute","interaction","noticeError","setUserId","setApplicationVersion","start","recordReplay","pauseReplay"].forEach((t=>{e[t]=function(){for(var r=arguments.length,n=new Array(r),i=0;i<r;i++)n[i]=arguments[i];return function(t){for(var r=arguments.length,n=new Array(r>1?r-1:0),i=1;i<r;i++)n[i-1]=arguments[i];let a=[];return Object.values(e.initializedAgents).forEach((e=>{e.exposed&&e.api[t]&&a.push(e.api[t](...n))})),a.length>1?a:a[0]}(t,...n)}}))}var h=r(2825);const v=e=>{const t=e.startsWith("http");e+="/",r.p=t?e:"https://"+e};let m=!1;function b(e){let t=arguments.length>1&&void 0!==arguments[1]?arguments[1]:{},b=arguments.length>2?arguments[2]:void 0,y=arguments.length>3?arguments[3]:void 0,{init:w,info:A,loader_config:_,runtime:x={loaderType:b},exposed:E=!0}=t;const D=(0,g.gG)();A||(w=D.init,A=D.info,_=D.loader_config),(0,i.Dg)(e.agentIdentifier,w||{}),(0,i.GE)(e.agentIdentifier,_||{}),A.jsAttributes??={},d.v6&&(A.jsAttributes.isWorker=!0),(0,i.CX)(e.agentIdentifier,A);const k=(0,i.P_)(e.agentIdentifier),j=[A.beacon,A.errorBeacon];m||(k.proxy.assets&&(v(k.proxy.assets),j.push(k.proxy.assets)),k.proxy.beacon&&j.push(k.proxy.beacon),p(),(0,g.EZ)("activatedFeatures",h.T)),x.denyList=[...k.ajax.deny_list||[],...k.ajax.block_internal?j:[]],(0,i.sU)(e.agentIdentifier,x),void 0===e.api&&(e.api=function(e,t){t||(0,c.R)(e,"api");const g={};var p=o.ee.get(e),h=p.get("tracer"),v="api-",m=v+"ixn-";function b(t,r,n,a){const o=(0,i.C5)(e);return null===r?delete o.jsAttributes[t]:(0,i.CX)(e,{...o,jsAttributes:{...o.jsAttributes,[t]:r}}),A(v,n,!0,a||null===r?"session":void 0)(t,r)}function y(){}["setErrorHandler","finished","addToTrace","addRelease"].forEach((e=>{g[e]=A(v,e,!0,"api")})),g.addPageAction=A(v,"addPageAction",!0,n.D.pageAction),g.setCurrentRouteName=A(v,"routeName",!0,n.D.spa),g.setPageViewName=function(t,r){if("string"==typeof t)return"/"!==t.charAt(0)&&(t="/"+t),(0,i.OP)(e).customTransaction=(r||"http://custom.transaction")+t,A(v,"setPageViewName",!0)()},g.setCustomAttribute=function(e,t){let r=arguments.length>2&&void 0!==arguments[2]&&arguments[2];if("string"==typeof e){if(["string","number","boolean"].includes(typeof t)||null===t)return b(e,t,"setCustomAttribute",r);(0,l.Z)("Failed to execute setCustomAttribute.\nNon-null value must be a string, number or boolean type, but a type of <".concat(typeof t,"> was provided."))}else(0,l.Z)("Failed to execute setCustomAttribute.\nName must be a string type, but a type of <".concat(typeof e,"> was provided."))},g.setUserId=function(e){if("string"==typeof e||null===e)return b("enduser.id",e,"setUserId",!0);(0,l.Z)("Failed to execute setUserId.\nNon-null value must be a string type, but a type of <".concat(typeof e,"> was provided."))},g.setApplicationVersion=function(e){if("string"==typeof e||null===e)return b("application.version",e,"setApplicationVersion",!1);(0,l.Z)("Failed to execute setApplicationVersion. Expected <String | null>, but got <".concat(typeof e,">."))},g.start=e=>{try{const t=e?"defined":"undefined";(0,a.p)(f.xS,["API/start/".concat(t,"/called")],void 0,n.D.metrics,p);const r=Object.values(n.D);if(void 0===e)e=r;else{if((e=Array.isArray(e)&&e.length?e:[e]).some((e=>!r.includes(e))))return(0,l.Z)("Invalid feature name supplied. Acceptable feature names are: ".concat(r));e.includes(n.D.pageViewEvent)||e.push(n.D.pageViewEvent)}e.forEach((e=>{p.emit("".concat(e,"-opt-in"))}))}catch(e){(0,l.Z)("An unexpected issue occurred",e)}},g.recordReplay=function(){(0,a.p)(f.xS,["API/recordReplay/called"],void 0,n.D.metrics,p),(0,a.p)("recordReplay",[],void 0,n.D.sessionReplay,p)},g.pauseReplay=function(){(0,a.p)(f.xS,["API/pauseReplay/called"],void 0,n.D.metrics,p),(0,a.p)("pauseReplay",[],void 0,n.D.sessionReplay,p)},g.interaction=function(){return(new y).get()};var w=y.prototype={createTracer:function(e,t){var r={},i=this,o="function"==typeof t;return(0,a.p)(f.xS,["API/createTracer/called"],void 0,n.D.metrics,p),(0,a.p)(m+"tracer",[(0,s.z)(),e,r],i,n.D.spa,p),function(){if(h.emit((o?"":"no-")+"fn-start",[(0,s.z)(),i,o],r),o)try{return t.apply(this,arguments)}catch(e){throw h.emit("fn-err",[arguments,this,e],r),e}finally{h.emit("fn-end",[(0,s.z)()],r)}}}};function A(e,t,r,i){return function(){return(0,a.p)(f.xS,["API/"+t+"/called"],void 0,n.D.metrics,p),i&&(0,a.p)(e+t,[(0,s.z)(),...arguments],r?null:this,i,p),r?void 0:this}}function _(){r.e(75).then(r.bind(r,7438)).then((t=>{let{setAPI:r}=t;r(e),(0,c.L)(e,"api")})).catch((()=>(0,l.Z)("Downloading runtime APIs failed...")))}return["actionText","setName","setAttribute","save","ignore","onEnd","getContext","end","get"].forEach((e=>{w[e]=A(m,e,void 0,n.D.spa)})),g.noticeError=function(e,t){"string"==typeof e&&(e=new Error(e)),(0,a.p)(f.xS,["API/noticeError/called"],void 0,n.D.metrics,p),(0,a.p)("err",[e,(0,s.z)(),!1,t],void 0,n.D.jserrors,p)},d.il?(0,u.b2)((()=>_()),!0):_(),g}(e.agentIdentifier,y)),void 0===e.exposed&&(e.exposed=E),m=!0}},1926:(e,t,r)=>{r.nc=(()=>{try{return document?.currentScript?.nonce}catch(e){}return""})()},3325:(e,t,r)=>{"use strict";r.d(t,{D:()=>n,p:()=>i});const n={ajax:"ajax",jserrors:"jserrors",metrics:"metrics",pageAction:"page_action",pageViewEvent:"page_view_event",pageViewTiming:"page_view_timing",sessionReplay:"session_replay",sessionTrace:"session_trace",spa:"spa"},i={[n.pageViewEvent]:1,[n.pageViewTiming]:2,[n.metrics]:3,[n.jserrors]:4,[n.ajax]:5,[n.sessionTrace]:6,[n.pageAction]:7,[n.spa]:8,[n.sessionReplay]:9}}},n={};function i(e){var t=n[e];if(void 0!==t)return t.exports;var a=n[e]={exports:{}};return r[e](a,a.exports,i),a.exports}i.m=r,i.d=(e,t)=>{for(var r in t)i.o(t,r)&&!i.o(e,r)&&Object.defineProperty(e,r,{enumerable:!0,get:t[r]})},i.f={},i.e=e=>Promise.all(Object.keys(i.f).reduce(((t,r)=>(i.f[r](e,t),t)),[])),i.u=e=>"nr-rum-1.250.0.min.js",i.o=(e,t)=>Object.prototype.hasOwnProperty.call(e,t),e={},t="NRBA-1.250.0.PROD:",i.l=(r,n,a,o)=>{if(e[r])e[r].push(n);else{var s,c;if(void 0!==a)for(var u=document.getElementsByTagName("script"),d=0;d<u.length;d++){var l=u[d];if(l.getAttribute("src")==r||l.getAttribute("data-webpack")==t+a){s=l;break}}if(!s){c=!0;var f={75:"sha512-2/f4ks7UUkz/V5qC88wpBuGtLglDVUbydMJpZeUMyA/1ChnpO/Q00ZY/7dABphVkZ8zpnV6zFxxikFwJCMiQRg=="};(s=document.createElement("script")).charset="utf-8",s.timeout=120,i.nc&&s.setAttribute("nonce",i.nc),s.setAttribute("data-webpack",t+a),s.src=r,0!==s.src.indexOf(window.location.origin+"/")&&(s.crossOrigin="anonymous"),f[o]&&(s.integrity=f[o])}e[r]=[n];var g=(t,n)=>{s.onerror=s.onload=null,clearTimeout(p);var i=e[r];if(delete e[r],s.parentNode&&s.parentNode.removeChild(s),i&&i.forEach((e=>e(n))),t)return t(n)},p=setTimeout(g.bind(null,void 0,{type:"timeout",target:s}),12e4);s.onerror=g.bind(null,s.onerror),s.onload=g.bind(null,s.onload),c&&document.head.appendChild(s)}},i.r=e=>{"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},i.p="https://js-agent.newrelic.com/",(()=>{var e={50:0,832:0};i.f.j=(t,r)=>{var n=i.o(e,t)?e[t]:void 0;if(0!==n)if(n)r.push(n[2]);else{var a=new Promise(((r,i)=>n=e[t]=[r,i]));r.push(n[2]=a);var o=i.p+i.u(t),s=new Error;i.l(o,(r=>{if(i.o(e,t)&&(0!==(n=e[t])&&(e[t]=void 0),n)){var a=r&&("load"===r.type?"missing":r.type),o=r&&r.target&&r.target.src;s.message="Loading chunk "+t+" failed.\n("+a+": "+o+")",s.name="ChunkLoadError",s.type=a,s.request=o,n[1](s)}}),"chunk-"+t,t)}};var t=(t,r)=>{var n,a,[o,s,c]=r,u=0;if(o.some((t=>0!==e[t]))){for(n in s)i.o(s,n)&&(i.m[n]=s[n]);if(c)c(i)}for(t&&t(r);u<o.length;u++)a=o[u],i.o(e,a)&&e[a]&&e[a][0](),e[a]=0},r=self["webpackChunk:NRBA-1.250.0.PROD"]=self["webpackChunk:NRBA-1.250.0.PROD"]||[];r.forEach(t.bind(null,0)),r.push=t.bind(null,r.push.bind(r))})(),(()=>{"use strict";i(1926);var e=i(50);class t{#e(e){return"Call to agent api ".concat(e," failed. The agent is not currently initialized.")}addPageAction(t,r){(0,e.Z)(this.#e("addPageAction"))}setPageViewName(t,r){(0,e.Z)(this.#e("setPageViewName"))}setCustomAttribute(t,r,n){(0,e.Z)(this.#e("setCustomAttribute"))}noticeError(t,r){(0,e.Z)(this.#e("noticeError"))}setUserId(t){(0,e.Z)(this.#e("setUserId"))}setApplicationVersion(t){(0,e.Z)(this.#e("setApplicationVersion"))}setErrorHandler(t){(0,e.Z)(this.#e("setErrorHandler"))}finished(t){(0,e.Z)(this.#e("finished"))}addRelease(t,r){(0,e.Z)(this.#e("addRelease"))}start(t){(0,e.Z)(this.#e("start"))}recordReplay(){(0,e.Z)(this.#e("recordReplay"))}pauseReplay(){(0,e.Z)(this.#e("pauseReplay"))}}var r=i(3325),n=i(234);const a=Object.values(r.D);function o(e){const t={};return a.forEach((r=>{t[r]=function(e,t){return!1!==(0,n.Mt)(t,"".concat(e,".enabled"))}(r,e)})),t}var s=i(7530);var c=i(8e3),u=i(5938),d=i(3960),l=i(385);class f extends u.W{constructor(e,t,r){let i=!(arguments.length>3&&void 0!==arguments[3])||arguments[3];super(e,t,r),this.auto=i,this.abortHandler=void 0,this.featAggregate=void 0,this.onAggregateImported=void 0,!1===(0,n.Mt)(this.agentIdentifier,"".concat(this.featureName,".autoStart"))&&(this.auto=!1),this.auto&&(0,c.R)(e,r)}importAggregator(){let t=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};if(this.featAggregate)return;if(!this.auto)return void this.ee.on("".concat(this.featureName,"-opt-in"),(()=>{(0,c.R)(this.agentIdentifier,this.featureName),this.auto=!0,this.importAggregator()}));const r=l.il&&!0===(0,n.Mt)(this.agentIdentifier,"privacy.cookies_enabled");let a;this.onAggregateImported=new Promise((e=>{a=e}));const o=async()=>{let n;try{if(r){const{setupAgentSession:e}=await i.e(75).then(i.bind(i,957));n=e(this.agentIdentifier)}}catch(t){(0,e.Z)("A problem occurred when starting up session manager. This page will not start or extend any session.",t)}try{if(!this.shouldImportAgg(this.featureName,n))return(0,c.L)(this.agentIdentifier,this.featureName),void a(!1);const{lazyFeatureLoader:e}=await i.e(75).then(i.bind(i,8582)),{Aggregate:r}=await e(this.featureName,"aggregate");this.featAggregate=new r(this.agentIdentifier,this.aggregator,t),a(!0)}catch(t){(0,e.Z)("Downloading and initializing ".concat(this.featureName," failed..."),t),this.abortHandler?.(),(0,c.L)(this.agentIdentifier,this.featureName),a(!1)}};l.il?(0,d.b2)((()=>o()),!0):o()}shouldImportAgg(e,t){return e!==r.D.sessionReplay||!!n.Yu.MO&&(!1!==(0,n.Mt)(this.agentIdentifier,"session_trace.enabled")&&(!!t?.isNew||!!t?.state.sessionReplayMode))}}var g=i(7633);class p extends f{static featureName=g.t;constructor(e,t){let r=!(arguments.length>2&&void 0!==arguments[2])||arguments[2];super(e,t,g.t,r),this.importAggregator()}}var h=i(1117),v=i(1284);class m extends h.w{constructor(e){super(e),this.aggregatedData={}}store(e,t,r,n,i){var a=this.getBucket(e,t,r,i);return a.metrics=function(e,t){t||(t={count:0});return t.count+=1,(0,v.D)(e,(function(e,r){t[e]=b(r,t[e])})),t}(n,a.metrics),a}merge(e,t,r,n,i){var a=this.getBucket(e,t,n,i);if(a.metrics){var o=a.metrics;o.count+=r.count,(0,v.D)(r,(function(e,t){if("count"!==e){var n=o[e],i=r[e];i&&!i.c?o[e]=b(i.t,n):o[e]=function(e,t){if(!t)return e;t.c||(t=y(t.t));return t.min=Math.min(e.min,t.min),t.max=Math.max(e.max,t.max),t.t+=e.t,t.sos+=e.sos,t.c+=e.c,t}(i,o[e])}}))}else a.metrics=r}storeMetric(e,t,r,n){var i=this.getBucket(e,t,r);return i.stats=b(n,i.stats),i}getBucket(e,t,r,n){this.aggregatedData[e]||(this.aggregatedData[e]={});var i=this.aggregatedData[e][t];return i||(i=this.aggregatedData[e][t]={params:r||{}},n&&(i.custom=n)),i}get(e,t){return t?this.aggregatedData[e]&&this.aggregatedData[e][t]:this.aggregatedData[e]}take(e){for(var t={},r="",n=!1,i=0;i<e.length;i++)t[r=e[i]]=w(this.aggregatedData[r]),t[r].length&&(n=!0),delete this.aggregatedData[r];return n?t:null}}function b(e,t){return null==e?function(e){e?e.c++:e={c:1};return e}(t):t?(t.c||(t=y(t.t)),t.c+=1,t.t+=e,t.sos+=e*e,e>t.max&&(t.max=e),e<t.min&&(t.min=e),t):{t:e}}function y(e){return{t:e,min:e,max:e,sos:e*e,c:1}}function w(e){return"object"!=typeof e?[]:(0,v.D)(e,A)}function A(e,t){return t}var _=i(8632),x=i(4402),E=i(4351);var D=i(5546),k=i(7956),j=i(3239),S=i(7894),R=i(9251);class T extends f{static featureName=R.t;constructor(e,t){let r=!(arguments.length>2&&void 0!==arguments[2])||arguments[2];super(e,t,R.t,r),l.il&&((0,k.N)((()=>(0,D.p)("docHidden",[(0,S.z)()],void 0,R.t,this.ee)),!0),(0,j.bP)("pagehide",(()=>(0,D.p)("winPagehide",[(0,S.z)()],void 0,R.t,this.ee))),this.importAggregator())}}var I=i(3081);class P extends f{static featureName=I.t9;constructor(e,t){let r=!(arguments.length>2&&void 0!==arguments[2])||arguments[2];super(e,t,I.t9,r),this.importAggregator()}}new class extends t{constructor(t){let r=arguments.length>1&&void 0!==arguments[1]?arguments[1]:(0,x.ky)(16);super(),l._A?(this.agentIdentifier=r,this.sharedAggregator=new m({agentIdentifier:this.agentIdentifier}),this.features={},(0,_.h5)(r,this),this.desiredFeatures=new Set(t.features||[]),this.desiredFeatures.add(p),(0,s.j)(this,t,t.loaderType||"agent"),this.run()):(0,e.Z)("Failed to initial the agent. Could not determine the runtime environment.")}get config(){return{info:(0,n.C5)(this.agentIdentifier),init:(0,n.P_)(this.agentIdentifier),loader_config:(0,n.DL)(this.agentIdentifier),runtime:(0,n.OP)(this.agentIdentifier)}}run(){try{const t=o(this.agentIdentifier),n=[...this.desiredFeatures];n.sort(((e,t)=>r.p[e.featureName]-r.p[t.featureName])),n.forEach((n=>{if(t[n.featureName]||n.featureName===r.D.pageViewEvent){const i=function(e){switch(e){case r.D.ajax:return[r.D.jserrors];case r.D.sessionTrace:return[r.D.ajax,r.D.pageViewEvent];case r.D.sessionReplay:return[r.D.sessionTrace];case r.D.pageViewTiming:return[r.D.pageViewEvent];default:return[]}}(n.featureName);i.every((e=>t[e]))||(0,e.Z)("".concat(n.featureName," is enabled but one or more dependent features has been disabled (").concat((0,E.P)(i),"). This may cause unintended consequences or missing data...")),this.features[n.featureName]=new n(this.agentIdentifier,this.sharedAggregator)}}))}catch(t){(0,e.Z)("Failed to initialize all enabled instrument classes (agent aborted) -",t);for(const e in this.features)this.features[e].abortHandler?.();const r=(0,_.fP)();return delete r.initializedAgents[this.agentIdentifier]?.api,delete r.initializedAgents[this.agentIdentifier]?.features,delete this.sharedAggregator,r.ee?.abort(),delete r.ee?.get(this.agentIdentifier),!1}}addToTrace(t){(0,e.Z)("Call to agent api addToTrace failed. The session trace feature is not currently initialized.")}setCurrentRouteName(t){(0,e.Z)("Call to agent api setCurrentRouteName failed. The spa feature is not currently initialized.")}interaction(){(0,e.Z)("Call to agent api interaction failed. The spa feature is not currently initialized.")}}({features:[p,T,P],loaderType:"lite"})})()})();</script>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+	<title spar-query="/spar/api/config" v-cloak="true">{{site_name}}</title>
+	<link spar-query="/spar/api/config" rel="shortcut icon" :href="favicon" v-cloak="true">
+	<!-- Fonts -->
+	<link href="https://fonts.googleapis.com/css?family=Acme%7CPoppins:300,400,500,600,700" rel="stylesheet">
+	<script src="https://cdn.jsdelivr.net/npm/vue@2.6.0"></script>
+<link href="/themes/global/dist/vendor/css/font-awesome.min.css" rel="stylesheet">
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+<link href="/themes/global/dist/theme-modern/index.9147945c36f4169f09b3.css" rel="stylesheet">        <meta property="og:type" content="website">
+        <meta property="og:url" content="https://rlo.spiritsale.com">
+        <meta property="og:title" content="RiverLIFE Outfitters">
+        <meta property="og:description" content="Order apparel online today">
+        <meta property="og:keywords" content="">
+        <meta name="title" content="RiverLIFE Outfitters">
+        <meta name="description" content="Order apparel online today">
+        <meta name="keywords" content="">
+        <meta property="og:image" content="https://ss4data.blob.core.windows.net/spiritsale-prod-data/live-editor/26598/c386fb00-d2a0-41d9-80ac-5d1e2e2f6d29-img_0792-jpg?sp=r&amp;sv=2018-11-09&amp;se=2050-01-01T00%3A00%3A00Z&amp;sr=b&amp;sig=4fsnUHPXyIf3KaPgKNkTUDDwYO5N544hvEgA0swXBKE%3D">
+        
+<script type="text/javascript">        var DecoWorx = DecoWorx || { Spar: {} }
+        DecoWorx.Spar = DecoWorx.Spar || {}
+
+        DecoWorx.Spar.SPAR_DEVELOPMENT=true;
+        DecoWorx.Spar.translations={};
+        DecoWorx.Spar.config={"stock_location":{"id":1409,"name":"Stock Location","address1":"100 W Slippery Rock St","address2":"lower level","city":"Chicora","zipcode":"16025","phone":"7245045230","active":true,"country":{"id":1408,"iso_name":"UNITED STATES","iso":"US","iso3":"USA","name":"United States","numcode":840},"state":{"id":71795,"name":"Pennsylvania","abbr":"PA","country_id":1408}},"payment_methods":[{"id":6797,"type":"Spree::Gateway::StripeGateway","name":"Stripe"}],"static_pages":null,"default_country_id":1408,"site_name":"RiverLIFE Outfitters","designer_in_modal":false,"logo":"","favicon":"/favicon_default.png","is_published":true,"product_page_size":20,"cx_sid":"d4074ee7-5f66-476f-9202-1f9198a9af25","cx_cdn":"https://cxcore-commerce.azureedge.net/Cdn","cx_core":"https://cadxcdn2.azureedge.net/core-6-2-8","cx_canvas":"https://cadxcdn2.azureedge.net/grafika-6-1-21","cx_server":"https://cxcore-commerce.azurewebsites.net","cx_config":"spiritsale","stahls_api_endpoint":"https://api.stahls.com","current_tenant":1408,"designer_custom_css":null,"has_third_image":true,"is_empty_third_image":false,"is_logged":false,"tenant_session_id":null,"current_store":26598,"theme_id":11258,"theme_code":"theme-modern","theme_name":"Modern","s3_theme_url":"themes/bulldog-specialized-printing/rlo","local_theme_url":"app/themes/theme-modern","has_modified_theme":false,"designer_url":"https://cxcdn2.azureedge.net/commercedesigner4/23-05-03-06/index.html","designer_embedded_url":"https://cxcdn2.azureedge.net/commercedesigner4/23-05-03-06/index-frontend.html","default_language":"en","email":"FIX","contact_email":"","facebook_username":"@lifesbetteraroundthebend","twitter_username":"","pinterest_username":"","instagram_username":"riverlifeoutfitters","fundraising_goal":"0.0","fundraising_title":"","fundraising_design":"progress_bar","total_fundraising":null,"show_countdown":false,"countdown_message":"STORE CLOSES IN: COUNTDOWN","end_date":null,"server_time":"2024-01-16T11:59:35.691+00:00","seo_title":"","current_year":2024,"store_name":"RiverLIFE Outfitters","server_time":"2024-01-16T11:59:35.692+00:00","spar":{"api_endpoint":"https://rlo.spiritsale.com/api/"}};
+        DecoWorx.Spar.preloadedQueryResults = DecoWorx.Spar.preloadedQueryResults || {};
+        DecoWorx.Spar.preloadedQueryResults['/spar/api/config'] = {"stock_location":{"id":1409,"name":"Stock Location","address1":"100 W Slippery Rock St","address2":"lower level","city":"Chicora","zipcode":"16025","phone":"7245045230","active":true,"country":{"id":1408,"iso_name":"UNITED STATES","iso":"US","iso3":"USA","name":"United States","numcode":840},"state":{"id":71795,"name":"Pennsylvania","abbr":"PA","country_id":1408}},"payment_methods":[{"id":6797,"type":"Spree::Gateway::StripeGateway","name":"Stripe"}],"static_pages":null,"default_country_id":1408,"site_name":"RiverLIFE Outfitters","designer_in_modal":false,"logo":"","favicon":"/favicon_default.png","is_published":true,"product_page_size":20,"cx_sid":"d4074ee7-5f66-476f-9202-1f9198a9af25","cx_cdn":"https://cxcore-commerce.azureedge.net/Cdn","cx_core":"https://cadxcdn2.azureedge.net/core-6-2-8","cx_canvas":"https://cadxcdn2.azureedge.net/grafika-6-1-21","cx_server":"https://cxcore-commerce.azurewebsites.net","cx_config":"spiritsale","stahls_api_endpoint":"https://api.stahls.com","current_tenant":1408,"designer_custom_css":null,"has_third_image":true,"is_empty_third_image":false,"is_logged":false,"tenant_session_id":null,"current_store":26598,"theme_id":11258,"theme_code":"theme-modern","theme_name":"Modern","s3_theme_url":"themes/bulldog-specialized-printing/rlo","local_theme_url":"app/themes/theme-modern","has_modified_theme":false,"designer_url":"https://cxcdn2.azureedge.net/commercedesigner4/23-05-03-06/index.html","designer_embedded_url":"https://cxcdn2.azureedge.net/commercedesigner4/23-05-03-06/index-frontend.html","default_language":"en","email":"FIX","contact_email":"","facebook_username":"@lifesbetteraroundthebend","twitter_username":"","pinterest_username":"","instagram_username":"riverlifeoutfitters","fundraising_goal":"0.0","fundraising_title":"","fundraising_design":"progress_bar","total_fundraising":null,"show_countdown":false,"countdown_message":"STORE CLOSES IN: COUNTDOWN","end_date":null,"server_time":"2024-01-16T11:59:35.691+00:00","seo_title":"","current_year":2024,"store_name":"RiverLIFE Outfitters","server_time":"2024-01-16T11:59:35.692+00:00","spar":{"api_endpoint":"https://rlo.spiritsale.com/api/"}};
+DecoWorx.Spar.preloadedQueryResults['/spar/api/options'] = {"products_options":[{"option_type":2815,"name":"Size","presentation":"Size","position":0,"option_values":[{"id":133762,"name":"M","presentation":"M","option_type_name":"Size","option_type_id":2815,"option_type_presentation":"Size"},{"id":133763,"name":"S","presentation":"S","option_type_name":"Size","option_type_id":2815,"option_type_presentation":"Size"},{"id":133764,"name":"XS","presentation":"XS","option_type_name":"Size","option_type_id":2815,"option_type_presentation":"Size"},{"id":133765,"name":"XL","presentation":"XL","option_type_name":"Size","option_type_id":2815,"option_type_presentation":"Size"},{"id":133766,"name":"L","presentation":"L","option_type_name":"Size","option_type_id":2815,"option_type_presentation":"Size"},{"id":142707,"name":"2XL","presentation":"2XL","option_type_name":"Size","option_type_id":2815,"option_type_presentation":"Size"},{"id":142708,"name":"3XL","presentation":"3XL","option_type_name":"Size","option_type_id":2815,"option_type_presentation":"Size"},{"id":142709,"name":"4XL","presentation":"4XL","option_type_name":"Size","option_type_id":2815,"option_type_presentation":"Size"},{"id":142710,"name":"5XL","presentation":"5XL","option_type_name":"Size","option_type_id":2815,"option_type_presentation":"Size"},{"id":142733,"name":"OSFA","presentation":"OSFA","option_type_name":"Size","option_type_id":2815,"option_type_presentation":"Size"},{"id":142740,"name":"XXL","presentation":"XXL","option_type_name":"Size","option_type_id":2815,"option_type_presentation":"Size"},{"id":155109,"name":"6XL","presentation":"6XL","option_type_name":"Size","option_type_id":2815,"option_type_presentation":"Size"},{"id":157858,"name":"Adjustable","presentation":"Adjustable","option_type_name":"Size","option_type_id":2815,"option_type_presentation":"Size"}]},{"option_type":2816,"name":"Color","presentation":"Color","position":0,"option_values":[{"id":158506,"name":"Athletic Heather","presentation":"https://www.ssactivewear.com/Images/ColorSwatch/6883_fm.jpg","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":191535,"name":"Athletic Heather","presentation":"https://cdnm.sanmar.com/swatch/gifs/port_athleticheather.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":193877,"name":"Teal","presentation":"https://cdnm.sanmar.com/swatch/gifs/bc_teal.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":193880,"name":"Mint","presentation":"https://cdnm.sanmar.com/swatch/gifs/bc_mint.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":193888,"name":"Light Blue","presentation":"https://cdnm.sanmar.com/swatch/gifs/Gildan_LightBlue.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":206123,"name":"Maritime Frost","presentation":"https://cdnm.sanmar.com/swatch/gifs/districtmade_maritimefrost.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":206125,"name":"White","presentation":"https://cdnm.sanmar.com/swatch/gifs/district_white.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":218383,"name":"Red","presentation":"https://cdnm.sanmar.com/swatch/gifs/bc_red.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":220730,"name":"Ash","presentation":"https://cdnm.sanmar.com/swatch/gifs/Gildan_Ash.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":225850,"name":"Crunchberry","presentation":"https://cdnm.sanmar.com/swatch/gifs/CC_Crunchberry.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":225851,"name":"Island Reef","presentation":"https://cdnm.sanmar.com/swatch/gifs/CC_IslandReef.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":225852,"name":"Chambray","presentation":"https://cdnm.sanmar.com/swatch/gifs/CC_Chambray.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":225853,"name":"Chalky Mint","presentation":"https://cdnm.sanmar.com/swatch/gifs/CC_ChalkyMint.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":231816,"name":"Flo Blue","presentation":"https://cdnm.sanmar.com/swatch/gifs/CC_FloBlue.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":231817,"name":"Grey","presentation":"https://cdnm.sanmar.com/swatch/gifs/CC_Grey.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":231818,"name":"Pepper","presentation":"https://cdnm.sanmar.com/swatch/gifs/CC_Pepper.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":231819,"name":"Blue Jean","presentation":"https://cdnm.sanmar.com/swatch/gifs/CC_BlueJean.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":231829,"name":"Sand","presentation":"https://cdnm.sanmar.com/swatch/gifs/Gildan_Sand.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":231848,"name":"Lagoon","presentation":"https://cdnm.sanmar.com/swatch/gifs/CC_Lagoon.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":231861,"name":"True Navy","presentation":"https://cdnm.sanmar.com/swatch/gifs/CC_TrueNavy.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":231870,"name":"Navy","presentation":"https://cdnm.sanmar.com/swatch/gifs/Gildan_Navy.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":231871,"name":"Charcoal","presentation":"https://cdnm.sanmar.com/swatch/gifs/Gildan_Charcoal.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":237367,"name":"Heathered Grey","presentation":"https://cdnm.sanmar.com/swatch/gifs/district_heathergrey.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":237370,"name":"Heathered Pink Azalea","presentation":"https://cdnm.sanmar.com/swatch/gifs/district_heatheredpinkazalea.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":238922,"name":"Navy","presentation":"https://cdnm.sanmar.com/swatch/gifs/PORTANDCO_navy.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":238923,"name":"Jet Black","presentation":"https://cdnm.sanmar.com/swatch/gifs/PORTANDCO_jetblack.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":244587,"name":"White","presentation":"https://cdnm.sanmar.com/swatch/gifs/ST_white_swatch.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":255583,"name":"White Marble","presentation":"https://cdnm.sanmar.com/swatch/gifs/bc_whitemarble.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":268687,"name":"Burnt Orange","presentation":"https://cdnm.sanmar.com/swatch/gifs/CC_6014_burntorange_swatch.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":268690,"name":"Burnt Orange","presentation":"https://cdnm.sanmar.com/swatch/gifs/CC_1717_burntorange_swatch.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":268691,"name":"Sapphire","presentation":"https://cdnm.sanmar.com/swatch/gifs/CC_Sapphire.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":268692,"name":"Banana","presentation":"https://cdnm.sanmar.com/swatch/gifs/Banana.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":268693,"name":"Team Cardinal","presentation":"https://cdnm.sanmar.com/swatch/gifs/portandco_teamcardinal.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":268694,"name":"Sapphire","presentation":"https://cdnm.sanmar.com/swatch/gifs/port_sapphire.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":268706,"name":"Light Green","presentation":"https://cdnm.sanmar.com/swatch/gifs/ComfortColors_1566_lightgreen_swatch.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":268707,"name":"Seafoam","presentation":"https://cdnm.sanmar.com/swatch/gifs/CC_Seafoam.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":268708,"name":"Crimson","presentation":"https://cdnm.sanmar.com/swatch/gifs/CC_Crimson.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":268709,"name":"New Navy/ Light Blue","presentation":"https://cdnm.sanmar.com/swatch/gifs/DistrictThreads_newnavy.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":268710,"name":"Maroon/ Grey","presentation":"https://cdnm.sanmar.com/swatch/gifs/DistrictThreads_maroon.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":268711,"name":"Nickel/ New Red","presentation":"https://cdnm.sanmar.com/swatch/gifs/DistrictThreads_nickelnewred.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":268712,"name":"Nickel","presentation":"https://cdnm.sanmar.com/swatch/gifs/district_nickel.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":268713,"name":"Stone","presentation":"https://cdnm.sanmar.com/swatch/gifs/DistrictThreads_stone.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":268714,"name":"Scotland Blue","presentation":"https://cdnm.sanmar.com/swatch/gifs/district_scotlandblue.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":268715,"name":"Light Olive","presentation":"https://cdnm.sanmar.com/swatch/gifs/district_lightolive.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":268716,"name":"Burnt Orange","presentation":"https://cdnm.sanmar.com/swatch/gifs/district_burntorange_DT600.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":268717,"name":"Chocolate Brown/ White","presentation":"https://cdnm.sanmar.com/swatch/gifs/DistrictThreads_Chocolate.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":268718,"name":"White","presentation":"https://cdnm.sanmar.com/swatch/gifs/CC_White.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":268719,"name":"Black","presentation":"https://www.ssactivewear.com/Images/ColorSwatch/6512_fm.jpg","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":268725,"name":"Heather Gray","presentation":"https://cdnm.sanmar.com/swatch/gifs/NL_HeatherGray_swatch.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":268726,"name":"Peach","presentation":"https://cdnm.sanmar.com/swatch/gifs/bc_peach.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":268727,"name":"Dusty Blue","presentation":"https://cdnm.sanmar.com/swatch/gifs/bc_dustyblue.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":268792,"name":"Sandstone","presentation":"https://cdnm.sanmar.com/swatch/gifs/CC_Sandstone.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":268793,"name":"Graphite","presentation":"https://cdnm.sanmar.com/swatch/gifs/CC_Graphite.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":268794,"name":"White","presentation":"https://cdnm.sanmar.com/swatch/gifs/PORTANDCO_white.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":268795,"name":"Aqua Blue/ Light Lime","presentation":"https://www.ssactivewear.com/Images/ColorSwatch/23113_fm.jpg","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":268796,"name":"Bimini Blue/ Peach","presentation":"https://www.ssactivewear.com/Images/ColorSwatch/23218_fm.jpg","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":268797,"name":"Black/ Light Charcoal","presentation":"https://www.ssactivewear.com/Images/ColorSwatch/23112_fm.jpg","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":268799,"name":"Heather Midnight Navy","presentation":"https://cdnm.sanmar.com/swatch/gifs/NL_HthrMidnightNavy_swatch.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":268800,"name":"Heather Teal","presentation":"https://cdnm.sanmar.com/swatch/gifs/NL_HthrTeal_swatch.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":268802,"name":"Heathered Charcoal","presentation":"https://cdnm.sanmar.com/swatch/gifs/DM_HeatheredCharcoal.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":268803,"name":"Black","presentation":"https://cdnm.sanmar.com/swatch/gifs/District_Black_swatch.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":268804,"name":"Navy Frost","presentation":"https://cdnm.sanmar.com/swatch/gifs/districtmade_navyfrost.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":268805,"name":"Black Frost","presentation":"https://cdnm.sanmar.com/swatch/gifs/districtmade_blackfrost.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":269013,"name":"Aqua Blue","presentation":"https://www.ssactivewear.com/Images/ColorSwatch/23109_fm.jpg","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":269014,"name":"Heather Grey","presentation":"https://www.ssactivewear.com/Images/ColorSwatch/23101_fm.jpg","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":269015,"name":"Pale Yellow","presentation":"https://www.ssactivewear.com/Images/ColorSwatch/23187_fm.jpg","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":269353,"name":"Cornsilk","presentation":"https://cdnm.sanmar.com/swatch/gifs/gildan_cornsilk.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":269395,"name":"Aluminum","presentation":"https://www.ssactivewear.com/Images/ColorSwatch/23107_fm.jpg","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":269396,"name":"Blue Mist","presentation":"https://www.ssactivewear.com/Images/ColorSwatch/23271_fm.jpg","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":269397,"name":"Sand","presentation":"https://www.ssactivewear.com/Images/ColorSwatch/23256_fm.jpg","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":269399,"name":"Yellow","presentation":"https://cdnm.sanmar.com/swatch/gifs/ST_yellow_swatch.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":269400,"name":"Soft Coral","presentation":"https://cdnm.sanmar.com/swatch/gifs/ST_softcoral_swatch.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":269401,"name":"Light Blue","presentation":"https://cdnm.sanmar.com/swatch/gifs/ST_lightblue_swatch.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":269402,"name":"Bright Seafoam","presentation":"https://cdnm.sanmar.com/swatch/gifs/ST_brightseafoam_swatch.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":269422,"name":"Oatmeal","presentation":"https://cdnm.sanmar.com/swatch/gifs/NL_Oatmeal_swatch.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":270139,"name":"Neon Pink","presentation":"https://cdnm.sanmar.com/swatch/gifs/bc_neonpink.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":270140,"name":"Heather Navy","presentation":"https://cdnm.sanmar.com/swatch/gifs/bc_heathernavy.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":270141,"name":"Coral","presentation":"https://cdnm.sanmar.com/swatch/gifs/bc_coral.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":270147,"name":"Heather Cardinal","presentation":"https://cdnm.sanmar.com/swatch/gifs/NL_HthrCardinal_swatch.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":270179,"name":"Tan","presentation":"https://cdnm.sanmar.com/swatch/gifs/Gildan_Tan.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":270180,"name":"Metro Blue","presentation":"https://cdnm.sanmar.com/swatch/gifs/Gildan_MetroBlue.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":270181,"name":"Texas Orange","presentation":"https://cdnm.sanmar.com/swatch/gifs/Gildan_TexasOrange.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":270182,"name":"Indigo Blue","presentation":"https://cdnm.sanmar.com/swatch/gifs/Gildan_IndigoBlue.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":270185,"name":"Desert Tan Heather","presentation":"https://cdnm.sanmar.com/swatch/gifs/District_DT1300_DsrtTanHtr_swatch.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":270186,"name":"Heathered Eucalyptus Blue","presentation":"https://cdnm.sanmar.com/swatch/gifs/District_DT1300_HdEuclpsBl_swatch.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":270187,"name":"Military Green Frost","presentation":"https://cdnm.sanmar.com/swatch/gifs/District_DT1300_MilGrnFst_swatch.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":270189,"name":"Orange","presentation":"https://cdnm.sanmar.com/swatch/gifs/Gildan_OSHAOrange.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":271030,"name":"Tangerine","presentation":"https://cdnm.sanmar.com/swatch/gifs/Gildan_Tangerine.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":271031,"name":"Heather Military Green","presentation":"https://cdnm.sanmar.com/swatch/gifs/NL_HthrMilitaryGreen_swatch.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":271032,"name":"Heather Bay Blue","presentation":"https://cdnm.sanmar.com/swatch/gifs/NL_HthrBayBlue_swatch.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":271033,"name":"Flint Blue Heather","presentation":"https://cdnm.sanmar.com/swatch/gifs/District_DM130_FlintBlueHthr_swatch.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":271034,"name":"Blush Frost","presentation":"https://cdnm.sanmar.com/swatch/gifs/DM_BlushFrost.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":271035,"name":"Flint Blue Heather","presentation":"https://cdnm.sanmar.com/swatch/gifs/District_DM132_flintblueheather_Swatch.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":271036,"name":"Military Green Frost","presentation":"https://cdnm.sanmar.com/swatch/gifs/District_DM132_militarygreenfrost_Swatch.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":271038,"name":"Grey Frost","presentation":"https://cdnm.sanmar.com/swatch/gifs/district_greyfrost.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":271039,"name":"Heather Maroon","presentation":"https://cdnm.sanmar.com/swatch/gifs/NL_HthrMaroon_swatch.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":271040,"name":"Khaki","presentation":"https://cdnm.sanmar.com/swatch/gifs/CC_6014_khaki_swatch.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":271041,"name":"Khaki","presentation":"https://cdnm.sanmar.com/swatch/gifs/CC_1717_khaki_swatch.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":271042,"name":"White","presentation":"https://cdnm.sanmar.com/swatch/gifs/ComfortColors_1567_white_swatch.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":271043,"name":"Ice Blue","presentation":"https://cdnm.sanmar.com/swatch/gifs/ComfortColors_IceBlue_swatch.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":271044,"name":"Watermelon","presentation":"https://cdnm.sanmar.com/swatch/gifs/CC_Watermelon.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":271045,"name":"Neon Lime","presentation":"https://www.ssactivewear.com/Images/ColorSwatch/23164_fm.jpg","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":271046,"name":"Neon Orange","presentation":"https://www.ssactivewear.com/Images/ColorSwatch/23185_fm.jpg","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":271616,"name":"White Fleck Triblend","presentation":"https://cdnm.sanmar.com/swatch/gifs/bc_whiteflecktriblend.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":271627,"name":"Grey Steel/ Neon Yellow","presentation":"https://cdnm.sanmar.com/swatch/gifs/pa_greysteelneonyellow.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":271628,"name":"Grey Steel/ Neon Blue","presentation":"https://cdnm.sanmar.com/swatch/gifs/PA_GreySteelNeonBlue.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":271936,"name":"Light Pink","presentation":"https://cdnm.sanmar.com/swatch/gifs/DistrictThreads_LightPink.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":271937,"name":"Heathered Nickel","presentation":"https://cdnm.sanmar.com/swatch/gifs/DistrictThreads_HeathNickel.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":271938,"name":"Seaglass Blue","presentation":"https://cdnm.sanmar.com/swatch/gifs/District_SeaglassBlue_swatch.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":271939,"name":"Flint Blue Heather","presentation":"https://cdnm.sanmar.com/swatch/gifs/District_DT135_flintblueheather_swatch.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":271940,"name":"Maritime Frost","presentation":"https://cdnm.sanmar.com/swatch/gifs/District_DT135_maritimefrost_Swatch.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":271941,"name":"Wisteria Heather","presentation":"https://cdnm.sanmar.com/swatch/gifs/District_DT135_WisteriaHeather_swatch.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":271943,"name":"Light Green","presentation":"https://cdnm.sanmar.com/swatch/gifs/CC_LightGreen.gif","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":272820,"name":"Burnt Orange","presentation":"https://www.ssactivewear.com/Images/ColorSwatch/5696_fm.jpg","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":272821,"name":"Crimson","presentation":"https://www.ssactivewear.com/Images/ColorSwatch/7094_fm.jpg","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":272822,"name":"Seafoam","presentation":"https://www.ssactivewear.com/Images/ColorSwatch/8948_fm.jpg","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"},{"id":288767,"name":"Heather/ USA Flag","presentation":"https://www.ssactivewear.com/Images/ColorSwatch/24856_fm.jpg","option_type_name":"Color","option_type_id":2816,"option_type_presentation":"Color"}]}]}
+DecoWorx.Spar.preloadedQueryResults['/spar/api/cart'] = {"cart":{"id":null,"number":null,"item_total":"0.0","total":"0.0","ship_total":"0.0","state":"cart","adjustment_total":"0.0","payment_fee_amount":0,"custom_fee_amount":0,"user_id":null,"created_at":null,"updated_at":null,"completed_at":null,"payment_total":"0.0","shipment_state":null,"payment_state":null,"email":null,"notes_label":null,"notes":null,"special_instructions":null,"channel":"spree","included_tax_total":"0.0","additional_tax_total":"0.0","display_included_tax_total":"$0.00","display_additional_tax_total":"$0.00","tax_total":"0.0","currency":"USD","checkout_as_guest":false,"info":null,"shipment_number":null,"checkout_token":"","display_item_total":"$0.00","display_cart_total":"$0.00","total_quantity":0,"display_total":"$0.00","display_ship_total":"$0.00","display_tax_total":"$0.00","token":null,"checkout_steps":["address","delivery","payment","complete"],"job_state":"Quote","bill_address":null,"ship_address":null,"line_items":[],"store":null,"user":null,"permissions":{"can_update":false}}}
+DecoWorx.Spar.preloadedQueryResults['/spar/api/user'] = {"user":{"id":null,"email":null,"created_at":null,"updated_at":null,"spree_api_key":null,"first_name":null,"last_name":null,"bill_address":null,"ship_address":null,"orders":[],"full_name":" ","allow_guest_checkout":true}}
+DecoWorx.Spar.preloadedQueryResults['/spar/api/static_pages'] = {"static_pages":[]}
+DecoWorx.Spar.preloadedQueryResults['/spar/api/products?featured=true'] = {"products":[{"id":322672,"name":"RLO Classic Visor","description":"\u003cp\u003eThis budget-friendly 3-panel visor has a self-fabric sweatband that folds down for easy decoration access. | Fabric: 100% cotton twill; 80/20 poly/cotton (Neons) Closure: Hook and loop\u003c/p\u003e","price":"25.0","display_price":"$25.00","available_on":"2023-04-21T00:00:00.000-04:00","slug":"port-company-fashion-visor-cp45","meta_description":null,"meta_keywords":null,"shipping_category_id":1409,"specsheet":"https://www.apparelvideos.com/images/specsheet/pdf/specsheet/CP45_specsheet.pdf","taxon_ids":[17543],"total_on_hand":null,"cadx_design_document_id":"c5a67507-fda4-442c-af78-c4c101e5605f","cadx_background_document_id":"4d29359a-4671-40f3-9f06-3f916d5923af","selected_option_types":[2816],"pricing_labels":null,"total_pricing_labels":null,"kind":"catalog","taxons":[{"id":17543,"name":"Categories","pretty_name":"Categories","permalink":"categories","parent_id":null,"taxonomy_id":1408,"parents":[]}],"has_variants":true,"colors":["https://cdnm.sanmar.com/swatch/gifs/PORTANDCO_white.gif"],"colors_preview":[{"name":"White","presentation":"https://cdnm.sanmar.com/swatch/gifs/PORTANDCO_white.gif"}],"design_modifiable":true,"is_2d":true,"is_request_a_quote":false,"is_available":true,"permalink":"/products/port-company-fashion-visor-cp45","image_url":"https://cxcore-commerce.azureedge.net/Cdn/Core2Doc/Thumbnail?{\"config\":\"spiritsale\",\"Ident\":{\"SessionId\":\"d4074ee7-5f66-476f-9202-1f9198a9af25\"},\"Model\":{\"Doc\":{\"Id\":\"c5a67507-fda4-442c-af78-c4c101e5605f\",\"cache\":\"2023-10-04T22:00:25-0400\"},\"BackgroundDoc\":{\"Id\":\"4d29359a-4671-40f3-9f06-3f916d5923af\",\"cache\":\"2023-10-04T22:00:25-0400\"},\"Page\":{\"Id\":\"front\"},\"Height\":600,\"Width\":600,\"Format\":\"png\",\"ProcessST\":true}}"},{"id":344700,"name":"Embroidered Richardson 112 Mesh Trucker Cap","description":"\u003cul\u003e\r\n\u003cli\u003e60/40 cotton/polyester blend\u003c/li\u003e\r\n\u003cli\u003e100% polyester printed mesh back\u003c/li\u003e\r\n\u003cli\u003eStructured, six-panel, mid-profile\u003c/li\u003e\r\n\u003cli\u003ePre-curved visor\u003c/li\u003e\r\n\u003cli\u003eSnapback closure\u003c/li\u003e\r\n\u003c/ul\u003e\r\n\u003cp\u003e\u003cspan style=\"color: #ff0000; text-decoration-color: initial;\"\u003ePlease note camouflage patterns may feature brand logos\u003c/span\u003e\u003c/p\u003e\r\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e","price":"30.0","display_price":"$30.00","available_on":"2023-07-02T00:00:00.000-04:00","slug":"printed-mesh-trucker-cap","meta_description":null,"meta_keywords":null,"shipping_category_id":1409,"specsheet":null,"taxon_ids":[17543],"total_on_hand":null,"cadx_design_document_id":"3c229acc-67b8-4725-bb77-d8d969f6da05","cadx_background_document_id":"a3cf5b7a-b7e0-45a9-90dc-37068da6ec4b","selected_option_types":[2816],"pricing_labels":null,"total_pricing_labels":null,"kind":"catalog","taxons":[{"id":17543,"name":"Categories","pretty_name":"Categories","permalink":"categories","parent_id":null,"taxonomy_id":1408,"parents":[]}],"has_variants":true,"colors":["https://www.ssactivewear.com/Images/ColorSwatch/24856_fm.jpg"],"colors_preview":[{"name":"Heather/ USA Flag","presentation":"https://www.ssactivewear.com/Images/ColorSwatch/24856_fm.jpg"}],"design_modifiable":true,"is_2d":true,"is_request_a_quote":false,"is_available":true,"permalink":"/products/printed-mesh-trucker-cap","image_url":"https://cxcore-commerce.azureedge.net/Cdn/Core2Doc/Thumbnail?{\"config\":\"spiritsale\",\"Ident\":{\"SessionId\":\"d4074ee7-5f66-476f-9202-1f9198a9af25\"},\"Model\":{\"Doc\":{\"Id\":\"3c229acc-67b8-4725-bb77-d8d969f6da05\",\"cache\":\"2023-07-03T20:51:08-0400\"},\"BackgroundDoc\":{\"Id\":\"a3cf5b7a-b7e0-45a9-90dc-37068da6ec4b\",\"cache\":\"2023-07-03T20:51:08-0400\"},\"Page\":{\"Id\":\"front\"},\"Height\":600,\"Width\":600,\"Format\":\"png\",\"ProcessST\":true}}"}],"count":2,"total_count":57,"current_page":1,"per_page":25,"pages":29}
+</script><script>
+          (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+          new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+          j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+          'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+          })(window,document,'script','dataLayer','GTM-K4NWD4G');
+        </script><style>              body, .white, section.related-products, .static-page, #pagination-contain { background-color: rgba(245,166,35,1); }
+              .main-nav, .navbar-collapse.collapse.in { background-color: rgba(40,140,100,1); }
+              .navbar-brand, .carousel-caption h1 { color: rgba(245,166,35,1); }
+              .navbar-brand, .carousel-caption h1 { font-family: "Acme"; }
+              .navbar-brand div span { font-size: 13px; }
+              .inline-menu li.li-inline a { color: rgba(245,166,35,1); }
+              .inline-menu li.li-inline a:hover, .li-search a.active .fa, .li-search a.active .fa, form.search.active .form-group, a:hover, .breadcrumb a:hover { color: rgba(0,0,0,0); }
+              body, body p, p.text { font-family: "Poppins"; }
+              .dynamic-data, .product-specification h1, .panel-title, .panel-group .panel-heading, .title h2, .btn-default#sort-by .fa , .btn-default#sort-by, .static-content, .static-page .title h2, section.product-description h1, .panel a.collapsed > .panel-heading > .panel-title:after, .product-specification span { color: #1d1d1d; }
+              body, p.text, .static-content, form.search input, .searcher i, .sku, #category-list ul li a, .breadcrumb>.active, section.product-description p, .product-specification p.price, .product-specification span.price { color: rgba(255,255,255,1); }
+               .clear-filters-btn, ul.zise-list li, a.button-buy, button.checkout, .price-search-btn, button .adding-to-cart, button.add-to-cart, button, span.cart-number, ul.size-list li, .size-list li > a { color: #fff; }
+               .clear-filters-btn, ul.zise-list li, a.button-buy, button.checkout, span.cart-number, .price-search-btn, button .adding-to-cart, button.add-to-cart, button, ul.size-list li, .size-list li:hover, .size-list li { background-color: rgba(245,166,35,1); }
+              .clear-filters-btn:hover, ul.zise-list li:hover,  ul.zise-list li.selected, a.button-buy:hover, button.checkout:hover, .price-search-btn:hover, button.add-to-cart:hover, button:hover, .size-list li.active > a, .size-list li:hover > a, a[contenteditable='true']:focus { color: #fff; }
+               .clear-filters-btn:hover, ul.zise-list li:hover, ul.zise-list li.selected, a.button-buy:hover, button.checkout:hover, .price-search-btn:hover, button.add-to-cart:hover, button:hover, .size-list li.active, .size-list li:hover, a[contenteditable='true']:focus { background-color: rgba(255,255,255,1); }
+              .breadcrumb a, #category-list ul li a:hover, #category-list li.active a { color: rgba(255,255,255,1); }
+              #store-info-top-banner { display: block; }
+              #store-info-top-banner, #store-info-top-banner div.fr-element.fr-view { background-color: rgba(245,166,35,1); }
+              #store-info-banner-bottom { display: none; }
+              #store-info-banner-bottom, #store-info-banner-bottom div.fr-element.fr-view { background-color: #D4D4D4; }
+              .navbar-collapse .navbar-nav li a { color: rgba(255,255,255,1); }
+              .navbar-collapse .navbar-nav li a:hover { color: rgba(255,255,255,1); }
+              .navbar-collapse .navbar-nav li a:hover { background-color: rgba(255,255,255,1); }
+              .navbar-collapse .navbar-nav li a { font-size: 23px; }
+              .inline-menu li.li-inline .dropdown-menu>li>a, .dropdown-menu>li>a, .inline-menu li.li-inline .dropdown-menu>li>a:hover, .dropdown-menu>li>a:hover { color: rgba(255,255,255,1); }
+              .inline-menu li.li-inline.logued.dropdown.open .dropdown-menu>li>a:hover, .dropdown-menu>li>a:hover { background-color: rgba(255,255,255,1); }
+              .table>tbody>tr>td .fa, .modal-header .close:hover { color: #537791; }
+              .navbar-toggle { background-color: rgba(245,166,35,1); }
+              .navbar-toggle .icon-bar { background-color: rgba(255,255,255,1); }
+              #carousel-home { display: block; }
+              .carousel-inner .item h1 { color: rgba(255,255,255,1); }
+              .carousel-inner .item h1 { font-family: "Acme"; }
+              .carousel-caption h1 { font-size: 58px; }
+              .carousel-caption p { color: rgba(255,255,255,1); }
+              .carousel-caption p { font-size: 30px; }
+              .carousel-caption { background-color: rgba(255,255,255, 0); }
+              .wrapper-products, #pagination-contain { background-color: rgba(255, 255, 255, 1); }
+              .wrapper-products .item .thumbnail .caption { background-color: rgba(245,166,35,1); }
+              .thumbnail .caption h2 { color: rgba(40,140,100,1); }
+              .thumbnail .caption p.price { color: rgba(40,140,100,1); }
+              .footer-flex-contain > div.left-footer-section { display: flex; }
+              .bottom-footer { background-color: rgba(245,166,35,1); }
+              .bottom-footer span, .footer-flex-contain .center-footer-section, .footer-social-icons ul.social i, .footer-title h4, .desktop-social-title h4 { color: rgba(40,140,100,1); }
+              .bottom-footer, .footer-title h4 { font-size: 12px; }
+</style>
+<style>[v-cloak] { visibility: hidden; }</style>
+</head>
+<body>
+        <noscript>
+          <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K4NWD4G" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+        </noscript>
+        
+	<!-- Menu -->
+	<!--header spar-include="_header.html">
+	</header-->
+	<nav spar-included="_nav.html">
+	<section class="" id="countDownMessage" v-if="show_countdown" spar-query="/spar/api/config" v-cloak="true">
+</section>
+<div class="container main-nav">
+
+   <div class="row">
+      <div class="col-xs-12">
+         <div class="navbar-header" spar-query="/spar/api/config" v-cloak="true">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse" aria-expanded="false">
+               <span class="sr-only">Toggle navigation</span>
+               <span class="icon-bar"></span>
+               <span class="icon-bar"></span>
+               <span class="icon-bar"></span>
+            </button>
+             <a class="navbar-brand" href="/">
+               <div v-if="!logo">
+                 <span>{{store_name}}</span>
+               </div>
+               <div v-else class="row">
+                 <img :alt="site_name" :src="logo">
+               </div>
+             </a>
+         </div>
+
+         <ul class="nav navbar-nav inline-menu">
+            <li class="li-search li-inline">
+               <a href="#"><i class="fa fa-search" aria-hidden="true"></i></a>
+               <!-- Search Form -->
+               <form class="search" spar-query="/spar/api/options" v-on:submit.prevent="search(filters.search,'/products')" v-cloak="true">
+                  <div class="form-group">
+                     <input type="text" class="form-control" placeholder="Search..." v-model="filters.search">
+                     <span class="searcher"><i class="fa fa-arrow-right" aria-hidden="true" v-on:click="search(filters.search,'/products')"></i></span>
+                  </div>
+               </form>
+            </li>
+            <li class="li-inline cart">
+               <a href="#" data-toggle="modal" data-target="#cartModal">
+                  <i class="fa fa-shopping-bag" aria-hidden="true"></i>
+                  <span class="cart-number" spar-query="/spar/api/cart" v-cloak="true">{{cart.total_quantity}}</span>
+               </a>
+            </li>
+            <li spar-query="/spar/api/user" v-if="user.allow_guest_checkout" class="right-li" v-bind:class="{ logued: isLogged(user), dropdown: true }" v-cloak="true">
+               <a href="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                  <i class="fa fa-user-o" aria-hidden="true"></i>
+               </a>
+               <ul class="dropdown-menu user-menu">
+                  <li><a href="#" v-on:click="myAccount()">My Account</a></li>
+                  <li v-if="isLogged(user)"><a href="#" v-on:click="logout()">Logout</a></li>
+                  <li v-else><a href="#" v-on:click="login()">Login</a></li>
+               </ul>
+            </li>
+         </ul>
+
+         <div class="collapse navbar-collapse" id="navbar-collapse">
+            <ul class="nav navbar-nav" spar-query="/spar/api/static_pages" v-cloak="true">
+               <li class="nav-item">
+                  <a href="/products">Catalog</a>
+               </li>
+               <li class="nav-item" v-for="page in static_pages">
+                  <a :href='"/pages/" + page.slug'>{{page.title}}</a>
+               </li>
+               <!--li class="nav-item">
+                  <a href="/contact">Contact</a>
+               </li-->
+            </ul>
+         </div>
+      </div>
+   </div>
+   <!-- Footer -->
+      <div class="hidden-mobile">
+         <footer>
+            <!-- Bottom Footer Copyright -->
+
+  <!--div class="container-fluid">
+    <div class="row"-->
+    <div class="bottom-footer">
+      <div>
+        <ul class="credit-card">
+          <li><i class="fa fa-cc-visa fa-2x" aria-hidden="true"></i></li>
+          <li><i class="fa fa-cc-mastercard fa-2x" aria-hidden="true"></i></li>
+          <li><i class="fa fa-cc-amex fa-2x" aria-hidden="true"></i></li>
+          <li><i class="fa fa-cc-discover fa-2x" aria-hidden="true"></i></li>
+          <li><i class="fa fa-cc-paypal fa-2x" aria-hidden="true"></i></li>
+        </ul>
+      </div>
+      <div class="copyright" spar-query="/spar/api/config" v-cloak="true">
+        <span>Copyright ® {{ current_year }}</span>
+      </div>
+    </div>
+  <!--/div>
+</div-->
+<!-- ./ End Bottom Footer -->
+         </footer>
+      </div>
+   <!-- End Footer -->
+</div></nav>
+	<!-- /.  End Menu -->
+
+	<!-- Carousel -->
+	<section>
+		<section class="info-section">
+			<div id="store-info-top-banner" class="rich-text"></div>
+		</section>
+
+		<div class="content">
+
+			<div class="container-fluid">
+				<div class="row">
+					<div class="col-xs-12 no-padding-mobile">
+						<div class="row">
+							<div id="carousel-home" class="carousel slide" data-ride="carousel" spar-query="/spar/api/config" v-cloak="true">
+								<!-- Indicators -->
+								<ol class="carousel-indicators">
+							    	<li data-target="#carousel-home" data-slide-to="0" class="active">
+									<li data-target="#carousel-home" data-slide-to="1">
+									<li v-if="has_third_image" data-target="#carousel-home" data-slide-to="2">
+							  	</ol>
+
+						  		<!-- Wrapper for slides -->
+							 	<div class="carousel-inner" role="listbox">
+						      <div class="item active">
+
+                    <div class="carousel-caption">
+				<div class="inside-contain">
+					<h1>{{store_name}}</h1>
+					<p class="spar-editable" id="spar-editable-slider-p-1">Custom Products</p>
+					<a id="spar-editable-slider-btn-1" href="/products" class="button-buy spar-editable">products</a>
+				</div>
+			  </div>
+			  <img src="https://ss4data.blob.core.windows.net/spiritsale-prod-data/live-editor/26598/c386fb00-d2a0-41d9-80ac-5d1e2e2f6d29-img_0792-jpg?sp=r&amp;sv=2018-11-09&amp;se=2050-01-01T00%3A00%3A00Z&amp;sr=b&amp;sig=4fsnUHPXyIf3KaPgKNkTUDDwYO5N544hvEgA0swXBKE%3D" alt="..." class="img-responsive center-block spar-editable-image" id="spar-editable-image-1">
+                  </div>
+                  <div class="item">
+                    <div class="carousel-caption">
+				<div class="inside-contain">
+					<h1>{{store_name}}</h1>
+					<p class="spar-editable" id="spar-editable-slider-p-2">Start Designing</p>
+					<a id="spar-editable-slider-btn-2" href="/products" class="button-buy spar-editable">design</a>
+				</div>
+			  </div>
+			  <img src="https://ss4data.blob.core.windows.net/spiritsale-prod-data/live-editor/26598/9f5498d5-3a1c-4407-899a-438cd81b55d2-img_0694-jpg?sp=r&amp;sv=2018-11-09&amp;se=2050-01-01T00%3A00%3A00Z&amp;sr=b&amp;sig=jGAUKl9gkXij62qomA7iP1B1FDOP03kAtrq79k7NyqU%3D" alt="..." class="img-responsive center-block spar-editable-image" id="spar-editable-image-2">
+                  </div>
+                  <div class="item" v-if="has_third_image">
+                    <div class="carousel-caption">
+				<div class="inside-contain">
+					<h1>{{store_name}}</h1>
+					<p class="spar-editable" id="spar-editable-slider-p-3">About Us</p>
+					<a id="spar-editable-slider-btn-3" href="pages/about-us" class="button-buy spar-editable">about</a>
+				</div>
+			  </div>
+			  <img src="https://ss4data.blob.core.windows.net/spiritsale-prod-data/live-editor/26598/dd1b5143-77c8-4c8c-8b0a-d6d3e3d9b6fe-img_0676-2-jpg?sp=r&amp;sv=2018-11-09&amp;se=2050-01-01T00%3A00%3A00Z&amp;sr=b&amp;sig=eaS%2BnPIenXlY6XTZ2JhCpWVf2Xd00rvRz9dWDDTAmG8%3D" alt="..." class="img-responsive center-block spar-editable-image" id="spar-editable-image-3" v-bind:class="{'removed': is_empty_third_image}">
+                  </div>
+                </div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		<!-- ./ End Carousel -->
+
+		<!-- Bottom Info Banner -->
+		<section class="info-section bottom-info-section">
+			<div id="store-info-banner-bottom" class="rich-text"></div>
+		</section>
+
+		<!-- Featured Products -->
+		<section>
+			<!-- Products -->
+			<div class="wrapper-products">
+				<div class="home-products" spar-query="/spar/api/products?featured=true" v-cloak="true">
+					<div v-for="product of products" class="item">
+						<div class="thumbnail">
+							<a :href="linkProduct(product)">
+								<img :src="product.image_url" class="img-responsive spar-editable-image">
+		      					<div class="caption">
+		      						<h2>{{product.name}}</h2>
+									  <p class="price">{{product.display_price}}</p>
+									  <ul class="color-list category" v-if="product.kind !== 'quick'">
+										<template v-for="(value, index) in product.colors_preview">
+											<template v-if="index &lt; 7">
+												<template v-if="isColorImageSwatch(value)">
+													<span :title="value.name" :style="'background: ' + value.presentation">
+														<img :src="value.presentation" class="color-chips-preview" onerror="this.style.display='none'">
+													</span>
+												</template>
+												<template v-else-if="isColorSolidSwatch(value)">
+													<span :title="value.name" :style="'background: ' + value.presentation" class="color-chips-preview">
+													</span>
+												</template>
+												<template v-else>
+													<span>
+														{{ option.presentation }}
+													</span>
+												</template>
+											</template>
+										</template>
+										<template v-if="product.colors.length &gt; 7">
+											<span class="more-colors">+{{ product.colors.length - 7 }}</span>
+										</template>
+									</ul>
+		    					</div>
+		    				</a>
+	    				</div>
+					</div>
+				</div>
+			</div>
+			<!-- ./ End Products -->
+		</section>
+		<!-- ./ End Featured Prodcuts -->
+
+<!-- Principal Footer -->
+<div id="fundraiser-component">
+	<fundraiser></fundraiser>
+</div>
+
+<div class="footer" spar-query="/spar/api/config" v-if="facebook_username || twitter_username || pinterest_username || contact_email || instagram_username" v-cloak="true">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12 col-sm-12 desktop-social-title">
+        <h4>STAY IN TOUCH</h4>
+        <ul class="social desktop-social-icons">
+          <li>
+            <a target="_blank" :href='"https://www.facebook.com/" + facebook_username' v-if="facebook_username">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          <li>
+            <a target="_blank" :href='"https://www.instagram.com/" + instagram_username' v-if="instagram_username">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-instagram fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          <li>
+            <a target="_blank" :href='"https://www.twitter.com/" + twitter_username' v-if="twitter_username">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          <li>
+            <a target="_blank" :href='"https://www.pinterest.com/" + pinterest_username' v-if="pinterest_username">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-pinterest fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          <li>
+            <a target="_blank" :href='"mailto:" + contact_email' v-if="contact_email">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-envelope-o fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- ./ End Principal Footer -->
+
+	<!-- Footer -->
+	<div class="mobile-footer">
+
+		<footer spar-included="_footer.html">
+		  <div class="bottom-footer" spar-query="/spar/api/config" v-cloak="true">
+      <div class="footer-flex-contain">
+        <div class="text-left left-footer-section">
+          <span class="spar-editable footer-text-left" id="spar-editable-footer-text-left"></span>
+        </div>
+        <div class="text-center center-footer-section">
+            <!-- <ul class="credit-card">
+              <li><i class="fa fa-cc-visa fa-2x" aria-hidden="true"></i></li>
+              <li><i class="fa fa-cc-mastercard fa-2x" aria-hidden="true"></i></li>
+              <li><i class="fa fa-cc-amex fa-2x" aria-hidden="true"></i></li>
+              <li><i class="fa fa-cc-discover fa-2x" aria-hidden="true"></i></li>
+              <li><i class="fa fa-cc-paypal fa-2x" aria-hidden="true"></i></li>
+            </ul> -->
+            <div class="footer-social-icons" v-if="instagram_username || facebook_username || twitter_username || pinterest_username || contact_email">
+                <div class="footer-title">
+                    <h4>STAY IN TOUCH</h4>
+                </div>
+                <ul class="social">
+                  <li>
+                    <a target="_blank" :href='"https://www.facebook.com/" + facebook_username' v-if="facebook_username">
+                      <span class="fa-stack fa-lg">
+                        <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+                      </span>
+                    </a>
+                  </li>
+                  <li>
+                    <a target="_blank" :href='"https://www.instagram.com/" + instagram_username' v-if="instagram_username">
+                      <span class="fa-stack fa-lg">
+                        <i class="fa fa-instagram fa-stack-1x fa-inverse"></i>
+                      </span>
+                    </a>
+                  </li>
+                  <li>
+                    <a target="_blank" :href='"https://www.twitter.com/" + twitter_username' v-if="twitter_username">
+                      <span class="fa-stack fa-lg">
+                        <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                      </span>
+                    </a>
+                  </li>
+                  <li>
+                    <a target="_blank" :href='"https://www.pinterest.com/" + pinterest_username' v-if="pinterest_username">
+                      <span class="fa-stack fa-lg">
+                        <i class="fa fa-pinterest fa-stack-1x fa-inverse"></i>
+                      </span>
+                    </a>
+                  </li>
+                  <li>
+                    <a target="_blank" :href='"mailto:" + contact_email' v-if="contact_email">
+                      <span class="fa-stack fa-lg">
+                        <i class="fa fa-envelope-o fa-stack-1x fa-inverse"></i>
+                      </span>
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+        <div class="text-right  right-footer-section">
+          <span>Copyright ® {{ current_year }}</span>
+        </div>
+      </div>
+
+  </div></footer>
+     	</div>
+         <!-- End Footer -->
+	</div>
+
+	<!-- Cart -->
+	<!-- subsequent elements included by spar spar-include=_cart.html --><!-- Cart modal -->
+<div class="modal fade cartModal" id="cartModal" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content" spar-query="/spar/api/cart" v-cloak="true">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+        <h4 class="modal-title" id="myModalLabel">My shopping cart ({{cart.total_quantity}})</h4>
+      </div>
+      <div class="modal-body">
+        <div class="table-responsive">
+          <table class="table">
+            <tr class="table-titles">
+              <th></th>
+              <th class="cart-product-title">Product</th>
+              <th class="cart-details-title">Details</th>
+              <th class="cart-quantity">Quantity</th>
+              <th>Price</th>
+              <th>Total</th>
+              <th></th>
+            </tr>
+            <tr v-for="item in cart.line_items">
+              <td class="cart-image"><img :src="item.thumbnail_url" :title="item.variant.name"></td>
+              <td class="cart-product-name"><div class="specs" style="display: inline-block;" v-html="item.variant.name"></div></td>
+              <td class="cart-details">
+                <div class="specs" style="display: inline-block;" v-html="item.variant.options_text_with_style"></div>
+                <div class="specs" style="display: inline-block;" v-if="item.show_customizations" v-html="item.show_customizations"></div>
+              </td>
+              <td class="cart-quantity">
+<input type="number" v-model="item.quantity" min="1" step="1" v-on:change="setQuantity(item)" :disabled="item.is_free_item">
+                <a class="save-item fa fa-ok fa-check-circle with-tip save-quantity-button" href="#" v-on:click="updateQuantity(item)" v-if="item.changed"></a>
+                <i class="fa fa-spinner fa-spin" aria-hidden="true" v-if="item.updating">
+              </i>
+</td>
+              <td>{{item.single_display_amount}}</td>
+              <td>
+<div v-if="item.is_free_item">$0.0</div>
+<div v-else>{{item.display_amount}}</div>
+</td>
+              <td>
+<i class="fa fa-trash" aria-hidden="true" v-on:click="deleteItem(item)" v-bind:class="{ 'actions-disabled': item.updating }" v-if="!deleting_ids.includes(item.id)"></i><i class="fa fa-spinner fa-spin" aria-hidden="true" v-else></i>
+</td>
+            </tr>
+            <tr class="total">
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td class="order-total-title">Total</td>
+              <td v-if="cart.line_items.length &gt; 0 &amp;&amp; cart.job_state == 'Quote'">Request a Quote</td>
+              <td class="cart-price" v-else>{{cart.display_cart_total}}</td>
+            </tr>
+          </table>
+        </div>
+      </div>
+      <div v-if="cart.user || !cart || !cart.store || cart.store.allow_guest_checkout != 'allow_guest_checkout'" class="modal-footer">
+        <div class=" col-xs-12 col-sm-6 col-md-6">
+          <button v-if="clearing" type="button" class="checkout checking-out">
+            Loading...
+            <i class="fa fa-spinner fa-spin"></i>
+          </button>
+          <button type="button" class="checkout" v-else-if="canCheckout()" v-on:click="clearCart()">
+            Clear cart
+          </button>
+        </div>
+        <div class=" col-xs-12 col-sm-6 col-md-6">
+          <button v-if="checkingOut" type="button" class="checkout checking-out">
+            Checking out...
+            <i class="fa fa-spinner fa-spin"></i>
+          </button>
+          <button v-else-if="canCheckout()" type="button" class="checkout" v-on:click="checkout">
+            Continue to checkout
+          </button>
+        </div>
+      </div>
+      <div v-if="cart &amp;&amp; cart.store &amp;&amp; cart.store.allow_guest_checkout == 'allow_guest_checkout' &amp;&amp; !cart.user" class="modal-footer">
+        <div class=" col-xs-8 col-sm-4 col-md-4">
+          <button v-if="clearing" type="button" class="checkout checking-out">
+            Loading...
+            <i class="fa fa-spinner fa-spin"></i>
+          </button>
+          <button type="button" class="checkout" v-else-if="canCheckout()" v-on:click="clearCart()">
+            Clear cart
+          </button>
+        </div>
+        <div class=" col-xs-8 col-sm-4 col-md-4">
+          <button v-if="checkingOut" type="button" class="checkout checking-out">
+            Checking out...
+            <i class="fa fa-spinner fa-spin"></i>
+          </button>
+          <button v-else-if="canCheckout()" type="button" class="checkout" v-on:click="guest_checkout">
+            Continue as Guest
+          </button>
+        </div>
+        <div class=" col-xs-8 col-sm-4 col-md-4">
+          <button v-if="checkingOut" type="button" class="checkout checking-out">
+            Checking out...
+            <i class="fa fa-spinner fa-spin"></i>
+          </button>
+          <button v-else-if="canCheckout()" type="button" class="checkout" v-on:click="checkout">
+            Continue to checkout
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- previous elements imported by spar -->
+	<!-- Cart ends -->
+
+	<!-- Include fundraiser notification-->
+	<!-- subsequent elements included by spar spar-include=_fundraiser.html --><section id="fundraiser-progress-container" class="fundraiser-container" spar-query="/spar/api/config" v-if="fundraising_goal &gt; 0 &amp;&amp; fundraising_design == 'progress_bar'" v-cloak="true">
+      <input id="fundraiser-toggle" type="checkbox" class="fundraiser-checkbox">
+      <label for="fundraiser-toggle"><i class="fa fa-caret-down"></i></label>
+      <div class="fundraiser-inner-contain">
+            <h2>{{fundraising_title}}</h2>
+            <span class="goal-text">Goal:
+                  <span class="goal">${{Number(fundraising_goal).toFixed(2)}}
+                  </span>
+            </span>
+            <div class="bar-progress">
+                  <div class="inner-progressbar-value" :style="'width: ' + (((total_fundraising*100)/fundraising_goal)) + '%'"></div>
+            </div>
+            <span class="donation-text">Raised:
+                  <span class="donated">${{Number(total_fundraising).toFixed(2)}}</span>
+            </span>
+      </div>
+</section>
+
+<!-- //Gauge markup -->
+<section id="fundraiser-gauge-container" class="fundraiser-container" spar-query="/spar/api/config" v-if="fundraising_goal &gt; 0 &amp;&amp; fundraising_design == 'gauge'" v-cloak="true">
+      <input id="fundraiser-gauge-toggle" type="checkbox" class="fundraiser-checkbox">
+      <label for="fundraiser-gauge-toggle"><i class="fa fa-caret-down"></i></label>
+      <div class="fundraiser-gauge-inner-container">
+            <h2>{{fundraising_title}}</h2>
+            <!--Gauge begin-->
+            <section class="gauge-contain">
+                  <div class="notch-values">
+                        <span>0%<span class="notch"></span></span>
+                        <span>25%<span class="notch"></span></span>
+                        <span>50%<span class="notch"></span></span>
+                        <span>75%<span class="notch"></span></span>
+                        <span>100%<span class="notch"></span></span>
+                  </div>
+                  <div id="logo">
+                        <span class="speedometer"></span>
+                        <span class="needle" :style="Number(total_fundraising) &gt; Number(fundraising_goal) ? 'transform: rotate(180deg) translate(-50%, -50%)' : 'transform: rotate(' + (((((total_fundraising*100)/fundraising_goal)) / 100) * 180) + 'deg) translate(-50%, -50%)'"></span>
+                  </div>
+                  <div class="gauge-mask" id="gauge_y">
+                        <div class="gauge-semi-circle">
+                        </div>
+                        <div class="gauge-semi-circle--mask" :style="Number(total_fundraising) &gt; Number(fundraising_goal) ? 'transform: rotate(180deg)' : 'transform: rotate(' + (((((total_fundraising*100)/fundraising_goal)) / 100) * 180) + 'deg)'">
+                        </div>
+                        <div class="gauge-data">
+                        </div>
+                  </div>
+                  <div class="metric-contain">
+                        <div class="metrics">
+                              <span class="m-title">
+                                    <span>Goal:</span>
+                              </span>
+                              <span class="value">
+                                    ${{Number(fundraising_goal).toFixed(2)}}
+                              </span>
+                        </div>
+                        <div class="metrics">
+                              <span class="m-title">
+                                    <span>Raised:</span>
+                              </span>
+                              <span class="value">
+                                    ${{Number(total_fundraising).toFixed(2)}}
+                              </span>
+                        </div>
+                  </div>
+            </section>
+            <!--Gauge end-->
+      </div>
+</section>
+<!-- previous elements imported by spar -->
+	<!--Fundraiser Ends-->
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script><script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script><script type="text/javascript" src="/themes/global/dist/vendor/js/okzoom.min.js"></script><script type="text/javascript" src="/themes/global/dist/vendor/js/spar.js"></script><script type="text/javascript" src="/themes/global/dist/vendor/js/masking.js"></script><script type="text/javascript" src="/themes/global/dist/theme-modern/index.c589e5c83116ee3cd56c.js"></script><script>              $('#store-info-top-banner').html("<p style=\"font-family: Poppins; text-align: center;\"><span style=\"color: rgb(255, 255, 255); font-size: 18px;\"><strong>Spend \$50 and Receive Free Shipping RLOFree50<\/strong><\/span><\/p>");
+              $('#store-info-banner-bottom').html("");
+              $('#spar-editable-slider-p-1').text("Life\'s Better Around The Bend!");
+              $('#spar-editable-slider-btn-1').text("PRODUCTS");
+              $('#spar-editable-slider-btn-1').attr('href', "/products");
+              $('#spar-editable-slider-p-2').text("Start Designing");
+              $('#spar-editable-slider-btn-2').text("Live the RiverLIFE");
+              $('#spar-editable-slider-btn-2').attr('href', "/products");
+              $('#spar-editable-slider-p-3').text("Start Shopping");
+              $('#spar-editable-slider-btn-3').text("Shop Today");
+              $('#spar-editable-slider-btn-3').attr('href', "/products");
+              $('#spar-editable-footer-text-1').text("Copyright ® 2019 ");
+              $('#spar-editable-footer-link-1').text("Spirit Sale");
+              $('#spar-editable-footer-link-1').attr('href', "https://www.spiritsale.com");
+              $('#spar-editable-footer-text-2').text(" Spirit Sale by ");
+              $('#spar-editable-footer-link-2').text("Spirit Sale ");
+              $('#spar-editable-footer-link-2').attr('href', "https://www.spiritsale.com");
+              $('#spar-editable-footer-text-left').text("RiverLIFE Outfitters");
+              $('#spar-editable-footer-text-right').text("Copyright ® 2019 ");
+</script></section>
+</body>
+</html>

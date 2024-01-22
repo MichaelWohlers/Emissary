@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 09:29:44 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 165
+X-Sorting-Hat-Shopid: 35323838604
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=19cb14c8-7608-468a-b874-c23bc11ad6a7; path=/; expires=Tue, 16 Jan 2024 09:59:44 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 09:29:44 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 09:29:44 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 09:29:44 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=cocoluluboutique.com; path=/; expires=Wed, 17 Jan 2024 09:29:44 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=c42e9ad9-aa1a-41c8-9d2c-2f8005d84df1; Expires=Wed, 15-Jan-25 09:29:44 GMT; Domain=cocoluluboutique.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=682fcfb6-176b-430d-a2cf-43a212f3cac1; Expires=Tue, 16-Jan-24 09:59:44 GMT; Domain=cocoluluboutique.com; Path=/; SameSite=Lax
+Etag: "cacheable:dceabeff7b1062c98c00b17cdfc3e827"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 35323838604
+X-Shardid: 165
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=12, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="127044944038", servedBy;desc="pqvk", requestID;desc="ed0d05c0-f883-42d0-a2e4-1611ef1390c1"
+Server-Timing: cfRequestDuration;dur=46.999931
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: ed0d05c0-f883-42d0-a2e4-1611ef1390c1
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=CifSJQPv6HDhNk10LtfDVHe9gFKZUJBTvC%2Fgr8GtSIHXMw02l8%2FS6DtbpDIuODEZVVFHyonZIYsRHD4O3i0DJN8JEh73LJk%2BZAElsJ7CssY7gH%2BhuESi8FOs61EugdS97lGSWXDF"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846555f2aeaa4d25-FRA
+Alt-Svc: h3=":443"; ma=86400

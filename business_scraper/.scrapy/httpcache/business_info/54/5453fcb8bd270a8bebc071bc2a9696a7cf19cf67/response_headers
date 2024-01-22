@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 12:01:07 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 272
+X-Sorting-Hat-Shopid: 27213037637
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=cc2a7900-5f95-4d49-a627-5d2b10e998bc; path=/; expires=Tue, 16 Jan 2024 12:31:07 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 12:01:07 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=CA; path=/; expires=Thu, 16 Jan 2025 12:01:07 GMT
+Set-Cookie: cart_currency=CAD; path=/; expires=Tue, 30 Jan 2024 12:01:07 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=serenasladieswear.ca; path=/; expires=Wed, 17 Jan 2024 12:01:07 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=88d40171-2ced-49df-9415-8fa949415753; Expires=Wed, 15-Jan-25 12:01:07 GMT; Domain=serenasladieswear.ca; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=8042eb3e-a625-45f8-91f5-a016f2bca075; Expires=Tue, 16-Jan-24 12:31:07 GMT; Domain=serenasladieswear.ca; Path=/; SameSite=Lax
+Etag: "cacheable:af19d01db034d197c78152f0e381d8d6"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 27213037637
+X-Shardid: 272
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=10, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="79428354117", servedBy;desc="dx6r", requestID;desc="7e4828f3-caa0-4b14-bba8-ef37aee9e8c3"
+Server-Timing: cfRequestDuration;dur=42.000055
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 7e4828f3-caa0-4b14-bba8-ef37aee9e8c3
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Wtuk6AlbUEH2JF3e4y2TNd82znx5ZAZkwqcZVmivYXhdODJj6s9%2BOtdQBPu%2Fns6hWvL8fstl6HCnX8x2y6weR96wVLrZ0IBP6YbndzSQcyvCHPC6GjUk1MbJfci7FiL2nMXa7yRd"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846633b488624d5b-FRA
+Alt-Svc: h3=":443"; ma=86400

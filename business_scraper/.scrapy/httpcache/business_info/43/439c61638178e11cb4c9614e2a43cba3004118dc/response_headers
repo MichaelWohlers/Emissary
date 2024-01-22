@@ -1,0 +1,41 @@
+Date: Tue, 16 Jan 2024 11:44:26 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 195
+X-Sorting-Hat-Shopid: 27457650786
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=d745a247-9b34-43bf-9e1b-035c653d13aa; path=/; expires=Tue, 16 Jan 2024 12:14:26 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:44:26 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 11:44:26 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=thedressshop.com; path=/; expires=Wed, 17 Jan 2024 11:44:26 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=fbd8d3ed-8309-4b51-8f24-7f348e03d310; Expires=Wed, 15-Jan-25 11:44:26 GMT; Domain=thedressshop.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=3ad4a310-42ee-4798-a493-a95f8e8f385b; Expires=Tue, 16-Jan-24 12:14:26 GMT; Domain=thedressshop.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 11:44:26 GMT; Domain=thedressshop.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2Fpassword; Expires=Tue, 30-Jan-24 11:44:26 GMT; Domain=thedressshop.com; Path=/; HttpOnly; SameSite=Lax
+Etag: "cacheable:8820b201734eb7784a7250c467de9865"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Robots-Tag: nofollow
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 27457650786
+X-Shardid: 195
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=23;desc="gc:2", db;dur=10, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="79966634082", pageType;desc="password", servedBy;desc="hg5n", requestID;desc="9ae260a0-a2de-4d0d-8f4a-17f55b549a70"
+Server-Timing: cfRequestDuration;dur=394.000053
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-us-central1,gcp-us-central1
+X-Request-Id: 9ae260a0-a2de-4d0d-8f4a-17f55b549a70
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=pLKZU1XqeoNpE9ZMk3tf%2FecBL%2FSuvqwHxAdNNQEtbbFosLVp4NrEB6PZsp4omAYNh4gedR5XG4RAn96R5sGyr9t90IYSSWD6WvZINDYtw5WYv8ia7s3OXj0hhi7vTZF0K3Y%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661b450d9b9962-FRA
+Alt-Svc: h3=":443"; ma=86400

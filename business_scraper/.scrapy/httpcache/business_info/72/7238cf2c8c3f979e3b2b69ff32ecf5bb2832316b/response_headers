@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:20:53 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 318
+X-Sorting-Hat-Shopid: 59325939907
+X-Storefront-Renderer-Rendered: 1
+Location: https://skatingboutique.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 59325939907
+X-Shardid: 318
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=11, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="zfqf", requestID;desc="aa9cdae9-2271-4b72-9866-919e2d22a96e"
+Server-Timing: cfRequestDuration;dur=41.999817
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: aa9cdae9-2271-4b72-9866-919e2d22a96e
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=XMnTNFQ2e%2FVzVJXAEoOF%2BifH77FRTmvjxZVYuAOUwMZT0AY4jMFXtlVo9KhmjXlYaioHmjGBduBG%2Bq8KN1e%2BU4A8wIW3Yk%2FRFxSFrnRSkZtRmj%2FN14b7OOjkboYwzx521rHKJei76bPa"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8465f8c609e437d2-FRA
+Alt-Svc: h3=":443"; ma=86400

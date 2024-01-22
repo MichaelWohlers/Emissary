@@ -1,0 +1,41 @@
+Date: Tue, 16 Jan 2024 11:51:07 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 93
+X-Sorting-Hat-Shopid: 7002914867
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=ad95a640-b28d-49c2-8601-589588098540; path=/; expires=Tue, 16 Jan 2024 12:21:07 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:51:07 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:51:07 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:51:07 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=crushboutiqueclothing.com; path=/; expires=Wed, 17 Jan 2024 11:51:07 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=47c3b4a4-11d2-4996-b1b3-d3167cd19e0e; Expires=Wed, 15-Jan-25 11:51:07 GMT; Domain=crushboutiqueclothing.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=030eb24b-b2a4-4769-8b2f-02b90ee03d13; Expires=Tue, 16-Jan-24 12:21:07 GMT; Domain=crushboutiqueclothing.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 11:51:07 GMT; Domain=crushboutiqueclothing.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2F; Expires=Tue, 30-Jan-24 11:51:07 GMT; Domain=crushboutiqueclothing.com; Path=/; HttpOnly; SameSite=Lax
+Etag: "cacheable:db9dacde0b89e572e1f303f479611e24"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 7002914867
+X-Shardid: 93
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=12, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="38522748979", pageType;desc="index", servedBy;desc="k7hn", requestID;desc="9e81604b-a548-4819-8050-e575c85b1a87"
+Server-Timing: cfRequestDuration;dur=71.000099
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 9e81604b-a548-4819-8050-e575c85b1a87
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=9QIFnEBA%2FL8fH3swPbaK9PYz%2FK68G9ZY16jpnDjc1rvu9T32o0%2Fw9vC3sdSLU4g18rPrXKtg7pPIuLJfCPA%2FtZM%2F7KV%2FovajvDkz%2FK2%2Fhcw5bzxrIK3N2T1gInmAcFC2qYF0Pg6NroQgQOTTWD1%2B"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8466250cdc225d79-FRA
+Alt-Svc: h3=":443"; ma=86400

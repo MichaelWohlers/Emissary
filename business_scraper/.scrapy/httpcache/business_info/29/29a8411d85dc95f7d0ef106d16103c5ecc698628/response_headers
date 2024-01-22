@@ -1,0 +1,41 @@
+Date: Tue, 16 Jan 2024 11:53:33 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 292
+X-Sorting-Hat-Shopid: 72363442469
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=295d52ce-7858-4649-9867-6d5ee05206b5; path=/; expires=Tue, 16 Jan 2024 12:23:33 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:53:33 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:53:33 GMT; SameSite=Lax
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:53:33 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=davidalanclothing.com; path=/; expires=Wed, 17 Jan 2024 11:53:33 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=b03e5668-0909-44e5-946b-b8356314968b; Expires=Wed, 15-Jan-25 11:53:33 GMT; Domain=davidalanclothing.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=ff61deda-a577-4fc6-b255-f8194d9bc92b; Expires=Tue, 16-Jan-24 12:23:33 GMT; Domain=davidalanclothing.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 11:53:33 GMT; Domain=davidalanclothing.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2F%3Futm_campaign%3Dgmb; Expires=Tue, 30-Jan-24 11:53:33 GMT; Domain=davidalanclothing.com; Path=/; HttpOnly; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+Etag: "cacheable:bb5675ba657dd89838995d8dd0b96570"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 72363442469
+X-Shardid: 292
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=619;desc="gc:48", db;dur=172, fetch;dur=111, render;dur=282, wasm, wasmDownload;dur=111, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="144020078885", pageType;desc="index", servedBy;desc="4vr2", requestID;desc="ea859b44-050c-437b-87ad-24dce1448d9d"
+Server-Timing: cfRequestDuration;dur=664.999962
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: ea859b44-050c-437b-87ad-24dce1448d9d
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=hsP1UKoAtTnkXlARsLtrHHm3mRV%2FxEfg1FQP8%2Bavx2Bfg32Y9zqG9kTTkza33j0RQ5dUukJjki%2BnZTAW16gseYRYISiVHwxVEoTbdngD%2F8X9D0WxmopXl6Y9Y8MI6wq6j%2BH7U56N1Q%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8466289e198f39da-FRA
+Alt-Svc: h3=":443"; ma=86400

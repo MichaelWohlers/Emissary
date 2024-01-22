@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:39:11 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 153
+X-Sorting-Hat-Shopid: 2744352829
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=3eead116-47b4-465b-8ea8-0641ef25b80b; path=/; expires=Tue, 16 Jan 2024 12:09:11 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:39:11 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 11:39:11 GMT
+Set-Cookie: cart_currency=EUR; path=/; expires=Tue, 30 Jan 2024 11:39:11 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=brickandmotorboutique.com; path=/; expires=Wed, 17 Jan 2024 11:39:11 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=56711fb7-b530-484b-af83-f415d32c60ed; Expires=Wed, 15-Jan-25 11:39:11 GMT; Domain=brickandmotorboutique.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=d631a868-7f32-40cb-a6d3-faaffb60be50; Expires=Tue, 16-Jan-24 12:09:11 GMT; Domain=brickandmotorboutique.com; Path=/; SameSite=Lax
+Etag: "cacheable:8df41a15265fc6b9c387f9d79335df43"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 2744352829
+X-Shardid: 153
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=11, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="126899159194", servedBy;desc="wt4r", requestID;desc="3b10323c-788d-4e53-9e3c-cd658035517d"
+Server-Timing: cfRequestDuration;dur=42.999983
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 3b10323c-788d-4e53-9e3c-cd658035517d
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=4y55MU7nRfkbSEhlND%2FsyTBKNe6pWmtninfwApgDozj49HTOrOrSEk3b3xEZrGMbs%2Bi9xojA1WOkYuCUDlbg4%2BP46lFOGj2tN4lM3gsszNsF72iVOXyGxAQ6ZmFhQ3ftQIQwwXiLoIsQIJEjxiyU"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661394fddbbb9e-FRA
+Alt-Svc: h3=":443"; ma=86400

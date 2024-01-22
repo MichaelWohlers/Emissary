@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:20:45 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 86
+X-Sorting-Hat-Shopid: 55101620311
+X-Storefront-Renderer-Rendered: 1
+Location: https://www.luvluxboutique.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 55101620311
+X-Shardid: 86
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=13, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="46mn", requestID;desc="63204267-9a7b-4a4a-a62f-48ea1182d2d1"
+Server-Timing: cfRequestDuration;dur=38.000107
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 63204267-9a7b-4a4a-a62f-48ea1182d2d1
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=uxFHWvOtORhvBBG2D%2FTJhndFENif0hYDuvsQ0h8d1%2BE9tzrsnwnpq9JByGfcDxAkFFTUvM%2BadGz7vZ7krMe0osK9S81hHSFJAoebQK70fPOydsC%2Fm2X7SPoka68Oz6LEEp7rQg%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8465f8933a11362c-FRA
+Alt-Svc: h3=":443"; ma=86400

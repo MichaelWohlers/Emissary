@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:21:17 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 234
+X-Sorting-Hat-Shopid: 63402508523
+X-Storefront-Renderer-Rendered: 1
+Location: https://moonlightintimateapparel.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 63402508523
+X-Shardid: 234
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=15, db;dur=5, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="7htk", requestID;desc="7f075bf0-4760-4212-a426-aaa793912441"
+Server-Timing: cfRequestDuration;dur=44.999838
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 7f075bf0-4760-4212-a426-aaa793912441
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=CsmgIgYWRDzPpQX2w9dGRDphtbY8vicp7mHbyAo%2BDIoD8SBYkiE6w8Vu80VpmGGI38l8MJD2s9rGej6zkSWCAf2VkY2my6%2B9n35MI6czICAeBTOW2vI6tUAMSxFRKRdubTEGxt68odX7DNnk6AI%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8465f95a0edc4d31-FRA
+Alt-Svc: h3=":443"; ma=86400

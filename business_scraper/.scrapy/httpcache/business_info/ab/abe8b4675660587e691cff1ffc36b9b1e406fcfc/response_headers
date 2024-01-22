@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:38:22 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 222
+X-Sorting-Hat-Shopid: 2840789037
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=248b3bed-c520-4a81-821a-678d18046b85; path=/; expires=Tue, 16 Jan 2024 12:08:22 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:38:22 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 11:38:22 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:38:22 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=weilsclothing.com; path=/; expires=Wed, 17 Jan 2024 11:38:22 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=f34a6c09-baa0-44fc-8728-b92657934136; Expires=Wed, 15-Jan-25 11:38:22 GMT; Domain=weilsclothing.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=d4e43962-dbfa-46a6-84d2-dda5b25c80de; Expires=Tue, 16-Jan-24 12:08:22 GMT; Domain=weilsclothing.com; Path=/; SameSite=Lax
+Etag: "cacheable:302d1741d712ecd7ecf72741f223d69b"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 2840789037
+X-Shardid: 222
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=14, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="35184181293", servedBy;desc="w7lw", requestID;desc="20f88c02-81c9-4727-86b2-5f92317eda16"
+Server-Timing: cfRequestDuration;dur=55.999994
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 20f88c02-81c9-4727-86b2-5f92317eda16
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=UxMpxkwVyt%2Bn2%2BxXmH6YdbEFxuPxecX24NXomnwg7GyJItfHJ35OBeYiKOcUskiNbp7s27ff4U0Icis2N87jTJFy7%2FWbvTaIrNNzOjnwuQ4HDO8KnSR%2BAZVJpR454FwF8wEJJuedXQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846612647d884db4-FRA
+Alt-Svc: h3=":443"; ma=86400

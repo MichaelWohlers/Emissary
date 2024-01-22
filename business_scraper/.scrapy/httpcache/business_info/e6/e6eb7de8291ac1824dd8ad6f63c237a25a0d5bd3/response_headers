@@ -1,0 +1,24 @@
+X-Fw-Hash: e8dmf4v3ct
+Cache-Control: private, max-age=0
+X-Fw-Server: Flywheel/5.1.0
+X-Fw-Version: 5.0.0
+X-Xss-Protection: 1
+Content-Encoding: gzip
+Last-Modified: Wed, 06 Jul 2022 11:21:04 GMT
+Accept-Ranges: bytes
+Content-Type: text/plain
+Referrer-Policy: no-referrer-when-downgrade
+X-Content-Type-Options: nosniff
+Etag: W/"62c57020-29a"
+Server: Flywheel/5.1.0
+X-Cacheable: NO:Not Cacheable
+Fastly-Restarts: 1
+Date: Tue, 16 Jan 2024 11:58:37 GMT
+X-Served-By: cache-fra-etou8220031-FRA, cache-fra-eddf8230039-FRA
+X-Cache: MISS, MISS
+X-Cache-Hits: 0, 0
+X-Timer: S1705406317.221400,VS0,VE128
+Vary: Accept-Encoding, Authorization
+X-Fw-Serve: TRUE
+X-Fw-Static: NO
+X-Fw-Type: VISIT

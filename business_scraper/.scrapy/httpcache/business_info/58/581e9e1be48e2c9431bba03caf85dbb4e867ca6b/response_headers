@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:46:51 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 86
+X-Sorting-Hat-Shopid: 11072286
+X-Storefront-Renderer-Rendered: 1
+Location: https://www.ishopcsb.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 11072286
+X-Shardid: 86
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=8, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="tqdd", requestID;desc="3ccb0a2f-7ddc-4cf3-b183-09f251cc3e01"
+Server-Timing: cfRequestDuration;dur=65.000057
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 3ccb0a2f-7ddc-4cf3-b183-09f251cc3e01
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=zgHT1lWdNJg5DmuzEIf0SgcBBQk%2B0izZnh4ikz0%2FTT5SZERqbFguVQaWkpxX3r6keuiwJilWc0lPQ%2FeqG7aUAXRqrbINLADHi2JNVo9dQ0%2F%2Fuq4NIJf6fW4OsTRsZ0%2F30ciC4ngYrN9x74RUb9ru"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661ecd8f4c9bb2-FRA
+Alt-Svc: h3=":443"; ma=86400

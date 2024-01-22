@@ -1,0 +1,41 @@
+Date: Tue, 16 Jan 2024 11:48:57 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 114
+X-Sorting-Hat-Shopid: 8954019918
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=20116073-0807-481a-9b1a-1f2e77065a7f; path=/; expires=Tue, 16 Jan 2024 12:18:57 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:48:57 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 11:48:57 GMT; SameSite=Lax
+Set-Cookie: cart_currency=EUR; path=/; expires=Tue, 30 Jan 2024 11:48:57 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=blushingbeausboutique.com; path=/; expires=Wed, 17 Jan 2024 11:48:57 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=09b1b58a-7f9f-4665-bf52-6ef9f47d31b7; Expires=Wed, 15-Jan-25 11:48:57 GMT; Domain=blushingbeausboutique.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=98a2927c-185b-439c-83ea-542bdd6f9cbd; Expires=Tue, 16-Jan-24 12:18:57 GMT; Domain=blushingbeausboutique.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 11:48:57 GMT; Domain=blushingbeausboutique.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2F; Expires=Tue, 30-Jan-24 11:48:57 GMT; Domain=blushingbeausboutique.com; Path=/; HttpOnly; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin, <//blushingbeausboutique.com/cdn/shop/t/6/assets/component-localization-form.css?v=143319823105703127341696984787>; as="style"; rel="preload"
+Etag: "cacheable:f9b1dab4c5712cdb67f74c9a4eeb61b6"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 8954019918
+X-Shardid: 114
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=398;desc="gc:67", db;dur=56, fetch;dur=95, render;dur=136, wasm, wasmDownload;dur=96, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="126076059763", pageType;desc="index", servedBy;desc="mb7m", requestID;desc="ddcdc008-4b7a-4b99-9aba-02e1dbfa780f"
+Server-Timing: cfRequestDuration;dur=433.000088
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: ddcdc008-4b7a-4b99-9aba-02e1dbfa780f
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=yxaXVzwsKvSLspygUFZ8Q%2BX7XWdj7g38Y6AY5KO8Wj%2FNvciGcQcgDhNR5VkcO6JvUmlK1hDiZbJASbaaKPAyY5eNcqyVGB969B5KRXCEGXNc7NqJKkIKx9Yrt%2BUmFbYl7PLAm%2Fp1zx4JrFA%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846621e21f7303e0-FRA
+Alt-Svc: h3=":443"; ma=86400

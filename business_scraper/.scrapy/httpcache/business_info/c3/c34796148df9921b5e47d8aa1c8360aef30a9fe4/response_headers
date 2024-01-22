@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:43:47 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 157
+X-Sorting-Hat-Shopid: 41628139678
+X-Storefront-Renderer-Rendered: 1
+Location: https://freespiritsboutique.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 41628139678
+X-Shardid: 157
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=23, db;dur=5, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="2pxx", requestID;desc="f1ba4652-1a5d-40e2-a854-e743fd64ee1a"
+Server-Timing: cfRequestDuration;dur=69.000006
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: f1ba4652-1a5d-40e2-a854-e743fd64ee1a
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=zu%2FGsHcVWO2V7xZxDeKho4KujcDhfEmrESGsm7%2F4VTctM497fLQmu0%2BhcPT8Tb9mbcabEPv%2BzkgoEzSE9lKLZmo9u2bNW5c4QUI09TREmyymJqvLd4D1p4llSDjTkdOtLOxidAUlTtx7"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661a5118659bce-FRA
+Alt-Svc: h3=":443"; ma=86400

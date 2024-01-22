@@ -1,0 +1,10 @@
+Content-Length: 123
+X-Powered-By: PHP/7.3.33
+Link: <http://orchidsboutique.ca/wp-json/>; rel="https://api.w.org/"
+Content-Type: text/plain; charset=utf-8
+Etag: "21651-1705295532;gz"
+X-Litespeed-Cache: hit
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Date: Tue, 16 Jan 2024 12:01:16 GMT
+Server: LiteSpeed

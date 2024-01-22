@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:40:40 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 170
+X-Sorting-Hat-Shopid: 8243879
+X-Storefront-Renderer-Rendered: 1
+Location: https://catherinesic.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 8243879
+X-Shardid: 170
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=8, db;dur=2, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="p9hw", requestID;desc="fca30a46-780e-4303-8d19-611e69d63220"
+Server-Timing: cfRequestDuration;dur=38.999796
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: fca30a46-780e-4303-8d19-611e69d63220
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=H6qhWWGuIC3lW%2BfA1o7om4fQW3UBOFUF8PRoMF4hNu0CXMe5H9%2Fi5Lnz57YsgLPsdnZ1S96Y1sqSO6y4QEBtnR5DsWkGMEPvAlCwhxto%2FWfIhtHV8I9Fbj6We%2B9GJAkn5a5yfnfl"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846615be5961bb47-FRA
+Alt-Svc: h3=":443"; ma=86400

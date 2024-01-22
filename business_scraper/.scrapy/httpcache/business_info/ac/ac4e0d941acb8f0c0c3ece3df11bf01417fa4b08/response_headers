@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:35:23 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 135
+X-Sorting-Hat-Shopid: 37353193608
+X-Storefront-Renderer-Rendered: 1
+Location: https://envyboutiquebyte.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 37353193608
+X-Shardid: 135
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=11, db;dur=5, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="tqdd", requestID;desc="93266f9b-a572-4660-9d55-a966ccb7a8f8"
+Server-Timing: cfRequestDuration;dur=56.000233
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 93266f9b-a572-4660-9d55-a966ccb7a8f8
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=fRxIYdNU9qODKKfLn41uAd1x6b5VaVb08UsyLnCr8%2FgR2kuiOW2VyOfEbCfivyMj5TGgOw28aZt7pdxEQFwD6ciSyu9CVbiVHBGELfdcH%2F8lEHauKpxhuYgXfJT0d4qOZDXVQQ2o"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84660e013c775d7c-FRA
+Alt-Svc: h3=":443"; ma=86400

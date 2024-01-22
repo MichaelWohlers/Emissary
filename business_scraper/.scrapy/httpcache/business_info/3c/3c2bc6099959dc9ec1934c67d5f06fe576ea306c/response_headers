@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:38:52 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 251
+X-Sorting-Hat-Shopid: 1585217580
+X-Storefront-Renderer-Rendered: 1
+Location: https://www.shoppingwithpeggy.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 1585217580
+X-Shardid: 251
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=9, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="kknp", requestID;desc="0cfb4f88-1275-4f85-9ea1-cc4dada7fa3e"
+Server-Timing: cfRequestDuration;dur=69.999933
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 0cfb4f88-1275-4f85-9ea1-cc4dada7fa3e
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=shoQDZ%2FzWNNLKbBkeysV7UjdB8tK%2FVfQ2hc3jTXF25i5P430cZPCYuD1YzCSISRhh8VvoZPOTibqagzByHCt6BHIxsdEqRv%2Fj7Q4TYf9CSkq1DNOqzXduW2L5JRw3CLqIVb%2FP9DZQQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8466131d398a92ba-FRA
+Alt-Svc: h3=":443"; ma=86400

@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:34:15 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 250
+X-Sorting-Hat-Shopid: 17266868324
+X-Storefront-Renderer-Rendered: 1
+Location: https://shopsouthernrootsark.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 17266868324
+X-Shardid: 250
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=8, db;dur=2, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="bkhr", requestID;desc="f6fe20f0-02e7-433e-b15f-d5ab95588e61"
+Server-Timing: cfRequestDuration;dur=33.999920
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: f6fe20f0-02e7-433e-b15f-d5ab95588e61
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=XDE12YPU%2B3s2oMi5WUzkzoP4Tbyu%2BmbPa%2F5GUFiMTZ4BBkAJNEXHLxEfboX%2B45JYUBKdVY6QD4yGa6MFlm%2FsI1RQvxFl1KRNcXDCFvHr4B9DEs1E5GjfQTvTDnzzRnCrLDgu9eqZ5IOVww%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84660c5b98226abb-FRA
+Alt-Svc: h3=":443"; ma=86400

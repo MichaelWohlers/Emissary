@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:55:23 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 307
+X-Sorting-Hat-Shopid: 71981039924
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=2770c290-5aea-4c78-9e52-bdc24b6e8cd5; path=/; expires=Tue, 16 Jan 2024 12:25:23 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:55:23 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:55:23 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:55:23 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=thedashery.com; path=/; expires=Wed, 17 Jan 2024 11:55:23 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=c12bf670-f49b-4731-aecf-0681d54e4539; Expires=Wed, 15-Jan-25 11:55:23 GMT; Domain=thedashery.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=901090e6-fb5c-4704-b942-55eed865c996; Expires=Tue, 16-Jan-24 12:25:23 GMT; Domain=thedashery.com; Path=/; SameSite=Lax
+Etag: "cacheable:e712293071651d6c927dc0fe0786e5b0"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 71981039924
+X-Shardid: 307
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=11, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="146570641716", servedBy;desc="qb7b", requestID;desc="e8bf7a3c-1cd9-4660-bb92-e58baaa54bc4"
+Server-Timing: cfRequestDuration;dur=40.999889
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: e8bf7a3c-1cd9-4660-bb92-e58baaa54bc4
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=M9x86mC%2FuoUIFQVMcZok5%2Fz5WyFZyQTQO1N8iZhARDuQ2XWf5%2BdlBEvikWcFU2gq58gzaHmxlGqEA12%2F15ZunhU41P4e9zPHTrGhZmR9JGQNDj1WEf5p%2BEb%2FiGheHqtc"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84662b50695a6ab9-FRA
+Alt-Svc: h3=":443"; ma=86400

@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 04:00:37 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 108
+X-Sorting-Hat-Shopid: 24450567
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=86fdec36-8b98-49b0-b4be-590388d204b2; path=/; expires=Tue, 16 Jan 2024 04:30:37 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 04:00:37 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 04:00:37 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 04:00:37 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=dymecouture.com; path=/; expires=Wed, 17 Jan 2024 04:00:37 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=08391eaf-ca8e-4051-bd25-965faa21a61b; Expires=Wed, 15-Jan-25 04:00:37 GMT; Domain=dymecouture.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=4534719a-8ecd-4fb1-95ad-4072ca04175a; Expires=Tue, 16-Jan-24 04:30:37 GMT; Domain=dymecouture.com; Path=/; SameSite=Lax
+Etag: "cacheable:d6079c210a06b1b552d421a6531ea6c7"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 24450567
+X-Shardid: 108
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=13, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="120596889709", servedBy;desc="h2z8", requestID;desc="c69f0dd1-f112-4eb2-9c75-541fe5b28e02"
+Server-Timing: cfRequestDuration;dur=38.000107
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: c69f0dd1-f112-4eb2-9c75-541fe5b28e02
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=YLSLs%2B%2FR3qz%2F1RUrzMeMEY%2BA533mAEBH%2FnD1Z8ksY4avIr%2B7yMO5Aj%2BAdHWusIAhX%2FLzDzh0tOhwLH6qNfMcNiEVwBI4Z2OnrYuNQKOvzXxpVGib0r%2FnG2N%2BlYHspz1X6g%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846373d789590493-FRA
+Alt-Svc: h3=":443"; ma=86400

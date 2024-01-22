@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 12:01:40 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 220
+X-Sorting-Hat-Shopid: 57369723039
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=76e1db89-e82d-41c9-9feb-d1823d2268c6; path=/; expires=Tue, 16 Jan 2024 12:31:40 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 12:01:40 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 12:01:40 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 12:01:40 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=vivaciouslyplus.com; path=/; expires=Wed, 17 Jan 2024 12:01:40 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=a85ae7dd-88a5-41ad-92a7-f66028845c72; Expires=Wed, 15-Jan-25 12:01:40 GMT; Domain=vivaciouslyplus.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=c6fa8c43-fdcc-4e58-a173-23875312e199; Expires=Tue, 16-Jan-24 12:31:40 GMT; Domain=vivaciouslyplus.com; Path=/; SameSite=Lax
+Etag: "cacheable:b2c12aa095c026cda60e8dc9882cd65d"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 57369723039
+X-Shardid: 220
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=10, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="124126101663", servedBy;desc="cd2j", requestID;desc="4ec16ab5-1bfb-4299-abd1-5d8787f5adca"
+Server-Timing: cfRequestDuration;dur=40.999889
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 4ec16ab5-1bfb-4299-abd1-5d8787f5adca
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=%2B8ebzdHJNZA6GoT6qOaJqJq9bPRE0wnSOe%2BqEr%2BcWFHKMzua7BOxeCz8aO%2FhxJZ96lqWdr9G7zELk0kbiEypbbey4aTHCjrqholC3Ji6x5c6X99gGChjifGnrqoX%2B4y9R4N6gyk%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84663481de9d2c5d-FRA
+Alt-Svc: h3=":443"; ma=86400

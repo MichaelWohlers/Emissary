@@ -1,0 +1,15 @@
+Content-Length: 0
+Location: https://www.wisconsinclothingco.com/
+Strict-Transport-Security: max-age=3600
+X-Wix-Request-Id: 1705405497.72927370817387903
+Cache-Control: public,max-age=0,must-revalidate
+Server: Pepyaka/1.21.6
+X-Content-Type-Options: nosniff
+Accept-Ranges: bytes
+Date: Tue, 16 Jan 2024 11:44:57 GMT
+Age: 6
+X-Served-By: cache-fra-etou8220067-FRA
+X-Cache: MISS
+Server-Timing: cache;desc=hit, varnish;desc=hit_miss, dc;desc=fastly_84_g
+X-Seen-By: yvSunuo/8ld62ehjr5B7kA==,REmTqJKTo7BM/eF7JdTbUrxkNjrXdwdgtu6E0yACibU=,m0j2EEknGIVUW/liY8BLLm+RUUxFrhyTYE58WvxHjklsl0ueLMGCVziLUYuJmnC9,2d58ifebGbosy5xc+FRalpWHgNAqvTCpZiFa/M0gatKoobMG7aO1NoKutnjds8DVq1h6hFceN8ImojjJMFauXg==,2UNV7KOq4oGjA5+PKsX47IuEO720fXeweokiV/7A8wS8ZDY613cHYLbuhNMgAom1
+Via: 1.1 google

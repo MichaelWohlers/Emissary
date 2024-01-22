@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 07:06:32 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 215
+X-Sorting-Hat-Shopid: 1546944615
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=d8178ad5-5813-4778-920c-32b4c304d217; path=/; expires=Tue, 16 Jan 2024 07:36:32 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 07:06:32 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 07:06:32 GMT; SameSite=Lax
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 07:06:32 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=shopbritrose.com; path=/; expires=Wed, 17 Jan 2024 07:06:32 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=eb6e45d4-cc22-4f88-b6e3-0deebe8794d2; Expires=Wed, 15-Jan-25 07:06:32 GMT; Domain=shopbritrose.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=c7bac69b-bd2e-45fa-b750-8591870cfbb2; Expires=Tue, 16-Jan-24 07:36:32 GMT; Domain=shopbritrose.com; Path=/; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+Etag: "cacheable:b45bd133445f5593627cc09d5e2ee266"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 1546944615
+X-Shardid: 215
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=20, db;dur=6, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="32766492775", servedBy;desc="shms", requestID;desc="d913be06-2b7b-4025-8570-f355ce629196"
+Server-Timing: cfRequestDuration;dur=55.999756
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: d913be06-2b7b-4025-8570-f355ce629196
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=1xFibXMJMAU6%2B82DJge4c0nqaRysKND5SyiWT5uw3AwGG6okRI%2Fi3n9QsKm1HvgVi3DLBk61sJMZjPLxO%2FhAYYI5H97BevwRZc9AOEAQ7riosVXaHfCboGnSIq4TfQBsGsI%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846484337a415c98-FRA
+Alt-Svc: h3=":443"; ma=86400

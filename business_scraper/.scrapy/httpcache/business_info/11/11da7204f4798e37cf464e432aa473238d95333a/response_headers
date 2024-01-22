@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:40:27 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 248
+X-Sorting-Hat-Shopid: 61796614393
+X-Storefront-Renderer-Rendered: 1
+Location: https://shopalwaysundercover.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 61796614393
+X-Shardid: 248
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=9, db;dur=2, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="w6wv", requestID;desc="79c0941a-11f2-4d53-8d02-b6202d7e56e7"
+Server-Timing: cfRequestDuration;dur=39.000034
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 79c0941a-11f2-4d53-8d02-b6202d7e56e7
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=SsnTBsH%2F7mtm8X%2FodoxbobkJJ1PmJJxcHkQbcLGK5vEsSQxOPncuxwbzImWqPoiBWi3OLMe0pRvxTLlavTI8R1F89XDiV7Oi6vAO%2BJ48IPAmZyYZ4l1K%2FI%2FyFNKQut%2By1xbfHzHNrDmodQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661570acf89b8e-FRA
+Alt-Svc: h3=":443"; ma=86400

@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:45:31 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 172
+X-Sorting-Hat-Shopid: 55122952365
+X-Storefront-Renderer-Rendered: 1
+Location: https://www.alanisfashionboutique.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 55122952365
+X-Shardid: 172
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=10, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="6kmk", requestID;desc="e852acb0-0714-4e7b-a37f-6651b80538ee"
+Server-Timing: cfRequestDuration;dur=36.999941
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: e852acb0-0714-4e7b-a37f-6651b80538ee
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Q4v4hnBmVbfaCzwDfueYptfjXvaVBU%2FQvAh07cR4LzAkipbZ0r3AnnhyCBu2%2FNY02JRa5r210%2FjYwhgMo4SKBVnBY2iXlazXNdb2Pd7cQxeYe%2FLh14%2BjMX5nBnNYrsMQDgACp5US2QtJkUISGkue"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661cdc68665b7a-FRA
+Alt-Svc: h3=":443"; ma=86400

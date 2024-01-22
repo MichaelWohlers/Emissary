@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:02:28 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 60
+X-Sorting-Hat-Shopid: 2324004982
+X-Storefront-Renderer-Rendered: 1
+Location: https://dancingponyboutique.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 2324004982
+X-Shardid: 60
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=10, db;dur=6, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="z8q5", requestID;desc="740560f3-de70-4c27-823e-5a64e84aa5c8"
+Server-Timing: cfRequestDuration;dur=39.999962
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 740560f3-de70-4c27-823e-5a64e84aa5c8
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=YmsQB84VvyNSSfXMSWDAuGct0iI386%2FjwZRSDyomwGOLDklM4lRDXKL%2FSgfKPPRHJAZTwT6DsxILWSE%2B%2BpB00XSEXU6zfdbHgDnW9kgVzQUHO%2FsSejHeYXitoEHCADIpDsuQDgy98yAnFx8xYQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8465ddcc0b911e50-FRA
+Alt-Svc: h3=":443"; ma=86400

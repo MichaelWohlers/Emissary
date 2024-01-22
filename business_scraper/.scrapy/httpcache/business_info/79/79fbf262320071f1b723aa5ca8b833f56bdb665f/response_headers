@@ -1,0 +1,41 @@
+Date: Tue, 16 Jan 2024 11:39:28 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 307
+X-Sorting-Hat-Shopid: 19226511
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=c744063d-fe9a-43fc-be4e-a82c52110417; path=/; expires=Tue, 16 Jan 2024 12:09:28 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:39:28 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:39:28 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:39:28 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=farmhousefreshhome.com; path=/; expires=Wed, 17 Jan 2024 11:39:28 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=e1a6ecfa-3d50-4419-b99a-e5bc92b8dd7f; Expires=Wed, 15-Jan-25 11:39:28 GMT; Domain=farmhousefreshhome.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=04c43459-dd22-4b8f-b482-0bafb6183764; Expires=Tue, 16-Jan-24 12:09:28 GMT; Domain=farmhousefreshhome.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 11:39:28 GMT; Domain=farmhousefreshhome.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2F; Expires=Tue, 30-Jan-24 11:39:28 GMT; Domain=farmhousefreshhome.com; Path=/; HttpOnly; SameSite=Lax
+Etag: "cacheable:759900987148293dc3fd38322d39e37e"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 19226511
+X-Shardid: 307
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=9, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="142908417", pageType;desc="index", servedBy;desc="p9hw", requestID;desc="c8d5a98f-9880-4c4e-9cb5-a20ce8d7f728"
+Server-Timing: cfRequestDuration;dur=34.000158
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: c8d5a98f-9880-4c4e-9cb5-a20ce8d7f728
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=qz%2BkS53aqJqr4aJMtV55Dlc8FXTyab2ktj%2BpRMx1rCfzr4loZXwVfUuvIVyis3E8GYAryVDiQx7fiBUcvEyv%2F8nB4jlIEXM5ZifwLPybYYlBrWy9PDWbuF9Bl9KqkhINHTqNOqeR3q4%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846613fd7ddc0378-FRA
+Alt-Svc: h3=":443"; ma=86400

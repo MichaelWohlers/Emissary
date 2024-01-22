@@ -1,0 +1,41 @@
+Date: Tue, 16 Jan 2024 03:59:58 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 250
+X-Sorting-Hat-Shopid: 35048783917
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=38d9841d-0f8f-4670-956f-cbcd9681a228; path=/; expires=Tue, 16 Jan 2024 04:29:58 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 03:59:58 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 03:59:58 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 03:59:58 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=shopglamourandgrace.com; path=/; expires=Wed, 17 Jan 2024 03:59:58 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=664db511-96c3-4e75-af81-06c692c682b8; Expires=Wed, 15-Jan-25 03:59:58 GMT; Domain=shopglamourandgrace.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=33e3b6d4-8f73-44b0-8f5c-62825fc24d9f; Expires=Tue, 16-Jan-24 04:29:58 GMT; Domain=shopglamourandgrace.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 03:59:58 GMT; Domain=shopglamourandgrace.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2F; Expires=Tue, 30-Jan-24 03:59:58 GMT; Domain=shopglamourandgrace.com; Path=/; HttpOnly; SameSite=Lax
+Etag: "cacheable:3f4327a70ac2244c652f2278c2fb90c4"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 35048783917
+X-Shardid: 250
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=11, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="91492057133", pageType;desc="index", servedBy;desc="22x4", requestID;desc="0b92c79a-3ed8-4fc7-a3a2-95736b232ac4"
+Server-Timing: cfRequestDuration;dur=34.000158
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 0b92c79a-3ed8-4fc7-a3a2-95736b232ac4
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=ZQ0Fa5u3wnzL1clDRGLdZcwdCde9%2FBWIlrxDHU3Z3fq7vChz0K7zkbVsH0DFFoVBJxOsHzZFUJXsK4m%2F06orlAlbecmkw4B2DcfG4O8OKgBC19a5XCoJOHJGugS92qQOIrD50sNZqvR9"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846372e90f58bb3b-FRA
+Alt-Svc: h3=":443"; ma=86400

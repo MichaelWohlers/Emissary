@@ -1,0 +1,24 @@
+Content-Length: 137
+Content-Encoding: gzip
+Referrer-Policy: no-referrer-when-downgrade
+X-Content-Type-Options: nosniff
+Content-Type: text/plain
+X-Fw-Hash: qrjnteqbz8
+Etag: W/"6411ea81-b0"
+X-Fw-Version: 5.0.0
+X-Xss-Protection: 1
+Last-Modified: Wed, 15 Mar 2023 15:55:45 GMT
+X-Fw-Server: Flywheel/5.1.0
+Server: Flywheel/5.1.0
+X-Cacheable: YES
+Fastly-Restarts: 1
+Accept-Ranges: bytes
+Date: Tue, 16 Jan 2024 11:45:33 GMT
+X-Served-By: cache-muc13947-MUC, cache-muc13956-MUC
+X-Cache: MISS, MISS
+X-Cache-Hits: 0, 0
+X-Timer: S1705405533.269346,VS0,VE629
+Vary: Accept-Encoding, Authorization
+X-Fw-Serve: TRUE
+X-Fw-Static: NO
+X-Fw-Type: VISIT

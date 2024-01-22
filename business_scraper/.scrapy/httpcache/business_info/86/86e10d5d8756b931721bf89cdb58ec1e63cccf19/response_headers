@@ -1,0 +1,38 @@
+Date: Tue, 16 Jan 2024 11:42:12 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 148
+X-Sorting-Hat-Shopid: 61423976597
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=d3b57725-1494-4b10-a0e9-dfb8a8a5de37; path=/; expires=Tue, 16 Jan 2024 12:12:12 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:42:12 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:42:12 GMT; SameSite=Lax
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:42:12 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Afalse%2C%22a%22%3Afalse%2C%22m%22%3Afalse%2C%22t%22%3Afalse%7D%2C%22display_banner%22%3Atrue%2C%22sale_of_data_region%22%3Afalse%7D; domain=shopnestedboutique.com; path=/; expires=Wed, 17 Jan 2024 11:42:12 GMT; SameSite=Lax
+Set-Cookie: _tracking_consent=%7B%22region%22%3A%22DERP%22%2C%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.1%22%2C%22con%22%3A%7B%22CMP%22%3A%7B%22a%22%3A%22%22%2C%22s%22%3A%22%22%2C%22p%22%3A%22%22%2C%22m%22%3A%22%22%7D%7D%2C%22lim%22%3A%5B%22GDPR_BLOCK_ALL%22%5D%7D; Expires=Wed, 15-Jan-25 11:42:12 GMT; Domain=shopnestedboutique.com; Path=/; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+Etag: "cacheable:81fcb80107160d7b789afa82bf9d8584"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 61423976597
+X-Shardid: 148
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=327;desc="gc:52", db;dur=69, fetch;dur=98, parse;dur=3, render;dur=70, wasm, wasmDownload;dur=99, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="129830158485", pageType;desc="index", servedBy;desc="qb7b", requestID;desc="036bc084-062a-4c7c-91d9-f627ea7f1ff3"
+Server-Timing: cfRequestDuration;dur=361.999989
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west4,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 036bc084-062a-4c7c-91d9-f627ea7f1ff3
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Ycy2Nf6alMSJ%2BA89q3vc0%2F%2B24%2BpOY5j1I7vKnHpwmSatoRF45%2Fw6vP0tHLfCmg7f8do40eim1EZwPMTxivLdyMcgsXrzI4M1Xlpr7HY%2B%2F6N3loO7jnMLnQZ7hudHD40JxD89n3W%2Fjf8%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846617ff2bd1bbf7-FRA
+Alt-Svc: h3=":443"; ma=86400

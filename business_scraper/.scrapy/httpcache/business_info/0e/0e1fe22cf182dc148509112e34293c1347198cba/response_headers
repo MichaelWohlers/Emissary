@@ -1,0 +1,17 @@
+Date: Tue, 16 Jan 2024 04:00:15 GMT
+Content-Type: text/plain
+Cache-Control: public, max-age=300
+Content-Security-Policy: default-src 'self'; font-src * data:; frame-ancestors 'self'; connect-src *; frame-src 'self' https://widget.stackla.com https://hosted.where2getit.com https://*.doubleclick.net https://insight.adsrvr.org https://*.pinterest.com; img-src * data:; script-src-elem 'self' 'unsafe-inline' 'unsafe-eval' https://*.dotomi.com https://connect.facebook.net https://contentz.mkt932.com https://app.everviz.com https://code.highcharts.com https://*.googletagmanager.com https://*.google-analytics.com https://*.googleadservices.com https://*.doubleclick.net https://*.pinimg.com https://js.adsrvr.org https://analytics.tiktok.com https://*.cookielaw.org https://cdn.jsdelivr.net https://vjs.zencdn.net https://staging-assetscdn.stackla.com https://*.pages03.net;  script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.dotomi.com https://*.googletagmanager.com https://*.google-analytics.com https://*.googleadservices.com https://*.doubleclick.net https://*.pinimg.com https://js.adsrvr.org https://analytics.tiktok.com https://*.cookielaw.org https://cdn.jsdelivr.net https://vjs.zencdn.net https://staging-assetscdn.stackla.com https://*.pages03.net;  style-src-elem 'self' 'unsafe-inline' *;  style-src 'self' 'unsafe-inline' *;
+Etag: W/"65a09b07-80"
+Last-Modified: Fri, 12 Jan 2024 01:51:03 GMT
+Referrer-Policy: origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: REVALIDATED
+Set-Cookie: __cf_bm=Fl7c6RKR_ihPyMyLmlg6rq62hAaVDcKwQlbylDb8VwI-1705377615-1-AYtNUekfyrQN9XsZWuiekQZEvq97oDl/KyubpL1SRjnsmLgzGNfxQrfti90PjxyM+alr9NWvo22GNoMF7t/US4I=; path=/; expires=Tue, 16-Jan-24 04:30:15 GMT; domain=.www.rossstores.com; HttpOnly; SameSite=None
+Vary: Accept-Encoding
+Server: cloudflare
+Cf-Ray: 84637350c9c230cc-FRA
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400

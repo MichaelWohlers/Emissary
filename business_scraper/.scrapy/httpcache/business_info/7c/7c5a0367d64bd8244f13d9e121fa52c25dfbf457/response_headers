@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:49:09 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 307
+X-Sorting-Hat-Shopid: 39735558310
+X-Storefront-Renderer-Rendered: 1
+Location: https://aria-elora.myshopify.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 39735558310
+X-Shardid: 307
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=12, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="kgsz", requestID;desc="e6fda78e-3f82-48d1-a6f9-bfe8ba056c43"
+Server-Timing: cfRequestDuration;dur=77.999830
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: e6fda78e-3f82-48d1-a6f9-bfe8ba056c43
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=K50WOPoaguglCDfVOyCGJ%2BUm6zjIjjnBuQRvK89oStpaQo4rQJs0LBBkd5OkHGRiof%2Fm6bOQMxW%2Be4Gew2TXNo%2F%2FwxgS27uPADlJTRy0aqOAtgMoFdw%2FivpsFIUbbPpcFA%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8466222e6fb32be2-FRA
+Alt-Svc: h3=":443"; ma=86400

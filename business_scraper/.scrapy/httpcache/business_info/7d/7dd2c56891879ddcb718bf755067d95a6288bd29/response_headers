@@ -1,0 +1,12 @@
+Content-Length: 0
+Server: Varnish
+Retry-After: 0
+Location: https://ashleyhittboutique.com/
+Accept-Ranges: bytes
+Date: Tue, 16 Jan 2024 12:00:04 GMT
+Via: 1.1 varnish
+X-Served-By: cache-fra-eddf8230050-FRA
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1705406404.233372,VS0,VE0
+Strict-Transport-Security: max-age=900

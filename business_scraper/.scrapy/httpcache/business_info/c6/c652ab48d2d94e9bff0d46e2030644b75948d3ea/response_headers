@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 04:00:16 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 163
+X-Sorting-Hat-Shopid: 46547304612
+X-Storefront-Renderer-Rendered: 1
+Location: https://www.cooljsapparel.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 46547304612
+X-Shardid: 163
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=9, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="8dtg", requestID;desc="a546a19a-5e9a-451a-8fe3-492ab6c6ff7d"
+Server-Timing: cfRequestDuration;dur=35.000086
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: a546a19a-5e9a-451a-8fe3-492ab6c6ff7d
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=j5KDINLhURFR3OMj5Y0yJ13r7IrngvnDn4PQUWbaU3%2B%2B6d8F1PFlpSgFyAzoZJeTe9hlHruVbiU6XxLpl8g67%2BRnszhlau8ZhSVDlR8hq%2BlG0t71PwGUJU%2FHmehDaYXknLIqWJtfYg%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846373586f6a35ee-FRA
+Alt-Svc: h3=":443"; ma=86400

@@ -1,0 +1,29 @@
+Date: Tue, 16 Jan 2024 11:35:02 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 305
+X-Sorting-Hat-Shopid: 67713532210
+X-Storefront-Renderer-Rendered: 1
+X-Cache: allow
+Location: https://vrclothingco.com/password
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 67713532210
+X-Shardid: 305
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=9, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="137788457266", pageType;desc="index", servedBy;desc="rrkq", requestID;desc="48670577-e527-479b-90cb-6cc78bac7f5f"
+Server-Timing: cfRequestDuration;dur=39.999723
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 48670577-e527-479b-90cb-6cc78bac7f5f
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=WMTBka8IzJWINuPvVRJXQXAd3yI%2BrELavkLRTqim65RCrywEx3MtPN%2FaIY2luTYi8DXIKmcaCyyi%2FB7Fy298cV%2F7fLUcx4vbYzfAhwMzWcyeoZrjo0CLOzXL4d4ZcY4VraM%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84660d7ede312ba9-FRA
+Alt-Svc: h3=":443"; ma=86400

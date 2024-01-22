@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:53:49 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 243
+X-Sorting-Hat-Shopid: 60727361780
+X-Storefront-Renderer-Rendered: 1
+Location: https://www.theuniqueboutique.fashion/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 60727361780
+X-Shardid: 243
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=5, db;dur=2, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="7htk", requestID;desc="a3e98696-547a-4b58-a51b-1b29a97d311d"
+Server-Timing: cfRequestDuration;dur=40.999889
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: a3e98696-547a-4b58-a51b-1b29a97d311d
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=TOAoIjUv8AajTAuG01PWqQKojnNyKPs9d6eFa63cgG39%2FIsQ%2F9d3waZVNqpgrXtOTULxvW3%2B0JvaPIFtvv2MFYQ2JBXGVLEA7UYv52dTTiTU%2BJ116jJDwTUwHPKa6GhCa0ylFL3gM%2BFpeIfT%2BM3%2B"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846629048dc8bb5c-FRA
+Alt-Svc: h3=":443"; ma=86400

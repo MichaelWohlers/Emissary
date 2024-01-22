@@ -1,0 +1,41 @@
+Date: Tue, 16 Jan 2024 11:38:57 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 276
+X-Sorting-Hat-Shopid: 1555267695
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=c9476b6e-9db6-43cc-b975-65b6d502754d; path=/; expires=Tue, 16 Jan 2024 12:08:57 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:38:57 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 11:38:57 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:38:57 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=lurooco.com; path=/; expires=Wed, 17 Jan 2024 11:38:57 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=8acbed6d-7db8-44fc-896d-836fc80a0e2c; Expires=Wed, 15-Jan-25 11:38:57 GMT; Domain=lurooco.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=b44bc406-f808-4f3e-b456-0e18b93567b1; Expires=Tue, 16-Jan-24 12:08:57 GMT; Domain=lurooco.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 11:38:57 GMT; Domain=lurooco.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2F; Expires=Tue, 30-Jan-24 11:38:57 GMT; Domain=lurooco.com; Path=/; HttpOnly; SameSite=Lax
+Etag: "cacheable:e09fd300f289a90e873a97f27f986cbd"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 1555267695
+X-Shardid: 276
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=14, db;dur=5, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="44222775407", pageType;desc="index", servedBy;desc="g577", requestID;desc="3d47c61e-095e-4efb-af7a-cbb84bf69a19"
+Server-Timing: cfRequestDuration;dur=39.999962
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 3d47c61e-095e-4efb-af7a-cbb84bf69a19
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=2MmMUFnvdS%2BS3m37fJpp9Qu5e7qVNEnbUdqxt6UWkgnaZQU7%2BZRA2%2FF783bXcNljeCHDovWFTv70608BmOgJFSJDYkJDBP4NaJcIWPGYEXcNAGWZ37AmW%2BA%2FLpLM"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8466133b88f33a52-FRA
+Alt-Svc: h3=":443"; ma=86400

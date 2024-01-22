@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 12:00:09 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 165
+X-Sorting-Hat-Shopid: 13104295
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=641cc542-5623-4f68-8aa6-b3b522015989; path=/; expires=Tue, 16 Jan 2024 12:30:09 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 12:00:09 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 12:00:09 GMT; SameSite=Lax
+Set-Cookie: cart_currency=EUR; path=/; expires=Tue, 30 Jan 2024 12:00:09 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=lane201.com; path=/; expires=Wed, 17 Jan 2024 12:00:09 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=61775599-1d8e-4b41-bcf4-6c5b20a66095; Expires=Wed, 15-Jan-25 12:00:09 GMT; Domain=lane201.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=aeb1b712-0966-4c7d-aa40-98b929d17000; Expires=Tue, 16-Jan-24 12:30:09 GMT; Domain=lane201.com; Path=/; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+Etag: "cacheable:27e749fead49d1f750dd6febaf31f6e5"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 13104295
+X-Shardid: 165
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=20, db;dur=7, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="134662586534", servedBy;desc="bvfp", requestID;desc="958daf5d-7c2b-4715-a02a-dd96316c7a50"
+Server-Timing: cfRequestDuration;dur=58.000088
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 958daf5d-7c2b-4715-a02a-dd96316c7a50
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=vZeTpwgluBV5dgz0fkJhxg5jljNkHgLYRFlomYYriCiW3spXkYQ7x%2BtDrGAPEZUtYNLb5J7y2wTJ2PR0zO97547OvUk5gsh43bPmwM7pWrqLMmw%2BmmTuu%2FhIu98C"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8466324a7f1f1bcf-FRA
+Alt-Svc: h3=":443"; ma=86400

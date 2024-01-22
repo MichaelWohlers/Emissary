@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:39:24 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 223
+X-Sorting-Hat-Shopid: 12627167
+X-Storefront-Renderer-Rendered: 1
+Location: https://www.theblackmarketboutique.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 12627167
+X-Shardid: 223
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=12, db;dur=5, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="zqhd", requestID;desc="779df025-59cf-4902-8d2b-f8501dac38a1"
+Server-Timing: cfRequestDuration;dur=52.999973
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 779df025-59cf-4902-8d2b-f8501dac38a1
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=MSfnMyt%2FYYSlCH7SlgBP15JbFV4i34MfNVZCRhCsxKNCnRQumgHurZJwUgICbq6zbFEq0ZgPkSjnyZTqLZJ2dW%2FlTaLG2T%2Fdfva3W6tvOBQbaXBwBI7sS2%2FkXdNvjr%2F7Cc%2B%2Fsh6erBJBEJ40tYVyoA%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846613e7decf3816-FRA
+Alt-Svc: h3=":443"; ma=86400

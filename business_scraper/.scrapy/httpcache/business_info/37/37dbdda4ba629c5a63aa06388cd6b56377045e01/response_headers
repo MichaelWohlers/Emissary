@@ -1,0 +1,19 @@
+Content-Type: text/html; charset=UTF-8
+Server: Apache
+Cache-Control: no-cache, private
+X-Robots-Tag: all
+X-Request-Id: 817001b9-8599-4661-8cc5-987074a715e1
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST, GET, OPTIONS, DELETE, PUT
+Access-Control-Max-Age: 1000
+Access-Control-Allow-Headers: x-requested-with, Content-Type, origin, authorization, accept, client-security-token, Accept-Encoding
+Location: https://kaliroseboutique.com/store
+Accept-Ranges: bytes
+Via: 1.1 varnish, 1.1 varnish
+X-Cacheable: NO:Cache-Control=private
+Date: Tue, 16 Jan 2024 11:19:53 GMT
+X-Served-By: cache-chi-klot8100166-CHI, cache-fra-eddf8230134-FRA
+X-Cache: MISS, MISS
+X-Cache-Hits: 0, 0
+X-Timer: S1705403994.506141,VS0,VE165
+Strict-Transport-Security: max-age=900

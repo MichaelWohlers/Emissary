@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:19:49 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 234
+X-Sorting-Hat-Shopid: 47170486428
+X-Storefront-Renderer-Rendered: 1
+Location: https://vintagevibesboutique607.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 47170486428
+X-Shardid: 234
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=9, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="mxgx", requestID;desc="0ef76b93-ca56-4756-afc5-77ba0643638c"
+Server-Timing: cfRequestDuration;dur=33.999920
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 0ef76b93-ca56-4756-afc5-77ba0643638c
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Ylm9pzj0eHRXSWwe2YpmIPuA4IsX3LRbyD2h2vlHYjckcFRgjISrXnfaTlus7FkiyV0tqLRzF5uMuZFdkU1OXrHUfQMsk%2B2NoX%2Fr4wHQqsScFS%2FSFv8%2Fw679kK36%2BMXO9SMS7BD93lgqDRd%2BRMhwxOs%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8465f738fa0b2be2-FRA
+Alt-Svc: h3=":443"; ma=86400

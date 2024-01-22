@@ -1,0 +1,38 @@
+Date: Tue, 16 Jan 2024 11:21:21 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 234
+X-Sorting-Hat-Shopid: 63402508523
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=d8a4cb87-6004-449e-ad18-8004588adb32; path=/; expires=Tue, 16 Jan 2024 11:51:21 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:21:21 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:21:21 GMT; SameSite=Lax
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:21:21 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Afalse%2C%22a%22%3Afalse%2C%22m%22%3Afalse%2C%22t%22%3Afalse%7D%2C%22display_banner%22%3Atrue%2C%22sale_of_data_region%22%3Afalse%7D; domain=moonlightintimateapparel.com; path=/; expires=Wed, 17 Jan 2024 11:21:21 GMT; SameSite=Lax
+Set-Cookie: _tracking_consent=%7B%22region%22%3A%22DERP%22%2C%22reg%22%3A%22GDPR%22%2C%22con%22%3A%7B%22CMP%22%3A%7B%22m%22%3A%22%22%2C%22a%22%3A%22%22%2C%22p%22%3A%22%22%2C%22s%22%3A%22%22%7D%7D%2C%22v%22%3A%222.1%22%2C%22lim%22%3A%5B%22GDPR_BLOCK_ALL%22%5D%7D; Expires=Wed, 15-Jan-25 11:21:21 GMT; Domain=moonlightintimateapparel.com; Path=/; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+Etag: "cacheable:4ff1a104eb230fb4a18ef06b9ad02067"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 63402508523
+X-Shardid: 234
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=517;desc="gc:84", db;dur=131, fetch;dur=123, render;dur=163, wasm, wasmDownload;dur=124, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="131523182827", pageType;desc="index", servedBy;desc="7htk", requestID;desc="ace76336-705a-47e3-946e-a2a507fef680"
+Server-Timing: cfRequestDuration;dur=585.000038
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: ace76336-705a-47e3-946e-a2a507fef680
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=OmokWa%2FsjC67vsO%2BU2qPtAMRnSGBL4AUAZFAqR9dUJMz9jJv7u%2FZ8fON1tfq61VYfYHOXrToJvIoQ1JHN0bFWFgo5TT2GLRpv3KVSeWi0FpbzPMc21Dama4IkMeCqCHi9eflWM8FrX7oLXH%2F6%2BY%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8465f9735bb99b33-FRA
+Alt-Svc: h3=":443"; ma=86400

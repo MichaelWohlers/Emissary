@@ -1,0 +1,41 @@
+Date: Tue, 16 Jan 2024 11:39:53 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 320
+X-Sorting-Hat-Shopid: 76907446593
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=b0f2c86a-fa5d-48b4-ba88-cbdc79ee171f; path=/; expires=Tue, 16 Jan 2024 12:09:53 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:39:53 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:39:53 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:39:53 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=shopeccentricitykansas.com; path=/; expires=Wed, 17 Jan 2024 11:39:53 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=94ab9a11-20cf-448c-afb0-b887f156ebb5; Expires=Wed, 15-Jan-25 11:39:53 GMT; Domain=shopeccentricitykansas.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=76eb8df6-7a77-4ee2-a15b-5719239882d0; Expires=Tue, 16-Jan-24 12:09:53 GMT; Domain=shopeccentricitykansas.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 11:39:53 GMT; Domain=shopeccentricitykansas.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2F; Expires=Tue, 30-Jan-24 11:39:53 GMT; Domain=shopeccentricitykansas.com; Path=/; HttpOnly; SameSite=Lax
+Etag: "cacheable:c82f4ae301ae5bb1e7c09acf8650e0fa"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin, <//shopeccentricitykansas.com/cdn/shop/t/2/assets/styles.css?v=100092168534255988201698938614>; as="style"; rel="preload"
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 76907446593
+X-Shardid: 320
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=13, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="152672371009", pageType;desc="index", servedBy;desc="7htk", requestID;desc="0e238e40-a833-40b6-ab8b-5a88b84881da"
+Server-Timing: cfRequestDuration;dur=46.999931
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 0e238e40-a833-40b6-ab8b-5a88b84881da
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=gLFEGD%2F2imgQ2lbFBptlgLZvs4GVpXYF3KbO5knug9X9LChgXOXF56jYURyo7VV9mvUtwLn8smJ9yHY9n5cuuNkt%2BEFkN2YMbN5ByBWFgT00NQpxHgEA9fyEKKTvY7EnsWCPHqxWBTiXUyws"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8466149a9b013624-FRA
+Alt-Svc: h3=":443"; ma=86400

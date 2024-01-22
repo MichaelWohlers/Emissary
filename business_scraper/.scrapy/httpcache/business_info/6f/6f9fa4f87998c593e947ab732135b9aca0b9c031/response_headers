@@ -1,0 +1,41 @@
+Date: Tue, 16 Jan 2024 11:55:38 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 253
+X-Sorting-Hat-Shopid: 66052161790
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=d10f8eec-daaf-4f9d-96f7-f1ee33e0f47e; path=/; expires=Tue, 16 Jan 2024 12:25:38 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:55:38 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:55:38 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:55:38 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=meco7.com; path=/; expires=Wed, 17 Jan 2024 11:55:38 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=c467e7d3-f053-4deb-852e-6ecade108dfc; Expires=Wed, 15-Jan-25 11:55:38 GMT; Domain=meco7.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=5d8a39ef-ff6a-4b49-8b1f-ea66e32e9a0b; Expires=Tue, 16-Jan-24 12:25:38 GMT; Domain=meco7.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 11:55:38 GMT; Domain=meco7.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2F; Expires=Tue, 30-Jan-24 11:55:38 GMT; Domain=meco7.com; Path=/; HttpOnly; SameSite=Lax
+Etag: "cacheable:2f43350004dbc877074db13139ddec66"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 66052161790
+X-Shardid: 253
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=14, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="135041417470", pageType;desc="index", servedBy;desc="cjvg", requestID;desc="c5150aeb-a559-411f-9d3d-3b824ceb807a"
+Server-Timing: cfRequestDuration;dur=65.999985
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: c5150aeb-a559-411f-9d3d-3b824ceb807a
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=EE3eFeGhWE1xuiaxHmYtFZWo4pG2W4FNmUduDl2%2FEa1VxVyYDBPrG5QuTSO69ypNfdy6Wmlli3yWb9L6O12%2BHwON9kG7RStv32RD%2F2H1nmx9iEGQMjv8PgigUQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84662baddc4a929f-FRA
+Alt-Svc: h3=":443"; ma=86400

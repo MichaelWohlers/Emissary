@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:42:34 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 245
+X-Sorting-Hat-Shopid: 29517807748
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=d0c2c784-e26f-4368-8e6f-8f9762a1576d; path=/; expires=Tue, 16 Jan 2024 12:12:34 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:42:34 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:42:34 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:42:34 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=britmariescountryboutique.com; path=/; expires=Wed, 17 Jan 2024 11:42:34 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=7c92e77e-9bd2-4e72-887b-78f98ea4562d; Expires=Wed, 15-Jan-25 11:42:34 GMT; Domain=britmariescountryboutique.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=2920728e-0f2d-444f-8566-59c8ed209d9e; Expires=Tue, 16-Jan-24 12:12:34 GMT; Domain=britmariescountryboutique.com; Path=/; SameSite=Lax
+Etag: "cacheable:e27b9d4c86089a16cbe187c09ed65d49"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 29517807748
+X-Shardid: 245
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=18, db;dur=7, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="138664968438", servedBy;desc="6rwf", requestID;desc="6666fc0e-b16d-4151-b5e6-88d9f60dac11"
+Server-Timing: cfRequestDuration;dur=136.999846
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 6666fc0e-b16d-4151-b5e6-88d9f60dac11
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=FCIv9ULIXWtHXrer%2BNZT2kTNrdbov0KcUnVy7Nd7ocOUCIg6%2B0J4%2Byh7UH6SGwRH%2FCBhD1UJH%2FD5BoSOInRlhqk%2Bkzj4szbMvtJONV%2Bsk7Oj09gjxfZggPMq9MprpQOfSwbrapZlLIBdnC8loirR"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661886b9639be6-FRA
+Alt-Svc: h3=":443"; ma=86400

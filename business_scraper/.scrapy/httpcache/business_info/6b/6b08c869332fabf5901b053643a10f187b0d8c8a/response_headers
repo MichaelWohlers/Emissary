@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 04:00:08 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 252
+X-Sorting-Hat-Shopid: 5234229338
+X-Storefront-Renderer-Rendered: 1
+Location: https://www.thefind.shop/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 5234229338
+X-Shardid: 252
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=7, db;dur=2, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="njq6", requestID;desc="f55b9a45-7dc3-486c-aadc-31a6c90182ab"
+Server-Timing: cfRequestDuration;dur=27.999878
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: f55b9a45-7dc3-486c-aadc-31a6c90182ab
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Zh6ds2lMqjdYQj8Q7hvyFzzkF3szu%2Br%2BKOkHWnYnZkKmHqFqj3MW39RLEB%2BEN15ZFgCc%2FsnmpZKZH%2B3uuVMlWcLdWk%2FC1BYsAcO47%2BOhZwWQAlnAPm54W1wXilPUqVUsoT8%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846373230b601e6c-FRA
+Alt-Svc: h3=":443"; ma=86400

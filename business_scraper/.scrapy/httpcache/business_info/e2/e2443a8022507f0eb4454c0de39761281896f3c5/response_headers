@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:47:26 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 303
+X-Sorting-Hat-Shopid: 50436341910
+X-Storefront-Renderer-Rendered: 1
+Location: https://shopkaylee.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 50436341910
+X-Shardid: 303
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=7, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="vfm8", requestID;desc="361e4770-0c4e-4441-80b6-293fa368cbe8"
+Server-Timing: cfRequestDuration;dur=42.000055
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 361e4770-0c4e-4441-80b6-293fa368cbe8
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=opzoLRYu2A5j3ARZqEXP5oyWxtWN3sOBcmGUrbavmjAeECq52pPQcFxp0IbBWretCpvWp12lHZ23lbaZ8%2B1NdC3mAaal24Oq0DilA64rhGU4iCO5WzgTIMFNh2Gb0MBr"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661fa7ae6a2c2b-FRA
+Alt-Svc: h3=":443"; ma=86400

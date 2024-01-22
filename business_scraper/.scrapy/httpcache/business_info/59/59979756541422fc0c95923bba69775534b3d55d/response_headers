@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 04:55:55 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 278
+X-Sorting-Hat-Shopid: 26363985974
+X-Storefront-Renderer-Rendered: 1
+Location: https://manhattanfields.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 26363985974
+X-Shardid: 278
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=7, db;dur=2, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="svkz", requestID;desc="88499d4e-1214-41b1-8379-1111b234039f"
+Server-Timing: cfRequestDuration;dur=33.999920
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 88499d4e-1214-41b1-8379-1111b234039f
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=8ABkpI0kYBbZsl8q3%2BS3MbPN6PNXlZ%2FkgaIM3tU4usp8uQkLlnCzCrMVYsXhi2wlk0rZWLlLdWbwFQxMhctk0GPXOwwj2dksOuM1Im0xELwQbXM0Z3PZDAIMYe%2FIToM%2FD%2B6r8FM%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8463c4d958ea9b9e-FRA
+Alt-Svc: h3=":443"; ma=86400

@@ -1,0 +1,41 @@
+Date: Tue, 16 Jan 2024 11:58:43 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 114
+X-Sorting-Hat-Shopid: 19656811
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=b2802c99-7f1e-4008-be63-d8ef5a42e0de; path=/; expires=Tue, 16 Jan 2024 12:28:43 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:58:43 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:58:43 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:58:43 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=elysianco.com; path=/; expires=Wed, 17 Jan 2024 11:58:43 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=ab5c46b5-baef-4bfe-80c3-a96d2a7c6d7d; Expires=Wed, 15-Jan-25 11:58:43 GMT; Domain=elysianco.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=cd527f79-a666-41da-8373-70dbe7203052; Expires=Tue, 16-Jan-24 12:28:43 GMT; Domain=elysianco.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 11:58:43 GMT; Domain=elysianco.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2F; Expires=Tue, 30-Jan-24 11:58:43 GMT; Domain=elysianco.com; Path=/; HttpOnly; SameSite=Lax
+Etag: "cacheable:04db7f9d76c65f5936149e0e06579f9b"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 19656811
+X-Shardid: 114
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=9, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="120500289651", pageType;desc="index", servedBy;desc="z2pp", requestID;desc="efa004b4-d58f-4736-a626-15b6cf8f7119"
+Server-Timing: cfRequestDuration;dur=37.000179
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: efa004b4-d58f-4736-a626-15b6cf8f7119
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=jivdX72TUyl5ltSVj50Y3i5WJPXBqWyX1FqDrkQmHsJIKJI2jqYI7cQWpSEUQ9WanZ8YUNye4ggGjPSBVC41XBvnBXuywLtMgB4FHsDbXIpbcYYmGNdMpH5V408iYD0%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84663034a930377b-FRA
+Alt-Svc: h3=":443"; ma=86400

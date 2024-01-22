@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:54:51 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 81
+X-Sorting-Hat-Shopid: 28720234578
+X-Storefront-Renderer-Rendered: 1
+Location: https://shopcou.ca/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 28720234578
+X-Shardid: 81
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=11, db;dur=6, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="bp2k", requestID;desc="3274d071-bba2-47c3-a52e-b129bf73ff81"
+Server-Timing: cfRequestDuration;dur=40.000200
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 3274d071-bba2-47c3-a52e-b129bf73ff81
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=pxRJHwJ%2B%2BkQKCGOA7PyuYw5KX5yqIuJbI339c3jUH05wyBkx%2FIlJd5EhrEzAP%2BTUt%2FSzqbk1wgdlqyb8T0e8PPDDbSMp%2Bfl9kk6SwrEVeDHOVg3dqA56twP5Pto%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84662a86ef9a65a2-FRA
+Alt-Svc: h3=":443"; ma=86400

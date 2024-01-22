@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:47:45 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 213
+X-Sorting-Hat-Shopid: 33101807660
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=fb1cc6e1-e251-4360-a7c5-883f02be0777; path=/; expires=Tue, 16 Jan 2024 12:17:45 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:47:45 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 11:47:45 GMT
+Set-Cookie: cart_currency=EUR; path=/; expires=Tue, 30 Jan 2024 11:47:45 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=botanicamodernmarket.com; path=/; expires=Wed, 17 Jan 2024 11:47:45 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=ac699c5a-f871-41fa-a3c3-431713dc0fd5; Expires=Wed, 15-Jan-25 11:47:45 GMT; Domain=botanicamodernmarket.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=77a15e08-6d2d-4a45-bc4a-1df1fd3c75d8; Expires=Tue, 16-Jan-24 12:17:45 GMT; Domain=botanicamodernmarket.com; Path=/; SameSite=Lax
+Etag: "cacheable:6d9fc5c6dc2b5a59301121ca8ff005da"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 33101807660
+X-Shardid: 213
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=11;desc="gc:1", db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="88540610604", servedBy;desc="tnnw", requestID;desc="138ecff0-5335-438c-9485-23bf8a384988"
+Server-Timing: cfRequestDuration;dur=40.999889
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 138ecff0-5335-438c-9485-23bf8a384988
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=pa7x9%2BX%2FhtzZvMUP5POkiaQMb1EjIU6n%2FVg6636zzNI9M%2FsKQkSxbOfjFwaOiN%2FCkUyyLi33arTJBHZOEHnnZzWlRfXh4MZEhOtrgtYHUFTlXHjpselKxEBDpKmTLjKKJaaxcwWjJif%2B4WChH4M%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846620236de5bbd9-FRA
+Alt-Svc: h3=":443"; ma=86400

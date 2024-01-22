@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 04:00:40 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 239
+X-Sorting-Hat-Shopid: 62765236464
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=f251a260-f3a2-4238-bf9b-1fd5e4a96313; path=/; expires=Tue, 16 Jan 2024 04:30:40 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 04:00:40 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 04:00:40 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 04:00:40 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=joonieglam.com; path=/; expires=Wed, 17 Jan 2024 04:00:40 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=13addd05-691c-4d4d-b424-8ad0f71b84c9; Expires=Wed, 15-Jan-25 04:00:40 GMT; Domain=joonieglam.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=45589b6f-f70b-4de6-b054-13ce1133b7e0; Expires=Tue, 16-Jan-24 04:30:40 GMT; Domain=joonieglam.com; Path=/; SameSite=Lax
+Etag: "cacheable:4e88dd6a0dbd3ed6ccad24e2bc726a6c"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 62765236464
+X-Shardid: 239
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=11, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="130621997296", servedBy;desc="h4v2", requestID;desc="7bcbbb6b-6905-43f5-ac98-df344e4acd8a"
+Server-Timing: cfRequestDuration;dur=35.999775
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 7bcbbb6b-6905-43f5-ac98-df344e4acd8a
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=ngk0%2FIMXQnS%2BrSc6j3hPm3lXUE%2BQcA5YHgKRBOjDhRVQ2E7lHlFDAS1%2B6CL9W%2BeYcy6in%2BSMVba2g4A5f2n4Ul4XTidyKYf7WWQN2LKx6hMCed64KGGMSffruLcihp0%2B"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846373eeaf1d365f-FRA
+Alt-Svc: h3=":443"; ma=86400

@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 07:04:11 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 211
+X-Sorting-Hat-Shopid: 45908197538
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=f1e944b4-6d37-4818-80a1-59e6c0294d1c; path=/; expires=Tue, 16 Jan 2024 07:34:11 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 07:04:11 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 07:04:11 GMT; SameSite=Lax
+Set-Cookie: cart_currency=EUR; path=/; expires=Tue, 30 Jan 2024 07:04:11 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=sassypantzfw.com; path=/; expires=Wed, 17 Jan 2024 07:04:11 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=11662b56-f44f-48dd-aa16-9cc1259a4f45; Expires=Wed, 15-Jan-25 07:04:11 GMT; Domain=sassypantzfw.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=0ab334a0-df7d-4d68-95fd-f5e7e05ab9f0; Expires=Tue, 16-Jan-24 07:34:11 GMT; Domain=sassypantzfw.com; Path=/; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+Etag: "cacheable:1e6ca835a70cd3a541ce2d01838dee01"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 45908197538
+X-Shardid: 211
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=23, db;dur=9, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="109267320994", servedBy;desc="v9xg", requestID;desc="30310207-97e2-4d6a-b2e0-d033f32c3304"
+Server-Timing: cfRequestDuration;dur=76.999903
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 30310207-97e2-4d6a-b2e0-d033f32c3304
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=dQpntesADpNfJBJhf0WiZM94XWbq0MdUYhEiifvnVzPUZTDi3roBad1OD1f%2B4OCY%2BGjjn%2FIRzGlMRB0e0YdJkU%2Fb1zKhMhLlpTusNwqdJdstDkh1WbJZLIpkHjjui%2B2GwDs%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846480be7a0c926b-FRA
+Alt-Svc: h3=":443"; ma=86400

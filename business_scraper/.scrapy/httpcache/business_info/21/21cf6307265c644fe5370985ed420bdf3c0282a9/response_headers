@@ -1,0 +1,41 @@
+Date: Tue, 16 Jan 2024 11:36:14 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 291
+X-Sorting-Hat-Shopid: 77549273380
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=9e086378-5350-4f0e-a563-7a2abca2cbd9; path=/; expires=Tue, 16 Jan 2024 12:06:14 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:36:14 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:36:14 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:36:14 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=mypastelpennies.com; path=/; expires=Wed, 17 Jan 2024 11:36:14 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=05c2069a-264a-43f1-9410-e7cdaddddae1; Expires=Wed, 15-Jan-25 11:36:14 GMT; Domain=mypastelpennies.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=0f312ad1-9d18-4aa7-bdc5-6f1cb975d440; Expires=Tue, 16-Jan-24 12:06:14 GMT; Domain=mypastelpennies.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 11:36:14 GMT; Domain=mypastelpennies.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2F; Expires=Tue, 30-Jan-24 11:36:14 GMT; Domain=mypastelpennies.com; Path=/; HttpOnly; SameSite=Lax
+Etag: "cacheable:6a87966f93a0a7f19586c2a6c6690274"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 77549273380
+X-Shardid: 291
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=13;desc="gc:1", db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="151593025828", pageType;desc="index", servedBy;desc="86jk", requestID;desc="77948186-2a3d-4b49-a198-9ad80275b51d"
+Server-Timing: cfRequestDuration;dur=44.000149
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 77948186-2a3d-4b49-a198-9ad80275b51d
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Nks4NMh0BXtgtPAQO7DU4LNGI3aSRxvampIGiHRCLL44IfbmdQACw6wRwm2A3hicxwTjeV0kS5ENXsh%2ByU2rN%2Be8NKC4IY0d83Jkz5mpXKX38eseVUSu7qDPt76R0j0kHs%2FSTRI%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84660f426bed2bb8-FRA
+Alt-Svc: h3=":443"; ma=86400

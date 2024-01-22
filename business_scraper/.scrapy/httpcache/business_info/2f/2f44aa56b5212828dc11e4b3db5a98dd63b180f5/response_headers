@@ -1,0 +1,17 @@
+Server: nginx
+Date: Tue, 16 Jan 2024 11:49:02 GMT
+Content-Type: text/html; charset=utf-8
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Permitted-Cross-Domain-Policies: none
+Referrer-Policy: strict-origin-when-cross-origin
+Link: </assets/site-809fd5ae6a6026f61d923c7cf65b2cd27ca20957f844a7b1d84a9bd28df99070.css>; rel=preload; as=style; nopush,</system/sites/63724/custom.css>; rel=preload; as=style; nopush,</assets/modernizr-95e58aa69e0f3e3745084ba5221d40af706b4e99426432d7c6edc261962fe843.js>; rel=preload; as=script; nopush,</assets/respond.js/dest/respond.src-51a174fcd71e66a11a0f4723cc526de1f3c987205d8ca604d86759438943247a.js>; rel=preload; as=script; nopush,</assets/application-4623b34263229f6f57077a3f34676501bc1f44a2ace0531c17636348c9bdcd2e.js>; rel=preload; as=script; nopush
+Etag: W/"bf79b24218db16678f2a504a9de24cd7"
+Cache-Control: max-age=0, private, must-revalidate
+Content-Security-Policy: frame-ancestors 'self'
+Set-Cookie: _siteswan_session=QdsisF7H8lT%2F1lrNhBxln4eWFRqS4JhuLYuNled4Qwcu%2By0vPk5KZ4L4gUJkdHxwnyl2Rm3MLzc%2Foj4Qb4IEgwUqzge958c1l0cnBvpLx9b7alEA5uKslS02IOIcjDPIaKhpMEb%2BlCVQGfTZcTkHhLpWUS1brRPaP%2BLSzxP%2F743oE5D0fWNvUn4gVWm8uCUx5cJS7X62QiC0uHNZFn%2BqjdacEp4xC%2FEQjrIMhjTG38shd2SqPgZ8CIwH2w9MMXCDoICUVeqzNTlBh%2B6WjDTbFd1pP30zCXgQvw%3D%3D--CPb5u%2FU5nR4Ils6N--g%2FCdb%2BVTG8jLe5ozjgoF6w%3D%3D; path=/; HttpOnly; SameSite=Lax
+X-Request-Id: 14be79f1-aa02-4191-ad6c-d1326447e190
+X-Runtime: 0.566073
+Content-Encoding: gzip

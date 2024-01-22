@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:40:23 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 227
+X-Sorting-Hat-Shopid: 3113058373
+X-Storefront-Renderer-Rendered: 1
+Location: https://backwardsboutique.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 3113058373
+X-Shardid: 227
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=8, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="rk96", requestID;desc="e03b58cf-1743-437b-9734-f160465000ec"
+Server-Timing: cfRequestDuration;dur=57.000160
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: e03b58cf-1743-437b-9734-f160465000ec
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Z%2BeS4OnB9qewoQfwsKZM65sMq3Ih3QET0TFxvs1z76O2mhYiWyOV3SDOoHEUWwGwF2KDJSN%2FZH5xcyH%2F4irvD%2F0yhIqFv8m9TSjsM2xrsrI8Ee0z0aXaIFVCcCATJTpTlabm7KjSFyjY1zM%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846615579cba2ba6-FRA
+Alt-Svc: h3=":443"; ma=86400

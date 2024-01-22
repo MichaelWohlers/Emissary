@@ -1,0 +1,41 @@
+Date: Tue, 16 Jan 2024 03:59:51 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 316
+X-Sorting-Hat-Shopid: 8976804
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=6f97e98a-67ce-4ac7-bd1d-ac214e995a6f; path=/; expires=Tue, 16 Jan 2024 04:29:51 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 03:59:51 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 03:59:51 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 03:59:51 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=frandcompany.com; path=/; expires=Wed, 17 Jan 2024 03:59:51 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=06ea7bcf-0d6e-4a22-b716-e3e217e007e3; Expires=Wed, 15-Jan-25 03:59:51 GMT; Domain=frandcompany.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=15858c97-0f3d-4a3a-a486-1b9f7aef0bfb; Expires=Tue, 16-Jan-24 04:29:51 GMT; Domain=frandcompany.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 03:59:51 GMT; Domain=frandcompany.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2F; Expires=Tue, 30-Jan-24 03:59:51 GMT; Domain=frandcompany.com; Path=/; HttpOnly; SameSite=Lax
+Etag: "cacheable:7fc19b9468b505bfd2976512aef3515a"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 8976804
+X-Shardid: 316
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=13, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="83905445974", pageType;desc="index", servedBy;desc="5kh6", requestID;desc="8f45e169-4edd-44f0-a5c6-c623dc4c43c7"
+Server-Timing: cfRequestDuration;dur=37.999868
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 8f45e169-4edd-44f0-a5c6-c623dc4c43c7
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=qObFsBjLCTptjcX6DLftxk%2F56ZGsoilMnAKb5RtrywBMIMsLYViqeQzGqTnLyozza3S6ADGOaYw8vpfeOl6jteaMX9YzZWL9lUETANOQkmEOFoj6CE4MHaob3ZnBiNzaC1w%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846372b8bf3871af-FRA
+Alt-Svc: h3=":443"; ma=86400

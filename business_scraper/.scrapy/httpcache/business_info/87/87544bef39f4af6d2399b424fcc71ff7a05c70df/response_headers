@@ -1,0 +1,28 @@
+Content-Type: text/html; charset=utf-8
+Cache-Control: max-age=0, no-cache
+X-Content-Type-Options: nosniff
+X-Dns-Prefetch-Control: off
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Page-Speed: 1.13.35.2-0
+X-Request-Host: oldnavy.gap.com
+X-Request-Host: oldnavy.gap.com
+X-Vcap-Request-Id: b816ba94-7d46-481f-5a08-6eb0f12c0554
+X-Xss-Protection: 1; mode=block
+X-E-Dc: azeus
+X-Akam-Sw-Version: 0.5.0
+X-Akamai-Transformed: 9 - 0 pmb=mNONE,1mTOE,2mRUM,2
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Date: Tue, 16 Jan 2024 04:00:01 GMT
+Set-Cookie: s-prlb=e; path=/; domain=.gap.com
+Set-Cookie: prlb=e; path=/; domain=.gap.com
+Set-Cookie: AKA_A2=A; expires=Tue, 16-Jan-2024 05:00:01 GMT; path=/; domain=gap.com; secure; HttpOnly
+Set-Cookie: _abck=E49679754A71FFBA678891CE601E9CB3~-1~YAAQotAXAs+QTw6NAQAAJxdtEAs51Dg3p7Sre80Q2RaPKU9SCGJMgS4hTpsDYYwz2HHPkQ7f/AuRZDrrG4B4ED5OLFvPHdiLcPa939uIFxvgeWNYeKSeEFGarcVAKmTjB46cbWHzD4Zm5Dx0vDr9Gq+gqCjkuwf7JMuOTOU4jxcqt0qjn7SHg/2TseIbYJ1gIsac4MWIKATJuAVcp+S/j81YUkEJ2mNx01s7HB47iw+1IJ5XNnmHiBh7b0WW8N+Z2ErczFkY+5+K4MLjdXU70/RkQAkrwh4u84cNUQiYn+kotR5xy8sXGB5GOoMur3vMAbqnJQ5VsgH/BF/IWL397i0jS62o2mmwAeZG5GxKP130jcqWZK9SrmQ=~-1~-1~-1; Domain=.gap.com; Path=/; Expires=Wed, 15 Jan 2025 04:00:01 GMT; Max-Age=31536000; Secure
+Set-Cookie: bm_sz=E46C629EEEAB4DD336D34106ED11DD4F~YAAQotAXAtCQTw6NAQAAJxdtEBZ5CbFmYg9yOeW0taEZOzOgXQP+KTxAGbkZNxlGhLm1Eny0PszWM6R9BNZcMdlXSnnUWS81EHdZVctttAarnCdfiOakf7FC7iDind1/qFNBIJyEDl2wK9aYNiG5WxFtLvEwjJRkWzIqpDFTEmuL/4zNvX8gTkQYuz17i1rBSJd+DufCr8WPphYjiBHNTD+gSwUh121V3vISLd+Tx5uhRvOsus/qVTIOCQl27Sje5YLd+V11n4Sd1yOn8gNHJ3PSI+K2RQTfNz66OFGvQXQ=~3748929~3294256; Domain=.gap.com; Path=/; Expires=Tue, 16 Jan 2024 08:00:01 GMT; Max-Age=14400
+Server-Timing: cdn-cache; desc=HIT
+Server-Timing: edge; dur=1
+Server-Timing: ak_p; desc="1705377601120_35115170_30266790_34_12702_35_0_-";dur=1
+Link: <https://oldnavy.gap.com/static_content/onesitecategory/components/mfe/sitewide-app/static/d23d96ae.woff2>;rel="preload";as="font";type="font/woff2";crossorigin,<https://oldnavy.gap.com/static_content/onesitecategory/components/mfe/sitewide-app/static/7fa96aa0.woff2>;rel="preload";as="font";type="font/woff2";crossorigin
+Strict-Transport-Security: max-age=2628000 ; includeSubDomains
+Akamai-Grn: 0.a2d01702.1705377601.1cdd5a6

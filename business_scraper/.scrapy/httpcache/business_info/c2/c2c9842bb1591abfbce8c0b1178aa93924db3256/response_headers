@@ -1,0 +1,20 @@
+Date: Tue, 16 Jan 2024 11:46:02 GMT
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding
+X-Frame-Options: ALLOW-FROM https://my.bigcartel.com
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Permitted-Cross-Domain-Policies: none
+Referrer-Policy: strict-origin-when-cross-origin
+Strict-Transport-Security: max-age=7776000
+Cache-Control: max-age=0, private, must-revalidate
+Content-Security-Policy: frame-ancestors https://my.bigcartel.com https://www.bigcartel.com https://bigcartel.com https://*.bc-site-staging.pages.dev http://localhost:3000
+Set-Cookie: _storefront_session=naw14R3OgaKutYt4qIBf2SRbvnR1Ozn2RQ%2FlFLrD8Vhczt10FQ4lYRAsqwgpQ4DlAjEviZPfh876zMs6Fe17zOgn76w8fSW1MpiW3vQPxZ7UULOEOHXY8u0yx6m72ebLgSFSFReXMmww33WGO6dL1u8FRg7%2BUaEfXpNV44G0cmoYvNpzfP%2FR%2Fuc3AohhUGxX1984x7GfYpCAu1pQXpF7f8DMzKEtUFYDyAL6QJ9oSbFtOC7VDEi5SOuZmjFEUNFZxYxCcovQglwhkvOA5KwWZhvC5hBmzvh3KGzKfrQQnUyZYqrknb%2Fcrk1%2FtS%2BVqZm1wC50KBmd5MnsP7KfNpO0P1QZl5txKCSRYUzONFGgkLEGFlLPW48hiFwjI%2BqTGoJjHKpMoM8whwUYVJy8a2YO7kQCSCwbptxTwGtQmR3FVj2Zn1VBlN%2FhClE21G3%2BMmk%3D--X%2FbhAPPep99iyVbK--ZzD%2FYGV1EUTSXwF9uO2Feg%3D%3D; path=/; HttpOnly
+Set-Cookie: _cfuvid=CLbNvi9kWnbMg7p53zkoPpxqyrjrYrEml9Nv2n4gs_k-1705405562427-0-604800000; path=/; domain=.www.milanfashionbrand.com; HttpOnly; Secure; SameSite=None
+X-Request-Id: db0335ab-d442-4bec-a4de-af6546d30781
+X-Runtime: 0.177336
+Cf-Cache-Status: DYNAMIC
+Server: cloudflare
+Cf-Ray: 84661d9aec8318d9-FRA
+Content-Encoding: gzip

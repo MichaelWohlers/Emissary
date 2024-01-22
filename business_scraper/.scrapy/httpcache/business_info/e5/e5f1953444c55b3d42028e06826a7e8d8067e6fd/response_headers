@@ -1,0 +1,18 @@
+Content-Type: text/plain; charset=utf-8
+Etag: W/"1f0-OimBxe4PX5tqQtJ6AlrseIea2Vw"
+X-Wix-Request-Id: 1705406511.4872739221347810549
+Cache-Control: public,max-age=0,must-revalidate
+Server: Pepyaka/1.21.6
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Accept-Ranges: bytes
+Date: Tue, 16 Jan 2024 12:01:51 GMT
+Age: 0
+X-Served-By: cache-fra-etou8220079-FRA
+X-Cache: MISS
+Vary: Accept-Encoding
+Server-Timing: cache;desc=hit, varnish;desc=hit_miss, dc;desc=fastly_84_g
+Strict-Transport-Security: max-age=300
+X-Seen-By: yvSunuo/8ld62ehjr5B7kA==,W1c2/pqHBqplxcWufHCkILxkNjrXdwdgtu6E0yACibU=,m0j2EEknGIVUW/liY8BLLqv1Icz/+auWkycB0m9nz7sFJmEKNgQ96+wiTVoMq713,2d58ifebGbosy5xc+FRalpWHgNAqvTCpZiFa/M0gatKoobMG7aO1NoKutnjds8DVq1h6hFceN8ImojjJMFauXg==,2UNV7KOq4oGjA5+PKsX47IuEO720fXeweokiV/7A8wS8ZDY613cHYLbuhNMgAom1
+Via: 1.1 google
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000

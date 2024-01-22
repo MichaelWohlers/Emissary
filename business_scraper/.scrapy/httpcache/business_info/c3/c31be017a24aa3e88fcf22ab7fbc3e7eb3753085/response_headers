@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:37:52 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 307
+X-Sorting-Hat-Shopid: 75804541236
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=015a6218-e54c-4ed6-b42c-af77c3562284; path=/; expires=Tue, 16 Jan 2024 12:07:52 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:37:52 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:37:52 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:37:52 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=anothlevelboutique.com; path=/; expires=Wed, 17 Jan 2024 11:37:52 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=ba055685-4f15-469a-ade3-e9a6bd6645d1; Expires=Wed, 15-Jan-25 11:37:52 GMT; Domain=anothlevelboutique.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=6872b4c7-6159-4dc3-b108-01e4636dfbfc; Expires=Tue, 16-Jan-24 12:07:52 GMT; Domain=anothlevelboutique.com; Path=/; SameSite=Lax
+Etag: "cacheable:d30cdc766802ae22c130cbefcfa5d8a1"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 75804541236
+X-Shardid: 307
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=11, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="149095940404", servedBy;desc="bvfp", requestID;desc="f7c61fe4-6119-49f8-96c7-e268a6a3387a"
+Server-Timing: cfRequestDuration;dur=46.000004
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: f7c61fe4-6119-49f8-96c7-e268a6a3387a
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=MkJTtUFouDWoHxrpineaUQUPCchCnmx9esZ0c1R7gQezFaXNiOoAO0JyKJnQhVccOQFyvyo9S85KT%2BC3hLU%2BKn6QJSIUSfyKIzzHYqo%2B%2FO9IxtW1j%2Fw%2BSNwvS7cyactTj6pKQ0VMudB%2Bq01u"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846611a759381c85-FRA
+Alt-Svc: h3=":443"; ma=86400

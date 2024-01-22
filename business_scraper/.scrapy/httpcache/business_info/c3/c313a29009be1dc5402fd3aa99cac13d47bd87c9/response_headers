@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:58:58 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 306
+X-Sorting-Hat-Shopid: 4624501
+X-Storefront-Renderer-Rendered: 1
+Location: https://www.bluelayne.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 4624501
+X-Shardid: 306
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=6, db;dur=2, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="tqdd", requestID;desc="7bde331f-1816-4e1d-af8f-ac47278c083c"
+Server-Timing: cfRequestDuration;dur=37.999868
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 7bde331f-1816-4e1d-af8f-ac47278c083c
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=887yVpB2afxDv2h64BM54MVjzXAqf2D8ZJIDsnffDevtNahxpATu0smpgR457KMhQukZpgFU5rkCMKcxlc3t6z3gNRYg1Y8xvJNVRDCAwMARieRyCYDVkx4CetnlfNwh6ej%2F"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8466308cbdc81e50-FRA
+Alt-Svc: h3=":443"; ma=86400

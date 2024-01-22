@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:35:12 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 232
+X-Sorting-Hat-Shopid: 31516131459
+X-Storefront-Renderer-Rendered: 1
+Location: https://www.theuptowngirl.net/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 31516131459
+X-Shardid: 232
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=6, db;dur=2, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="m8x6", requestID;desc="d221ebd6-9a9c-4aa1-9423-55179b3ed121"
+Server-Timing: cfRequestDuration;dur=38.000107
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: d221ebd6-9a9c-4aa1-9423-55179b3ed121
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=x3fn%2BVHYd9g2uLRp9yeWtGGMLE%2BmWUXqYXyo%2FTe%2BgkThWccdwrpmNz3L9hFtSwXtW6UVpH9a3VPnJxyUR36yOwky%2FGYAUgZY4nqcmLKdKnOVP8%2B3QtOnFvN6npBRFMrw9o7wuxpJeQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84660dbf5852bb77-FRA
+Alt-Svc: h3=":443"; ma=86400

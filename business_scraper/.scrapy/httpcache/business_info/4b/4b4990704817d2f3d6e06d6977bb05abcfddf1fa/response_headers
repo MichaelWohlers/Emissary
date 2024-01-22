@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 07:05:26 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 178
+X-Sorting-Hat-Shopid: 2454814769
+X-Storefront-Renderer-Rendered: 1
+Location: https://aestheticclothingboutique.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 2454814769
+X-Shardid: 178
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=10, db;dur=5, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="6blv", requestID;desc="6f99ad6b-9a7f-4c66-ae63-3cbc7ee73dbb"
+Server-Timing: cfRequestDuration;dur=38.000107
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 6f99ad6b-9a7f-4c66-ae63-3cbc7ee73dbb
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=evdWtxb5IdEaFex4t8wf4IHoJUfJyAYUIaiXF7MZV%2FGT8EbD3dgcFPRD6GMNPjdCV8eHpSP7H0h1fR3l3OQgkIR5t3t0iI3GppT7qWoWTjzmUoZL%2BvRKmdSwLZNBcJspGVhEnL3iBHRHNQjdcgwJ1O9r5Q%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84648296b99a9bbc-FRA
+Alt-Svc: h3=":443"; ma=86400

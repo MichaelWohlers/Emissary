@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 12:02:20 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 151
+X-Sorting-Hat-Shopid: 50790236312
+X-Storefront-Renderer-Rendered: 1
+Location: https://sortedboutiques.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 50790236312
+X-Shardid: 151
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=12, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="p9hw", requestID;desc="88446965-8ed7-49d0-ae37-93e54626c98d"
+Server-Timing: cfRequestDuration;dur=39.999962
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 88446965-8ed7-49d0-ae37-93e54626c98d
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=HNXTQRpkja4MHVfhm%2BvH6lKPkK1P5w%2BJZCC5nj8H2QKcmPV%2FhVeZNwqK86q3SNp8uvk4q6rsTpwo39Ink888S5h0cF8H9oeqaHf7E70w5%2F21OOF560Bf%2FYHSs7eeY78iiNnmHxc%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8466357e1c0a90e6-FRA
+Alt-Svc: h3=":443"; ma=86400

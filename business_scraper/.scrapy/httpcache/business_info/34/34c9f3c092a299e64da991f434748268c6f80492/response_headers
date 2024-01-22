@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:47:37 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 282
+X-Sorting-Hat-Shopid: 66952921371
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=7ad41ce3-395f-442e-be38-3dc6186df734; path=/; expires=Tue, 16 Jan 2024 12:17:37 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:47:37 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:47:37 GMT; SameSite=Lax
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:47:37 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=flyingtrailerpark.com; path=/; expires=Wed, 17 Jan 2024 11:47:37 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=b25b7bf1-6694-40ec-9dca-0c5b70ff2627; Expires=Wed, 15-Jan-25 11:47:37 GMT; Domain=flyingtrailerpark.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=2a0095e3-189c-4823-ac45-3cde16f37a4c; Expires=Tue, 16-Jan-24 12:17:37 GMT; Domain=flyingtrailerpark.com; Path=/; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+Etag: "cacheable:b568ea517dc5ebf44c2e002afd059ca5"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 66952921371
+X-Shardid: 282
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=19;desc="gc:1", db;dur=7, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="149384266011", servedBy;desc="5mgw", requestID;desc="adac86ec-3996-452c-bdda-fcc38bc11cb5"
+Server-Timing: cfRequestDuration;dur=52.000046
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: adac86ec-3996-452c-bdda-fcc38bc11cb5
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=EYgE%2BPF%2FQLScg6D9HvfMvBr05On0%2Ff4JmUpJ%2BIuHjmZoXugQubx0xV1iEatjMJMM%2BWDgA%2FQ9KBwBfyTYqNH0qpqIYgIGSR22s5cYeAtWXc55IzOa0jgfJLF7KsPuog0hDV%2BB3FZg8Q%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661ff05c1a9231-FRA
+Alt-Svc: h3=":443"; ma=86400

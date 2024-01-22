@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:43:13 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 273
+X-Sorting-Hat-Shopid: 26623864
+X-Storefront-Renderer-Rendered: 1
+Location: https://farrahannsboutique.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 26623864
+X-Shardid: 273
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=10, db;dur=5, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="cjvg", requestID;desc="b6178d96-b6a7-4fca-91d2-73d46243ca0d"
+Server-Timing: cfRequestDuration;dur=44.999838
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: b6178d96-b6a7-4fca-91d2-73d46243ca0d
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=KHpqxWVyBOkxJ2qeir91vHop7Tb81zbl12DSncbdXnCN7cV0szVYaqaZNctLdnA2PUy8EXvk11EYpeDs%2BbZrN9KubL4esrN%2BatTZ7vMDenZJQv49CQNSCunRwNCEBjKc3dn27aDaLer1wbvl"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8466197dcd8fbb38-FRA
+Alt-Svc: h3=":443"; ma=86400

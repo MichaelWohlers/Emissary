@@ -1,0 +1,22 @@
+Date: Tue, 16 Jan 2024 12:01:07 GMT
+Content-Type: text/html;charset=utf-8
+P3P: CP="ALL PUR DSP CUR ADMi DEVi CONi OUR COR IND"
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Ua-Compatible: IE=Edge,chrome=1
+X-Xss-Protection: 1; mode=block
+Set-Cookie: session_id=360fd2459a2b05ab6c21bcf954596e7f; expires=Tue, 16-Jan-2024 12:31:02 GMT; Max-Age=1795; path=/; secure; HttpOnly; SameSite=none
+Set-Cookie: __cf_bm=aFW.BEwObMZXR.1ONIRS1sRR_gMOXpQtK.pVRLmRu1I-1705406467-1-AUWJXUO8ewk9zkjoO4ZXh+U9RLgBhPX9v7vmtoK3duLY67i/n/PWBx54SBTcNPfXdBK4nxEcLaRtMACrEuaWRB8=; path=/; expires=Tue, 16-Jan-24 12:31:07 GMT; domain=.www.fordandmcintyre.com; HttpOnly; Secure; SameSite=None
+X-Developer: Page: 64.0ms, Render: 5.2ms, Mem: 4,096kB, Cache: 0Q (0.0ms), DB: 13Q (24.8ms), Prop: 0Q (0.0ms)
+X-Runtime: 0.094108
+X-Shop-Id: 648530
+Cache-Control: no-cache
+Vary: Accept-Encoding
+X-Request-Id: 92f9a1aca98bcb74dfa52eb69c5e8b87
+X-Envoy-Upstream-Service-Time: 99
+Cf-Cache-Status: DYNAMIC
+Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
+Server: cloudflare
+Cf-Ray: 846633b13cf39b43-FRA
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400

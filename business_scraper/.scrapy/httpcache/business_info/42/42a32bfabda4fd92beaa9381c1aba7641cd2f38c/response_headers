@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:44:45 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 250
+X-Sorting-Hat-Shopid: 25717440593
+X-Storefront-Renderer-Rendered: 1
+Location: https://thefunkyzebrasclearlake.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 25717440593
+X-Shardid: 250
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=9, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="m89h", requestID;desc="2f7217af-c0d7-41dc-8133-bf94ae1fc983"
+Server-Timing: cfRequestDuration;dur=32.999754
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 2f7217af-c0d7-41dc-8133-bf94ae1fc983
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=SCcvgAhSNBC7yyJ%2BpGWMbaLqDrTCnC2nN7%2BMuq%2BifZPgjqPHPh5T2J1c5UW3fQQFMferx6uzi6wao5kDg9u8XxSLEFnOMSLcbKGYuis8s1eUBZ9nXiqFEuzqcif7eQM%2FV346JKlFHJ9EkoJpU9jfvjc%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661bbd0a740859-FRA
+Alt-Svc: h3=":443"; ma=86400

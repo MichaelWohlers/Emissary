@@ -1,0 +1,12 @@
+Content-Length: 20388
+Server: nginx
+Date: Tue, 16 Jan 2024 11:03:08 GMT
+Content-Type: text/html; charset=UTF-8
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Link: <https://bonjewels.com/wp-json/>; rel="https://api.w.org/", <https://bonjewels.com/wp-json/wp/v2/pages/14>; rel="alternate"; type="application/json", <https://bonjewels.com/>; rel=shortlink
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Referrer-Policy: no-referrer-when-downgrade
+Age: 12631
+X-Cache: HIT
+Accept-Ranges: bytes

@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:40:01 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 217
+X-Sorting-Hat-Shopid: 61646930138
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=4d560c8d-1ae4-41e8-bd1b-540a38276c1a; path=/; expires=Tue, 16 Jan 2024 12:10:01 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:40:01 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:40:01 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:40:01 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=staciesblingshop.com; path=/; expires=Wed, 17 Jan 2024 11:40:01 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=7f249766-a77c-4703-9aa7-0429c2b29ba9; Expires=Wed, 15-Jan-25 11:40:01 GMT; Domain=staciesblingshop.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=d70b9bdc-6139-4970-9faf-7b78cc2103c4; Expires=Tue, 16-Jan-24 12:10:01 GMT; Domain=staciesblingshop.com; Path=/; SameSite=Lax
+Etag: "cacheable:41e625c38600e75a0bd8dd98a9f88235"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 61646930138
+X-Shardid: 217
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=12, db;dur=5, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="129455390938", servedBy;desc="dngn", requestID;desc="0fd97e89-4d92-433f-997b-c8a10369619f"
+Server-Timing: cfRequestDuration;dur=47.999859
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 0fd97e89-4d92-433f-997b-c8a10369619f
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=a5wRaGxzX%2BhdaZwEhV66HHhLB4%2F7x6DpPUrMs%2BrOnjIBzI0cNCB0pgkqw9M%2FzzkJ3rcUPzPxekQyCYD2ssfqVIhqOQW0%2FQqCBG7d5KlQylXwdpGVy01MRPuBCFBnSv%2FVE%2B46uZwj"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846614cb9aa23604-FRA
+Alt-Svc: h3=":443"; ma=86400

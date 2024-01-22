@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:02:37 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 65
+X-Sorting-Hat-Shopid: 9139028032
+X-Storefront-Renderer-Rendered: 1
+Location: https://imaniboutiquedfw.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 9139028032
+X-Shardid: 65
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=10, db;dur=5, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="p9hw", requestID;desc="bba5b922-9366-43e5-b9fe-cfdaf2ecf020"
+Server-Timing: cfRequestDuration;dur=38.000107
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: bba5b922-9366-43e5-b9fe-cfdaf2ecf020
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=syeeOqBrvVVxYrINnHXYs%2BxpO5v1K5AQe%2FWv6oBuFOzIfXfts4aDSoSRrQBfDdhOKPNfE7ppVUmmPS2B7cvaXcsm6wJaFvAEzCx6dSZQZb%2BAUnWkeYOKDEAGTQYxxEUn6aexUckse3dAwA%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8465de03aaaa2bcb-FRA
+Alt-Svc: h3=":443"; ma=86400

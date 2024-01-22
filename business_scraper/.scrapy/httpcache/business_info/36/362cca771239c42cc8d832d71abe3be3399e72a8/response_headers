@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:37:26 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 315
+X-Sorting-Hat-Shopid: 8618934357
+X-Storefront-Renderer-Rendered: 1
+Location: https://frontporchboutique.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 8618934357
+X-Shardid: 315
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=8, db;dur=2, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="g577", requestID;desc="5727bfe1-99e9-45bf-855a-d2a82c18a9e4"
+Server-Timing: cfRequestDuration;dur=66.999912
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 5727bfe1-99e9-45bf-855a-d2a82c18a9e4
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=6Y4QpMJFGUMIyc1hWck38L7L9iZJnBKiT1hnrTjQsqagzCMFoN7hTegaNVz6X2MuCXxTPngKtDvWONMoQB6NKP%2FmFndfi4D5yBJDfnaGS%2FmP%2BE7Sv92iv411by09wP60rO9lvI3cFP8%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8466110358665b8c-FRA
+Alt-Svc: h3=":443"; ma=86400

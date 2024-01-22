@@ -1,0 +1,42 @@
+Date: Tue, 16 Jan 2024 03:59:57 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 50
+X-Sorting-Hat-Shopid: 7088537651
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=dfa21aa2-201f-4e23-8395-136e13e530dc; path=/; expires=Tue, 16 Jan 2024 04:29:57 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 03:59:57 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 03:59:57 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 03:59:57 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=windsorstore.com; path=/; expires=Wed, 17 Jan 2024 03:59:57 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=442af6f2-1896-4f79-8993-78e56ffe3efd; Expires=Wed, 15-Jan-25 03:59:57 GMT; Domain=windsorstore.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=7ea913e4-2a96-40f2-bd23-b09aa740e713; Expires=Tue, 16-Jan-24 04:29:57 GMT; Domain=windsorstore.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 03:59:57 GMT; Domain=windsorstore.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2Fpages%2Fmo-columbia-columbia-mall%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dretail; Expires=Tue, 30-Jan-24 03:59:57 GMT; Domain=windsorstore.com; Path=/; HttpOnly; SameSite=Lax
+Etag: "cacheable:cedf28d6839b42914c7a3c00d414a6cb"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Access-Control-Allow-Origin: *
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 7088537651
+X-Shardid: 50
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=13, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="126644191283", pageType;desc="page", servedBy;desc="nzk4", requestID;desc="f771b61e-7a5a-4dea-8f87-fbef8fe110cc"
+Server-Timing: cfRequestDuration;dur=39.000034
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: f771b61e-7a5a-4dea-8f87-fbef8fe110cc
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=9sU2GpWhDXKkZszvPnSbSSAMp6iJgqw3QE%2FvR40LhECBLsvwMZ5n7YMB%2FFB8fmi1qengNX7tBGbInECmKX27KdD%2BzfZhdq98rb516aFJkSuqLfWyAsRJEO8G65uw2IqZ9H%2B%2BLv2D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846372e1dcc29170-FRA
+Alt-Svc: h3=":443"; ma=86400

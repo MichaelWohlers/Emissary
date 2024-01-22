@@ -1,0 +1,29 @@
+Date: Tue, 16 Jan 2024 11:55:36 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 205
+X-Sorting-Hat-Shopid: 55652090062
+X-Storefront-Renderer-Rendered: 1
+Location: https://prettykinz.com/robots.txt
+X-Redirect-Reason: canonical_host_redirection
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 55652090062
+X-Shardid: 205
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=22, db;dur=13, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="6rwf", requestID;desc="b04497c6-9c57-4d00-b53a-c954fae6da63"
+Server-Timing: cfRequestDuration;dur=195.999861
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: b04497c6-9c57-4d00-b53a-c954fae6da63
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=THrx4RaaqxSLqX8NruV0ItFHEM45KV5wj1OtklOlznojL2czHJOJhtYL8NzU5gZgrPryobpYfD7yivSmL6Vn%2FB48IDR57GMxargPwUGzu%2FmbXoQbifxpx8O3jje8q7UvdO6QhQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84662b9d4b7218e0-FRA
+Alt-Svc: h3=":443"; ma=86400

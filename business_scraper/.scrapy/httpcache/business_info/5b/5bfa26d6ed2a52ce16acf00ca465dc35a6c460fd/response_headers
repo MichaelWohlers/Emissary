@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:50:03 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 236
+X-Sorting-Hat-Shopid: 17280739
+X-Storefront-Renderer-Rendered: 1
+Location: https://www.briabellaco.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 17280739
+X-Shardid: 236
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=11, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="cjvg", requestID;desc="e14b748f-35d1-41bf-b7bf-1c9e9371d7f5"
+Server-Timing: cfRequestDuration;dur=39.999962
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: e14b748f-35d1-41bf-b7bf-1c9e9371d7f5
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Cxb2Z4zWIF52ac19FGkzfvQ57Bs0lQZFaZzRi5VrhQzBBD0YtC0eS91KC6pKwCZNqXnKofe48Qwt517fydBVIBtXz3Tw2bvKrP%2Fp%2BtXXLK80ybq76zAIn41WXHSEVHD5D7BFVzw%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84662381786718dc-FRA
+Alt-Svc: h3=":443"; ma=86400

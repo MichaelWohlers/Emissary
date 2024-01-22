@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 07:06:04 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 117
+X-Sorting-Hat-Shopid: 24526094396
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=0bdae3f4-6c82-4e0e-a8a8-669023117838; path=/; expires=Tue, 16 Jan 2024 07:36:04 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 07:06:04 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 07:06:04 GMT; SameSite=Lax
+Set-Cookie: cart_currency=EUR; path=/; expires=Tue, 30 Jan 2024 07:06:04 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=glamourgoddessboutique.com; path=/; expires=Wed, 17 Jan 2024 07:06:04 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=102cd839-a4c8-4241-9581-b68be9d8de35; Expires=Wed, 15-Jan-25 07:06:04 GMT; Domain=glamourgoddessboutique.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=af1b000f-31e2-4553-96b0-2f4076dac6ea; Expires=Tue, 16-Jan-24 07:36:04 GMT; Domain=glamourgoddessboutique.com; Path=/; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+Etag: "cacheable:6c9a96b257ef0db8789c3741b0d0049e"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 24526094396
+X-Shardid: 117
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=37, db;dur=8, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="120840421494", servedBy;desc="shms", requestID;desc="f6987673-2f4f-4f67-95f7-3a3ff2965cb9"
+Server-Timing: cfRequestDuration;dur=65.999985
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: f6987673-2f4f-4f67-95f7-3a3ff2965cb9
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=aP88IOAddLczZ042H72WR7gM09mNLQNHGOTYTkV53yzkiMb8us9wo2QANIJSXVnifXW111phrVeeFUthihw9gsUs0GlPW6HoCIulXA3nxuBk0VnDVH2xGJ89aLMMNNyNZhJYQ5ZZ421TKl6F"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84648380cd823815-FRA
+Alt-Svc: h3=":443"; ma=86400

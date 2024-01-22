@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:51:18 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 308
+X-Sorting-Hat-Shopid: 7262568551
+X-Storefront-Renderer-Rendered: 1
+Location: https://aquashoresboutique.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 7262568551
+X-Shardid: 308
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=8, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="cnml", requestID;desc="b3e758c5-eb08-49c5-b038-b9b3cbdab831"
+Server-Timing: cfRequestDuration;dur=64.999819
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: b3e758c5-eb08-49c5-b038-b9b3cbdab831
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=RegDNGVM2qpxLnx%2FRD9j9NNfWWBzLOGI1fksdkozN4BOL8HyI1p%2FG3vVoTTRkfbf%2Flp5fRagoKeuBX5aOCMI9Yv58Gw2jMMGb%2BKUwoItCjcf3PdPzU4wcPm2Ar23DEO3ZXFgB%2F5nPJvngua6"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846625560da1bbe9-FRA
+Alt-Svc: h3=":443"; ma=86400

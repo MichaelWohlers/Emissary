@@ -1,0 +1,18 @@
+Date: Tue, 16 Jan 2024 11:43:14 GMT
+Content-Type: text/html; charset=utf-8
+X-Frame-Options: ALLOW-FROM https://my.bigcartel.com
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Permitted-Cross-Domain-Policies: none
+Referrer-Policy: strict-origin-when-cross-origin
+Location: https://www.skullznbunniez.com/robots.txt
+Cache-Control: no-cache
+Content-Security-Policy: frame-ancestors https://my.bigcartel.com https://www.bigcartel.com https://bigcartel.com https://*.bc-site-staging.pages.dev http://localhost:3000
+X-Request-Id: 4687a7dd-5db8-4a71-82cd-39ccea3ae063
+X-Runtime: 0.029395
+Cf-Cache-Status: MISS
+Vary: Accept-Encoding
+Set-Cookie: _cfuvid=oeGBqNArInsYLE0tbb4PqXB8NB2lmfFknz4TpDSxjLE-1705405394443-0-604800000; path=/; domain=.www.skullznbunniez.com; HttpOnly
+Server: cloudflare
+Cf-Ray: 8466197f1d8f30ca-FRA

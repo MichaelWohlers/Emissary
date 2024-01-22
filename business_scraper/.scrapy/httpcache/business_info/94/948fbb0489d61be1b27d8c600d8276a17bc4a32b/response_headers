@@ -1,0 +1,40 @@
+Date: Tue, 16 Jan 2024 11:50:08 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 236
+X-Sorting-Hat-Shopid: 17280739
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=106691f9-54a1-4cc4-ab4d-0d29a6ca4822; path=/; expires=Tue, 16 Jan 2024 12:20:08 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:50:08 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 11:50:08 GMT
+Set-Cookie: _shopify_country=Germany; path=/; expires=Tue, 16 Jan 2024 12:20:08 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:50:08 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=briabellaco.com; path=/; expires=Wed, 17 Jan 2024 11:50:08 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=b4512c35-3a6c-4bfe-b984-f3c493378658; Expires=Wed, 15-Jan-25 11:50:08 GMT; Domain=briabellaco.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=33b8b506-e3c9-42b8-80c2-33e4929ee260; Expires=Tue, 16-Jan-24 12:20:08 GMT; Domain=briabellaco.com; Path=/; SameSite=Lax
+Etag: "cacheable:ae157ff35d83f986f57469a49da3706e"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 17280739
+X-Shardid: 236
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=17, db;dur=5, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="32777011271", servedBy;desc="cjvg", requestID;desc="4dc5a8b7-76d8-4654-8359-4bb344664731"
+Server-Timing: cfRequestDuration;dur=50.999880
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 4dc5a8b7-76d8-4654-8359-4bb344664731
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=%2FYWYiiAnpzNRkykUL3vq26nXjs8KsQNC%2BdQxV48hOiGP3Nu0twt4csYl5KucrWR1AyNvB3PJgj%2BgWS6btOM3CrMoJXReQ%2BlRGUj9E1aTccR%2BbzYbC5RduMqvQbSamvoeveKuDgU%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8466239ea851bb9d-FRA
+Alt-Svc: h3=":443"; ma=86400

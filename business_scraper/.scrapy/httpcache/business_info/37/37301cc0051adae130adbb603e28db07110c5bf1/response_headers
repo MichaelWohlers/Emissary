@@ -1,0 +1,27 @@
+Date: Tue, 16 Jan 2024 03:59:55 GMT
+Content-Type: text/plain; charset=utf-8
+Cache-Control: max-age=0, s-maxage=7200, must-revalidate
+Content-Encoding: gzip
+Etag: "ca121b5d03245bf82db00d14cee04e22"-gzip
+Expires: Mon, 15 Jan 2024 22:22:07 GMT
+Last-Modified: Tue, 16 Nov 2021 15:17:23 GMT
+Owner: sitescog-664
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Surrogate-Key: stores.macysbackstage.com stores.macysbackstage.com%2Frobots.txt
+Vary: Accept-Encoding
+X-Goog-Generation: 1637075843497003
+X-Goog-Hash: md5=yhIbXQMkW/gtsA0UzuBOIg==
+X-Goog-Metageneration: 2
+X-Goog-Reserved-Source-Generation: 1604352776455344
+X-Goog-Storage-Class: STANDARD
+X-Goog-Stored-Content-Encoding: identity
+X-Goog-Stored-Content-Length: 13
+X-Guploader-Uploadid: ABPtcPpRU7kcZ6mEWBu3Kau5rv7mn3TRZ_IZFgWljDIhfxnBr3E7VnoJscboLPN8onLeQRju1yIKvlSkAg
+X-Yext-Site: or2
+X-Yext-Subendpoint: static
+Via: 1.1 google
+Alt-Svc: h3=":443"; ma=86400
+Cf-Cache-Status: HIT
+Set-Cookie: __cf_bm=tVVlW68CVWn6j3oz.jPXg5NZq7GwlEufOollqoJuwdE-1705377595-1-AetYO9vsSEa57M6OcmFawsekRqPm57Rej+kEhrqJfCTp4qKfmJUCr//PYnvjYlE+Br2Y0vgChiOT5A14jtL5faQ=; path=/; expires=Tue, 16-Jan-24 04:29:55 GMT; domain=.stores.macysbackstage.com; HttpOnly; Secure; SameSite=None
+Server: cloudflare
+Cf-Ray: 846372d13f70905b-FRA

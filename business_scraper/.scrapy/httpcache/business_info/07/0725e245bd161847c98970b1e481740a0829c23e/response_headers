@@ -1,0 +1,38 @@
+Date: Tue, 16 Jan 2024 11:45:25 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 58
+X-Sorting-Hat-Shopid: 37128798267
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=0e8420db-b13b-49b7-9b0a-5386d182d677; path=/; expires=Tue, 16 Jan 2024 12:15:25 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:45:25 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 11:45:25 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:45:25 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Afalse%2C%22a%22%3Afalse%2C%22m%22%3Afalse%2C%22t%22%3Afalse%7D%2C%22display_banner%22%3Atrue%2C%22sale_of_data_region%22%3Afalse%7D; domain=corrinescloset.com; path=/; expires=Wed, 17 Jan 2024 11:45:25 GMT; SameSite=Lax
+Set-Cookie: _tracking_consent=%7B%22region%22%3A%22DERP%22%2C%22reg%22%3A%22GDPR%22%2C%22con%22%3A%7B%22CMP%22%3A%7B%22m%22%3A%22%22%2C%22a%22%3A%22%22%2C%22p%22%3A%22%22%2C%22s%22%3A%22%22%7D%7D%2C%22lim%22%3A%5B%22CCPA%22%2C%22GDPR_BLOCK_ALL%22%5D%2C%22v%22%3A%222.1%22%7D; Expires=Wed, 15-Jan-25 11:45:25 GMT; Domain=corrinescloset.com; Path=/; SameSite=Lax
+Etag: "cacheable:32be44814d742f315973ad8656df1f07"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 37128798267
+X-Shardid: 58
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=16, db;dur=5, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="127116640315", pageType;desc="index", servedBy;desc="rtwn", requestID;desc="b33505f2-751a-4fec-8b74-86030176a573"
+Server-Timing: cfRequestDuration;dur=42.999983
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: b33505f2-751a-4fec-8b74-86030176a573
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=EtxHxPuDdj9eAnQjrIDE%2BxmDG1P%2F%2FBGxJVfmuxfLTkFp7GCSJGEDH9Y9avP94cm3hr7aUhDGJbNCEus9ex4CFyYpKozk3nkO2inne%2Fa1aoeDcY8yQUkFwSSV9Soe7e%2B%2F0nSEkw%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661cb84cd9363b-FRA
+Alt-Svc: h3=":443"; ma=86400

@@ -1,0 +1,26 @@
+Date: Tue, 16 Jan 2024 11:50:43 GMT
+Content-Type: text/html;charset=utf-8
+P3P: CP="ALL PUR DSP CUR ADMi DEVi CONi OUR COR IND"
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Ua-Compatible: IE=Edge,chrome=1
+X-Xss-Protection: 1; mode=block
+Set-Cookie: session_id=0d9b8387dc5b2b89d5cd2d4559dd560c; expires=Tue, 16-Jan-2024 12:20:38 GMT; Max-Age=1795; path=/; secure; HttpOnly; SameSite=none
+Set-Cookie: COOKIELAW=optin; expires=Thu, 16-Jan-2025 11:50:43 GMT; Max-Age=31622400; path=/; secure; SameSite=none
+Set-Cookie: COOKIELAW_SOCIAL=1; expires=Thu, 16-Jan-2025 11:50:43 GMT; Max-Age=31622400; path=/; secure; SameSite=none
+Set-Cookie: COOKIELAW_STATS=1; expires=Thu, 16-Jan-2025 11:50:43 GMT; Max-Age=31622400; path=/; secure; SameSite=none
+Set-Cookie: COOKIELAW_ADS=1; expires=Thu, 16-Jan-2025 11:50:43 GMT; Max-Age=31622400; path=/; secure; SameSite=none
+Set-Cookie: __cf_bm=EudRqJG4FBioGpobQtb1YAhADI4Im8yH.vXzsPcylHM-1705405843-1-ARU6IOOMjDG+m7Gi7pq3kMFCWYgJpGEYs7x8WtYU6VBghpAfikebHJ9yrKPgscU7UehPP2H2saZE+pPYSexmxN0=; path=/; expires=Tue, 16-Jan-24 12:20:43 GMT; domain=.www.kindredsoulapparel.com; HttpOnly; Secure; SameSite=None
+X-Developer: Page: 61.8ms, Render: 3.0ms, Mem: 4,096kB, Cache: 0Q (0.0ms), DB: 11Q (24.0ms), Prop: 0Q (0.0ms)
+X-Runtime: 0.088781
+X-Shop-Id: 645658
+Cache-Control: no-cache
+Vary: Accept-Encoding
+X-Request-Id: ca0dc27d61c9541df1c35f8b48fa0d7f
+X-Envoy-Upstream-Service-Time: 93
+Cf-Cache-Status: DYNAMIC
+Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
+Server: cloudflare
+Cf-Ray: 84662479791b1e54-FRA
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400

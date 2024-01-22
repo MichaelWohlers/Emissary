@@ -1,0 +1,13 @@
+Server: nginx
+Date: Tue, 16 Jan 2024 11:53:02 GMT
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Etag: W/"845181149dc7f52bc1457f3082c9bb2c"
+Cache-Control: max-age=0, private, must-revalidate
+Set-Cookie: _Nearby_session_=YUJkU1orNXhSR29XSDBlZ2JhQkhaa1JIblBCTXE0VS9meFFzanJ2RUpmanY3WlRRVlE2Tm5IN3hOdjFERmhRN0dTYjQySUNlUTYzT2pnQ1BtanhNMnZwZXJUQVNtVFY5VEQ5K0Vlcm93RXpvNGhLemxRWk0zOHFvWjVxL1FEM3EyM1h6WlF6VFFWN01CeHN2bnV2Q1Ixb0xMUndSRzYxVHIyanFjSFU3aVhkRlRrSEJhak1UcHpqUmhzY1BlSnZDcUpQTzF6aGE2MXdJN0tsL3gvTnQwQT09LS0rNXk0YllSdVVWZUNPNXI2UzVPV3J3PT0%3D--cc77f61ff7c12a24983bf7370d32f43fabc21eae; domain=.apollosfinefashions.com; path=/; HttpOnly
+X-Request-Id: c0bb62c5-0a6a-4d83-a183-3dfa46c7d1a4
+X-Runtime: 0.210239
+Content-Encoding: gzip

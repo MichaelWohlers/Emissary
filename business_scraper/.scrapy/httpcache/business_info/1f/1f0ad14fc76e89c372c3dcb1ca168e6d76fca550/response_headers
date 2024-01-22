@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:46:32 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 178
+X-Sorting-Hat-Shopid: 63264293043
+X-Storefront-Renderer-Rendered: 1
+Location: https://mylamaple.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 63264293043
+X-Shardid: 178
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=6, db;dur=2, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="sbmc", requestID;desc="ab994027-f4af-4a89-903d-a66e90c9aa72"
+Server-Timing: cfRequestDuration;dur=30.999899
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: ab994027-f4af-4a89-903d-a66e90c9aa72
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=6N9XMO70DTj2g0HEqVKGaiUBQVlobMxYkT80xhM%2Fa33bJsESvlSNhr1cZk29Ndh8rGHOXqGWLPaXvK3o5WY5mKpAe0iYDGRV4RZc1EbQAjIZ1e8qxcOSpuRk4u%2BYaq0%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661e5bec076acc-FRA
+Alt-Svc: h3=":443"; ma=86400

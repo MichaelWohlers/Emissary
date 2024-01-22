@@ -1,0 +1,41 @@
+Date: Tue, 16 Jan 2024 11:59:24 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 229
+X-Sorting-Hat-Shopid: 1780598
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=5f6cb211-002c-4855-b1b6-279ee8a5a4c1; path=/; expires=Tue, 16 Jan 2024 12:29:24 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:59:24 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 11:59:24 GMT; SameSite=Lax
+Set-Cookie: cart_currency=EUR; path=/; expires=Tue, 30 Jan 2024 11:59:24 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=yoopershirts.com; path=/; expires=Wed, 17 Jan 2024 11:59:24 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=4af8bcca-f027-4b62-ab54-d5c5edcf17f9; Expires=Wed, 15-Jan-25 11:59:24 GMT; Domain=yoopershirts.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=98a46a62-30a9-4bde-a8fb-a4fbf99a910f; Expires=Tue, 16-Jan-24 12:29:24 GMT; Domain=yoopershirts.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 11:59:24 GMT; Domain=yoopershirts.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2F; Expires=Tue, 30-Jan-24 11:59:24 GMT; Domain=yoopershirts.com; Path=/; HttpOnly; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+Etag: "cacheable:9d7be00c38d6445ef29a7d904d97107c"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 1780598
+X-Shardid: 229
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=185, db;dur=62, render;dur=92, wasm, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="136484094182", pageType;desc="index", servedBy;desc="wbt8", requestID;desc="0ba38b8f-731c-4b5d-841e-c3a2803b5c5f"
+Server-Timing: cfRequestDuration;dur=206.999779
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 0ba38b8f-731c-4b5d-841e-c3a2803b5c5f
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=B0ZxPR0Evny0OJx76LDH7G41wyA%2FhtdjFW5OIRAY9ElQsvNdFkU7ZeI4FGIDm98FYz3QhYy94ZP%2BlKtPMojyqdv26CNr%2Fm4qEXpJcbMgV1afCa8kA9UVEeBp%2FGv6b2pLWRyYfq%2BF"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8466312f38bd9bcb-FRA
+Alt-Svc: h3=":443"; ma=86400

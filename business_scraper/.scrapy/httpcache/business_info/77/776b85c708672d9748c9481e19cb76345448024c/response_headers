@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:36:10 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 291
+X-Sorting-Hat-Shopid: 77549273380
+X-Storefront-Renderer-Rendered: 1
+Location: https://mypastelpennies.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 77549273380
+X-Shardid: 291
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=6, db;dur=2, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="86jk", requestID;desc="fa7951d9-fc84-40de-97b1-d02913c93a8f"
+Server-Timing: cfRequestDuration;dur=28.999805
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: fa7951d9-fc84-40de-97b1-d02913c93a8f
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=W3TfIDmCYTW3AKaDu8TJpC86NDB2%2F8%2BuJjuzzSN14rwBNXDJ%2FmTvPu3fPs5VDLje56hD7dPgctj3F7oir2PWKk%2FWT1XoRyCRwW3fnS8qSDMPTdFKfk44VkeEGETnqJ1wAWgTCUo%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84660f2c7b2b9118-FRA
+Alt-Svc: h3=":443"; ma=86400

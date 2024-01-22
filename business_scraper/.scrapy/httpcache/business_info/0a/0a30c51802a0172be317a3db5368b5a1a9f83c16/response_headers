@@ -1,0 +1,23 @@
+Content-Length: 91
+Date: Tue, 16 Jan 2024 04:46:31 GMT
+Content-Type: text/plain; charset=utf-8
+Cache-Control: max-age=0, s-maxage=7200, must-revalidate
+Content-Encoding: gzip
+Etag: "87dc1838bb498e6865b899f9a0105c0c"-gzip
+Last-Modified: Wed, 30 Jun 2021 16:09:02 GMT
+Owner: sitescog-17019
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Surrogate-Key: locations.forever21.com locations.forever21.com%2Frobots.txt
+Vary: Accept-Encoding
+X-Amz-Id-2: FK8cwbAHaHVAB6+PZLs8Rlz6sOFmp/vd54gi/J3jKfSXXSvUWKDNGnxMtifg3VoEUxhgIQeK9T8=
+X-Amz-Request-Id: Z563AMY4E5Q4C1PM
+X-Amz-Server-Side-Encryption: AES256
+X-Amz-Version-Id: null
+X-Yext-Site: us2
+X-Yext-Subendpoint: static
+Cf-Cache-Status: HIT
+Accept-Ranges: bytes
+Set-Cookie: __cf_bm=TojTz5605HLcBrAJHMeDaAAaQp2W6i0rJzEi6k3PpYc-1705380391-1-Ad/ktEiejmUGEc7Uu7GmDlywkAU1KDsl7KmAEAprissEFKoykbswXNm1vYsHQB2WI5tBRNJbLIhlIxbhMo1l+lE=; path=/; expires=Tue, 16-Jan-24 05:16:31 GMT; domain=.locations.forever21.com; HttpOnly; Secure; SameSite=None
+Server: cloudflare
+Cf-Ray: 8463b7167ac8365f-FRA
+Alt-Svc: h3=":443"; ma=86400

@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 04:53:18 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 217
+X-Sorting-Hat-Shopid: 832208940
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=4562cc31-86ce-455f-91db-023e54be11a4; path=/; expires=Tue, 16 Jan 2024 05:23:18 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 04:53:18 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 04:53:18 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 04:53:18 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=jlaneboutique.com; path=/; expires=Wed, 17 Jan 2024 04:53:18 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=02a6223e-8f48-4beb-b9ba-d22a3cfcaf1e; Expires=Wed, 15-Jan-25 04:53:18 GMT; Domain=jlaneboutique.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=359c3a62-4974-4c23-bb17-87259535c891; Expires=Tue, 16-Jan-24 05:23:18 GMT; Domain=jlaneboutique.com; Path=/; SameSite=Lax
+Etag: "cacheable:a24dfc8008688066be42768b5b2d9904"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 832208940
+X-Shardid: 217
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=8, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="133568004314", servedBy;desc="wgrd", requestID;desc="a4acedfa-6e3c-4863-8b3c-17d9236ff9cf"
+Server-Timing: cfRequestDuration;dur=33.999920
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: a4acedfa-6e3c-4863-8b3c-17d9236ff9cf
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Z5RqizXGDqBFx9ZRHbqHCQ8kfOw21auIza0Y4qLtWDLCjLy0nLjTQfz4s94rRwHII7cknqdzScEtxz4ewZwMyH43P77i3X77NU0AZVMHeZKax24bOAr0NWWNyA0dk73s66fVutllzw%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8463c107d8351e66-FRA
+Alt-Svc: h3=":443"; ma=86400

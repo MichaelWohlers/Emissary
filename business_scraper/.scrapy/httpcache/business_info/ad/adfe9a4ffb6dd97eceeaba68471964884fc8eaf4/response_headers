@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:34:24 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 215
+X-Sorting-Hat-Shopid: 15427923
+X-Storefront-Renderer-Rendered: 1
+Location: https://www.allureclothingboutique.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 15427923
+X-Shardid: 215
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=9, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="w66h", requestID;desc="58d7b3c0-6265-4dbb-9541-d756d96c9d50"
+Server-Timing: cfRequestDuration;dur=52.999973
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 58d7b3c0-6265-4dbb-9541-d756d96c9d50
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=sf7%2B09MDMOnJK9IueTOAsQr1QfoGWiReZMQWjOhl75wBhnnSrNTTfjtXedzeYjKLSeEJFuXuSZ33zqTC7hQdK8N3BTHP77KTFkm8UiW%2Beqhd5uLoTG7zueKpVQH6Jl8kyRCGJoJsZlVTVX2S6Y7Xvg%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84660c9319429a00-FRA
+Alt-Svc: h3=":443"; ma=86400

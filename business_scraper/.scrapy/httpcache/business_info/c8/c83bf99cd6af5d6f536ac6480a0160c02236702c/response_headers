@@ -1,0 +1,11 @@
+Server: nginx
+Content-Type: text/html; charset=UTF-8
+Cache-Control: no-cache, private
+Date: Tue, 16 Jan 2024 11:44:28 GMT
+Location: https://www.kevaboutique.com/s/shop?page=1&limit=120&sort_by=popularity_score&sort_order=desc
+Set-Cookie: publishedsite-xsrf=eyJpdiI6IlViMTJ3ZzJpd0RySzdsalZSZUtMSGc9PSIsInZhbHVlIjoid1YybDFzK29keFFoYk9vdy9yRVYwMnlGdzc2blRvS3FQSzV5WGx4LzVkN2FWTktqMHN5YmNMOUdVMnIxelVvazRSOW5pT1lQYkhMOW1qL1h6YUFYRkpUcFJrT3BiTTNjMS83d0FSakxMMXdkcUlBL2drR1FOY05DcWpYWVg3a28iLCJtYWMiOiI4ODdiMDQ0NGFkZWNlM2RmODIxOTZhYzFhYWVkZThmY2JhNDc3NmM1ZjUyNjIwZDI1OWVlZDdhMWIxZjEwNGYxIiwidGFnIjoiIn0%3D; expires=Tue, 30-Jan-2024 11:44:28 GMT; Max-Age=1209600; path=/; samesite=lax
+Set-Cookie: XSRF-TOKEN=eyJpdiI6IktXSWI2VDAwR1B0RU5KbCtLNyszdEE9PSIsInZhbHVlIjoiZ1AyTGFQV0xaSWNYQnRrcXBkWnI4VThhajh5S1htMFdPY2JTVE0vcFFWUEQrWW04ZXh3MDB6NFF6bCtYTmZ1dlZjbXBKRThIYnE1Z05wK2huSDBoVGRqY1NUVWp4SUJRZlhkQWJmbEwyNzJwK0IyOTZNQTFycFB5SFlnVjNlWmoiLCJtYWMiOiJkZTU0MzU1ODEzMGJmMDFlNzkzMmQxNmViZmYxZjY4OWQ0NjQ1YWQwYjY4NGE0N2M4OWM0OTAyNzA2NGFkODM4IiwidGFnIjoiIn0%3D; expires=Tue, 30-Jan-2024 11:44:28 GMT; Max-Age=1209600; path=/; samesite=lax
+Set-Cookie: PublishedSiteSession=eyJpdiI6ImdJTkViVHFodEVybFVXbDJ2ajZOSXc9PSIsInZhbHVlIjoiSFlKT1VsMUoweGhMR2F6Vk9pWjNKTXZFdW1EMmFKeGF2YThyQ0MzdGdaMkNaQmpjYlM0VjhFOUxkV2UxelJDOExXeUtkUWdyMDgwK1E5b0RCU2dIcTlmN2dOV3IrUVV3Sm1VcFM0NzROSmdWalFEaFBXSWR4OU9iS0RQWTdrbEgiLCJtYWMiOiI0ZWJiYTg1OWQyZWZiM2YzMDAyZDBkMzkyMDExMzA0MDkzMDQ2ZWU5NjVjNWRiNTFiM2ViN2E3OGFlYjI1YjJkIiwidGFnIjoiIn0%3D; expires=Tue, 30-Jan-2024 11:44:28 GMT; Max-Age=1209600; path=/; httponly; samesite=lax
+X-Host: blu70.sf2p.intern.weebly.net
+X-Revision: 3876997e5657c8c14045e4442c2b885d21cef705
+X-Request-Id: fcc284e72e2898af61fd1a9f96317f6e

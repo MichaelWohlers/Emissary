@@ -1,0 +1,29 @@
+Date: Tue, 16 Jan 2024 11:50:18 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 198
+X-Sorting-Hat-Shopid: 53199569095
+X-Storefront-Renderer-Rendered: 1
+Location: https://distressedmonster.com/
+X-Redirect-Reason: canonical_host_redirection
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 53199569095
+X-Shardid: 198
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=6, db;dur=2, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="n7sx", requestID;desc="5e937f2a-39d4-4639-970f-afddd98e439c"
+Server-Timing: cfRequestDuration;dur=35.000086
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 5e937f2a-39d4-4639-970f-afddd98e439c
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=mJj3y80MFFHcMeULV7%2BMBA8BQ75k5QHwTLR2KYr9N10iu%2FJYhwinlYRdw54ndbWiY%2Fa3GEozbjZDcXoGB4ft6QNKFI3S4sDL7fUAG7lEsOYILL1zQ7kxkpEDz9YgtERsKWEdv8yFOYb2XTw%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846623de8ef2bb9e-FRA
+Alt-Svc: h3=":443"; ma=86400

@@ -1,0 +1,16 @@
+Date: Tue, 16 Jan 2024 11:37:35 GMT
+Content-Type: text/html
+Strict-Transport-Security: max-age=31536000
+Content-Security-Policy: frame-ancestors 'self' *.canva.com canva.com; report-uri https://csp.canva.com/_cspreport?app=websites; base-uri 'self'; object-src 'none'; script-src 'report-sample' 'strict-dynamic' 'nonce-026e0e1c-8d21-4a23-82bf-516b600e5582' https://www.google.com/recaptcha/api.js;
+X-Deployment-Id: e494fbc3c80d6417bdd1298a4b3ebd59b851cfb34965e99241e97bac3ab1768b
+X-Robots-Tag: all
+Vary: Accept-Encoding
+Expect-Ct: max-age=86400, enforce
+Referrer-Policy: same-origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+Server: cloudflare
+Cf-Ray: 846611398c6a367f-FRA
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400

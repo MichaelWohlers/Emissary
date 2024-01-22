@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:40:37 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 245
+X-Sorting-Hat-Shopid: 26878410824
+X-Storefront-Renderer-Rendered: 1
+Location: https://velvetcoat.us/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 26878410824
+X-Shardid: 245
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=7, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="8zds", requestID;desc="ab4a1faf-e575-4ac4-9308-83cce9a31e78"
+Server-Timing: cfRequestDuration;dur=50.000191
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: ab4a1faf-e575-4ac4-9308-83cce9a31e78
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=wY72DMsz54mwBxscnenyQ8%2BFH37GzMJLwUmQmEIUxjA0DRrWae4M8jgnZQT7v4M8fGu3IpUA82MMZgmOK3cI6V1WlcIZj4I%2BLEI7GxYZrlP0DraX%2BYpX8Z9qaWiXqKY%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846615ac292e37e9-FRA
+Alt-Svc: h3=":443"; ma=86400

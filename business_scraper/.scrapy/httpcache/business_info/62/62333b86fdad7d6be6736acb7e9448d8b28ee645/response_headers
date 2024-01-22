@@ -1,0 +1,17 @@
+Date: Tue, 16 Jan 2024 11:41:34 GMT
+Content-Type: text/html; charset=utf-8
+X-Frame-Options: ALLOW-FROM https://my.bigcartel.com
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Permitted-Cross-Domain-Policies: none
+Referrer-Policy: strict-origin-when-cross-origin
+Location: https://sachaesfashiononthego.bigcartel.com/
+Cache-Control: no-cache
+Content-Security-Policy: frame-ancestors https://my.bigcartel.com https://www.bigcartel.com https://bigcartel.com https://*.bc-site-staging.pages.dev http://localhost:3000
+X-Request-Id: d2ea148e-48f0-41f2-b251-4792bd013158
+X-Runtime: 0.037560
+Cf-Cache-Status: DYNAMIC
+Set-Cookie: _cfuvid=4FGKuT5.Sq54KmuRJ0B_95APFO_QaVGHCK00u9R1wws-1705405294432-0-604800000; path=/; domain=.bigcartel.com; HttpOnly
+Server: cloudflare
+Cf-Ray: 84661710cf2d9b69-FRA

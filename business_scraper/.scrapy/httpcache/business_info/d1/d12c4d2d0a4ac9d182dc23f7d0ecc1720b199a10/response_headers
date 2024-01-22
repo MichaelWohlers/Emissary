@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:56:33 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 233
+X-Sorting-Hat-Shopid: 5386805
+X-Storefront-Renderer-Rendered: 1
+Location: https://jophiel.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 5386805
+X-Shardid: 233
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=6, db;dur=2, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="zxnk", requestID;desc="e289e08a-9c43-41f3-84d9-3b7c16e69498"
+Server-Timing: cfRequestDuration;dur=37.999868
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: e289e08a-9c43-41f3-84d9-3b7c16e69498
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=YxJ6Ei7PDfTq979ecYPRtBPIM6oHilStojXPL41bvrhKJzvX%2Bpb0%2FbVvcqnKoaQSdj8FfsaaPEgGut1OAOJINaibt%2BynB9JtqtmDkCA7Hz8M1ok2Dq03IPHyJooi%2B1gEjA%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84662d038d5203c4-FRA
+Alt-Svc: h3=":443"; ma=86400

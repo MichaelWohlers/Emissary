@@ -1,0 +1,41 @@
+Date: Tue, 16 Jan 2024 11:50:13 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 257
+X-Sorting-Hat-Shopid: 52832436388
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=d3fcf55c-8091-47d4-9809-2d71f2d26e6e; path=/; expires=Tue, 16 Jan 2024 12:20:13 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:50:13 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:50:13 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:50:13 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=jluxgb.com; path=/; expires=Wed, 17 Jan 2024 11:50:13 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=0a400370-cb80-4b4f-8f23-526dbb8d2962; Expires=Wed, 15-Jan-25 11:50:13 GMT; Domain=jluxgb.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=2be4e014-c989-4214-975c-7fe8f5c5cfa1; Expires=Tue, 16-Jan-24 12:20:13 GMT; Domain=jluxgb.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 11:50:13 GMT; Domain=jluxgb.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2F; Expires=Tue, 30-Jan-24 11:50:13 GMT; Domain=jluxgb.com; Path=/; HttpOnly; SameSite=Lax
+Etag: "cacheable:88080048072e8e36b195b813db53d22f"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 52832436388
+X-Shardid: 257
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=14;desc="gc:2", db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="118194700452", pageType;desc="index", servedBy;desc="9vmx", requestID;desc="c2668f28-abce-4835-a781-4f741cc44585"
+Server-Timing: cfRequestDuration;dur=39.999962
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: c2668f28-abce-4835-a781-4f741cc44585
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=vVZ1CHkvKhB4oM2f8ADI7x5%2FYjbrIzD1RMMgFBGGcISgWFvHSoa39WxZadIh37%2Fj7h%2FZKJFLHiSjI9SieH3zGaKTmvkGNnEkZzmOTBpF3C42mOdV5%2B6rYwTn42Z%2Fxa9J"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846623bc0ce63a8c-FRA
+Alt-Svc: h3=":443"; ma=86400

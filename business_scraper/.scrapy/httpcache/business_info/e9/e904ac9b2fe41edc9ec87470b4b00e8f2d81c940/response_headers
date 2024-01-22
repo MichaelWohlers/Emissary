@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:02:30 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 183
+X-Sorting-Hat-Shopid: 51390447800
+X-Storefront-Renderer-Rendered: 1
+Location: https://shopjadoregalore.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 51390447800
+X-Shardid: 183
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=23, db;dur=10, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="h7h8", requestID;desc="6c8ac49b-dd18-411f-afb8-35a1f21c73ff"
+Server-Timing: cfRequestDuration;dur=59.000015
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 6c8ac49b-dd18-411f-afb8-35a1f21c73ff
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=iRbt01vheqiRjIeIkgtACnb6CjoEcKwm5B82%2FHsMBDO46OghSMHnX65c19bNlSZc%2FpQX8Y4XBs65qkzQ4WvLa1%2BUhomvlYtUbCmxg7BBWh992vzANJtImQkXBYfdQgduV67Dd1Ba"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8465ddd71b3b367a-FRA
+Alt-Svc: h3=":443"; ma=86400

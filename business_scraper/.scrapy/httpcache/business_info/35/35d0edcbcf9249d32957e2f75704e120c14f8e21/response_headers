@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 04:55:14 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 240
+X-Sorting-Hat-Shopid: 1200816228
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=dba0ceb4-ffbc-4cd2-86a0-985d9d9292ab; path=/; expires=Tue, 16 Jan 2024 05:25:14 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 04:55:14 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 04:55:14 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 04:55:14 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=perfectlyposhboutique.com; path=/; expires=Wed, 17 Jan 2024 04:55:14 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=3e7c86e5-c8c1-4c99-95ba-f66d1b2fcc4a; Expires=Wed, 15-Jan-25 04:55:14 GMT; Domain=perfectlyposhboutique.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=a78ebf86-8595-4934-a7e2-f461572cb58a; Expires=Tue, 16-Jan-24 05:25:14 GMT; Domain=perfectlyposhboutique.com; Path=/; SameSite=Lax
+Etag: "cacheable:ea2db10dd8efdcc8505e4ba39995ad45"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 1200816228
+X-Shardid: 240
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=7, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="76836372524", servedBy;desc="gmnh", requestID;desc="34babc2f-3023-4962-83ab-bd7cffde0639"
+Server-Timing: cfRequestDuration;dur=32.999992
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 34babc2f-3023-4962-83ab-bd7cffde0639
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=%2FAUSVpeJdEh9N4qoUyJY7AXjIRCJA4z8ZVk91Lzb4NtgSqh9Uc8%2FyTzZAFTzSvWkLq0FK7hQS8HgWqT69jPaSGz%2BmTukgPmTyUIjIJvCsoyHgzG7oNq6NICeaIjwb2qrd%2FHi0fX3FOtpGXc%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8463c3dd0f0a4da0-FRA
+Alt-Svc: h3=":443"; ma=86400

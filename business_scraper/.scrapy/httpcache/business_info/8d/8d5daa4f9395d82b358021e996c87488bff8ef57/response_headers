@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:39:12 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 217
+X-Sorting-Hat-Shopid: 832208940
+X-Storefront-Renderer-Rendered: 1
+Location: https://www.jlaneboutique.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 832208940
+X-Shardid: 217
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=9, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="5mgw", requestID;desc="b83ecbf7-6854-4b75-83d2-ee43db3c9214"
+Server-Timing: cfRequestDuration;dur=50.999880
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: b83ecbf7-6854-4b75-83d2-ee43db3c9214
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=q7NT8aRnHccEHF%2BfpQLQyx0ZmJPRfYD5wYyk%2BbTJ7skojvUWATSFlAE3mPJNw7WdEuVWLI%2Bcf993um0gVaCsfpUKfTBQFG6jwCWV8XMl0U9ZrQtsfY0s%2FJuFdWI%2BhqjAwyro"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8466139d7bd35c68-FRA
+Alt-Svc: h3=":443"; ma=86400

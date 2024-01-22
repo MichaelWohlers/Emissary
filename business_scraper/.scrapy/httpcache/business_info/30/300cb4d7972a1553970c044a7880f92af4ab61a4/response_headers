@@ -1,0 +1,24 @@
+Date: Tue, 16 Jan 2024 11:37:50 GMT
+Content-Type: text/html
+Referrer-Policy: no-referrer-when-downgrade
+X-Content-Type-Options: nosniff
+X-Fw-Hash: t8fedpna69
+X-Fw-Version: 5.0.0
+Location: https://www.labelshopper.com/robots.txt
+X-Xss-Protection: 1
+X-Fw-Server: Flywheel/5.1.0
+X-Served-By: cache-ams21069-AMS, cache-ams21027-AMS
+X-Cache: MISS, MISS
+X-Cache-Hits: 0, 0
+X-Timer: S1705405070.059602,VS0,VE122
+Vary: Authorization, Accept-Encoding
+X-Fw-Serve: TRUE
+X-Fw-Static: NO
+X-Fw-Type: VISIT
+Cache-Control: max-age=14400
+Cf-Cache-Status: MISS
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=aszY3sGmVjNoZ34VwUuxlnwoCSiBGArRg%2Bn0w%2Ba%2F4McdVt1VFBVaQBeQ5mRjYWNegRPj%2Fd1Loh1PM2vA7RvQ4sDmR0woLqfj7xYMXdK779WM211ZWzYocGxTBW%2B%2F5QfYx5a7Lm32XA%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661197ad4d0483-CDG
+Alt-Svc: h3=":443"; ma=86400

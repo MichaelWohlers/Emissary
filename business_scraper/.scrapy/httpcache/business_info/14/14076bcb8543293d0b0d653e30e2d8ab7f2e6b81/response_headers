@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 07:01:25 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 250
+X-Sorting-Hat-Shopid: 15704485
+X-Storefront-Renderer-Rendered: 1
+Location: https://triplevboutique.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 15704485
+X-Shardid: 250
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=9, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="6blv", requestID;desc="bf396340-0c73-4227-b840-baf4abc683ff"
+Server-Timing: cfRequestDuration;dur=36.000013
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: bf396340-0c73-4227-b840-baf4abc683ff
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=hQPGyCYTKma763XU058FlWTH4S4qQMuT3aXnFvjclzm9UCYDxbcPj93ExvARnS0ZMcPyha35tnXZhyZ2snz17lQXseO1L9FDSahfI4bSb2lY7wthVY0BAH63FOUNKzLI0HP4jnM%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84647caf9bb61d92-FRA
+Alt-Svc: h3=":443"; ma=86400

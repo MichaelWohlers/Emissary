@@ -1,0 +1,25 @@
+Date: Tue, 16 Jan 2024 11:50:23 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Set-Cookie: fornax_anonymousId=85a69b7d-edfe-4a6a-8a22-2d5cbdd2d962; Expires=Thu, 15 Jan 2026 11:50:22 GMT; Path=/; Secure; SameSite=None
+Set-Cookie: athena_short_visit_id=6876997d-c4bf-409c-8f2d-f41e48ba029d:1705405822; Expires=Tue, 16 Jan 2024 12:20:22 GMT; Path=/; Secure; HttpOnly; SameSite=None
+Set-Cookie: Shopper-Pref=4ACBD72C5E6AE958EB9D4CFDFA61785CB59BE7A2-1706010623274-x%7B%22cur%22%3A%22USD%22%7D; Expires=Tue, 23 Jan 2024 11:50:23 GMT; Path=/; HttpOnly
+Set-Cookie: XSRF-TOKEN=b5549b584913cb1551784cd88aacba3ca26dcd0580c954a540a749f83ad91a00; path=/; Secure; SameSite=none
+Set-Cookie: SHOP_SESSION_TOKEN=ef5feca9-1465-46c3-b8a2-84b4e4faac8e; Expires=Tue, 23 Jan 2024 11:50:23 GMT; Path=/; Secure; HttpOnly; SameSite=None
+Link: <https://bigcommerce.livechatinc.com/api/v1/script/248eb7f5-2303-46af-b280-81e10c1873e0/widget.js>; rel=preload; as=script, <https://ecommplugins-trustboxsettings.trustpilot.com/stores/b8nauo3un5.js?settings=1686919593631>; rel=preload; as=script, <https://widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js>; rel=preload; as=script, <https://static.affiliatly.com/bigcommerce/v3/bigcommerce.js?affiliatly_code=AF-1057706>; rel=preload; as=script, <https://swymv3pro-01.azureedge.net/code/swym-bigcommerce.js>; rel=preload; as=script, <https://swymv3pro-01.azureedge.net/code/swym_isa_fb_pixel.js>; rel=preload; as=script, <https://cdn.attn.tv/b-wear/dtag.js>; rel=preload; as=script, <https://cdn.attn.tv/b-wear/dtag.js>; rel=preload; as=script
+Link: <https://cdn11.bigcommerce.com/s-b8nauo3un5>; rel=preconnect; as=font; crossorigin=anonymous, <https://fonts.googleapis.com/>; rel=preconnect; as=font; crossorigin=anonymous, <https://fonts.gstatic.com/>; rel=preconnect; as=font; crossorigin=anonymous, <https://fonts.googleapis.com/css?family=Rubik:500,400,700,400i,500i,700i&display=swap>; rel=preload; as=style, <https://cdn11.bigcommerce.com/s-b8nauo3un5/stencil/c8bce9b0-231f-013c-e90b-2e5c65c4ceb9/e/68f16b90-92b1-013c-a694-7658079c17f5/css/theme-9db89ab0-92b7-013c-4e8e-2269d56ba611.css>; rel=preload; as=style
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Strict-Transport-Security: max-age=0
+X-Request-Id: 3108ddeab838d971ea177f1a1a80de78
+Content-Encoding: gzip
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=bdDMLyGCaxA%2FbnS9%2FJygTc69DpSoZvGiIX9%2BocXkL1Vs8SHZXzBuRfU%2FKFNDdHp4KDn2bhIQG%2FfOEGoZBI%2BX0cWheugUsombfClKGUf7%2FFnyuakurlCB5n1%2BNjkFDww%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Bc-Ray: 1
+Server: cloudflare
+Cf-Ray: 846623f8fc689165-FRA
+Alt-Svc: h3=":443"; ma=86400

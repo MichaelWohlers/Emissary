@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:39:24 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 273
+X-Sorting-Hat-Shopid: 10413468
+X-Storefront-Renderer-Rendered: 1
+Location: https://sandisstyles.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 10413468
+X-Shardid: 273
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=8, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="h7h8", requestID;desc="37d840a8-7c60-4daa-9e3f-765d28e26d3e"
+Server-Timing: cfRequestDuration;dur=43.999910
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 37d840a8-7c60-4daa-9e3f-765d28e26d3e
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=d5vQs5bSTQm9loMF9Ic5E7ScXB418mJjGwJ99XyplddzvrWzsY7sYaRZOAhptLpE1wgv85fLHTgDKC9mgmqBJ25sRd6QdZKB5ScAkG%2FHIrUlsCKbUlHYfCBYedwkLwcFPH%2F08Tnj"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846613e37ed72c59-FRA
+Alt-Svc: h3=":443"; ma=86400

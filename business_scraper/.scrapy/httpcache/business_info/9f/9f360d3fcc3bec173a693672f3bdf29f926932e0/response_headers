@@ -1,0 +1,41 @@
+Date: Tue, 16 Jan 2024 11:38:40 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 219
+X-Sorting-Hat-Shopid: 26874249259
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=bcf07a34-89ad-41a7-a029-0ecffef11e35; path=/; expires=Tue, 16 Jan 2024 12:08:40 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:38:40 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 11:38:40 GMT; SameSite=Lax
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:38:40 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=raimentfashion.com; path=/; expires=Wed, 17 Jan 2024 11:38:40 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=577cbabe-eed6-49c2-9cb0-1ebf33db7c8b; Expires=Wed, 15-Jan-25 11:38:40 GMT; Domain=raimentfashion.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=9b371e18-6ddf-4200-bb44-e29422bfc88d; Expires=Tue, 16-Jan-24 12:08:40 GMT; Domain=raimentfashion.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 11:38:40 GMT; Domain=raimentfashion.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2F; Expires=Tue, 30-Jan-24 11:38:40 GMT; Domain=raimentfashion.com; Path=/; HttpOnly; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin, <//raimentfashion.com/cdn/shop/t/8/assets/component-localization-form.css?v=143319823105703127341698891575>; as="style"; rel="preload", <//raimentfashion.com/cdn/shop/files/IMG_2821.jpg?v=1698891831&width=600>; as="image"; rel="preload"; imagesrcset="//raimentfashion.com/cdn/shop/files/IMG_2821.jpg?v=1698891831&width=140 140w, //raimentfashion.com/cdn/shop/files/IMG_2821.jpg?v=1698891831&width=210 210w, //raimentfashion.com/cdn/shop/files/IMG_2821.jpg?v=1698891831&width=280 280w"; imagesizes="(max-width: 280px) 50vw, 140px"
+Etag: "cacheable:36fc0c48148b3a3dbcad09d00e44c0ee"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 26874249259
+X-Shardid: 219
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=495;desc="gc:76", db;dur=94, fetch;dur=148, parse;dur=2, render;dur=150, wasm, wasmDownload;dur=148, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="137984377052", pageType;desc="index", servedBy;desc="w9br", requestID;desc="2953351a-ba18-4d53-9713-87d72fad935d"
+Server-Timing: cfRequestDuration;dur=530.999899
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 2953351a-ba18-4d53-9713-87d72fad935d
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=CMuRAaKhU00MFdMWIAZvvsVhA1w07PM62R1qaDc2pojZtcs6gCZJXaG13TrV9OQ%2FTK2UTOM0aekF3dlDygx0tcTSSsYhhltb1T%2Btv6vrD37jQODuODC%2FESKljCPqFAyIl1QiwA%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846612d17fc19b69-FRA
+Alt-Svc: h3=":443"; ma=86400

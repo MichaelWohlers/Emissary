@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:43:10 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 277
+X-Sorting-Hat-Shopid: 74723852566
+X-Storefront-Renderer-Rendered: 1
+Location: https://magnoliaboutique.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 74723852566
+X-Shardid: 277
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=10;desc="gc:1", db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="qx6h", requestID;desc="25ee0b31-713b-478e-882b-72ca64d5a1c0"
+Server-Timing: cfRequestDuration;dur=42.999983
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 25ee0b31-713b-478e-882b-72ca64d5a1c0
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=JArx%2F5xbEatvjTCqtwhOvNCs2Jonqc8xy2bvjeqo1ZOwcrkvEL1cff%2FEIrEypBSdwFazCSS3Xm6v3iRIP%2FWy2e9Itfk3gXzeu78%2F4zzEu2WnzchFwYaeADAq2JcZ877l3YRXcZCL"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846619685f3b3a5e-FRA
+Alt-Svc: h3=":443"; ma=86400

@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:02:21 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 48
+X-Sorting-Hat-Shopid: 20676935
+X-Storefront-Renderer-Rendered: 1
+Location: https://www.shopchictique.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 20676935
+X-Shardid: 48
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=11, db;dur=5, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="6blv", requestID;desc="3dcdf668-f277-4a31-9b3f-1ed2c4c263cd"
+Server-Timing: cfRequestDuration;dur=42.000055
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 3dcdf668-f277-4a31-9b3f-1ed2c4c263cd
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=aXUP1AzXXRvC0D%2FLVASLnX1G9CGxvqqP5rpVerp1fMhe6ykLsT881Os7lFNtd7JirQmEXo5Mtf4jzVoG8zw7Bo5Xhrikpa8mDndi%2F1BPxSUms8R0lNks1UolReOJhnNbnjg7OQuI%2FQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8465dda059579b5b-FRA
+Alt-Svc: h3=":443"; ma=86400

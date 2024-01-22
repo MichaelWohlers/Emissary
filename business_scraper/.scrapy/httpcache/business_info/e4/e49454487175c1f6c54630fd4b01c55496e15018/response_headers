@@ -1,0 +1,29 @@
+Date: Tue, 16 Jan 2024 11:20:48 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 248
+X-Sorting-Hat-Shopid: 1912176691
+X-Storefront-Renderer-Rendered: 1
+Location: https://johnathanmichaelsboutique.net/
+X-Redirect-Reason: primary_domain_redirection
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 1912176691
+X-Shardid: 248
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=7, db;dur=2, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="mxgx", requestID;desc="d66a816c-553c-4399-bd80-2e328f8bb211"
+Server-Timing: cfRequestDuration;dur=29.999971
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: d66a816c-553c-4399-bd80-2e328f8bb211
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Jo1vlyS8%2BKdc3uw1rQR1gpdhdKQ%2FammLL%2FYN0ODkbaN3wcTr4%2B9dP9f82E73%2FQgvLcnyFgZtd354L3GqYAGGvidiB9Kw1SXsu%2FH6qyB890Ppu%2FVfmx49KBApoPPg%2BrYEKU1kTVq0G17m6tAHaxI8"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8465f8a91d8f9034-FRA
+Alt-Svc: h3=":443"; ma=86400

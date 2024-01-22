@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:53:03 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 294
+X-Sorting-Hat-Shopid: 1845985350
+X-Storefront-Renderer-Rendered: 1
+Location: https://eandcoclothing.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 1845985350
+X-Shardid: 294
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=5, db;dur=2, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="5474", requestID;desc="4572767b-b751-4bd9-b885-d46dbbc96099"
+Server-Timing: cfRequestDuration;dur=58.000088
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 4572767b-b751-4bd9-b885-d46dbbc96099
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=gZ1NQNnf2gl%2BJOuWkLfjRWNwUXs4awi9Iz8sLBb6LC5MUl5zNpuMfSQQ04nK%2BBBSKNFJqhPtVjbYjb5pEwUXOPQTEYW0ezudI8KsAMdwEkjOmwL5iR4jrwz1Q54jsWqZiP0i6Ch12ug%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846627e21a3118dd-FRA
+Alt-Svc: h3=":443"; ma=86400

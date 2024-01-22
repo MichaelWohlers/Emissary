@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:34:40 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 72
+X-Sorting-Hat-Shopid: 17185709
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=87243d20-6dc1-4ca2-b859-30a9700f84d2; path=/; expires=Tue, 16 Jan 2024 12:04:40 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:34:40 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:34:40 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:34:40 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=girliegirloriginals.com; path=/; expires=Wed, 17 Jan 2024 11:34:40 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=c903e512-53ed-4df8-9afd-e536edf1e31b; Expires=Wed, 15-Jan-25 11:34:40 GMT; Domain=girliegirloriginals.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=fc4c508e-5aa2-43b0-a664-90efe95671f3; Expires=Tue, 16-Jan-24 12:04:40 GMT; Domain=girliegirloriginals.com; Path=/; SameSite=Lax
+Etag: "cacheable:dfefc87cd4ba5f5e4ae65ea6194c4071"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 17185709
+X-Shardid: 72
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=13, db;dur=6, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="173887057", servedBy;desc="zsdg", requestID;desc="e75d2719-c4b8-4a00-95d5-c4561bfab9cf"
+Server-Timing: cfRequestDuration;dur=52.999973
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: e75d2719-c4b8-4a00-95d5-c4561bfab9cf
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Ce8xvn4SDGoXfG%2BXr3m0MMs5xGbDbvZXWmNh8bWupTmXbQyz2%2BPoaByk308pSuVl6gLyiThORFIifl4%2BlRI6EuIC%2BpvRPrSn2T9MFVmC9C8DncqASH9Mpca61BjYdndgQkIMpFeYgkOE4MFxlg%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84660cf73e2c3a91-FRA
+Alt-Svc: h3=":443"; ma=86400

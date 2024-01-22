@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:21:15 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 175
+X-Sorting-Hat-Shopid: 51064144048
+X-Storefront-Renderer-Rendered: 1
+Location: https://windfallgallery.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 51064144048
+X-Shardid: 175
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=9, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="jkkm", requestID;desc="f94b737f-4b66-4605-bb87-383d90a99c6c"
+Server-Timing: cfRequestDuration;dur=43.999910
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: f94b737f-4b66-4605-bb87-383d90a99c6c
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=RJSYVqMgDy5ZbknKINkG9jih30nMS8uH6Xs9tSC%2BdJhH4wLUO3aX2D0FR1%2Fj3OYm3JCSvRCpAYilSa8v0jYX%2B0B5I4IbKoUJ%2Fkgh9nII%2B7VCd4xvfOBppvzsWemxLYW1vW6az%2F6aJbQt"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8465f94d5f22904f-FRA
+Alt-Svc: h3=":443"; ma=86400

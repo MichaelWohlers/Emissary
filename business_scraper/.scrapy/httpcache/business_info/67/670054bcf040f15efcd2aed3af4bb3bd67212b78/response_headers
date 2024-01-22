@@ -1,0 +1,38 @@
+Date: Tue, 16 Jan 2024 11:33:26 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 235
+X-Sorting-Hat-Shopid: 17412063
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=494c059b-e833-4de0-b179-6dd9f26007a6; path=/; expires=Tue, 16 Jan 2024 12:03:26 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:33:26 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:33:26 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:33:26 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Afalse%2C%22a%22%3Afalse%2C%22m%22%3Afalse%2C%22t%22%3Afalse%7D%2C%22display_banner%22%3Atrue%2C%22sale_of_data_region%22%3Afalse%7D; domain=mobfashionboutique.com; path=/; expires=Wed, 17 Jan 2024 11:33:26 GMT; SameSite=Lax
+Set-Cookie: _tracking_consent=%7B%22lim%22%3A%5B%22GDPR_BLOCK_ALL%22%5D%2C%22region%22%3A%22DERP%22%2C%22reg%22%3A%22GDPR%22%2C%22v%22%3A%222.1%22%2C%22con%22%3A%7B%22CMP%22%3A%7B%22a%22%3A%22%22%2C%22s%22%3A%22%22%2C%22p%22%3A%22%22%2C%22m%22%3A%22%22%7D%7D%7D; Expires=Wed, 15-Jan-25 11:33:26 GMT; Domain=mobfashionboutique.com; Path=/; SameSite=Lax
+Etag: "cacheable:89016ccaa534481642c1e41686412819"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 17412063
+X-Shardid: 235
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=15, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="126343676077", servedBy;desc="67nn", requestID;desc="f50c4393-14fb-4563-b05b-02254adf9a69"
+Server-Timing: cfRequestDuration;dur=46.999931
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: f50c4393-14fb-4563-b05b-02254adf9a69
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=SZ1gt9bjbHcnxVCKVd20cEGDrdqMAQLM6UyXMlehGFySKUiNhg4VIsgOR9exZmOdaDGcr8CXXR%2FNRXzvtuFY3uopoEnL30QLaxiPCmZfvO%2FjXJirZQdHisXp1ykQg00XE8OrLpgrJoygxBGq"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84660b2a09709247-FRA
+Alt-Svc: h3=":443"; ma=86400

@@ -1,0 +1,29 @@
+Date: Tue, 16 Jan 2024 11:43:19 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 211
+X-Sorting-Hat-Shopid: 66375090388
+X-Storefront-Renderer-Rendered: 1
+Location: https://mackattack.shop/robots.txt
+X-Redirect-Reason: canonical_host_redirection
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 66375090388
+X-Shardid: 211
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=11, db;dur=5, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="w6wv", requestID;desc="a254f3e9-ea4d-41b4-b5c8-65375aa46ab5"
+Server-Timing: cfRequestDuration;dur=42.000055
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: a254f3e9-ea4d-41b4-b5c8-65375aa46ab5
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=JJohbP7SwFSvCizQh2Y72qwU6vuiUYcKxbLbNcPyT3QAGQoVFgn3q3HRHHRJb185lqssoJhjdNKYJn87GZlDqT1aEOZNMUxOXIPlGcuRjjIu64lddzaiQopxBYXD4Y9z8BEgK3k%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846619a48b3e6aec-FRA
+Alt-Svc: h3=":443"; ma=86400

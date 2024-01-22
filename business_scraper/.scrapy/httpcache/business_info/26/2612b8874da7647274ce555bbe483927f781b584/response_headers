@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:53:31 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 231
+X-Sorting-Hat-Shopid: 64344752360
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=557e000b-ab87-4761-a971-a186f5a554df; path=/; expires=Tue, 16 Jan 2024 12:23:31 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:53:31 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:53:31 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:53:31 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=traditionalmamaco.com; path=/; expires=Wed, 17 Jan 2024 11:53:31 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=1db021e7-8121-493d-8bbc-9c26eeb4dcc7; Expires=Wed, 15-Jan-25 11:53:31 GMT; Domain=traditionalmamaco.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=8252b665-2599-4fe3-ac72-afd3ff5793dd; Expires=Tue, 16-Jan-24 12:23:31 GMT; Domain=traditionalmamaco.com; Path=/; SameSite=Lax
+Etag: "cacheable:9be661f818c51038a4d1e6489618be4f"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 64344752360
+X-Shardid: 231
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=12, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="136593637608", servedBy;desc="rtwn", requestID;desc="6b21561a-824e-4963-87de-739a2c4abe0c"
+Server-Timing: cfRequestDuration;dur=60.999870
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 6b21561a-824e-4963-87de-739a2c4abe0c
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=ZUxwjGeEiMdIGK0FGuuWcpRv1AH8StDCRN78xr1790%2BZP7Cnxe64dr3PBNG%2FmbLnW5bJEsVAjcPqP%2FlhCykVinzcIVQR3C4YfFOAevXJr0zD2ReGsqog%2FQTtCTtxkG2BWPL1mOJdHo2%2FUvE%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846628929831bb9e-FRA
+Alt-Svc: h3=":443"; ma=86400

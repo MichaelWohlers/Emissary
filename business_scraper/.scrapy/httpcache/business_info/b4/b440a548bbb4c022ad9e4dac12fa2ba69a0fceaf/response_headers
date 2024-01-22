@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:37:38 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 69
+X-Sorting-Hat-Shopid: 14449876
+X-Storefront-Renderer-Rendered: 1
+Location: https://www.newfrontierbrand.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 14449876
+X-Shardid: 69
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=11, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="l2p5", requestID;desc="9eeed5c1-87a4-49ee-9e94-dd614e0f68c3"
+Server-Timing: cfRequestDuration;dur=67.999840
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 9eeed5c1-87a4-49ee-9e94-dd614e0f68c3
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=hGa055A4vei3KyifRkjbMMJ4XZalKvorwthfZAGVbF0XCBNfNoWdR3nmQh2XOwOATmMExT6r%2FELE3B6YSUJqbKs5VN%2BA24PZDA6mpPPPHt8wNPuBbr2rf0qhT7hIeh6LBcMyJf1C"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8466114e8b1571d6-FRA
+Alt-Svc: h3=":443"; ma=86400

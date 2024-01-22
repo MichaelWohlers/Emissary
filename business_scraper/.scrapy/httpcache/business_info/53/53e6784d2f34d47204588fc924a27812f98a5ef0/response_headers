@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 07:05:43 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 205
+X-Sorting-Hat-Shopid: 58495172814
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=19709d5d-6271-4539-8315-2ea3f38980fd; path=/; expires=Tue, 16 Jan 2024 07:35:43 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 07:05:43 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 07:05:43 GMT; SameSite=Lax
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 07:05:43 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=mariegregory.com; path=/; expires=Wed, 17 Jan 2024 07:05:43 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=6cd582ab-a4b9-416c-9034-f4ca588b18c6; Expires=Wed, 15-Jan-25 07:05:43 GMT; Domain=mariegregory.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=afb815ff-ce0a-4a53-84a4-30c237890ea0; Expires=Tue, 16-Jan-24 07:35:43 GMT; Domain=mariegregory.com; Path=/; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+Etag: "cacheable:4706b1e711616dc3ed0f23560b0478a0"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 58495172814
+X-Shardid: 205
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=19;desc="gc:1", db;dur=5, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="127705546958", servedBy;desc="xdmm", requestID;desc="6c5716e2-b4c7-4b5b-8727-de4de10b2788"
+Server-Timing: cfRequestDuration;dur=55.999756
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 6c5716e2-b4c7-4b5b-8727-de4de10b2788
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=yNg3wHHdWNlrL7uarhGTw9qsai92%2BG3Fih00aeRL39ZTdIy35Fz1Yg4s%2FMFIF%2BZirFWSu4DKATRRTq8e9MRcz2semSmkke5vXyk8rr24DHfVdLbxoW1l2zSzkOc%2B%2FAa%2FC9U%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846483007f2e1e56-FRA
+Alt-Svc: h3=":443"; ma=86400

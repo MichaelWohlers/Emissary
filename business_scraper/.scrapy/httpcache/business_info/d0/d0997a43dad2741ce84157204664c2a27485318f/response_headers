@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:59:40 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 176
+X-Sorting-Hat-Shopid: 27094548577
+X-Storefront-Renderer-Rendered: 1
+Location: https://www.shoptsmidwestboutique.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 27094548577
+X-Shardid: 176
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=56, db;dur=46, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="l8v4", requestID;desc="3b1f0818-16cb-4901-90b1-c29088a55cb8"
+Server-Timing: cfRequestDuration;dur=99.999905
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 3b1f0818-16cb-4901-90b1-c29088a55cb8
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=9ZoAnYddqvy42vK2vXwlrjRid8TkiommZDqFTr2ocgXD%2BfDONOVo3D9bndgCnqeeWddj9LdRAv1owJG7hGniPtD%2BT4aPb%2B2y3m%2BVTSp6xlmnyZ6vjUkoesMu0YRgaH4B8UWCNBqLYlGIYqH%2BJ%2F3i"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84663193fd456961-FRA
+Alt-Svc: h3=":443"; ma=86400

@@ -1,0 +1,37 @@
+Date: Tue, 16 Jan 2024 12:03:51 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 46
+X-Sorting-Hat-Shopid: 13048250432
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=d84ebb3a-c892-402e-880e-6b5f9861c680; path=/; expires=Tue, 16 Jan 2024 12:33:51 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 12:03:51 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 12:03:51 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Afalse%2C%22a%22%3Afalse%2C%22m%22%3Afalse%2C%22t%22%3Afalse%7D%2C%22display_banner%22%3Atrue%2C%22sale_of_data_region%22%3Afalse%7D; domain=annabellacreation.com; path=/; expires=Wed, 17 Jan 2024 12:03:51 GMT; SameSite=Lax
+Set-Cookie: _tracking_consent=%7B%22region%22%3A%22DERP%22%2C%22reg%22%3A%22GDPR%22%2C%22con%22%3A%7B%22CMP%22%3A%7B%22s%22%3A%22%22%2C%22m%22%3A%22%22%2C%22a%22%3A%22%22%2C%22p%22%3A%22%22%7D%7D%2C%22lim%22%3A%5B%22GDPR_BLOCK_ALL%22%5D%2C%22v%22%3A%222.1%22%7D; Expires=Wed, 15-Jan-25 12:03:51 GMT; Domain=annabellacreation.com; Path=/; SameSite=Lax
+Etag: "cacheable:5cdad2a030c0462a78dca58bdce388c5"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 13048250432
+X-Shardid: 46
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=12, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="80446455855", pageType;desc="index", servedBy;desc="9vmx", requestID;desc="1b009c01-6c5c-4f8f-aadf-8ae1d20e170c"
+Server-Timing: cfRequestDuration;dur=46.000004
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 1b009c01-6c5c-4f8f-aadf-8ae1d20e170c
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Grg6vaxmUPpS7APZDQg2f4mJzorWfPpTEr6LK320%2FgyH7Jdm6pbLG2wAfYi0TJoJ445AY407P%2FRTjj68dZBHpMr4%2BfqCnhckw5kETq85HvXiB2vbXjTOf6nN6K81zGHgV2BEhZbkPnjiKeM%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846637b838d49004-FRA
+Alt-Svc: h3=":443"; ma=86400

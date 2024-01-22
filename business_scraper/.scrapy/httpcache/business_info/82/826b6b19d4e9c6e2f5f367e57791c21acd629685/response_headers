@@ -1,0 +1,12 @@
+Date: Tue, 16 Jan 2024 11:50:04 GMT
+Content-Type: text/html; charset=UTF-8
+X-Redirect-By: WordPress
+Location: http://niceasnew.com/robots.txt
+Cache-Control: max-age=14400
+Cf-Cache-Status: MISS
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=XgZB5Wi4o0Y8uDqfX6teyGBY3YZt8XvmVi2WP2M150nvMFDB5hE7xnmUKuwVahFQ3aX5s5TyvTiVFhbaawvtrm6I64pwfn0%2BtEFZ7lGHnfmT2EQ4JQmig%2BMIRupyHUdyI4X7xQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Vary: Accept-Encoding
+Server: cloudflare
+Cf-Ray: 846623843fcd0a5d-AMS
+Alt-Svc: h3=":443"; ma=86400

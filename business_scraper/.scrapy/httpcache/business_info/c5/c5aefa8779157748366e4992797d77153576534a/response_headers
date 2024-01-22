@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:02:32 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 58
+X-Sorting-Hat-Shopid: 34944352315
+X-Storefront-Renderer-Rendered: 1
+Location: https://valentinesaustin.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 34944352315
+X-Shardid: 58
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=27;desc="gc:18", db;dur=22, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="46mn", requestID;desc="e86ac03a-6b0a-49f4-8883-e2c461950744"
+Server-Timing: cfRequestDuration;dur=61.000109
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: e86ac03a-6b0a-49f4-8883-e2c461950744
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=bVL0mlkxxCP8qcVl6%2BczRChy6cv2Gsw5KFHI%2BvK5DI%2FybDTDz1HTzfk44CJw4pj7zBSZhUOAYJ8FbYWxnH%2B5%2Bc50zO2fLTQipK75Q1gYQGW0ll1injDS%2FfIBfHuqW3ekhjVPubsL"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8465dde6bb949271-FRA
+Alt-Svc: h3=":443"; ma=86400

@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:58:06 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 316
+X-Sorting-Hat-Shopid: 43070718112
+X-Storefront-Renderer-Rendered: 1
+Location: https://beyondthebasicsfashionboutique.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 43070718112
+X-Shardid: 316
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=9, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="mxgx", requestID;desc="d88bea7e-3125-4e7d-bfb0-532a597d0557"
+Server-Timing: cfRequestDuration;dur=41.000128
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: d88bea7e-3125-4e7d-bfb0-532a597d0557
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=0SrpNe56jucEnHLx2JTYapaL%2FmqVuJ2YB4fZUmzfFTuclM9i%2BZnOJmurPdHS0ShEIj%2F8nctoPWlOUuALWu0zAhr13EH3mGjAYIl2kPyuQYdDNQu5X2qDe%2FBNIJ86e9%2B2X9L5Bn3UprML8hcoSOCHO6GRevDjiSqc"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84662f4c0aaa9bfe-FRA
+Alt-Svc: h3=":443"; ma=86400

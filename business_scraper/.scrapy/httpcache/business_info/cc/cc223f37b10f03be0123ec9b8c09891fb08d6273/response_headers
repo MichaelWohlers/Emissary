@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:55:41 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 80
+X-Sorting-Hat-Shopid: 57222103121
+X-Storefront-Renderer-Rendered: 1
+Location: https://merchantsonmainboutique.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 57222103121
+X-Shardid: 80
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=5, db;dur=2, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="5474", requestID;desc="56707a0d-e930-4c0f-9ac8-7afdec3a6817"
+Server-Timing: cfRequestDuration;dur=37.999868
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 56707a0d-e930-4c0f-9ac8-7afdec3a6817
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=iWE0lEvb9U%2FE775DABvjj8hVDSF0dlZxvnnOyyYS6PLe2GSQt0oDjDrqJSNpGK9bflShjqibdYSwBnKNUmCl85ajQAYKOqqdHEwNWQQk20xum%2FxQF5hWCuVS%2Fn80XSUukXeVQ9eVc17S3aX8oQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84662bbe38f82ba9-FRA
+Alt-Svc: h3=":443"; ma=86400

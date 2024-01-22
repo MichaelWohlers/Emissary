@@ -1,0 +1,8 @@
+Server: nginx
+Date: Tue, 16 Jan 2024 11:47:53 GMT
+Content-Type: text/html; charset=utf-8
+Strict-Transport-Security: max-age=31536000
+Location: https://theposhlibrarian.com/robots.txt
+X-Nc: HIT dfw 159
+X-Ac: 2.hhn _dfw MISS
+Alt-Svc: h3=":443"; ma=86400

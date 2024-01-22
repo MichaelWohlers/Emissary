@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:33:31 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 82
+X-Sorting-Hat-Shopid: 3540254769
+X-Storefront-Renderer-Rendered: 1
+Location: https://shopthelookonline.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 3540254769
+X-Shardid: 82
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=8, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="qbbb", requestID;desc="c856d42b-ea63-4547-ba0b-f9025f734701"
+Server-Timing: cfRequestDuration;dur=43.999910
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: c856d42b-ea63-4547-ba0b-f9025f734701
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=iPCr%2BCPJn9mvz%2BONm9yCr5Y0ksYiSDDUR5QqDAuP3cz3nlDpKa5Q1HFvGzeWEOSyPZDlr%2BQCDN7oiS6K4n6MnyOQcCswnLti7o62jnLKLMj4bakfjDpnwp0qRn72g4OlRLLPJO51tQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84660b457f805c98-FRA
+Alt-Svc: h3=":443"; ma=86400

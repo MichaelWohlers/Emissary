@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:58:33 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 282
+X-Sorting-Hat-Shopid: 76791316763
+X-Storefront-Renderer-Rendered: 1
+Location: https://www.glampresents.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 76791316763
+X-Shardid: 282
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=8, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="cjvg", requestID;desc="2ca09158-bae5-4394-aa9b-e164cd8575be"
+Server-Timing: cfRequestDuration;dur=55.999994
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 2ca09158-bae5-4394-aa9b-e164cd8575be
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=%2F0xcGKwfnzBx0sH%2FC7Djro5mQhBqsx0K4Bn0IMIzOiAHjb3ra5lW7UcnD0NuzWR9H0slyimUyeCiobhW5P962%2FLbqf2TIWUM3iQ%2B%2BweN0DfBsEhDMZ0jXDtRru2p0Tg%2F4JEqLZKv"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84662ff388a691ef-FRA
+Alt-Svc: h3=":443"; ma=86400

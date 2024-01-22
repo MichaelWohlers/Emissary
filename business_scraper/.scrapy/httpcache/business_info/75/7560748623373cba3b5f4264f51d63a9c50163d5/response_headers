@@ -1,0 +1,14 @@
+Date: Tue, 16 Jan 2024 11:49:52 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Expires: Tue, 23 Jan 2024 11:49:52 GMT
+Cache-Control: max-age=604800
+Content-Encoding: gzip
+Cf-Cache-Status: HIT
+Age: 0
+Last-Modified: Tue, 16 Jan 2024 11:49:52 GMT
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=RKp%2F1kvjhh66HWHwCD8diIvHySGFpuLUFIcNF%2Feo4RcFjaM3ncRDBqEzFsiDr%2FXGvQN245flnZn%2FizNvpmXNzzovW5jRO6caRjohAgkP9a1IMbJlOw7BhnWqp3XXfkJPHa20mI%2BSfpRsJyQM3jFP1zP8dg%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8466233afd3e35ee-FRA

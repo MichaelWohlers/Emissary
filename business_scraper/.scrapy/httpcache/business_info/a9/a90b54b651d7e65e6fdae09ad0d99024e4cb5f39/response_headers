@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 04:46:29 GMT
+Content-Type: text/plain; charset=utf-8
+Cache-Control: max-age=0, s-maxage=7200, must-revalidate
+Content-Encoding: gzip
+Etag: "7e82406cdee6e442586abd7fa37ea00f"-gzip
+Expires: Mon, 15 Jan 2024 09:47:35 GMT
+Last-Modified: Thu, 18 Nov 2021 01:38:09 GMT
+Owner: sitescog-1468
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Surrogate-Key: locations.maurices.com locations.maurices.com%2Frobots.txt
+Vary: Accept-Encoding
+X-Frame-Options: SAMEORIGIN
+X-Goog-Generation: 1637199489094454
+X-Goog-Hash: md5=foJAbN7m5EJYar1/o36gDw==
+X-Goog-Metageneration: 2
+X-Goog-Reserved-Source-Generation: 1604973195323996
+X-Goog-Storage-Class: STANDARD
+X-Goog-Stored-Content-Encoding: identity
+X-Goog-Stored-Content-Length: 65
+X-Guploader-Uploadid: ABPtcPoomYlH-aE2u26b410pbWIZvjGuPUp1zr-Wx9VeaJ45gj2d_08HGl2BrJw6u4khj4xluFk4MjEU3g
+X-Yext-Site: or2
+X-Yext-Subendpoint: static
+Via: 1.1 google
+Alt-Svc: h3=":443"; ma=86400
+Cf-Cache-Status: HIT
+Set-Cookie: __cf_bm=bX.IBwRkSMljMkNJnXA_zTL8UWfOKIP6hkvXcnTNAq0-1705380389-1-AcQMEvWeAHn/ZitcKk6OuD4DUMpM3Y1v5Tc9CaNgfUlV+ahWyHDywJJn5SIAmXhwzo1n62jKzIXDYk8/61W1d2A=; path=/; expires=Tue, 16-Jan-24 05:16:29 GMT; domain=.locations.maurices.com; HttpOnly; Secure; SameSite=None
+Server: cloudflare
+Cf-Ray: 8463b70a5b7739eb-FRA

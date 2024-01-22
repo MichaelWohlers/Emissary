@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:35:44 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 292
+X-Sorting-Hat-Shopid: 7128113
+X-Storefront-Renderer-Rendered: 1
+Location: https://reallyroxie.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 7128113
+X-Shardid: 292
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=5;desc="gc:1", db;dur=2, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="qv2n", requestID;desc="1afe66cc-5df5-46e1-b593-13815682e40e"
+Server-Timing: cfRequestDuration;dur=31.999826
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 1afe66cc-5df5-46e1-b593-13815682e40e
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=08wy9ZO5b%2BwS01JgX9czQTvYyAJOwqxy1JrWoVDOUiNuLZogIMfimbdc2gcz4gf9f%2Fpto5rCNfrByJuiSHZFeoMKt1HtcS8Z4QD0tA%2FQjbMcSymGpdyNATapC90ETTHt9A%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84660e899fd03a7a-FRA
+Alt-Svc: h3=":443"; ma=86400

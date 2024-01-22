@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:19:53 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 157
+X-Sorting-Hat-Shopid: 49905631390
+X-Storefront-Renderer-Rendered: 1
+Location: https://www.mabeldorr.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 49905631390
+X-Shardid: 157
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=6, db;dur=2, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="tnnw", requestID;desc="a2af3371-343b-4a85-8218-a423f0971a41"
+Server-Timing: cfRequestDuration;dur=32.999992
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: a2af3371-343b-4a85-8218-a423f0971a41
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=3p11bmmwh7Q0sr%2B1F5zEx8hLgE4q1oC3aueHrf822txy%2Bc3g8XVKEO2k6jcexREMvYpI6q2ZLtjMHKE9cbtPRyAvaksTTuMgsqtXUubiy80ADY8Y4lJyTa5ppkSd0Q7GtH4A"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8465f751dd13380f-FRA
+Alt-Svc: h3=":443"; ma=86400

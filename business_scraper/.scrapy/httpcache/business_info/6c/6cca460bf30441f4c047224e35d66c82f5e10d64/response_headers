@@ -1,0 +1,18 @@
+X-Powered-By: PHP/8.3.0
+Content-Type: text/html; charset=UTF-8
+Link: <https://theflowerboutique.net/wp-json/>; rel="https://api.w.org/"
+Link: <https://theflowerboutique.net/wp-json/wp/v2/pages/8946>; rel="alternate"; type="application/json"
+Link: <https://theflowerboutique.net/>; rel=shortlink
+Last-Modified: Tue, 16 Jan 2024 11:03:06 GMT
+Expires: Tue, 16 Jan 2024 12:03:06 GMT
+Etag: "4e95ecac7cb774ad6a3ce4b66053ccda"
+Vary: Accept-Encoding
+Cache-Control: public, max-age=3600
+Content-Encoding: gzip
+Date: Tue, 16 Jan 2024 11:03:06 GMT
+Server: LiteSpeed
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Referrer-Policy: no-referrer-when-downgrade
+Alt-Svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000; v="43,46"

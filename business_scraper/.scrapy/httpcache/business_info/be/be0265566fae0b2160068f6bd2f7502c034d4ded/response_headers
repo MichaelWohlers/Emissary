@@ -1,0 +1,38 @@
+Date: Tue, 16 Jan 2024 07:03:01 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 79
+X-Sorting-Hat-Shopid: 6827313
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=476f3537-d5e9-4320-8023-ab70aa979722; path=/; expires=Tue, 16 Jan 2024 07:33:01 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 07:03:01 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 07:03:01 GMT; SameSite=Lax
+Set-Cookie: cart_currency=EUR; path=/; expires=Tue, 30 Jan 2024 07:03:01 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Afalse%2C%22a%22%3Afalse%2C%22m%22%3Afalse%2C%22t%22%3Afalse%7D%2C%22display_banner%22%3Atrue%2C%22sale_of_data_region%22%3Afalse%7D; domain=jessleaboutique.com; path=/; expires=Wed, 17 Jan 2024 07:03:01 GMT; SameSite=Lax
+Set-Cookie: _tracking_consent=%7B%22reg%22%3A%22GDPR%22%2C%22con%22%3A%7B%22CMP%22%3A%7B%22m%22%3A%22%22%2C%22a%22%3A%22%22%2C%22p%22%3A%22%22%2C%22s%22%3A%22%22%7D%7D%2C%22lim%22%3A%5B%22CCPA%22%2C%22GDPR_BLOCK_ALL%22%5D%2C%22v%22%3A%222.1%22%2C%22region%22%3A%22DERP%22%7D; Expires=Wed, 15-Jan-25 07:03:01 GMT; Domain=jessleaboutique.com; Path=/; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+Etag: "cacheable:4dea709c9c5cc8814aa6673294da761b"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 6827313
+X-Shardid: 79
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=18, db;dur=5, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="120761483344", servedBy;desc="w9br", requestID;desc="a2fd7049-a205-462b-932b-a0de7f8115a8"
+Server-Timing: cfRequestDuration;dur=46.999931
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: a2fd7049-a205-462b-932b-a0de7f8115a8
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=w%2FuTTjLat00DkS779vKMOe8tfRIu0ICfCgFyr6xIOYB2fE3EzAtoDACfXrvCt%2FiKCIIO%2Ba9vh85Y3ZWtQwmtpo8tNQApvn0TmpsNMvbdL4hD9MFF1SbC46uyE%2Bey0KTyuXHNXrvKAbEb"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84647f07bf51903c-FRA
+Alt-Svc: h3=":443"; ma=86400

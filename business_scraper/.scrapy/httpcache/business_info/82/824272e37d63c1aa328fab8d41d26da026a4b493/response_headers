@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:44:05 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 162
+X-Sorting-Hat-Shopid: 59605385379
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=7360523c-4617-4de1-9282-6179ab70c713; path=/; expires=Tue, 16 Jan 2024 12:14:05 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:44:05 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 11:44:05 GMT; SameSite=Lax
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:44:05 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=midwestdixie.com; path=/; expires=Wed, 17 Jan 2024 11:44:05 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=871f07fc-754c-4339-89ff-436d3deb0888; Expires=Wed, 15-Jan-25 11:44:05 GMT; Domain=midwestdixie.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=86d65ad1-86cc-4a5a-93be-b0cd229ba681; Expires=Tue, 16-Jan-24 12:14:05 GMT; Domain=midwestdixie.com; Path=/; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+Etag: "cacheable:fbe28b888ab08e09c7c482d527528763"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 59605385379
+X-Shardid: 162
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=15, db;dur=5, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="132913528995", servedBy;desc="jkkm", requestID;desc="3b4857c0-4a02-40a6-9024-73509d5fb159"
+Server-Timing: cfRequestDuration;dur=58.999777
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 3b4857c0-4a02-40a6-9024-73509d5fb159
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=kVInDCZvHEPApNw3ERYGSIe4FhhniOHZBPVbk7wW1vGwUK0biPUDRLqPX835C5ZdaAUSnLqLO0uxR0GLlax201NZ9qTDlFO3QVwkeTmvT8L23YwKRR0lOG6tZQn0EcPm0pqpbiuH"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661ac26f6d5d80-FRA
+Alt-Svc: h3=":443"; ma=86400

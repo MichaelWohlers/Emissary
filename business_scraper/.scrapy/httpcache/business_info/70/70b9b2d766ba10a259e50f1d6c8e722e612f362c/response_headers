@@ -1,0 +1,10 @@
+Date: Tue, 16 Jan 2024 11:35:32 GMT
+Cache-Control: max-age=3600
+Expires: Tue, 16 Jan 2024 12:35:32 GMT
+Location: https://ninos.9gg.de/
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=MrxHvczIJ8PVj%2BtfHRmx5OZqCi%2FQE6nI%2FxAr1f%2B7yhkb%2Fd0Nbla3H%2BhqlsnzXlExSyTSnsP%2FJSvMisKsAuab6eFByGCu5sF9VtP2lALYTmkLAtvkgEn6Rr06NlsTiEs%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Vary: Accept-Encoding
+Server: cloudflare
+Cf-Ray: 84660e3b3dc73a9d-FRA
+Alt-Svc: h3=":443"; ma=86400

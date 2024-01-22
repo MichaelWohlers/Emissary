@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:52:24 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 161
+X-Sorting-Hat-Shopid: 52557447330
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=74a5922e-38b5-4e1b-a150-2d6379ce8ea7; path=/; expires=Tue, 16 Jan 2024 12:22:24 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:52:24 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=CA; path=/; expires=Thu, 16 Jan 2025 11:52:24 GMT; SameSite=Lax
+Set-Cookie: cart_currency=CAD; path=/; expires=Tue, 30 Jan 2024 11:52:24 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=cherchezlafemmeboutique.ca; path=/; expires=Wed, 17 Jan 2024 11:52:24 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=cdb6af5f-e2d5-4d8a-b638-5e8d5938dee9; Expires=Wed, 15-Jan-25 11:52:24 GMT; Domain=cherchezlafemmeboutique.ca; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=ed7372e9-9d95-4d8d-a123-38abf2ccdf69; Expires=Tue, 16-Jan-24 12:22:24 GMT; Domain=cherchezlafemmeboutique.ca; Path=/; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+Etag: "cacheable:2860b05c65ffc915d07ca4bd03e6a6f0"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 52557447330
+X-Shardid: 161
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=19, db;dur=7, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="132856610978", servedBy;desc="bjmm", requestID;desc="e7cf20ae-2058-4cfe-8cc1-7ce0dbace559"
+Server-Timing: cfRequestDuration;dur=52.000046
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: e7cf20ae-2058-4cfe-8cc1-7ce0dbace559
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=dAM3aQpWRiT%2BK17dceLcg2x9i8PPMbF7LiAErATzyyroy%2FQ43JVsW%2BhaFyOIpeaxnGljxm%2B%2Fev8n14mxczYoa5SsHfYmCWkmK7ylmvrCSAs546zUHSQAuhEwg7qgMu%2F7UL0IPVX5tj3PK8qW"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846626efc99d2bf7-FRA
+Alt-Svc: h3=":443"; ma=86400

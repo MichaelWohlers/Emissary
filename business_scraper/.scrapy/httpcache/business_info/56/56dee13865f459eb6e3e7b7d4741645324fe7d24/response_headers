@@ -1,0 +1,14 @@
+Content-Length: 0
+Server: Sucuri/Cloudproxy
+Date: Tue, 16 Jan 2024 11:40:10 GMT
+Content-Type: text/html; charset=UTF-8
+X-Sucuri-Id: 15004
+X-Xss-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+X-Redirect-By: WordPress
+Location: https://www.marco-polo.ca/robots.txt
+Vary: Accept-Encoding
+Cache-Control: max-age=315360000
+Expires: Thu, 31 Dec 2037 23:55:55 GMT
+X-Sucuri-Cache: MISS

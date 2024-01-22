@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:43:26 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 219
+X-Sorting-Hat-Shopid: 14104048
+X-Storefront-Renderer-Rendered: 1
+Location: https://www.everydaychicboutique.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 14104048
+X-Shardid: 219
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=9, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="l2p5", requestID;desc="258bd59a-bf81-4e14-a423-1786353b6342"
+Server-Timing: cfRequestDuration;dur=40.999889
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 258bd59a-bf81-4e14-a423-1786353b6342
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=G%2BRXjXbqlS7FDU65QcEJ10IOqCwP%2FKEfZaAta0n6wxAhTN11DBN8BKIikz7aZspCmE%2B%2BycSwbdU7iHe2EzEYhAUq5fOqWcCsDc6Dv%2BVVQ3%2BRXvh%2B1Z209XgmLp46dxluFaTCCDp2VXmwtj7IPjw%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846619cbe8cb1942-FRA
+Alt-Svc: h3=":443"; ma=86400

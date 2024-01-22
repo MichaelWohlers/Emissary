@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 12:00:41 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 257
+X-Sorting-Hat-Shopid: 55353835684
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=4be489e2-8788-482f-b2a1-1292b8ea8272; path=/; expires=Tue, 16 Jan 2024 12:30:41 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 12:00:41 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 12:00:41 GMT; SameSite=Lax
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 12:00:41 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=kimberlylaneboutique.com; path=/; expires=Wed, 17 Jan 2024 12:00:41 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=d9c4ee53-8bd9-4c0b-9532-9cd39c998bad; Expires=Wed, 15-Jan-25 12:00:41 GMT; Domain=kimberlylaneboutique.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=9c9c6336-287d-4742-b709-47a1247d023e; Expires=Tue, 16-Jan-24 12:30:41 GMT; Domain=kimberlylaneboutique.com; Path=/; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+Etag: "cacheable:4eecc0cf1c5c593d46cd33462f8121d6"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 55353835684
+X-Shardid: 257
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=18, db;dur=6, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="120855855268", servedBy;desc="x4n2", requestID;desc="c1678bd6-50b7-406b-b4e6-6242a4b7d216"
+Server-Timing: cfRequestDuration;dur=46.999931
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: c1678bd6-50b7-406b-b4e6-6242a4b7d216
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=ZU3mftC629ykc8t%2FXbT7k2%2F7rJQ6JR1m%2Bwx8ciSSV7uRmRdAYbPcgQGD%2By5JBf%2BcLI3mYI6U0LGD41Kn%2BUfeoAJsflq7pujVocjso5e6UfVofVexVISddqYmDJSNiz7xHtz43b5VCAkthQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84663313fac571d3-FRA
+Alt-Svc: h3=":443"; ma=86400

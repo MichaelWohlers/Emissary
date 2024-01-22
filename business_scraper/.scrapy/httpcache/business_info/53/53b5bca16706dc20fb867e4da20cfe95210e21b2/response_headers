@@ -1,0 +1,25 @@
+Date: Tue, 16 Jan 2024 12:01:08 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Set-Cookie: fornax_anonymousId=3243e1c4-8173-4f91-9e84-e5af75bd460e; Expires=Thu, 15 Jan 2026 12:01:07 GMT; Path=/; Secure; SameSite=None
+Set-Cookie: athena_short_visit_id=dd0d7126-8f8c-4add-8284-29d7eee7b9e6:1705406467; Expires=Tue, 16 Jan 2024 12:31:07 GMT; Path=/; Secure; HttpOnly; SameSite=None
+Set-Cookie: Shopper-Pref=DD2623DA785200752C1E7DDD3DB0660C83E5776E-1706011268336-x%7B%22cur%22%3A%22CAD%22%7D; Expires=Tue, 23 Jan 2024 12:01:08 GMT; Path=/; HttpOnly
+Set-Cookie: XSRF-TOKEN=86d9e8acc76246f59b15eae9bac2195fcf13887a9f6f04c0c8af88d34213bcba; path=/; Secure; SameSite=none
+Set-Cookie: SHOP_SESSION_TOKEN=30f30d34-b885-4222-9840-913e58a6ea6a; Expires=Tue, 23 Jan 2024 12:01:08 GMT; Path=/; Secure; HttpOnly; SameSite=None
+Link: <https://analytics.getshogun.com/collector.js>; rel=preload; as=script, <https://static.klaviyo.com/onsite/js/klaviyo.js?company_id=SYMqgg>; rel=preload; as=script, <https://www.northernreflections.com/content/magiczoomplus/magiczoomplus.stencil.js>; rel=preload; as=script
+Link: <https://cdn11.bigcommerce.com/s-dgehp>; rel=preconnect; as=font; crossorigin=anonymous, <https://fonts.googleapis.com/>; rel=preconnect; as=font; crossorigin=anonymous, <https://fonts.gstatic.com/>; rel=preconnect; as=font; crossorigin=anonymous, <https://fonts.googleapis.com/css?family=Montserrat:400%7COswald:300%7CKarla:400&display=swap>; rel=preload; as=style, <https://cdn11.bigcommerce.com/s-dgehp/stencil/e14d8610-8d50-013c-9e10-4a1ff85ab4dc/e/40c7f2a0-9609-013c-39cd-4e44a126383d/css/theme-ef43e190-8d50-013c-02b9-525428e9058e.css>; rel=preload; as=style
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+X-Request-Id: a44ccfaeea5f3108b076267a9ec0c5ea
+Strict-Transport-Security: max-age=0
+Content-Encoding: gzip
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=gTHikenaJ7Y%2BtKeVJnLNc2rQk3Z%2Br0fkuyE%2Fr0FkrPpdYqdxKFSmuifAAU1feZ4bYGmnicxDoCd5t2%2FhKUaG3ESD68DqUHf41BdiXlvVKr2MXFQasikwsimi1JyQ9jayvnVpz6iSWhKhrAwSLA%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Bc-Ray: 1
+Server: cloudflare
+Cf-Ray: 846633b7ddde916a-FRA
+Alt-Svc: h3=":443"; ma=86400

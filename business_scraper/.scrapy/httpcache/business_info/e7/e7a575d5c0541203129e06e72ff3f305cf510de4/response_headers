@@ -1,0 +1,19 @@
+Content-Type: text/html; charset=UTF-8
+Server: Apache
+Cache-Control: no-cache, private
+X-Robots-Tag: all
+X-Request-Id: 343d380b-fa6e-4b9a-9d4b-d2dbd7b3c44a
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST, GET, OPTIONS, DELETE, PUT
+Access-Control-Max-Age: 1000
+Access-Control-Allow-Headers: x-requested-with, Content-Type, origin, authorization, accept, client-security-token, Accept-Encoding
+Location: https://habwahoo.com/
+Accept-Ranges: bytes
+Via: 1.1 varnish, 1.1 varnish
+X-Cacheable: NO:Cache-Control=private
+Date: Tue, 16 Jan 2024 11:59:33 GMT
+X-Served-By: cache-chi-kigq8000041-CHI, cache-muc13975-MUC
+X-Cache: MISS, MISS
+X-Cache-Hits: 0, 0
+X-Timer: S1705406374.829585,VS0,VE165
+Strict-Transport-Security: max-age=900

@@ -1,0 +1,41 @@
+Date: Tue, 16 Jan 2024 11:37:27 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 216
+X-Sorting-Hat-Shopid: 24825268
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=7653e82a-a625-43ec-a805-fe5b78b8c0ec; path=/; expires=Tue, 16 Jan 2024 12:07:27 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:37:27 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 11:37:27 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:37:27 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=teashirtshoppe.com; path=/; expires=Wed, 17 Jan 2024 11:37:27 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=e6820def-06a2-4d04-b31a-d3dd2ba4cd76; Expires=Wed, 15-Jan-25 11:37:27 GMT; Domain=teashirtshoppe.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=7069fb93-4f8b-4494-94fc-d963f9acadbb; Expires=Tue, 16-Jan-24 12:07:27 GMT; Domain=teashirtshoppe.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 11:37:27 GMT; Domain=teashirtshoppe.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2F; Expires=Tue, 30-Jan-24 11:37:27 GMT; Domain=teashirtshoppe.com; Path=/; HttpOnly; SameSite=Lax
+Etag: "cacheable:4c7f67611227bf3ce887c0ace7d2f05d"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin, <//teashirtshoppe.com/cdn/shop/t/16/assets/component-localization-form.css?v=143319823105703127341700597544>; as="style"; rel="preload"
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 24825268
+X-Shardid: 216
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=17, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="137600467161", pageType;desc="index", servedBy;desc="l2p5", requestID;desc="9cbea243-f2f0-466e-82e3-93d7ffd036a9"
+Server-Timing: cfRequestDuration;dur=42.000055
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 9cbea243-f2f0-466e-82e3-93d7ffd036a9
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=2xBGtbt6bs56TSHhGWGUsfWtuB%2BhtIKhEHREKE7%2Bp3jxrbA6gzZxKcQ35cT4pOLSbWIrR7SofbDFdzzPs3TFDGxAXruC0RB%2FJ97p97VPg9jtTNA8foBFUjIALER%2BRhkGWFmCjQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8466110da8df1c2a-FRA
+Alt-Svc: h3=":443"; ma=86400

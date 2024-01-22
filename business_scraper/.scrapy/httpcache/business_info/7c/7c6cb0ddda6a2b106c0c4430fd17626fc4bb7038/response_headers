@@ -1,0 +1,29 @@
+Date: Tue, 16 Jan 2024 11:47:07 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 312
+X-Sorting-Hat-Shopid: 26416611362
+X-Storefront-Renderer-Rendered: 1
+Location: https://thetrendboutiquewi.com/?key=f8a51c38f3b0e17c47aa07fe55e5ef5b2f79ffb3e9585169fe4adb87ac998958
+X-Redirect-Reason: primary_domain_redirection
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 26416611362
+X-Shardid: 312
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=7, db;dur=2, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="k7hn", requestID;desc="46d5a315-ec03-4a08-87ca-ae2d0dd9720b"
+Server-Timing: cfRequestDuration;dur=61.999798
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 46d5a315-ec03-4a08-87ca-ae2d0dd9720b
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Yacy6BOV54nMJrH5%2Bw7w3sHeZu7Wrf70QwfxlwbTrju%2BYTlpJzdHJ01o9vQpLZm%2BppjsK%2BAyWC9EfqbNG22jK8ATtgbr3o79UA87TbCA%2BXS3cxehcym3rTxpw0wGceF%2BepfOzsAU0JfwG2WRjhKKEbVL%2FnYJ"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661f306d2f6910-FRA
+Alt-Svc: h3=":443"; ma=86400

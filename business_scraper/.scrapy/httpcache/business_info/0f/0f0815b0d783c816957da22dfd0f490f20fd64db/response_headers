@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:37:19 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 216
+X-Sorting-Hat-Shopid: 24825268
+X-Storefront-Renderer-Rendered: 1
+Location: https://teashirtshoppe.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 24825268
+X-Shardid: 216
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=12;desc="gc:2", db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="l2p5", requestID;desc="7941da4f-55bd-48a0-81d4-cb4aaa77119f"
+Server-Timing: cfRequestDuration;dur=48.000097
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 7941da4f-55bd-48a0-81d4-cb4aaa77119f
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=tScn5cVCxgijSNTGgKAiPC5vFnK3u%2FB26M6LIuj8KeQRVcPz6SmYxqjb1b%2FmX4HA2Uyi1BDe3IQQZRViEt3powL7xeQR0DyNhYDPjH4fkKyd0y7rifFkAaU6G%2B9EEIxFcgTi1zQlHaw%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846610d5dcd65c85-FRA
+Alt-Svc: h3=":443"; ma=86400

@@ -1,0 +1,29 @@
+Date: Tue, 16 Jan 2024 11:19:57 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 57
+X-Sorting-Hat-Shopid: 14216855610
+X-Storefront-Renderer-Rendered: 1
+Location: https://us.akris.com/robots.txt
+X-Redirect-Reason: primary_domain_redirection
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 14216855610
+X-Shardid: 57
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=12, db;dur=6, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="67nn", requestID;desc="ab3d28e8-e5e5-4aaf-9c60-f69cef1079d7"
+Server-Timing: cfRequestDuration;dur=39.000034
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: ab3d28e8-e5e5-4aaf-9c60-f69cef1079d7
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=xuNAKHGHiBMhLDU0GQxJtmGACS7INX%2Bq1uMMFzEGE3TeNmdxQ9TEeGtNgO%2FEKwrZRUuDfsi%2F%2Bs2xlB1t10oOBG3nAkeZthdJUojDP%2B1t7H%2FjZg69yM74dQPFvSLCTB8%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8465f768084b9bc5-FRA
+Alt-Svc: h3=":443"; ma=86400

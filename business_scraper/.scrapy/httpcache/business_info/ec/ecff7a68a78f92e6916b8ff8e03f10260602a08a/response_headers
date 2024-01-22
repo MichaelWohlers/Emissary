@@ -1,0 +1,42 @@
+Date: Tue, 16 Jan 2024 11:37:36 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 193
+X-Sorting-Hat-Shopid: 7451246676
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=4d10207b-19ad-4acd-90a8-a512bb42408a; path=/; expires=Tue, 16 Jan 2024 12:07:36 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:37:36 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:37:36 GMT; SameSite=Lax
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:37:36 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=charlotterusse.com; path=/; expires=Wed, 17 Jan 2024 11:37:36 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=6335f5fa-0b49-421c-9186-20b5ed08cd6a; Expires=Wed, 15-Jan-25 11:37:36 GMT; Domain=charlotterusse.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=124c68bf-0dd9-4fa3-917c-a235531aac8f; Expires=Tue, 16-Jan-24 12:07:36 GMT; Domain=charlotterusse.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 11:37:36 GMT; Domain=charlotterusse.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2Fpages%2Fstore-locator; Expires=Tue, 30-Jan-24 11:37:36 GMT; Domain=charlotterusse.com; Path=/; HttpOnly; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+Etag: "cacheable:649cf2fe254bf3fd32dbeae09932c99d"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Access-Control-Allow-Origin: *
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 7451246676
+X-Shardid: 193
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=282;desc="gc:65", db;dur=71, render;dur=124, wasm, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="134144262338", pageType;desc="page", servedBy;desc="sdbg", requestID;desc="4bb9387f-add6-4fc4-95a6-4111fcbaa783"
+Server-Timing: cfRequestDuration;dur=309.000015
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 4bb9387f-add6-4fc4-95a6-4111fcbaa783
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=mWPxfYsZHKwkdoQL5EWUFEEL2jVe2MVTfhqvfaPHpo83uHBClNvhufvKnS%2F2d4pi0K8plFqeQ%2F8rMgrUX0MA4ZG9uuWOuCktxxikObHkE2wGc2omiAAbfwOCzLqi8Fk%2FOSwJDg%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846611427ccd18dd-FRA
+Alt-Svc: h3=":443"; ma=86400

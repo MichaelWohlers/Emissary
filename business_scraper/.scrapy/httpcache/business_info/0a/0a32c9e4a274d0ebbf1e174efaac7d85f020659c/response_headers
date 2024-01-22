@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:36:43 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 247
+X-Sorting-Hat-Shopid: 8961785952
+X-Storefront-Renderer-Rendered: 1
+Location: https://shopcaliandco.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 8961785952
+X-Shardid: 247
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=4, db;dur=2, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="6jzn", requestID;desc="cda1837e-62b0-4181-8481-51c228e3178f"
+Server-Timing: cfRequestDuration;dur=33.999920
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: cda1837e-62b0-4181-8481-51c228e3178f
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=gNZD7ygNLi2cpgk3oDIJfFY64tucHM9VNWXb5h%2FkSgFtF53WqL9USsvQ80yAbHXeUPTQ6PNzVUg96Bl0itK3Nqd3xfg1lh0Y5TB8OFmKtf3yT2GyH3oDs9igmEwtHxrnNTjI"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84660ff648eb65b2-FRA
+Alt-Svc: h3=":443"; ma=86400

@@ -1,0 +1,41 @@
+Date: Tue, 16 Jan 2024 04:00:42 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 178
+X-Sorting-Hat-Shopid: 60829073587
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=7688e01f-4990-49e4-a2ec-a5436419e62c; path=/; expires=Tue, 16 Jan 2024 04:30:42 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 04:00:42 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 04:00:42 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 04:00:42 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=thetailorboutique.com; path=/; expires=Wed, 17 Jan 2024 04:00:42 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=33bfa1f4-e7dd-48a8-bd68-faef13505d32; Expires=Wed, 15-Jan-25 04:00:42 GMT; Domain=thetailorboutique.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=02cb667b-cb6f-4808-a0a3-2efbbc5482d2; Expires=Tue, 16-Jan-24 04:30:42 GMT; Domain=thetailorboutique.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 04:00:42 GMT; Domain=thetailorboutique.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2F; Expires=Tue, 30-Jan-24 04:00:42 GMT; Domain=thetailorboutique.com; Path=/; HttpOnly; SameSite=Lax
+Etag: "cacheable:5493ce485c3e7d9eaa074fdd2b42fd5b"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 60829073587
+X-Shardid: 178
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=10, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="128531497139", pageType;desc="index", servedBy;desc="7bhp", requestID;desc="8aec81b3-728b-408e-80de-3b31c0d819af"
+Server-Timing: cfRequestDuration;dur=33.999920
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 8aec81b3-728b-408e-80de-3b31c0d819af
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=FPBlMp6ZIIbdiLqurravKUmp9MIFwZeXX2QtbL2u2iOLcxM45J3pb8a3kj%2Bksu%2BKh6qfIoSYYLxY%2B9l3cXfxsFQQnrdiuXVRfjB8BNTD91EdgwiBZZCTMogZmswhvyng9vrt41RTGgtgKwQ%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846373fabe3a9076-FRA
+Alt-Svc: h3=":443"; ma=86400

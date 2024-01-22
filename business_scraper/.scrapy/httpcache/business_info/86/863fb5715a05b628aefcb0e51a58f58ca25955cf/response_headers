@@ -1,0 +1,12 @@
+Content-Length: 0
+Server: Varnish
+Retry-After: 0
+Accept-Ranges: bytes
+Date: Tue, 16 Jan 2024 11:50:14 GMT
+Via: 1.1 varnish
+X-Served-By: cache-muc13958-MUC
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1705405815.859022,VS0,VE0
+Set-Cookie: exp_ebid=m=wCrUS26oeVtyNk1TQ%2FUKcTEgIPc1jI4rKsGJ%2FknfIH0%3D,v=rLncOTDHbqI6vCRUqE0vJIvAZVxB945y; domain=.etsy.com; path=/; Secure; max-age=5184000
+Location: https://www.etsy.com/shop/ThePepperberryStudio

@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:39:26 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 307
+X-Sorting-Hat-Shopid: 19226511
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=482258be-010c-443b-b182-5c60f5b055d7; path=/; expires=Tue, 16 Jan 2024 12:09:26 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:39:26 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:39:26 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:39:26 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=farmhousefreshhome.com; path=/; expires=Wed, 17 Jan 2024 11:39:26 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=10cc5e2b-32dc-4b8f-8760-c39bd8826962; Expires=Wed, 15-Jan-25 11:39:26 GMT; Domain=farmhousefreshhome.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=8adbc4d3-26e1-4eb0-acb2-ce86fccd1700; Expires=Tue, 16-Jan-24 12:09:26 GMT; Domain=farmhousefreshhome.com; Path=/; SameSite=Lax
+Etag: "cacheable:06ac251e5f26036ca9b42d98c93f2e2f"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 19226511
+X-Shardid: 307
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=10, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="142908417", servedBy;desc="p9hw", requestID;desc="8cb3d210-4453-485b-8d92-d198e710352a"
+Server-Timing: cfRequestDuration;dur=34.999847
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 8cb3d210-4453-485b-8d92-d198e710352a
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=oHYUZd%2BYtObLVISmnYNkgDGld88WtHNF458Yc%2FE60T411ujVT%2FZUS%2F1mN49RWHiw2EtJuMLS7w%2FwurikK7bjBkxqSrtNQnFf7mfSbwTAnKS2rEMe98uftUogvG4GlqOmWoaJ9GEsKfU%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846613f48b0c3606-FRA
+Alt-Svc: h3=":443"; ma=86400

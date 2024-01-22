@@ -1,0 +1,20 @@
+Content-Length: 305
+Content-Type: text/plain; charset=UTF-8
+Last-Modified: Wed, 10 Jan 2024 05:00:04 GMT
+X-Amzn-Remapped-Content-Length: 878
+X-Amzn-Remapped-Connection: close
+X-Amz-Apigw-Id: ReHkWEtMSK4EM6Q=
+Etag: W/"36e-18cf1bde820"
+X-Amzn-Trace-Id: Root=1-65a252e8-0c0ca62a17cd816634503072;Sampled=0;lineage=b7ff1b7a:0
+Accept-Ranges: bytes
+X-Amzn-Remapped-Date: Sat, 13 Jan 2024 09:07:52 GMT
+X-Amzn-Requestid: e95d0393-0e5d-4287-9f84-39381cca6f1e
+X-Amz-Cf-Pop: LHR5-P2
+X-Amz-Cf-Id: KP0zfjjLQ5BfyEAe2kU_RjTeCI2ZjD-uuGwMJ1zKWEGZERDHL54_iQ==
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Cache-Control: max-age=900, s-maxage=900
+Date: Tue, 16 Jan 2024 11:47:11 GMT
+Server-Timing: cdn-cache; desc=HIT
+Server-Timing: edge; dur=2
+Server-Timing: ak_p; desc="1705405631200_1551582771_3837820351_153_10757_63_41_-";dur=1

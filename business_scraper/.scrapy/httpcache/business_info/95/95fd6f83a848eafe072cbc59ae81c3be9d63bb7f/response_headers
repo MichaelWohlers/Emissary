@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:33:24 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 243
+X-Sorting-Hat-Shopid: 59974353078
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=50d72010-aae1-4b55-8be9-c63636d4d7b2; path=/; expires=Tue, 16 Jan 2024 12:03:24 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:33:24 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 11:33:24 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:33:24 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=craneclothingcompany.com; path=/; expires=Wed, 17 Jan 2024 11:33:24 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=ffb85e57-542b-4a4e-8dd8-c96da4402f33; Expires=Wed, 15-Jan-25 11:33:24 GMT; Domain=craneclothingcompany.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=278f0791-d986-48a7-868c-668bc875d35a; Expires=Tue, 16-Jan-24 12:03:24 GMT; Domain=craneclothingcompany.com; Path=/; SameSite=Lax
+Etag: "cacheable:0d0b37a92d3aa584ac4b83a443eb9783"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 59974353078
+X-Shardid: 243
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=13, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="136797683956", servedBy;desc="w7lw", requestID;desc="4d92e249-3252-441b-bc38-c90b38479426"
+Server-Timing: cfRequestDuration;dur=46.999931
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 4d92e249-3252-441b-bc38-c90b38479426
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=wS34nOLHJbLJ4A5b0v8fWq8NIXTpqoHBpAJ2mK2xmmsmzFFKO9lf8gBZ02iT6gdzhkXtJ0Q94vdBaMzLthUx7y9hDZHPnK55EYHdgQJyydYP1KKU547LCeQzlKpw%2BaXYf1o5nnQmlGsV3A%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84660b1e6a8bbb77-FRA
+Alt-Svc: h3=":443"; ma=86400

@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:42:05 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 250
+X-Sorting-Hat-Shopid: 301367353
+X-Storefront-Renderer-Rendered: 1
+Location: https://loventhreads.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 301367353
+X-Shardid: 250
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=10, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="vfm8", requestID;desc="7beb51e2-85d5-4bcf-8baa-c519c6bd4492"
+Server-Timing: cfRequestDuration;dur=55.000067
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west4,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 7beb51e2-85d5-4bcf-8baa-c519c6bd4492
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=wR7v2f%2BNMtIVhKso8qDk0dAqjbEvNWsVlJNHjbXGFu8hwyafDfD%2FgkK35jShwGGy12gCoh%2FF3RD7VHhNZlvAle1rQZ3aXJXT7pQJcg0n%2BLZlE%2FzcoZjWAt%2F2LU%2BS0sZ%2B9v21WwQF"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846617d34df9bbd4-FRA
+Alt-Svc: h3=":443"; ma=86400

@@ -1,0 +1,22 @@
+Date: Tue, 16 Jan 2024 11:49:05 GMT
+Content-Type: text/plain;charset=utf-8
+P3P: CP="ALL PUR DSP CUR ADMi DEVi CONi OUR COR IND"
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Ua-Compatible: IE=Edge,chrome=1
+X-Xss-Protection: 1; mode=block
+X-Developer: Page: 8.1ms, Render: 0.0ms, Mem: 2,048kB, Cache: 0Q (0.0ms), DB: 0Q (0.0ms), Prop: 0Q (0.0ms)
+X-Runtime: 0.008137
+X-Shop-Id: 
+Cache-Control: no-cache
+Content-Encoding: gzip
+Vary: Accept-Encoding
+X-Request-Id: 529029b79ca815da3a44aab0e35f6d1f
+X-Envoy-Upstream-Service-Time: 11
+Cf-Cache-Status: MISS
+Last-Modified: Tue, 16 Jan 2024 11:49:05 GMT
+Set-Cookie: __cf_bm=kWPSaxVOy7Diox6oa.V_ZJODASlvGbPZtgieB.MCmX8-1705405745-1-AYvYEikiOVmdZGhycbobSlTt2S8118hvmTt489Czj3tGYLM2lqyANkpCC4glJ7p5nR1WJY3qVWPFZz7T47HUPCI=; path=/; expires=Tue, 16-Jan-24 12:19:05 GMT; domain=.www.westshoreclothing.com; HttpOnly; Secure; SameSite=None
+Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
+Server: cloudflare
+Cf-Ray: 8466221168b24dbf-FRA
+Alt-Svc: h3=":443"; ma=86400

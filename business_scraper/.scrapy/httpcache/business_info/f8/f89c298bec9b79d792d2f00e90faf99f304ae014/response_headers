@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:48:18 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 235
+X-Sorting-Hat-Shopid: 51105005735
+X-Storefront-Renderer-Rendered: 1
+Location: https://daveenah.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 51105005735
+X-Shardid: 235
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=16, db;dur=5, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="s74x", requestID;desc="dc194a2f-fe94-400f-9a1e-7982e0d4a436"
+Server-Timing: cfRequestDuration;dur=148.999929
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: dc194a2f-fe94-400f-9a1e-7982e0d4a436
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=2lSz9Q8kyC8X9XGFPhIzsJga0xdjHwSNkoGqjkrYWJQdtvr4n9OP3SUBZz4ooRdTafcGjnSkZxzc7quF62y7ciAzLZ5v4VQjCIm28APQRJKvYTrvRpOrmG0KUIZg5rvyE%2BM%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846620ec9c95904f-FRA
+Alt-Svc: h3=":443"; ma=86400

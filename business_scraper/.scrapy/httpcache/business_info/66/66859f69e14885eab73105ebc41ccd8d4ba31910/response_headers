@@ -1,0 +1,17 @@
+Server: nginx
+Date: Tue, 16 Jan 2024 11:20:40 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+X-Cache-Enabled: True
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Link: <https://www.alsondos.ca/wp-json/>; rel="https://api.w.org/"
+Link: <https://www.alsondos.ca/wp-json/wp/v2/pages/456>; rel="alternate"; type="application/json"
+Link: <https://www.alsondos.ca/?p=456>; rel=shortlink
+X-Httpd-Modphp: 1
+X-Cdn-C: static
+Content-Encoding: gzip
+X-Sg-Cdn: 1
+X-Proxy-Cache: MISS
+X-Proxy-Cache-Info: 0 NC:000000 UP:
+Host-Header: 8441280b0c35cbc1147f8ba998a563a7

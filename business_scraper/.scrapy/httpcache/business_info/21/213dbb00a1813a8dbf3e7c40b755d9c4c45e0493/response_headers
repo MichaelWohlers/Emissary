@@ -1,0 +1,27 @@
+Date: Tue, 16 Jan 2024 11:44:56 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 258
+X-Sorting-Hat-Shopid: 2491230
+X-Storefront-Renderer-Rendered: 1
+Location: https://z.boutique/
+X-Redirect-Reason: https_required
+Content-Security-Policy: frame-ancestors *;
+X-Shopid: 2491230
+X-Shardid: 258
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=8, db;dur=2, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="n9vb", requestID;desc="e99e8aee-6bd5-414c-acbe-b3dd68394524"
+Server-Timing: cfRequestDuration;dur=36.999941
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: e99e8aee-6bd5-414c-acbe-b3dd68394524
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Bmh54HZo%2BjpVPUu%2FXA5HbB%2FStgzsd%2Br3v%2BQ9aTz6sJYbF8agBptFECJotAHPIiMFnt82W%2FqIXrXEhK%2BUFgRekkTvIq0MFFQDUQRH9VB7xP%2BxGT4lTG8gaOgPIi7sf82b"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661c02dc7dbbe6-FRA
+Alt-Svc: h3=":443"; ma=86400

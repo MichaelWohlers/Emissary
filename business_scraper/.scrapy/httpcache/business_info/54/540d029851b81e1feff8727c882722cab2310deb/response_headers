@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 04:00:07 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 226
+X-Sorting-Hat-Shopid: 24863882
+X-Storefront-Renderer-Rendered: 1
+Location: https://modestdirect.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 24863882
+X-Shardid: 226
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=6, db;dur=2, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="nzk4", requestID;desc="ca9e485e-e286-4e5e-b41b-6410dd332c61"
+Server-Timing: cfRequestDuration;dur=32.999992
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: ca9e485e-e286-4e5e-b41b-6410dd332c61
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=8yJdvICEhfhKySHOv%2FDTVrHIv2sGjVWxC4LdsHmeHzTYWrnmn969P4kP4BmWJ47F7cmJxXD3v2oVLFI2g3cej7wuzcs7yEqtgCGznZPqn84RRrlaIv69IB16bnvC%2Bmvc7Z1M33sY"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8463731ea905047e-FRA
+Alt-Svc: h3=":443"; ma=86400

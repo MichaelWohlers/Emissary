@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:44:26 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 229
+X-Sorting-Hat-Shopid: 14330134
+X-Storefront-Renderer-Rendered: 1
+Location: https://www.tceboutique.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 14330134
+X-Shardid: 229
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=5, db;dur=2, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="sdbg", requestID;desc="39134ca7-928f-49a3-98e4-f29a95e78bee"
+Server-Timing: cfRequestDuration;dur=36.000013
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 39134ca7-928f-49a3-98e4-f29a95e78bee
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=evp33FzJ0HIzYP5IqiLasbTU1E2LtlUEfrBu3Lqk6SYbDPGDx1i%2BaIlbIfzFmXdBMpX0sNpb0Bne5%2FyR0rr5vSe%2B%2FcANqyptKAusY3q9OXdb8%2FZNtKP3aFbSFBlLl1Jv%2FboVbz0%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661b42ae553673-FRA
+Alt-Svc: h3=":443"; ma=86400

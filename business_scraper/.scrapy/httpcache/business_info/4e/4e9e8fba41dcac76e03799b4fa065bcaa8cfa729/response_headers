@@ -1,0 +1,12 @@
+Server: nginx
+Date: Tue, 16 Jan 2024 11:43:34 GMT
+Content-Type: text/plain; charset=utf-8
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding
+Vary: accept, content-type
+X-Hacker: Want root?  Visit join.a8c.com/hacker and mention this header.
+Host-Header: WordPress.com
+X-Nc: HIT dfw 126
+Content-Encoding: gzip
+X-Ac: 2.hhn _dfw HIT
+Alt-Svc: h3=":443"; ma=86400

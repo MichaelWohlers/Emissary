@@ -1,0 +1,41 @@
+Date: Tue, 16 Jan 2024 11:34:07 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 34
+X-Sorting-Hat-Shopid: 2410250275
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=da65f7f6-a9ed-465d-acf0-5f02de3a33b2; path=/; expires=Tue, 16 Jan 2024 12:04:07 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:34:07 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:34:07 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:34:07 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=shopmainattire.com; path=/; expires=Wed, 17 Jan 2024 11:34:07 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=9b9d7662-10b3-4d97-8d16-fb22d3a519ae; Expires=Wed, 15-Jan-25 11:34:07 GMT; Domain=shopmainattire.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=70cb59de-b512-436a-8b6a-c16c393c7386; Expires=Tue, 16-Jan-24 12:04:07 GMT; Domain=shopmainattire.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 11:34:07 GMT; Domain=shopmainattire.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2F; Expires=Tue, 30-Jan-24 11:34:07 GMT; Domain=shopmainattire.com; Path=/; HttpOnly; SameSite=Lax
+Etag: "cacheable:64043d8632394db9a09265517cb458aa"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin, <//shopmainattire.com/cdn/shop/t/13/assets/theme.css?v=12225936452682172791683646680>; as="style"; rel="preload", <//shopmainattire.com/cdn/shop/t/13/assets/hm.css?v=131874119361813136181683142997>; as="style"; rel="preload"
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 2410250275
+X-Shardid: 34
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=11, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="122313179171", pageType;desc="index", servedBy;desc="qw2t", requestID;desc="fa857bf5-a025-4698-bbca-55aa5df22414"
+Server-Timing: cfRequestDuration;dur=40.999889
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: fa857bf5-a025-4698-bbca-55aa5df22414
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=498cm%2FbzNjO%2FM81IbTWtuRZAn5lJjkaLlM%2Bmc94lCmfTmY36PSI%2B26g%2BI0qS2mEZLD0RcK%2FY6pD9Ar24S59%2F19x71BUD6axvZRwJs%2FQIYTwZJVoz1oEEBLi%2FcYW1x1q1D%2Bs%2FTg%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84660c2a2b429963-FRA
+Alt-Svc: h3=":443"; ma=86400

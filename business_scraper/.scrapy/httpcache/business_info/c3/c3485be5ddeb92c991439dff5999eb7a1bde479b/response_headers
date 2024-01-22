@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:48:04 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 253
+X-Sorting-Hat-Shopid: 1330151485
+X-Storefront-Renderer-Rendered: 1
+Location: https://aproposandaproposformen.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 1330151485
+X-Shardid: 253
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=11, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="mp9s", requestID;desc="65c77bf2-90d9-407c-b6db-f5c8a0d3b56a"
+Server-Timing: cfRequestDuration;dur=45.000076
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 65c77bf2-90d9-407c-b6db-f5c8a0d3b56a
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=x3j1y9FRadNfc0BKEvXxyJe4LagcuXy3x3fHbu5u5satfvxaURh86mymKSYgd6xE3DRt%2BhIuCGISPgm%2BvdZ0MNIUiBIENCPX2bO%2BCUQiQke6Z%2F1ebh4K9v4ahD7kJxF7jQa1J5Ds%2BbL%2FDr%2F%2F00wFMZs%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846620964c6e1e51-FRA
+Alt-Svc: h3=":443"; ma=86400

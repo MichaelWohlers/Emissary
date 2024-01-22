@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:57:07 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 248
+X-Sorting-Hat-Shopid: 2058911788
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=af7daaf8-3eda-4434-a0ca-38d7f0d9ab5e; path=/; expires=Tue, 16 Jan 2024 12:27:07 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:57:07 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:57:07 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:57:07 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=shopthemorrisonshop.com; path=/; expires=Wed, 17 Jan 2024 11:57:07 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=f173d52b-9e3a-4b61-a7d3-972aa2a047e1; Expires=Wed, 15-Jan-25 11:57:07 GMT; Domain=shopthemorrisonshop.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=cfeebcf9-784b-4142-bd20-a92c7d79cd32; Expires=Tue, 16-Jan-24 12:27:07 GMT; Domain=shopthemorrisonshop.com; Path=/; SameSite=Lax
+Etag: "cacheable:e80a3385e47d06bed75df6b45c0b3eb7"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 2058911788
+X-Shardid: 248
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=10, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="137295888633", servedBy;desc="n9vb", requestID;desc="fbdc1ce1-f774-4862-86c4-52adeefe083a"
+Server-Timing: cfRequestDuration;dur=42.999983
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: fbdc1ce1-f774-4862-86c4-52adeefe083a
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=N5T6q%2FTLwPuRRz%2B9i%2B1npmC9lwv6OumuVsbUrig7xr2DvmpRr3SxaBwPakpylcVZZZ0Jpk4nZVbCTb0DQLfbuML12BT82FK6katLMf6VmJ5qoC6WH4EHSW9WicyDP1mPJrKPWnUyo0T5U8UOvQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84662ddaf9cb9bef-FRA
+Alt-Svc: h3=":443"; ma=86400

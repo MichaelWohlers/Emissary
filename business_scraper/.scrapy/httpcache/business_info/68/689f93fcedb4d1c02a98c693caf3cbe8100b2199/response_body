@@ -1,0 +1,221 @@
+<!DOCTYPE html><html class="js" lang="en" dir="ltr"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#111111">
+  <link rel="canonical" href="https://www.hautestufftx.com/">
+  <link rel="preconnect" href="https://cdn.shopify.com">
+  <link rel="preconnect" href="https://fonts.shopifycdn.com">
+  <link rel="dns-prefetch" href="https://productreviews.shopifycdn.com">
+  <link rel="dns-prefetch" href="https://ajax.googleapis.com">
+  <link rel="dns-prefetch" href="https://maps.googleapis.com">
+  <link rel="dns-prefetch" href="https://maps.gstatic.com"><link rel="shortcut icon" href="//www.hautestufftx.com/cdn/shop/files/Photo_sudio-15_df8aaad3-6e8d-47a1-9f9f-d1693ae7e53e_32x32.png?v=1616474633" type="image/png"><title>Haute Stuff Boutique
+</title>
+<meta name="description" content="We are a lifestyle boutique located in Baytown, Texas! We offer a wide variety of Women's Apparel, Accessories, Home Decor and Gifts. Browse our website at www.hautestufftx.com or shop with us in store at 911 Massey Tompkins Rd. Baytown Tx, 77521."><meta property="og:site_name" content="Haute Stuff Boutique">
+  <meta property="og:url" content="https://www.hautestufftx.com/">
+  <meta property="og:title" content="Haute Stuff Boutique">
+  <meta property="og:type" content="website">
+  <meta property="og:description" content="We are a lifestyle boutique located in Baytown, Texas! We offer a wide variety of Women's Apparel, Accessories, Home Decor and Gifts. Browse our website at www.hautestufftx.com or shop with us in store at 911 Massey Tompkins Rd. Baytown Tx, 77521."><meta property="og:image" content="http://www.hautestufftx.com/cdn/shop/files/1E086B3B-6FF5-4152-AFC7-E60BB79EE74C_fb6b37ad-bdd7-4822-84fd-77b2df39bada.png?v=1632445203">
+    <meta property="og:image:secure_url" content="https://www.hautestufftx.com/cdn/shop/files/1E086B3B-6FF5-4152-AFC7-E60BB79EE74C_fb6b37ad-bdd7-4822-84fd-77b2df39bada.png?v=1632445203">
+    <meta property="og:image:width" content="2240">
+    <meta property="og:image:height" content="1260"><meta name="twitter:site" content="@">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Haute Stuff Boutique">
+  <meta name="twitter:description" content="We are a lifestyle boutique located in Baytown, Texas! We offer a wide variety of Women's Apparel, Accessories, Home Decor and Gifts. Browse our website at www.hautestufftx.com or shop with us in store at 911 Massey Tompkins Rd. Baytown Tx, 77521.">
+<style data-shopify="">@font-face {
+  font-family: "Chong Modern";
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("//www.hautestufftx.com/cdn/fonts/chong_modern/chongmodern_n4.ce198f0ec945153fcbfac622368a05db581346bd.woff2?h1=aGF1dGVzdHVmZnR4LmNvbQ&h2=aGF1dGUtc3R1ZmYtYm91dGlxdWUtYmF5dG93bi5hY2NvdW50Lm15c2hvcGlmeS5jb20&hmac=749dfe15e7302228e55cd952be98c59ebbfb8392712a7f3fb4e76b540db0bb38") format("woff2"),
+       url("//www.hautestufftx.com/cdn/fonts/chong_modern/chongmodern_n4.b20aa02d7d9abc0ee6ee7b6e8b39fd1b2deaa239.woff?h1=aGF1dGVzdHVmZnR4LmNvbQ&h2=aGF1dGUtc3R1ZmYtYm91dGlxdWUtYmF5dG93bi5hY2NvdW50Lm15c2hvcGlmeS5jb20&hmac=a56dd1dea48bca135e059d07adabbb2a6ff297150f64d24652a9be38dd31ce96") format("woff");
+}
+
+  
+
+  
+  
+  
+</style><link href="//www.hautestufftx.com/cdn/shop/t/20/assets/theme.css?v=153776460941248816991696604084" rel="stylesheet" type="text/css" media="all">
+<style data-shopify="">:root {
+    --typeHeaderPrimary: "Chong Modern";
+    --typeHeaderFallback: serif;
+    --typeHeaderSize: 31px;
+    --typeHeaderWeight: 400;
+    --typeHeaderLineHeight: 1.2;
+    --typeHeaderSpacing: 0.0em;
+
+    --typeBasePrimary:"New York";
+    --typeBaseFallback:Iowan Old Style, Apple Garamond, Baskerville, Times New Roman, Droid Serif, Times, Source Serif Pro, serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+    --typeBaseSize: 16px;
+    --typeBaseWeight: 400;
+    --typeBaseSpacing: 0.025em;
+    --typeBaseLineHeight: 1.4;
+
+    --typeCollectionTitle: 22px;
+
+    --iconWeight: 4px;
+    --iconLinecaps: miter;
+
+    
+      --buttonRadius: 0px;
+    
+
+    --colorGridOverlayOpacity: 0.0;
+  }
+
+  .placeholder-content {
+    background-image: linear-gradient(100deg, #ffffff 40%, #f7f7f7 63%, #ffffff 79%);
+  }</style><script>
+    document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
+
+    window.theme = window.theme || {};
+    theme.routes = {
+      home: "/",
+      cart: "/cart.js",
+      cartPage: "/cart",
+      cartAdd: "/cart/add.js",
+      cartChange: "/cart/change.js"
+    };
+    theme.strings = {
+      soldOut: "Sold Out",
+      unavailable: "Unavailable",
+      stockLabel: "Only [count] items in stock!",
+      willNotShipUntil: "Will not ship until [date]",
+      willBeInStockAfter: "Will be in stock after [date]",
+      waitingForStock: "Inventory on the way",
+      savePrice: "Save [saved_amount]",
+      cartEmpty: "Your cart is currently empty.",
+      cartTermsConfirmation: "You must agree with the terms and conditions of sales to check out",
+      searchCollections: "Collections:",
+      searchPages: "Pages:",
+      searchArticles: "Articles:"
+    };
+    theme.settings = {
+      dynamicVariantsEnable: true,
+      dynamicVariantType: "button",
+      cartType: "drawer",
+      isCustomerTemplate: false,
+      moneyFormat: "${{amount}}",
+      saveType: "dollar",
+      recentlyViewedEnabled: false,
+      productImageSize: "portrait",
+      productImageCover: true,
+      predictiveSearch: true,
+      predictiveSearchType: "product,article,page,collection",
+      inventoryThreshold: 2,
+      quickView: true,
+      themeName: 'Impulse',
+      themeVersion: "4.1.0"
+    };
+  </script>
+
+  <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script><meta name="facebook-domain-verification" content="9zh4p9elz15uc3tf8n6afwe8jw6aaz">
+<meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/14167264/digital_wallets/dialog">
+<meta name="shopify-checkout-api-token" content="4ed87a53592f05621a59e37c6f219774">
+<meta id="in-context-paypal-metadata" data-shop-id="14167264" data-venmo-supported="true" data-environment="production" data-locale="en_US" data-paypal-v4="true" data-currency="USD">
+<meta id="amazon-payments-metadata" data-amazon-payments="true" data-amazon-payments-seller-id="A1RLXP8XZQBTYT" data-amazon-payments-callback-url="https://www.hautestufftx.com/14167264/amazon_payments/callback" data-amazon-payments-sandbox-mode="false" data-amazon-payments-client-id="amzn1.application-oa2-client.df4e8ff941ac40219d0eee18f10ddfa6" data-amazon-payments-region="US" data-amazon-payments-language="en-US" data-amazon-payments-widget-library-url="https://static-na.payments-amazon.com/OffAmazonPayments/us/js/Widgets.js">
+<script async="async" src="/checkouts/internal/preloads.js?permanent-domain=haute-stuff-boutique-baytown.myshopify.com&amp;locale=en-US"></script>
+<script id="apple-pay-shop-capabilities" type="application/json">{"shopId":14167264,"countryCode":"US","currencyCode":"USD","merchantCapabilities":["supports3DS"],"merchantId":"gid:\/\/shopify\/Shop\/14167264","merchantName":"Haute Stuff Boutique","requiredBillingContactFields":["postalAddress","email"],"requiredShippingContactFields":["postalAddress","email"],"shippingType":"shipping","supportedNetworks":["visa","masterCard","amex","discover","elo","jcb"],"total":{"type":"pending","label":"Haute Stuff Boutique","amount":"1.00"},"shopifyPaymentsEnabled":true,"supportsSubscriptions":true}</script>
+<script id="shopify-features" type="application/json">{"accessToken":"4ed87a53592f05621a59e37c6f219774","betas":["rich-media-storefront-analytics"],"domain":"www.hautestufftx.com","predictiveSearch":true,"shopId":14167264,"smart_payment_buttons_url":"https:\/\/www.hautestufftx.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js","dynamic_checkout_cart_url":"https:\/\/www.hautestufftx.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js","locale":"en","optimusEnabled":true,"optimusHidden":false,"shopPromisePDPV3Enabled":true}</script>
+<script>var Shopify = Shopify || {};
+Shopify.shop = "haute-stuff-boutique-baytown.myshopify.com";
+Shopify.locale = "en";
+Shopify.currency = {"active":"USD","rate":"1.0"};
+Shopify.country = "US";
+Shopify.theme = {"name":"Impulse","id":120671699105,"theme_store_id":857,"role":"main"};
+Shopify.theme.handle = "null";
+Shopify.theme.style = {"id":null,"handle":null};
+Shopify.cdnHost = "www.hautestufftx.com/cdn";
+Shopify.routes = Shopify.routes || {};
+Shopify.routes.root = "/";</script>
+<script type="module">!function(o){(o.Shopify=o.Shopify||{}).modules=!0}(window);</script>
+<script>!function(o){function n(){var o=[];function n(){o.push(Array.prototype.slice.apply(arguments))}return n.q=o,n}var t=o.Shopify=o.Shopify||{};t.loadFeatures=n(),t.autoloadFeatures=n()}(window);</script>
+<script>window.ShopifyPay = window.ShopifyPay || {};
+window.ShopifyPay.apiHost = "shop.app\/pay";</script>
+<script>
+  window.Shopify = window.Shopify || {};
+  if (!window.Shopify.featureAssets) window.Shopify.featureAssets = {};
+  window.Shopify.featureAssets['shop-js'] = {"pay-button":["modules/client.pay-button_fa7a4091.en.esm.js","modules/chunk.common_089ed268.esm.js"],"init-shop-email-lookup-coordinator":["modules/client.init-shop-email-lookup-coordinator_c4786d7f.en.esm.js","modules/chunk.common_089ed268.esm.js"],"init-customer-accounts":["modules/client.init-customer-accounts_b72e2e23.en.esm.js","modules/chunk.common_089ed268.esm.js"],"init-customer-accounts-sign-up":["modules/client.init-customer-accounts-sign-up_24bcc88f.en.esm.js","modules/chunk.common_089ed268.esm.js"],"init-shop-for-new-customer-accounts":["modules/client.init-shop-for-new-customer-accounts_d6ce5df6.en.esm.js","modules/chunk.common_089ed268.esm.js"],"shop-pay-payment-request":["modules/client.shop-pay-payment-request_44b42b1f.en.esm.js","modules/chunk.common_089ed268.esm.js","modules/chunk.shop-pay_24d0dbcb.esm.js"],"discount-app":["modules/client.discount-app_ca134bdb.en.esm.js","modules/chunk.common_089ed268.esm.js"],"login-button":["modules/client.login-button_7c13706c.en.esm.js","modules/chunk.common_089ed268.esm.js"],"payment-terms":["modules/client.payment-terms_924ece13.en.esm.js","modules/chunk.common_089ed268.esm.js"]};
+</script>
+<script>(function() {
+  function asyncLoad() {
+    var urls = ["\/\/productreviews.shopifycdn.com\/embed\/loader.js?shop=haute-stuff-boutique-baytown.myshopify.com","https:\/\/cdn.trytada.com\/loader.js?shop=haute-stuff-boutique-baytown.myshopify.com","https:\/\/d34uoa9py2cgca.cloudfront.net\/shopify-app\/helper-scripts\/sezzle-footer-logo-fix.js?shop=haute-stuff-boutique-baytown.myshopify.com","https:\/\/js.smile.io\/v1\/smile-shopify.js?shop=haute-stuff-boutique-baytown.myshopify.com","https:\/\/cdn.hextom.com\/js\/freeshippingbar.js?shop=haute-stuff-boutique-baytown.myshopify.com","https:\/\/chimpstatic.com\/mcjs-connected\/js\/users\/5c8029b14204a27dcf362bc0d\/5e2610e405207fe8a6b1c81f3.js?shop=haute-stuff-boutique-baytown.myshopify.com","https:\/\/cdn.routeapp.io\/route-widget-shopify\/v2\/route-widget-shopify-stable-v2.min.js?shop=haute-stuff-boutique-baytown.myshopify.com"];
+    for (var i = 0; i < urls.length; i++) {
+      var s = document.createElement('script');
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = urls[i];
+      var x = document.getElementsByTagName('script')[0];
+      x.parentNode.insertBefore(s, x);
+    }
+  };
+  if(window.attachEvent) {
+    window.attachEvent('onload', asyncLoad);
+  } else {
+    window.addEventListener('load', asyncLoad, false);
+  }
+})();</script>
+<script id="__st">var __st={"a":14167264,"offset":-21600,"reqid":"0206c4d5-c1c7-4f83-bc26-fc97da8f2749","pageurl":"www.hautestufftx.com\/","u":"0c267becfc84","p":"home"};</script>
+<script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
+<script>!function(o){o.addEventListener("DOMContentLoaded",function(){window.Shopify=window.Shopify||{},window.Shopify.recaptchaV3=window.Shopify.recaptchaV3||{siteKey:"6LcCR2cUAAAAANS1Gpq_mDIJ2pQuJphsSQaUEuc9"};var t=['form[action*="/contact"] input[name="form_type"][value="contact"]','form[action*="/comments"] input[name="form_type"][value="new_comment"]','form[action*="/account"] input[name="form_type"][value="customer_login"]','form[action*="/account"] input[name="form_type"][value="recover_customer_password"]','form[action*="/account"] input[name="form_type"][value="create_customer"]','form[action*="/contact"] input[name="form_type"][value="customer"]'].join(",");function n(e){e=e.target;null==e||null!=(e=function e(t,n){if(null==t.parentElement)return null;if("FORM"!=t.parentElement.tagName)return e(t.parentElement,n);for(var o=t.parentElement.action,r=0;r<n.length;r++)if(-1!==o.indexOf(n[r]))return t.parentElement;return null}(e,["/contact","/comments","/account"]))&&null!=e.querySelector(t)&&((e=o.createElement("script")).setAttribute("src","https://cdn.shopify.com/shopifycloud/storefront-recaptcha-v3/v0.6/index.js"),o.body.appendChild(e),o.removeEventListener("focus",n,!0),o.removeEventListener("change",n,!0),o.removeEventListener("click",n,!0))}o.addEventListener("click",n,!0),o.addEventListener("change",n,!0),o.addEventListener("focus",n,!0)})}(document);</script>
+<script integrity="sha256-h4dvokWvGcvRSqiG7VnGqoonxF0k3NeoHPLSMjUGIz4=" data-source-attribution="shopify.loadfeatures" defer="defer" src="//www.hautestufftx.com/cdn/shopifycloud/shopify/assets/storefront/load_feature-87876fa245af19cbd14aa886ed59c6aa8a27c45d24dcd7a81cf2d2323506233e.js" crossorigin="anonymous"></script>
+<script crossorigin="anonymous" defer="defer" src="//www.hautestufftx.com/cdn/shopifycloud/shopify/assets/shopify_pay/storefront-a2d444786d996da5634fbbaeeffe6104ee672440dfa6cdcaebfb27dceaaf9c0f.js?v=20220906"></script>
+<script integrity="sha256-HAs5a9TQVLlKuuHrahvWuke+s1UlxXohfHeoYv8G2D8=" data-source-attribution="shopify.dynamic-checkout" defer="defer" src="//www.hautestufftx.com/cdn/shopifycloud/shopify/assets/storefront/features-1c0b396bd4d054b94abae1eb6a1bd6ba47beb35525c57a217c77a862ff06d83f.js" crossorigin="anonymous"></script>
+
+
+<style id="shopify-dynamic-checkout-cart">@media screen and (min-width: 750px) {
+  #dynamic-checkout-cart {
+    min-height: 50px;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  #dynamic-checkout-cart {
+    min-height: 300px;
+  }
+}
+</style><script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.end');</script>
+
+  <script src="//www.hautestufftx.com/cdn/shop/t/20/assets/vendor-scripts-v9.js" defer="defer"></script><script src="//www.hautestufftx.com/cdn/shop/t/20/assets/theme.min.js?v=23620299534955943121615410060" defer="defer"></script><script>var loox_global_hash = '1704858839300';</script><script>var visitor_level_referral = {"active":true,"rtl":false,"position":"right","button_text":"Get $5","button_bg_color":"000000","button_text_color":"ffffff","display_on_home_page":true,"display_on_product_page":true,"display_on_cart_page":true,"display_on_other_pages":true,"hide_on_mobile":false,"sidebar_visible":true,"orientation":"default"};
+</script><style>.loox-reviews-default { max-width: 1200px; margin: 0 auto; }.loox-rating .loox-icon { color:#f06ac7; }
+:root { --lxs-rating-icon-color: #f06ac7; }</style></head><body><svg xmlns="http://www.w3.org/2000/svg" style="display: none" id="loox-rating-icon-svg-store">
+	<defs></defs>
+	<symbol id="looxicons-rating-icon-fill" viewBox="0 0 24 24" fill="currentcolor">
+		<path d="M22.8 1.2A1.2 1.2 0 0 1 24 2.4v8.4a1.2 1.2 0 0 1-1.2 1.2h-2.401l.001 10.081a1.2 1.2 0 0 1-1.2 1.2H4.8a1.2 1.2 0 0 1-1.2-1.2L3.599 12H1.2A1.2 1.2 0 0 1 0 10.8V2.4a1.2 1.2 0 0 1 1.2-1.2h7.2a3.6 3.6 0 1 0 7.2 0h7.2Z"></path>
+	</symbol>
+	<symbol id="looxicons-rating-icon-line" viewBox="0 0 24 24" fill="currentcolor">
+		<path d="M8.4 1.2a3.6 3.6 0 1 0 7.2 0h7.2A1.2 1.2 0 0 1 24 2.4v8.4a1.2 1.2 0 0 1-1.2 1.2h-2.401l.001 10.085a1.2 1.2 0 0 1-1.2 1.2H4.8a1.2 1.2 0 0 1-1.2-1.2L3.599 12H1.2A1.2 1.2 0 0 1 0 10.8V2.4a1.2 1.2 0 0 1 1.2-1.2h7.2Zm13.2 2.399h-4.1l-.02.049a6.002 6.002 0 0 1-5.22 3.546L12 7.2a6.001 6.001 0 0 1-5.48-3.552L6.5 3.6H2.4v6l3.599-.001v11.286H18L17.999 9.6l3.601-.001v-6Z"></path>
+	</symbol>
+	<defs>
+		<style>
+			.lx-icon-fill {
+				--lx-fill-width: calc(100% - var(--lx-rating-percent, 0%));
+				clip-path: inset(0 var(--lx-fill-width, 0) 0 0);
+			}
+			.lx-icon-line {
+				clip-path: inset(0 0 0 var(--lx-rating-percent, 0%));
+			}
+			[data-lx-fill='empty'] {
+				--lx-rating-percent: 0%;
+			}
+			[data-lx-fill='half'] {
+				--lx-rating-percent: 50%;
+			}
+			[data-lx-fill='full'] {
+				--lx-rating-percent: 100%;
+			}
+		</style>
+
+		<g id="looxicons-rating-icon">
+			<use href="#looxicons-rating-icon-line" class="lx-icon-line"></use>
+			<use href="#looxicons-rating-icon-fill" class="lx-icon-fill"></use>
+		</g>
+	</defs>
+</svg>
+
+<script src="https://cdn.shopify.com/extensions/45db9747-0f2a-4997-821c-7e6296414fb8/va-instagram-slider-feed-1/assets/ets-ins-theme-embed-block.js" type="text/javascript" defer="defer"></script>
+<link href="https://cdn.shopify.com/extensions/45db9747-0f2a-4997-821c-7e6296414fb8/va-instagram-slider-feed-1/assets/ets-ins-theme-embed-block.css" rel="stylesheet" type="text/css" media="all">
+<script src="https://cdn.shopify.com/extensions/355801b6-800c-4b61-90a0-2dfccacfddf6/inbox-129/assets/inbox-chat-loader.js" type="text/javascript" defer="defer"></script>
+<link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch">
+<script>(function(){if ("sendBeacon" in navigator && "performance" in window) {var session_token = document.cookie.match(/_shopify_s=([^;]*)/);function handle_abandonment_event(e) {var entries = performance.getEntries().filter(function(entry) {return /monorail-edge.shopifysvc.com/.test(entry.name);});if (!window.abandonment_tracked && entries.length === 0) {window.abandonment_tracked = true;var currentMs = Date.now();var navigation_start = performance.timing.navigationStart;var payload = {shop_id: 14167264,url: window.location.href,navigation_start,duration: currentMs - navigation_start,session_token: session_token && session_token.length === 2 ? session_token[1] : "",page_type: "index"};window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({schema_id: "online_store_buyer_site_abandonment/1.1",payload: payload,metadata: {event_created_at_ms: currentMs,event_sent_at_ms: currentMs}}));}}window.addEventListener('pagehide', handle_abandonment_event);}}());</script></body></html>

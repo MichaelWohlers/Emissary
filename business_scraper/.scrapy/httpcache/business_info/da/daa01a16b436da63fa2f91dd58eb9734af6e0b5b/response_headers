@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:39:32 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 221
+X-Sorting-Hat-Shopid: 45955022997
+X-Storefront-Renderer-Rendered: 1
+Location: https://pinkbirchboutique.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 45955022997
+X-Shardid: 221
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=7, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="bjmm", requestID;desc="57459029-93d7-4531-b49a-bfdb66fbe630"
+Server-Timing: cfRequestDuration;dur=39.000034
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 57459029-93d7-4531-b49a-bfdb66fbe630
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=KeN7r65ip9idj6jgmlXEq0qziHmv0U8bHI5%2F9ewvpIhVAk57Tz0fWImtZNmxTtW2X84Pz3SaiR1q1fNwagBRFyBRWohZtxzop4quhxdZRrlCaDwvh4aThsgnmC8ZDgtReow4RIswdg%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846614193fdc35fc-FRA
+Alt-Svc: h3=":443"; ma=86400

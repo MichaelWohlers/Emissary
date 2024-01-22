@@ -1,0 +1,15 @@
+Content-Length: 172
+Server: nginx
+Date: Tue, 16 Jan 2024 11:55:52 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+X-Powered-By: WP Engine
+X-Robots-Tag: noindex, follow
+Link: <https://oncenagain.com/wp-json/>; rel="https://api.w.org/"
+X-Tec-Api-Version: v1
+X-Tec-Api-Root: https://oncenagain.com/wp-json/tribe/events/v1/
+X-Tec-Api-Origin: https://oncenagain.com
+X-Cacheable: CacheAlways: forever
+Cache-Control: max-age=14400, must-revalidate
+Accept-Ranges: bytes
+X-Cache: HIT: 1

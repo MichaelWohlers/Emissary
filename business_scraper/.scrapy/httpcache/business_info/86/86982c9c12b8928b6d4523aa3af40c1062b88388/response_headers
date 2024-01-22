@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:44:17 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 112
+X-Sorting-Hat-Shopid: 5024350321
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=d74407d6-d311-4471-9a61-ef5616127830; path=/; expires=Tue, 16 Jan 2024 12:14:17 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:44:17 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:44:17 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:44:17 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=laceandleisureshoponline.com; path=/; expires=Wed, 17 Jan 2024 11:44:17 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=d040f10f-451c-4171-ba27-2fa3391261e8; Expires=Wed, 15-Jan-25 11:44:17 GMT; Domain=laceandleisureshoponline.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=a18b6ce7-7722-4648-a31b-f03d29cebe7f; Expires=Tue, 16-Jan-24 12:14:17 GMT; Domain=laceandleisureshoponline.com; Path=/; SameSite=Lax
+Etag: "cacheable:2c6d4154c3ad04c88d8f2044d6f17d37"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 5024350321
+X-Shardid: 112
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=12, db;dur=5, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="38928646257", servedBy;desc="zqhd", requestID;desc="f6f2e650-80b2-4f21-8a3d-e48f0b6f6851"
+Server-Timing: cfRequestDuration;dur=50.999880
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: f6f2e650-80b2-4f21-8a3d-e48f0b6f6851
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=GRfH2%2B8Jq0XotnONc8DXAQf1kyxWm08ifuSQ1aOihXEEYI5Uwnfg0TFvk3VL%2Fhqop8eXoC2mBQTLuNz%2Fhppm7b0kh02TzGWEBAgocyG0SG8%2FFFcaIZfhvdYYS6blffs6uSAtD47GzNHLobUUatGRy0Ey"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661b101bd25d69-FRA
+Alt-Svc: h3=":443"; ma=86400

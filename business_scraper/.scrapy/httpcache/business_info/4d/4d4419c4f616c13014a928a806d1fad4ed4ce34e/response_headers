@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 07:05:26 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 41
+X-Sorting-Hat-Shopid: 24239015
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=c8c465eb-57af-4f12-b763-5bfd07f9bdcf; path=/; expires=Tue, 16 Jan 2024 07:35:26 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 07:05:26 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 07:05:26 GMT; SameSite=Lax
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 07:05:26 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=terracottaboutique.online; path=/; expires=Wed, 17 Jan 2024 07:05:26 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=5002c297-3d7a-4e2d-af14-0e19a4a7cff5; Expires=Wed, 15-Jan-25 07:05:26 GMT; Domain=terracottaboutique.online; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=31829f0e-c784-440c-8b3e-d87ec91403fd; Expires=Tue, 16-Jan-24 07:35:26 GMT; Domain=terracottaboutique.online; Path=/; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+Etag: "cacheable:b3a1401ebbc2070b0fdc7fb4a329e1ef"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 24239015
+X-Shardid: 41
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=31, db;dur=18, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="187693645", servedBy;desc="tqdd", requestID;desc="2eedc8aa-3fe7-43c8-90ae-f8aa3352fda4"
+Server-Timing: cfRequestDuration;dur=223.000050
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 2eedc8aa-3fe7-43c8-90ae-f8aa3352fda4
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=IoCSROpcGNrQrvBX9UfBB%2BzMTb9Rt%2F56IljdNTvh9AkewDpL0tuxxQXjYdjGaRlJUBQiKMmxmBEFUVv0uF7RO49CV05W%2BR8LZa%2BQakEhzf9T%2BLHvA%2Bf9cEicPj5LAPAMeXnUuGzNqSBEtZo%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846482949e33996f-FRA
+Alt-Svc: h3=":443"; ma=86400

@@ -1,0 +1,29 @@
+Content-Type: text/html; charset=utf-8
+X-0-Caching-Status: ok
+X-Request-Id: c39d30a8335223e77df1b6dd9ca3ecfdfcf0443e
+X-0-Version: 809 6.0.6 19 2024-01-05T04:49:46.921Z 1.7.9
+X-0-Cache-Hash: e0d8945539f65c91f5fb9b205555be644d8686a182713851e111e21d81d039bd
+Server-Timing: layer0-cache;desc="HIT-L1", edge_pop;desc=cdg, country;desc=DE, xrj;desc="%7B%22path%22%3A%22%2F%3Alocale%28de-DE%7Cde_DE%7Cen-DE%7Cen_DE%29%3F%22%7D", asn;desc=20940
+Accept-Ranges: bytes
+X-0-Components: eh=1.2.2,c=6.0.6,e=cdg,ec=1.9.12,ed=1.4.6,gh=1.2.2,g=lhr,ed=1.4.6,pi=BufferProxyStack-595813784368-eu-central-1-ECSCluster-4QJCuMyJhMGZ,p=1.38.4,w=6.0.6,wi=c382ea76-f8a8-4d7a-86f3-9e1099c9c28e,b=serverless
+X-0-T: eh=3,ect=1,ecc=hit
+X-0-Status: eh=200,ed=200,gh=200,ed=200,p=200,w=200
+X-Akamai-Transformed: 9l 101466 0 pmb=mTOE,1
+Content-Encoding: gzip
+Date: Tue, 16 Jan 2024 11:36:15 GMT
+Vary: Accept-Encoding
+Set-Cookie: layer0_bucket=45; SameSite=Lax; Path=/; Max-Age=2147483647; HttpOnly
+Set-Cookie: layer0_destination=default; SameSite=Strict; Path=/
+Set-Cookie: layer0_environment_id_info=c37ef725-c34d-4fd1-9907-8d06c64eecb9; SameSite=Strict; Path=/
+Set-Cookie: exp-COH-DE=COH-DE-MW; path=/; secure
+Set-Cookie: akavpau_NO_MA_DE_AU=1705405275~id=c2ac6aa8b49da6e6bb920ffc8f3afcb1; Path=/; HttpOnly; Secure; SameSite=None
+Set-Cookie: akacd_coach-eu-prod-new=2177452799~rv=47~id=e5a07b570d76ba28c965883639d250ae; path=/; Expires=Mon, 31 Dec 2038 23:59:59 GMT; Secure; SameSite=None
+Set-Cookie: _abck=45CD33DDC20FFDE6A8FBFC363FC3EA55~-1~YAAQiaAkF/IfUQ2NAQAAQMoOEgtXZg8yGYcHK7YKpMghnLYgngLNmn9y8Q0kHg1QFDP9tdZ7Levti7JPm/ObNlU+CcRLSYclsPfGuk7DhsAf+x88IGWZxj8OT6HsUd6Xu2/JPhhiFUYJk7yVf2dwfFVZq9QiwonAGh/wmaZiEMeQVaaK+ZDiv92WNe7Ozq7ZTG+TOlvhE1wcm230vs4ANcs0dvJWZsDtbOPbYw2PjA81fB71fwathvFRkTNKm471xoJtTu70lY23Ani8kt4ibE4b8Bg9pha4QjWiAqS7msVdI/RMbBRtKhmWu4jufTy55l/waAqcgrYgK88hNrTotjI7cOzN9pii9+8XLXUBW5nzWZf7OHoQsl4eNg==~-1~-1~-1; Domain=.coach.com; Path=/; Expires=Wed, 15 Jan 2025 11:36:15 GMT; Max-Age=31536000; Secure
+Set-Cookie: bm_sz=35800FB2E744D8668982FA7362D72557~YAAQiaAkF/MfUQ2NAQAAQMoOEhZfGG/ODKqoMivhLOxmxHnCRXwfvnySoI751X6L5ISF8ifBvgGCsg0TAaflulKY5HPWHtOGsBahaUn+nWnaCsc8QWasTu7fkSbMsJQavCiA2AOOI9mkNsZhCzrawAC2w2suvfzT1v0f6/ks4X6sZINJ1hkkPu/6svrLROIWT1IbpT5ZWxLuVgEy47UJ/iCzzuepqAUQP58cE12IzpNBTRQ0oW+EU98iqWd7NshdRxVgqrkThKgtV+zIH/QA/m0zqLrG8Cx0kjy6IEyQMfWNlw==~4277829~4604976; Domain=.coach.com; Path=/; Expires=Tue, 16 Jan 2024 15:36:15 GMT; Max-Age=14400
+Content-Security-Policy: default-src 'self' 'unsafe-inline' 'unsafe-eval' *.amazonaws.com *.audioeye.com *.bing.com *.btttag.com *.bluecore.com *.cloudfront.net cloudfront.net *.coach.com coach.com *.coachoutlet.com *.criteo.net *.criteo.com *.doubleclick.net *.facebook.com *.facebook.net *.forter.com www.paypalobjects.com www.googleadservices.com *.google.com www.google.co.in www.google.de www.google.se www.google.at www.google.lu www.google.com.tr www.google.ae www.google.gr www.google.com.my www.google.com.mx www.google.lv www.google.dk www.google.sk www.google.com.ar www.google.cz www.google.com.sa www.google.ee www.google.com.br www.google.com.eg www.google.bs www.google.com.au www.google.co.jp www.google.ru www.google.ba www.google.iq www.google.pt www.google.com.vn www.google.com.sg www.google.ro www.google.lt www.google.al www.google.fi www.google.tn www.google.co.ma www.google.cn www.google.it www.google.com.hk www.google.ch www.google.hr www.google.co.th www.google.hu www.google.com.ua www.google.com.tw www.google.ca www.google.co.za www.google.es www.google.fr www.google.pl www.google.jo www.google.bg www.google.co.id www.googletagmanager.com *.google-analytics.com *.gstatic.com *.jsdelivr.net klarna.com *.klarna.com klarnacdn.net *.klarnacdn.net klarnaevt.com *.klarnaevt.com *.klarnaservices.com force.com *.force.com my.salesforce.com *.my.salesforce.com *.salesforceliveagent.com *.snapchat.com *.twitter.com ads-twitter.com static.ads-twitter.com t.co *.cquotient.com *.onetrust.com cloudflare.com *.cloudflare.com *.googlesyndication.com demdex.net dpm.demdex.net techlab-cdn.com p11.techlab-cdn.com audioeye.com bing.com api.bluecore.app bluecore.com cquotient.com facebook.com facebook.net www.google.co.uk www.google.nl jsdelivr.net klarnaservices.com linksynergy.com *.linksynergy.com cookielaw.org cdn.cookielaw.org onetrust.com pinimg.com s.pinimg.com pinterest.com ct.pinterest.com goqubit.com static.goqubit.com qubit.com *.qubit.com *.rakuten.com smct.co *.smct.co teads.tv *.teads.tv *.tiktok.com tiktok.com trustedshops.com *.trustedshops.com tvsquared.com *.tvsquared.com smct.io *.smct.io *.upsellit.com tapes11111.pcapredict.com *.googleapis.com *.quantummetric.com *.optimizely.com *.addressy.com cnstrc.com pwcdauseo-zone.cnstrc.com *.drivecommerce.com *.bigcontent.io *.qubitproducts.com img1.cohimg.net www.talkable.com www.yext-pixel.com prod-cdn.us.yextapis.com images.coach.comis *.mktgcdn.com *.adyen.com tag.wknd.ai *.bounceexchange.com events.bouncex.net *.cdnwidget.com *.cdnbasket.net creativecdn.com *.creativecdn.com *.tangiblee.com services.postcodeanywhere.co.uk www.linkedin.com www.youtube.com *.cloudfunctions.net *.medallia.com *.kampyle.com *.etrusted.com usage.trackjs.com favicon.yandex.net analytics.pangle-ads.com logging.trustbadge.com *.stylitics.com tapestry.my.salesforce-sites.com cdn.attn.tv *.scene7.com sc-static.net *.gocertify.me data: blob:;
+Referrer-Policy: strict-origin-when-cross-origin
+X-Frame-Options: sameorigin
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Cache-Control: no-store

@@ -1,0 +1,16 @@
+Date: Tue, 16 Jan 2024 11:54:15 GMT
+Content-Type: text/html; charset=UTF-8
+Cache-Control: max-age=0
+Cf-Railgun: direct (starting new WAN connection)
+Expires: Tue, 16 Jan 2024 11:54:14 GMT
+Location: https://pecadolimited.com/
+Set-Cookie: _nx-nocache=1
+Vary: Accept-Encoding
+X-Cache-Nxaccel: BYPASS
+X-Redirect-By: WordPress
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=CxBa0%2FNR2Hsq9CuSJER4%2F%2Fp4FviwlOm2r7jI4p8O9ax5%2F4Fz4ZxwIppKyt9XHrcYEXOb7ir21W1tn9Sjy%2BdqP%2FWhTJhTSXX%2F1OuAcOuEd41v1sZV4t%2BzTP0DYm6IbMZoFECc%2FQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846629a198483cc9-CDG
+Alt-Svc: h3=":443"; ma=86400

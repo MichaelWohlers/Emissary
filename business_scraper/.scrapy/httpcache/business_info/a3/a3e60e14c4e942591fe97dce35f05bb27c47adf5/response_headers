@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:20:43 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 79
+X-Sorting-Hat-Shopid: 27035238480
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=3d4f0ec6-42a1-44cb-90fa-747d6186e4ef; path=/; expires=Tue, 16 Jan 2024 11:50:43 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:20:43 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=CA; path=/; expires=Thu, 16 Jan 2025 11:20:43 GMT
+Set-Cookie: cart_currency=CAD; path=/; expires=Tue, 30 Jan 2024 11:20:43 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=boutiquelavilla.com; path=/; expires=Wed, 17 Jan 2024 11:20:43 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=29ae882b-09a9-43db-bf57-5648f6bfcb56; Expires=Wed, 15-Jan-25 11:20:43 GMT; Domain=boutiquelavilla.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=0cb17d36-87a8-47c7-9c53-9399eb257498; Expires=Tue, 16-Jan-24 11:50:43 GMT; Domain=boutiquelavilla.com; Path=/; SameSite=Lax
+Etag: "cacheable:663387f3c57eabfc4f3e174e280e607b"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 27035238480
+X-Shardid: 79
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=11, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="81783947344", servedBy;desc="mp9s", requestID;desc="6ec6e106-2560-4211-965f-81bca2e29dc8"
+Server-Timing: cfRequestDuration;dur=42.999983
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 6ec6e106-2560-4211-965f-81bca2e29dc8
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=xdtLKEsc7vhjuVzhQGJIUzwMJy67mD4WmYwKnMUUtbqxwuweNhS%2FAqTRBigntVcS%2FNhImjGBOsT2rTulxTNnUOTOMwfIMnajpRPA41v1NmUiL%2FNPmCxsTf0SdaxujuVipgY7Lso%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8465f885e95771d3-FRA
+Alt-Svc: h3=":443"; ma=86400

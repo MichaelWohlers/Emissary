@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:42:15 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 256
+X-Sorting-Hat-Shopid: 52841054400
+X-Storefront-Renderer-Rendered: 1
+Location: https://fashiononthefly.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 52841054400
+X-Shardid: 256
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=11, db;dur=7, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="6kmk", requestID;desc="64f5cdc7-08a6-4f7f-a7eb-db68d95c9987"
+Server-Timing: cfRequestDuration;dur=55.000067
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 64f5cdc7-08a6-4f7f-a7eb-db68d95c9987
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Dy3pglHVXP1kFfsxcnUK0Zf2Bi1WLIS2WXLVG5YuVA380a0rHSh3UH%2B86fYTCJJ9m7ZF69VF0EqT3AH%2BG11irSf1NFWLXB0y2IdvXBb9HHLzHn1zrXWHJZfciGIW%2FFPbzo9MUA4%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661813ce3a18f5-FRA
+Alt-Svc: h3=":443"; ma=86400

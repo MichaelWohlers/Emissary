@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:36:50 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 247
+X-Sorting-Hat-Shopid: 8961785952
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=8d62a07b-ea4e-4c21-a19b-2af0cd05b102; path=/; expires=Tue, 16 Jan 2024 12:06:50 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:36:50 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:36:50 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:36:50 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=shopcaliandco.com; path=/; expires=Wed, 17 Jan 2024 11:36:50 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=168a5711-4410-4c36-9bea-b11fb8600668; Expires=Wed, 15-Jan-25 11:36:50 GMT; Domain=shopcaliandco.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=bcbb38f1-af3a-43da-ab4f-4ab35c73e87e; Expires=Tue, 16-Jan-24 12:06:50 GMT; Domain=shopcaliandco.com; Path=/; SameSite=Lax
+Etag: "cacheable:8aab4d38b10d69c7ce19288afe44c22a"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 8961785952
+X-Shardid: 247
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=11, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="45298745440", servedBy;desc="6jzn", requestID;desc="c741c5f2-9c26-4275-a94b-b28f16323448"
+Server-Timing: cfRequestDuration;dur=36.999941
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: c741c5f2-9c26-4275-a94b-b28f16323448
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=3LkjAfD%2FLWWA63fRRRc7fKJNg0m4vG76AsqP4i204A74wTvoetWAY%2BVIY8O4P4xdFWWp6HWEHIw4wzh%2BPAEVSWedPVIbvT8Px9KQCJANZ%2Bskww2rr7oiX5GCQyvuIC369Bpm"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846610223fb22bae-FRA
+Alt-Svc: h3=":443"; ma=86400

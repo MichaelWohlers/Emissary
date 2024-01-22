@@ -1,0 +1,22 @@
+Content-Length: 2890
+Last-Modified: Wed, 11 Oct 2023 05:31:07 GMT
+Etag: "17d9839bdee6c30f9638ac9048a32fd4"
+X-Guploader-Uploadid: ADPycdvrokN0uLNFvwoDk_6oOVK2zpM6APcMbxpLARaF4O9bc2W8xnCJoW-83w-U1zD9ssx0yF75Zgh147HI-ElKCGs-SJ2Fu_pW
+X-Goog-Generation: 1697002267003330
+X-Goog-Metageneration: 2
+X-Goog-Stored-Content-Encoding: identity
+X-Goog-Stored-Content-Length: 2890
+X-Goog-Hash: crc32c=tdqXGA==
+X-Goog-Storage-Class: STANDARD
+Accept-Ranges: bytes
+Server: UploadServer
+Content-Type: text/plain
+Cache-Control: public, max-age=856
+Expires: Tue, 16 Jan 2024 07:22:03 GMT
+Date: Tue, 16 Jan 2024 07:07:47 GMT
+Set-Cookie: akainst=EU1; path=/; domain=.www2.hm.com
+Set-Cookie: AKA_A2=A; expires=Tue, 16-Jan-2024 08:07:47 GMT; path=/; domain=hm.com; secure; HttpOnly
+Server-Timing: cdn-cache; desc=HIT
+Server-Timing: edge; dur=1
+Server-Timing: ak_p; desc="1705388866987_34830108_751194585_23_10356_37_40_-";dur=1
+Strict-Transport-Security: max-age=31536000; includeSubDomains

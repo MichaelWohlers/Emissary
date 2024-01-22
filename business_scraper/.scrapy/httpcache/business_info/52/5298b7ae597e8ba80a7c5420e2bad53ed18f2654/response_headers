@@ -1,0 +1,16 @@
+Date: Tue, 16 Jan 2024 11:53:33 GMT
+Content-Type: text/html
+Age: 0
+Vary: Accept-Encoding
+Via: 1.1 varnish (Varnish/7.1)
+X-Cache: MISS
+X-Cache-Server: gomaster
+X-Powered-By: PHP/5.5.9-1ubuntu4.29
+X-Varnish: 18613373
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=m42nApKhdMHkG3dBhGjUJz0qcIADj%2BOvep7XYfrA%2BMys61TbuwgivSynW923szR8xbXSkBIvs0p8xCG4n0CrBbt2%2BwsBri9wcqwspJOZCIXJ1OfdcPtNxBcrvECQoYc2vzlqVw%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8466289b9ca6bb73-FRA
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400

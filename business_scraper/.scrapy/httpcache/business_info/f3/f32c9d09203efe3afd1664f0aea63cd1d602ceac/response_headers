@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:44:39 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 177
+X-Sorting-Hat-Shopid: 53633777842
+X-Storefront-Renderer-Rendered: 1
+Location: https://nin-s-custom-creations.myshopify.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 53633777842
+X-Shardid: 177
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=10, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="mxgx", requestID;desc="3fc5a170-a73a-45d0-a2a3-5f761fafb5a6"
+Server-Timing: cfRequestDuration;dur=42.999983
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 3fc5a170-a73a-45d0-a2a3-5f761fafb5a6
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=o56AYKWPkwbkoRBHRg2wBMwNilSiBvBXzpqcNwMa1hOgFyW%2FS8B8rfV3%2BgBmCrrP%2FY02Y0wWf3Tat6%2FC%2B1t0%2BHKSeK5ZlglwOJCCd%2FAXcxmGY3vCKQ9Xbk8Fz4uMuZbSdsYjTNC0tBN%2B7KERsFd%2Fln8fTymfnQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661b965b352c79-FRA
+Alt-Svc: h3=":443"; ma=86400

@@ -1,0 +1,27 @@
+Date: Tue, 16 Jan 2024 03:59:45 GMT
+Content-Type: text/plain; charset=utf-8
+Cache-Control: max-age=0, s-maxage=7200, must-revalidate
+Content-Encoding: gzip
+Etag: "6978a616c585d03cb5b542a891995efb"-gzip
+Expires: Mon, 15 Jan 2024 09:07:26 GMT
+Last-Modified: Thu, 18 Nov 2021 03:02:02 GMT
+Owner: sitescog-533
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Surrogate-Key: stores.rue21.com stores.rue21.com%2Frobots.txt
+Vary: Accept-Encoding
+X-Goog-Generation: 1637204522550600
+X-Goog-Hash: md5=aXimFsWF0Dy1tUKokZle+w==
+X-Goog-Metageneration: 2
+X-Goog-Reserved-Source-Generation: 1604970481781878
+X-Goog-Storage-Class: STANDARD
+X-Goog-Stored-Content-Encoding: identity
+X-Goog-Stored-Content-Length: 14
+X-Guploader-Uploadid: ABPtcPrUxR3OTvDRuB2MjTfrZsiBEWhSkyQX6nbERx6qm_6sx0jrH3lnmrCV_yAYxzpnfCkATwug-WAyWg
+X-Yext-Site: or2
+X-Yext-Subendpoint: static
+Via: 1.1 google
+Alt-Svc: h3=":443"; ma=86400
+Cf-Cache-Status: HIT
+Set-Cookie: __cf_bm=2wiXIdmv76S.uhnWwdUzqnPKMFBAkmLVIOarxmD7xUY-1705377585-1-ATdg8nMRvh3+vk3PZNFljTfJ6N4XURx9scTJQgIDvHfLSe3DjpDzhI2DFsD7JTmwTs/2iYVmhcTuDl5RvjSnSTU=; path=/; expires=Tue, 16-Jan-24 04:29:45 GMT; domain=.stores.rue21.com; HttpOnly; Secure; SameSite=None
+Server: cloudflare
+Cf-Ray: 846372974bb62c6e-FRA

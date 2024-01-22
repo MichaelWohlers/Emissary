@@ -1,0 +1,18 @@
+Content-Length: 590
+Date: Tue, 16 Jan 2024 11:37:59 GMT
+Content-Type: text/plain;charset=UTF-8
+Cf-Ray: 846611d309abbbda-FRA
+Cf-Cache-Status: REVALIDATED
+Accept-Ranges: bytes
+Content-Encoding: gzip
+Etag: W/"65a658c6-b83:dtagent10279231130031246ogcs"
+Last-Modified: Tue, 16 Jan 2024 10:21:58 GMT
+Strict-Transport-Security: max-age=31536000; includeSubdomains
+Vary: Accept-Encoding
+Server-Timing: dtSInfo;desc="0", dtRpid;desc="-1681402683"
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+Set-Cookie: __cf_bm=e_79G4ACM9i91FCxC1a52NhX0xQlNV7_5ykCe0h5TmI-1705405079-1-AcMPCOCaO3i9CDfS59k7TifRnAHI8PznCuk4ssk/MGPXRgIUBHIT98JrTfDGyjUVXBnQcZhhaIQQQaNkWeKj710=; path=/; expires=Tue, 16-Jan-24 12:07:59 GMT; domain=.victoriassecret.com; HttpOnly; Secure; SameSite=None
+Set-Cookie: _cfuvid=VpqYEB11PperzPycleBFIdH01wsVUfSL0ZGpVLIB8tA-1705405079763-0-604800000; path=/; domain=.victoriassecret.com; HttpOnly; Secure; SameSite=None
+Server: cloudflare

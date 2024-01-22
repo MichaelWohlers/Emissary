@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:39:02 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 254
+X-Sorting-Hat-Shopid: 44005752983
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=25daf282-4d02-4322-aab5-6a905461eb63; path=/; expires=Tue, 16 Jan 2024 12:09:02 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:39:02 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:39:02 GMT; SameSite=Lax
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:39:02 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Afalse%2C%22a%22%3Afalse%2C%22m%22%3Afalse%2C%22t%22%3Afalse%7D%2C%22display_banner%22%3Atrue%2C%22sale_of_data_region%22%3Afalse%7D; domain=trendingclothingdeal2.com; path=/; expires=Wed, 17 Jan 2024 11:39:02 GMT; SameSite=Lax
+Set-Cookie: _tracking_consent=%7B%22reg%22%3A%22GDPR%22%2C%22con%22%3A%7B%22CMP%22%3A%7B%22p%22%3A%22%22%2C%22s%22%3A%22%22%2C%22a%22%3A%22%22%2C%22m%22%3A%22%22%7D%7D%2C%22v%22%3A%222.1%22%2C%22lim%22%3A%5B%22CCPA%22%2C%22GDPR_BLOCK_ALL%22%5D%2C%22region%22%3A%22DERP%22%7D; Expires=Wed, 15-Jan-25 11:39:02 GMT; Domain=trendingclothingdeal2.com; Path=/; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+Etag: "cacheable:fd5f0dc8ff7108faf6b2ebad3d0a3928"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Access-Control-Allow-Origin: *
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 44005752983
+X-Shardid: 254
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=82, db;dur=34, render;dur=17, wasm, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="132693950719", pageType;desc="page", servedBy;desc="w66h", requestID;desc="75a1a682-d6c4-4bf7-89c9-5b72957992ff"
+Server-Timing: cfRequestDuration;dur=116.999865
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 75a1a682-d6c4-4bf7-89c9-5b72957992ff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=8Qwg1E77GWTSudOuMirYEb9UjVZyb3lEhajYcoL%2F6Sqxii6R%2B3yhluNyD5BsjNIdMI2X9%2F9vG%2FIhvYGycinWk7QVNDT%2FAYSpFD0OQTef7cmEGLbT6BoekCdXJkvSiZoSRznVSVA8qF4cOvY%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8466135acf211952-FRA
+Alt-Svc: h3=":443"; ma=86400

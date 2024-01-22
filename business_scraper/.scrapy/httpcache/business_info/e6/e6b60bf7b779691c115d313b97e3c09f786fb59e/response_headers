@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:48:04 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 156
+X-Sorting-Hat-Shopid: 41779167389
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=bb17862d-6c2d-4847-a00f-0141c33d227f; path=/; expires=Tue, 16 Jan 2024 12:18:04 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:48:04 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 11:48:04 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:48:04 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=rapunzelsfrankenmuth.com; path=/; expires=Wed, 17 Jan 2024 11:48:04 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=fe4d8ac8-e7be-4bce-bbdb-d70e7d880c95; Expires=Wed, 15-Jan-25 11:48:04 GMT; Domain=rapunzelsfrankenmuth.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=0e61690d-cd9a-4d36-be3c-4a442e116bff; Expires=Tue, 16-Jan-24 12:18:04 GMT; Domain=rapunzelsfrankenmuth.com; Path=/; SameSite=Lax
+Etag: "cacheable:a88700dcb7b79e1396f56a8bd28eea6b"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 41779167389
+X-Shardid: 156
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=12, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="102829654173", servedBy;desc="wt4r", requestID;desc="a12cca08-a129-4569-be6a-2ca8d59e4244"
+Server-Timing: cfRequestDuration;dur=39.999962
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: a12cca08-a129-4569-be6a-2ca8d59e4244
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=pBTOvKxvorTICdapzm3Xa2mN9nO2DQqza3s7INAEHbMwgd9tn%2FtIyLkSLorbMuYggqE%2B1JHmyuvHIfw4SHi29CutG53eqT0g2C8MPipuAlMV6NUuh%2BqkeXuXuwdgi0qJqKzIr9jLfTG1rw%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8466209528451c6d-FRA
+Alt-Svc: h3=":443"; ma=86400

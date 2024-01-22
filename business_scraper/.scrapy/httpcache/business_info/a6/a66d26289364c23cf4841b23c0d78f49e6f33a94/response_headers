@@ -1,0 +1,14 @@
+Cache-Control: no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=utf-8
+Content-Encoding: gzip
+Expires: -1
+Vary: Accept-Encoding
+Server: nginx
+Strict-Transport-Security: max-age=31622400; includeSubDomains; preload
+Set-Cookie: GuestToken=8f5b1898e5eb48c4b094fb319f703eaa; expires=Thu, 15 Feb 2024 11:20:57 GMT; path=/; secure; httponly
+Set-Cookie: syvo_antiforgerycookie=CfDJ8DUF1Qnc3O1AjY3hH_eyHU0K5hJdsOu2hzVIpj7LxpszdLO-nYIz-o5AFwzmispn9KkpDi5ksl0nzguKujtyD1MGmgiWRBSaGWL4C6GwGlWex03GMORa48qGxjhbM9JPKIPrSL7VWVVepK88vnLo8Eg; path=/; samesite=strict; httponly
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Date: Tue, 16 Jan 2024 11:20:57 GMT

@@ -1,0 +1,41 @@
+Date: Tue, 16 Jan 2024 11:34:35 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 238
+X-Sorting-Hat-Shopid: 51733987480
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=1486b247-3465-4622-ae08-62c667abdef3; path=/; expires=Tue, 16 Jan 2024 12:04:35 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:34:35 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:34:35 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:34:35 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=faithhopefashions.com; path=/; expires=Wed, 17 Jan 2024 11:34:35 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=d2e81153-f8e8-4b16-995a-ae7a355ae84c; Expires=Wed, 15-Jan-25 11:34:35 GMT; Domain=faithhopefashions.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=420e1d7a-25ec-4745-84bf-ec5991ad997b; Expires=Tue, 16-Jan-24 12:04:35 GMT; Domain=faithhopefashions.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 11:34:35 GMT; Domain=faithhopefashions.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2F; Expires=Tue, 30-Jan-24 11:34:35 GMT; Domain=faithhopefashions.com; Path=/; HttpOnly; SameSite=Lax
+Etag: "cacheable:98f215d5c0e708162fe0e446bf114bd7"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin, <//faithhopefashions.com/cdn/shop/t/14/assets/component-localization-form.css?v=143319823105703127341703457960>; as="style"; rel="preload", <//faithhopefashions.com/cdn/shop/files/0A60E042-36AE-4160-9EFD-EC9ECB733188.jpg?v=1703466026&width=600>; as="image"; rel="preload"; imagesrcset="//faithhopefashions.com/cdn/shop/files/0A60E042-36AE-4160-9EFD-EC9ECB733188.jpg?v=1703466026&width=100 100w, //faithhopefashions.com/cdn/shop/files/0A60E042-36AE-4160-9EFD-EC9ECB733188.jpg?v=1703466026&width=150 150w, //faithhopefashions.com/cdn/shop/files/0A60E042-36AE-4160-9EFD-EC9ECB733188.jpg?v=1703466026&width=200 200w"; imagesizes="(max-width: 200px) 50vw, 100px"
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 51733987480
+X-Shardid: 238
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=11;desc="gc:1", db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="139335532783", pageType;desc="index", servedBy;desc="w9br", requestID;desc="27c72fd6-f076-4230-91cc-7d2fee33c4b2"
+Server-Timing: cfRequestDuration;dur=38.999796
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 27c72fd6-f076-4230-91cc-7d2fee33c4b2
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=f2FVtMBJR1d8hpubYekCBS3ElLvkjd9LOTeDfUOF5W%2F%2FiF0am3Sx6wVmFZhprc1R7QGA6GE%2FLu0UxZsQ4n%2F7ECPeKRe0hL%2B%2Fk28MIRVTFMg7J0Il%2BgvFQABJk1oE%2BBWwLnMwlXvaWQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84660cd8ea974d4f-FRA
+Alt-Svc: h3=":443"; ma=86400

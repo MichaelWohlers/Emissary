@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:20:53 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 248
+X-Sorting-Hat-Shopid: 1912176691
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=e7f5a458-5737-423d-8b2b-49c8b1345ce1; path=/; expires=Tue, 16 Jan 2024 11:50:53 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:20:53 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 11:20:53 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:20:53 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=johnathanmichaelsboutique.net; path=/; expires=Wed, 17 Jan 2024 11:20:53 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=f2a884ea-4e73-4b59-93f6-a0e11668e067; Expires=Wed, 15-Jan-25 11:20:53 GMT; Domain=johnathanmichaelsboutique.net; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=bc95aaa9-41b3-483f-a258-58f16e8c7af4; Expires=Tue, 16-Jan-24 11:50:53 GMT; Domain=johnathanmichaelsboutique.net; Path=/; SameSite=Lax
+Etag: "cacheable:38b64a95e124abf65683e6a476718bc1"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 1912176691
+X-Shardid: 248
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=17, db;dur=5, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="120145379513", servedBy;desc="mdh4", requestID;desc="09872bbb-a090-49c5-8607-942757fee677"
+Server-Timing: cfRequestDuration;dur=49.999952
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 09872bbb-a090-49c5-8607-942757fee677
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=lVFft0qn2WbuMHxW9ujM%2BMXUd0qKR7tuZmOiZF0JJHgvSUQGRu4ohKdOtccBqAOEYQWR2GniwUakFhbgLiv6JJQ81g%2FY1%2BerW3VRa8pImVf0N3TV2L6eD0MF1St3ZAchxidzZKZBpBOUhKPoClP8"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8465f8c34b9c2bb5-FRA
+Alt-Svc: h3=":443"; ma=86400

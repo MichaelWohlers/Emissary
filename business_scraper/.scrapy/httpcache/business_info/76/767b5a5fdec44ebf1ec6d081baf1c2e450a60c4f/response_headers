@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:35:05 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 51
+X-Sorting-Hat-Shopid: 20403625
+X-Storefront-Renderer-Rendered: 1
+Location: https://nstylefashions1.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 20403625
+X-Shardid: 51
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=15, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="lx4r", requestID;desc="76d4ccc9-b34d-4b2e-8f8d-9935529dcd8d"
+Server-Timing: cfRequestDuration;dur=59.000015
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 76d4ccc9-b34d-4b2e-8f8d-9935529dcd8d
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=SGZ0r%2BbXVAHhrvhuByQvkID6b8vb2JBwjEkuVa8GgZsXFTq%2FBP44My8jiwzPBVPaVrRQlB1ZZJcb3%2BZcbGE463kvNeh%2BFzOPgvNRPBo%2BIZzy4%2BuBTvt33nzfuSmgnA70sCrojRbPm%2Fxc"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84660d911f4030d5-FRA
+Alt-Svc: h3=":443"; ma=86400

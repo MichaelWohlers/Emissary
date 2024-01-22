@@ -1,0 +1,29 @@
+Date: Tue, 16 Jan 2024 11:39:49 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 161
+X-Sorting-Hat-Shopid: 51089637538
+X-Storefront-Renderer-Rendered: 1
+Location: https://navarretefashionllc.com/
+X-Redirect-Reason: canonical_host_redirection
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 51089637538
+X-Shardid: 161
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=10, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="mdh4", requestID;desc="0510ad3b-2251-45cf-943b-be9a95a09801"
+Server-Timing: cfRequestDuration;dur=39.000034
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 0510ad3b-2251-45cf-943b-be9a95a09801
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=jnCTHr27zTQDtCvpSY2GesNritrNpOxxLgEOJFdlBvyoZMXNC2%2F%2F9WfN4XlD2jWCbfwaSNj7nQ8uN9nYLrTB6b%2FVWSTXXK1WU2rWJO0FzKcJbMPyuSkL%2BsoXh9IYxPvPh%2F9jta2IqymnXv0G4Q%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846614824d7d1979-FRA
+Alt-Svc: h3=":443"; ma=86400

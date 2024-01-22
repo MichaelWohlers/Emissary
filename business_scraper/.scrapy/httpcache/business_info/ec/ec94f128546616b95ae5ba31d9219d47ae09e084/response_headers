@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:46:18 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 66
+X-Sorting-Hat-Shopid: 15662085
+X-Storefront-Renderer-Rendered: 1
+Location: https://lizziesboutique.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 15662085
+X-Shardid: 66
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=6, db;dur=2, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="lx4r", requestID;desc="d4673399-5ea2-4db6-a1d1-e4244319acd4"
+Server-Timing: cfRequestDuration;dur=55.999994
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: d4673399-5ea2-4db6-a1d1-e4244319acd4
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=3YOzgo1LEAxtFpglXpD%2BWv6ewhiDuK8ypQU5kyLGrjl1923fN7jhSgSiegxG6Tkc%2FEN7uWX%2B2x%2FRtEJFCKN6Sp8bPWmKvU0Zzj8fJ4CCIwASbkLf%2BFWL7R3EFGCCyqmmo5wIW3JGQ3iE"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661e03a9d92c36-FRA
+Alt-Svc: h3=":443"; ma=86400

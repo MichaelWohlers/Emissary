@@ -1,0 +1,15 @@
+Content-Length: 99
+Date: Tue, 16 Jan 2024 11:50:35 GMT
+Content-Type: text/html; charset=UTF-8
+Location: https://daisyjanetc.com/
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Strict-Transport-Security: max-age=0
+X-Request-Id: 85ee2a2aba51838357a24798f71eb557
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=q75awe%2BD%2B1xj0gO0j%2BP4NCmPDI%2BWPbJR0uQPk%2Ffj%2BNQB%2BJu0Ah%2FEE2hb1lnlLSkn64PUiLV%2FTC4ngJTE9oQT8h9WL97Pp9%2BkoMflee%2BYatWBhzWyJlmO0TssnWHQZVQLx77Po0Q%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Bc-Ray: 1
+Server: cloudflare
+Cf-Ray: 84662445f97104a3-FRA
+Alt-Svc: h3=":443"; ma=86400

@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 07:05:50 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 193
+X-Sorting-Hat-Shopid: 2426107
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=9fd0cdcb-4ef0-4171-8746-611fe56b89bc; path=/; expires=Tue, 16 Jan 2024 07:35:50 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 07:05:50 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 07:05:50 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 07:05:50 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=hazelandolive.com; path=/; expires=Wed, 17 Jan 2024 07:05:50 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=91811483-0401-440e-bddf-c55a124d86d2; Expires=Wed, 15-Jan-25 07:05:50 GMT; Domain=hazelandolive.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=87de72ea-4d3b-4037-adff-4f681b77493d; Expires=Tue, 16-Jan-24 07:35:50 GMT; Domain=hazelandolive.com; Path=/; SameSite=Lax
+Etag: "cacheable:2100a3ef5b441cd4926f26103248588c"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 2426107
+X-Shardid: 193
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=22;desc="gc:2", db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="132373086402", servedBy;desc="k7hn", requestID;desc="0de666e1-61ba-436b-ba32-870fe2053852"
+Server-Timing: cfRequestDuration;dur=52.999735
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 0de666e1-61ba-436b-ba32-870fe2053852
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=tpnryjFLjKBPHY4jnSNa8M6GSvWF6BhliT%2B44FrcJq6mJLyhUmE1BEOk0a1QSpnZ8JHb1VM9%2F11sNreJVd2rrVcPJXzVX3wbrFW%2FnwVZTFyhowdb%2BsV6nC4GnmjxAvm%2FO5NPA2MnyA%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84648329e92b18bd-FRA
+Alt-Svc: h3=":443"; ma=86400

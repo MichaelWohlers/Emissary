@@ -1,0 +1,15 @@
+Content-Length: 98
+Date: Tue, 16 Jan 2024 03:59:53 GMT
+Content-Type: text/html; charset=UTF-8
+Location: https://francescas.com/
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Strict-Transport-Security: max-age=300
+X-Request-Id: d45559d6e80471f816172d2565583fab
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=9gl2ZDDXNj89UinfbX%2F3PD8nQK7GWG00ks5JATYZvgURbqg%2F2c6JzT5QRaryGf4EujSwuQP4iANvuykG%2F8bc7PDRurwloJNdiAyNibrKZFNmH2xfLHp5%2Bl5aG3q%2Bulwm%2F%2Bsnyw%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Bc-Ray: 1
+Server: cloudflare
+Cf-Ray: 846372c8e8de365b-FRA
+Alt-Svc: h3=":443"; ma=86400

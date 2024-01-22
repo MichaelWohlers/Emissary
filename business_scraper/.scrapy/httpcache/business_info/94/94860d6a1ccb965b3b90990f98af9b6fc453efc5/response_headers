@@ -1,0 +1,5 @@
+Location: https://www.zoyasatelier.com/
+Server: nginx
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Date: Tue, 16 Jan 2024 11:20:34 GMT

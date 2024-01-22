@@ -1,0 +1,38 @@
+Date: Tue, 16 Jan 2024 07:03:07 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 216
+X-Sorting-Hat-Shopid: 10451976250
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=9d5a423a-1c8f-4aed-aac6-17f767bce680; path=/; expires=Tue, 16 Jan 2024 07:33:07 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 07:03:07 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 07:03:07 GMT; SameSite=Lax
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 07:03:07 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Afalse%2C%22a%22%3Afalse%2C%22m%22%3Afalse%2C%22t%22%3Afalse%7D%2C%22display_banner%22%3Atrue%2C%22sale_of_data_region%22%3Afalse%7D; domain=nytexasstyle.com; path=/; expires=Wed, 17 Jan 2024 07:03:07 GMT; SameSite=Lax
+Set-Cookie: _tracking_consent=%7B%22v%22%3A%222.1%22%2C%22con%22%3A%7B%22CMP%22%3A%7B%22m%22%3A%22%22%2C%22a%22%3A%22%22%2C%22p%22%3A%22%22%2C%22s%22%3A%22%22%7D%7D%2C%22lim%22%3A%5B%22GDPR_BLOCK_ALL%22%5D%2C%22region%22%3A%22DERP%22%2C%22reg%22%3A%22GDPR%22%7D; Expires=Wed, 15-Jan-25 07:03:07 GMT; Domain=nytexasstyle.com; Path=/; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+Etag: "cacheable:b979a500f442af6df859865f0211ef4b"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 10451976250
+X-Shardid: 216
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=14, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="134790185177", servedBy;desc="kgsz", requestID;desc="0b61b88c-0c16-430e-b894-58e5d846e4ce"
+Server-Timing: cfRequestDuration;dur=46.999931
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 0b61b88c-0c16-430e-b894-58e5d846e4ce
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=XHjjcM0j1%2ByU7C%2BdWig1yKNsB0coMQpaEFJ5Oe%2B%2BzimmbrrLN2eVv7qQPLimcjaah%2B2Zt6KkMbqRrlgr0z3l7jAaBlPaeXO1uRQrK%2BLZcMFrF78UByxVaGoXdrl2pjypUX4%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84647f32bc4e65ce-FRA
+Alt-Svc: h3=":443"; ma=86400

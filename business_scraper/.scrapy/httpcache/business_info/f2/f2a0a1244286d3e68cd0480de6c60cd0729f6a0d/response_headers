@@ -1,0 +1,19 @@
+Date: Tue, 16 Jan 2024 11:19:44 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+X-Frame-Options: ALLOW-FROM https://my.bigcartel.com
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Permitted-Cross-Domain-Policies: none
+Referrer-Policy: strict-origin-when-cross-origin
+Strict-Transport-Security: max-age=31556952
+Etag: W/"4e7899e3c252aa0b87c758a723c4eff9"
+Cache-Control: max-age=0, private, must-revalidate
+X-Request-Id: 0efbc206-9c9f-4177-954a-6265bb833c77
+X-Runtime: 0.025447
+Content-Encoding: gzip
+Cf-Cache-Status: MISS
+Set-Cookie: _cfuvid=IgiOOZ9Dgf0Rvspdb9M1w8HLNyTCIaftDSyw8KqOTSg-1705403984658-0-604800000; path=/; domain=.bigcartel.com; HttpOnly; Secure; SameSite=None
+Server: cloudflare
+Cf-Ray: 8465f716aa8f1c2e-FRA

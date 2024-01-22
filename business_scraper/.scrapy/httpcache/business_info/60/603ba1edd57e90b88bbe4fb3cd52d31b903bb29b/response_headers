@@ -1,0 +1,29 @@
+Date: Tue, 16 Jan 2024 11:21:10 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 58
+X-Sorting-Hat-Shopid: 35233464379
+X-Storefront-Renderer-Rendered: 1
+Location: https://passionalboutique.com/
+X-Redirect-Reason: canonical_host_redirection
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 35233464379
+X-Shardid: 58
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=9, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="g577", requestID;desc="8906d092-395a-4b8d-bd11-06e2d7fc2674"
+Server-Timing: cfRequestDuration;dur=34.999847
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 8906d092-395a-4b8d-bd11-06e2d7fc2674
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=p8Ipa63zZYSbOx0eZGM0B1UWCGGIEwTpOcOFGvmvdFkBllvbEmHGO5TXoElLpC%2BpZUCqQ7k6dVCH19jkgxw05pmTEGgSKx68aOIvazeM%2BFxWEZDSLB%2F2VTJ7GlU4qtbpi7Lc4q6gPqQ0KP0%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8465f9313a30917c-FRA
+Alt-Svc: h3=":443"; ma=86400

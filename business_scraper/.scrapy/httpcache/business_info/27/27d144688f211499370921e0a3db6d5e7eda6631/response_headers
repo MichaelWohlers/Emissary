@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 03:59:54 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 252
+X-Sorting-Hat-Shopid: 5234229338
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=4e91dc62-533b-4740-b7fb-14e6ddfc1cff; path=/; expires=Tue, 16 Jan 2024 04:29:54 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 03:59:54 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 03:59:54 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 03:59:54 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=thefind.shop; path=/; expires=Wed, 17 Jan 2024 03:59:54 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=f6f95c1c-3b02-44a3-9d58-a9e56e8076b8; Expires=Wed, 15-Jan-25 03:59:54 GMT; Domain=thefind.shop; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=9d94ac2f-e246-43c8-a6ef-e662b3c8ca75; Expires=Tue, 16-Jan-24 04:29:54 GMT; Domain=thefind.shop; Path=/; SameSite=Lax
+Etag: "cacheable:3f7ff6c77b24de39c721d76fd993c3f3"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 5234229338
+X-Shardid: 252
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=14, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="139479253245", servedBy;desc="njq6", requestID;desc="4d47b6e6-b9cd-4f87-aff7-cb30fdb9f28f"
+Server-Timing: cfRequestDuration;dur=39.999962
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 4d47b6e6-b9cd-4f87-aff7-cb30fdb9f28f
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=ONt755ldz6RlDuboomSnj9J5fJRJOUpMsJuvNxvmdEwD5kMWXY2bkB9PKJt4Qmw%2BuGPNsi5%2F7KgvtdRcPR8n4ntWUBs6LamzPfrihlkWHJ6h5PGPPRsyMCOECdyGss1ttZ4%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846372cf598171d6-FRA
+Alt-Svc: h3=":443"; ma=86400

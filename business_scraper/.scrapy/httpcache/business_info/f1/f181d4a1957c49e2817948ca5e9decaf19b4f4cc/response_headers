@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:36:42 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 62
+X-Sorting-Hat-Shopid: 3417047110
+X-Storefront-Renderer-Rendered: 1
+Location: https://vanillaorchidboutique.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 3417047110
+X-Shardid: 62
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=8, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="5hs5", requestID;desc="11e08ee5-bc8b-486e-9a5e-a88fd619b126"
+Server-Timing: cfRequestDuration;dur=41.000128
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 11e08ee5-bc8b-486e-9a5e-a88fd619b126
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=ftqc2VtGrwcuQOcjE3th6YH1PAczL2T4IddKwhuzJQ%2BrsHZK1jgRfQdua80QM9PvJC%2BwB6MrtGxGvXEP6kAjnySbBR1pCK0k%2FhIzbCy5z96WOgu9GTeBX0GRj6FDZVr0vnL6va5kgOua5mPVnvoM"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84660ff0ef859b7d-FRA
+Alt-Svc: h3=":443"; ma=86400

@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 07:01:30 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 250
+X-Sorting-Hat-Shopid: 15704485
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=f14cce3b-d4f0-42bc-a430-19a20e261964; path=/; expires=Tue, 16 Jan 2024 07:31:30 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 07:01:30 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 07:01:30 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 07:01:30 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=triplevboutique.com; path=/; expires=Wed, 17 Jan 2024 07:01:30 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=947db0e7-13ca-4779-8bd8-708083f89bdf; Expires=Wed, 15-Jan-25 07:01:30 GMT; Domain=triplevboutique.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=80ab6f5c-0070-4940-9db2-d3aa904316b8; Expires=Tue, 16-Jan-24 07:31:30 GMT; Domain=triplevboutique.com; Path=/; SameSite=Lax
+Etag: "cacheable:48fb351fe881cd001732c567bc1852f0"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 15704485
+X-Shardid: 250
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=11;desc="gc:1", db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="76678398027", servedBy;desc="9gm4", requestID;desc="4869b559-a01b-4b54-8eb7-3dbeb43ce8c3"
+Server-Timing: cfRequestDuration;dur=40.999889
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 4869b559-a01b-4b54-8eb7-3dbeb43ce8c3
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Y%2B3CNvbxogzH8laL8mGh0DWQY5%2BarmzWH10%2FE0FlneL3NV849XEq9L9pQIqfIOBYwZ9VdOPvogLVXF4vHAy1Ud0aKgo2Mv3cd6OLp8xHAmwJNxH%2FgRQuXbHSA1tBGXCoN49hpsE%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84647cd0fec54d7a-FRA
+Alt-Svc: h3=":443"; ma=86400

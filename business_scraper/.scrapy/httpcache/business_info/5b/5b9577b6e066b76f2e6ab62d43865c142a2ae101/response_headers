@@ -1,0 +1,8 @@
+Server: nginx
+Date: Tue, 16 Jan 2024 11:54:50 GMT
+Content-Type: text/html; charset=utf-8
+Vary: Cookie
+Location: https://aboveandbeyondps.ca/
+X-Ac: 1.hhn _dfw MISS
+Strict-Transport-Security: max-age=31536000
+Alt-Svc: h3=":443"; ma=86400

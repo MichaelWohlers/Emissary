@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:19:44 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 219
+X-Sorting-Hat-Shopid: 49643749546
+X-Storefront-Renderer-Rendered: 1
+Location: https://www.shopgoldenvb.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 49643749546
+X-Shardid: 219
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=10, db;dur=5, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="k7hn", requestID;desc="e15173be-805e-45f5-a2f4-ff4e8ae82efb"
+Server-Timing: cfRequestDuration;dur=39.999962
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: e15173be-805e-45f5-a2f4-ff4e8ae82efb
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=ln6Sfc68Zx%2Baz85upmXBLycMp4Ncld6t4uEPw5EjhbzPnnV1HwxUAtd41b7JstEplVcxai9pIr2K4npgtA7lYTLjtLFvuKnJPAypNW0q1q7QZwKeF8t4BTQqkgsEjISK5RlXxH7a"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8465f716bb93997a-FRA
+Alt-Svc: h3=":443"; ma=86400

@@ -1,0 +1,24 @@
+Content-Length: 9905
+Content-Type: text/html; charset=UTF-8
+Server: Apache
+Cache-Control: no-cache, private
+Content-Security-Policy-Report-Only: default-src 'self'; script-src * 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; img-src * data: android-webview-video-poster:; font-src * data:; connect-src *; media-src * blob:; frame-src * blob: navigate:; worker-src 'self' blob:; frame-ancestors https://commentsold.com dashboard.popshop.live dashboard.dev.popshop.live; form-action 'self' www.facebook.com tr.snapchat.com pos.commentsold.com; object-src 'none'; manifest-src *; child-src 'self' blob:; report-uri https://o43862.ingest.sentry.io/api/239693/security/?sentry_key=deb2fc6b7d104f7ea6241356c26c14d0
+X-Robots-Tag: all
+X-Request-Id: b05f5084-b770-4252-8492-0d391a0a8b4d
+Set-Cookie: laravel_session=eyJpdiI6ImJabnFLN2lwMEltV1d6SFdZeThVQmc9PSIsInZhbHVlIjoiMXI5QWZlWkRmTjlwUTJLTHg5TnB1bHR5MWE1MC9Wc01pd040SUhjdzFLQWhhZmZpRDh4cEcvcHJVYy9FNUJuQ3BxQXFPMEJDblQ0ODJtaUQ4UUR2ZmlRUjI4VTk3b2R5ZnorMjliWWtqbHQ3YVozWHgxZm5OSU1YVUlEYzR0OU0iLCJtYWMiOiJmZTQyMWQ0ZmQ5ZjhkZmRkMzllOWJlNGZhN2Q1MDYyMmVlMjQ5MzA4YjI0MmY2M2NlOGE3NzQ1ZjIwNjJlMDgxIiwidGFnIjoiIn0%3D; expires=Sat, 16 Mar 2024 11:44:56 GMT; Max-Age=5184000; path=/; secure; httponly; samesite=none
+Set-Cookie: Skoq3WLHenoIQsEMC9zwvVasa0yFztePbHMeuOwc=eyJpdiI6IkoxNUxLVUs4VFJjZjZ1MFZScW5nemc9PSIsInZhbHVlIjoiaGZ2RUYyUzVxNFlZc0tNdG50MUdmOXJtMkMrOGxFOWczN0tDbldZN0YxNGtoYmxxeWgzb3Fkckx0eGhYbVVkRWtSMklmcTZLQ1Q4YWVLNkpRa0diakxGcTVsTitVMlpCbzNwRnVTWjFLQlhmVnlwUlpHKzhERGRaQWpKdm1BRU0wdmdXOEpHVW9zOTlzd1orc1M0enpMUEpIQWhBYjRRWW1xaUJvUVhuMHUyb2ZVQUZaMjh0M1pxcW5HdHlLVTJTNFlDckRvVC81RXVzUkV6UFRJbnR3UkZXMGtZM2tBVEhWV2RCMnV0Q3JVNlU3T3QrU3cxQmE4RWtTMmRnL3JqNFA5Wk1lWXpVN2FNWVlhUlpHbzl5NHpQdldDSHZoYVZIY0RFT1pscUZVVHArbUs5elYvK0xjVk11eStSdXNxTHVtOVZLZmF3YUdSUlA3YlFRTjRuVHRxVTBFUDJidzNXL1pYY2x0cmpKRlVua2dCNi9ZWjcrWGxYd00yc3BWQzd6VkpKbEkreks1WE1ra0phL2tvNUZvcHJZbkZURUxrVnRzcEJpZ2JIMllRZXAra2RzRjdSdEd4bHhiaUljUHVnNFRpODBSVlZVWWNsRllPWFdqZSs3Yk9tcVFlZzRaOFI4STdaL3ArMG8rMmJvQkRHVzBpQUxsV052Z2ZWSDNXMk4iLCJtYWMiOiIxOTNhZDUyNmI5M2ZmNDdjZDdmMzI3MmY3ZjJiMDliODYzZTcyY2NkNDAwY2IwMDU4ZTkzNmY0NWU5N2RkZWJhIiwidGFnIjoiIn0%3D; expires=Sat, 16 Mar 2024 11:44:56 GMT; Max-Age=5184000; path=/; secure; httponly; samesite=none
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST, GET, OPTIONS, DELETE, PUT
+Access-Control-Max-Age: 1000
+Access-Control-Allow-Headers: x-requested-with, Content-Type, origin, authorization, accept, client-security-token, Accept-Encoding
+Content-Encoding: gzip
+Accept-Ranges: bytes
+Via: 1.1 varnish, 1.1 varnish
+X-Cacheable: NO:Set-Cookie
+Date: Tue, 16 Jan 2024 11:44:56 GMT
+X-Served-By: cache-chi-kigq8000122-CHI, cache-fra-eddf8230114-FRA
+X-Cache: MISS, MISS
+X-Cache-Hits: 0, 0
+X-Timer: S1705405496.105549,VS0,VE224
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=900

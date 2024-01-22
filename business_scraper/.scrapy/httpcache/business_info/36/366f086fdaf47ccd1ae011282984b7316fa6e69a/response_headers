@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:43:53 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 157
+X-Sorting-Hat-Shopid: 41628139678
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=be67d389-a10c-4a7d-b5aa-477df730e23a; path=/; expires=Tue, 16 Jan 2024 12:13:53 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:43:53 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:43:53 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:43:53 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=freespiritsboutique.com; path=/; expires=Wed, 17 Jan 2024 11:43:53 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=ed90fa01-9ca3-4e56-bc4d-c196d5aba3a3; Expires=Wed, 15-Jan-25 11:43:53 GMT; Domain=freespiritsboutique.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=af0d688b-7d9d-4834-8264-9578a54e3d0a; Expires=Tue, 16-Jan-24 12:13:53 GMT; Domain=freespiritsboutique.com; Path=/; SameSite=Lax
+Etag: "cacheable:5aa6a25a95cacea8c76e36d422a52db4"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 41628139678
+X-Shardid: 157
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=14, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="133205393566", servedBy;desc="2pxx", requestID;desc="d7d3dbe8-c77b-4cb8-841f-c5dd4a492574"
+Server-Timing: cfRequestDuration;dur=54.000139
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: d7d3dbe8-c77b-4cb8-841f-c5dd4a492574
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=nZ8O5szxMp8sqHzuU8tsjxJlswsCDBHw%2Bm5M3G4Gv4otbpOatOaUNMY6MbipMmOe6KIdjFsNSOKoR%2BpJFyaZJIObYf%2BuB9Uk5MGpP8TDw9u5vTJDBLpZGRwLUH%2BqREsV9%2BsUk5YBv%2FBk"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661a749cb618f3-FRA
+Alt-Svc: h3=":443"; ma=86400

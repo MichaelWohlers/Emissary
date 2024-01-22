@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 04:00:34 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 186
+X-Sorting-Hat-Shopid: 21289837
+X-Storefront-Renderer-Rendered: 1
+Location: https://acoz2.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 21289837
+X-Shardid: 186
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=9, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="rl49", requestID;desc="39962644-2f37-4a0a-9c5d-0518cb2ef121"
+Server-Timing: cfRequestDuration;dur=36.000013
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 39962644-2f37-4a0a-9c5d-0518cb2ef121
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=jFAeERAvnQAeWqIpMwZZ0ree0qdtMEnfpBDLCaDbeWglkZvXoALResRDf%2BZY3LnkBql68qeJd5AeqHLKSMGD96Sgn9pekGa%2FsFuwu7tr3YJ2dlb1TuSKAQeZ9AC%2BiU4%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846373c56d9937ec-FRA
+Alt-Svc: h3=":443"; ma=86400

@@ -1,0 +1,12 @@
+Server: nginx
+Date: Tue, 16 Jan 2024 11:54:20 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+X-Powered-By: WP Engine
+Link: <https://www.bolenzjewelry.com/wp-json/>; rel="https://api.w.org/"
+X-Cacheable: CacheAlways: forever
+Cache-Control: max-age=14400, must-revalidate
+X-Cache: MISS
+Content-Encoding: gzip

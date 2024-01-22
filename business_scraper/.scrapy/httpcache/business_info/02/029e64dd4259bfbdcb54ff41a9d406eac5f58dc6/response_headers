@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:02:21 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 314
+X-Sorting-Hat-Shopid: 13179855
+X-Storefront-Renderer-Rendered: 1
+Location: https://www.heelsnspurs.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 13179855
+X-Shardid: 314
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=9, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="qzkn", requestID;desc="bbcd5f12-47a3-4884-9b0b-d640b45aee86"
+Server-Timing: cfRequestDuration;dur=36.999941
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: bbcd5f12-47a3-4884-9b0b-d640b45aee86
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=EKtz0VyET2ksveJTNGKlMgRe2v4FMiWXqYxcC%2Bb%2BNM3wrMnaraEr2h2e1zrPxwNhjoanaHDpVLIBiFo1bC40DNOHULai04FA0GvZqBNMApCqvOTUL%2BM%2BuUiaY%2FhqCt5QrIFa4lY%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8465dd9f68d85b26-FRA
+Alt-Svc: h3=":443"; ma=86400

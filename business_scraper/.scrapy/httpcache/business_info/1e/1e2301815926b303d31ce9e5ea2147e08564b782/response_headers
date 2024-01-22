@@ -1,0 +1,41 @@
+Date: Tue, 16 Jan 2024 11:45:36 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 172
+X-Sorting-Hat-Shopid: 55122952365
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=0ca83737-ef3a-48f5-a576-77dca11af405; path=/; expires=Tue, 16 Jan 2024 12:15:36 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:45:36 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 11:45:36 GMT; SameSite=Lax
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:45:36 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=alanisfashionboutique.com; path=/; expires=Wed, 17 Jan 2024 11:45:36 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=727c7e7b-b6a9-435d-8995-26d816039d41; Expires=Wed, 15-Jan-25 11:45:36 GMT; Domain=alanisfashionboutique.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=52910e8b-09bc-4522-bc25-299411c4415b; Expires=Tue, 16-Jan-24 12:15:36 GMT; Domain=alanisfashionboutique.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 11:45:36 GMT; Domain=alanisfashionboutique.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2F; Expires=Tue, 30-Jan-24 11:45:36 GMT; Domain=alanisfashionboutique.com; Path=/; HttpOnly; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+Etag: "cacheable:6c078fcafc6c6d00987f3dd330dffb74"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 55122952365
+X-Shardid: 172
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=202, db;dur=66, render;dur=110, wasm, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="132180115629", pageType;desc="index", servedBy;desc="6kmk", requestID;desc="a8e3b164-99a9-4ef3-9e49-e0df5c403afb"
+Server-Timing: cfRequestDuration;dur=237.999916
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: a8e3b164-99a9-4ef3-9e49-e0df5c403afb
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=7h%2BCAFy%2BR3uBaC3eyIr639KdJII%2Fa5UbGkWHeBTH6uuyr54KeDDr7F80TZwx5PfxkdrNtUEUYiHxat6QvHc66%2FDte8p3BBCwljrjseHPwNoXEnY5UouByTfkhFlQGzI9w8AS3JNjID2y9ZNW7kjS"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661cf89a3765c3-FRA
+Alt-Svc: h3=":443"; ma=86400

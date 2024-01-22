@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 03:59:55 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 248
+X-Sorting-Hat-Shopid: 57841877189
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=828f7e6a-8a66-45a4-a89c-cb644bb1307b; path=/; expires=Tue, 16 Jan 2024 04:29:55 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 03:59:55 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 03:59:55 GMT
+Set-Cookie: cart_currency=EUR; path=/; expires=Tue, 30 Jan 2024 03:59:55 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=binfordgirlsboutique.com; path=/; expires=Wed, 17 Jan 2024 03:59:55 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=04bad355-01cf-4ace-945e-4b589d763396; Expires=Wed, 15-Jan-25 03:59:55 GMT; Domain=binfordgirlsboutique.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=14c294c5-af64-4e9c-927d-39977a39da1d; Expires=Tue, 16-Jan-24 04:29:55 GMT; Domain=binfordgirlsboutique.com; Path=/; SameSite=Lax
+Etag: "cacheable:322ced274011c3261a75b900de0649e0"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 57841877189
+X-Shardid: 248
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=72;desc="gc:60", db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="134987972857", servedBy;desc="xb7l", requestID;desc="14d348df-99aa-4191-977c-658dc0199400"
+Server-Timing: cfRequestDuration;dur=97.999811
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 14d348df-99aa-4191-977c-658dc0199400
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=YJdG3d33POEc1fOXB%2FS11VclNn3TG1ZsvW5DkXGKWcaoLOtRjOCf4h4xThZQ7pCrIxgYHcmGTM12iI4udElVBWu2g3Sg0PPQNjix6tgjA2gUnwPzI3%2Fa9DKjz3q4U1M8ewfBvvJkw8fr6g%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846372d49f528fee-FRA
+Alt-Svc: h3=":443"; ma=86400

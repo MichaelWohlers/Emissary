@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:21:17 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 237
+X-Sorting-Hat-Shopid: 11251484
+X-Storefront-Renderer-Rendered: 1
+Location: https://www.nicheessence.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 11251484
+X-Shardid: 237
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=7, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="sdbg", requestID;desc="0531091a-1679-48b4-b97e-aa3e091a0836"
+Server-Timing: cfRequestDuration;dur=29.999971
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 0531091a-1679-48b4-b97e-aa3e091a0836
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=ggEmqiOaytBbtzDektxln4gaYVbE7yYYZ6Pb75aaL3o7ovpRpJzmYVg7TodlbhguIiaw6Hc088Slhgf6OCX4570x8l4QHPQOViHDy7bIKBIGLx8wvUCQ8g5q2zVej3W6qij8gx%2B5"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8465f95ec9549b8c-FRA
+Alt-Svc: h3=":443"; ma=86400

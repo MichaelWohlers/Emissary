@@ -1,0 +1,41 @@
+Date: Tue, 16 Jan 2024 11:33:41 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 296
+X-Sorting-Hat-Shopid: 9308114
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=24941758-e362-452a-9e41-1367627a5367; path=/; expires=Tue, 16 Jan 2024 12:03:41 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:33:41 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:33:41 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:33:41 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=shopsoulrevival.com; path=/; expires=Wed, 17 Jan 2024 11:33:41 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=b2b06a13-63ed-4895-8a00-3dd0497cbfd4; Expires=Wed, 15-Jan-25 11:33:41 GMT; Domain=shopsoulrevival.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=c6d29564-3e21-49f7-8dfd-5cecae2c03d3; Expires=Tue, 16-Jan-24 12:03:41 GMT; Domain=shopsoulrevival.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 11:33:41 GMT; Domain=shopsoulrevival.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2Fcollections%2Fnew-arrivals-restocks; Expires=Tue, 30-Jan-24 11:33:41 GMT; Domain=shopsoulrevival.com; Path=/; HttpOnly; SameSite=Lax
+Etag: "cacheable:001cccaa32f3023052187326768d5db0"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 9308114
+X-Shardid: 296
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=13, db;dur=5, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="121718636629", pageType;desc="collection", servedBy;desc="672c", requestID;desc="d3f7e4d4-aaac-4111-91ee-56fc26e33e2b"
+Server-Timing: cfRequestDuration;dur=43.999910
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: d3f7e4d4-aaac-4111-91ee-56fc26e33e2b
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=8%2BEQadxF0BHkDFfBJvWfdxs2YqCj1uTJd7K8wDxJrH9rqCJRDnV2%2FS4I93ZKie8qfknp0DvfrH7W8T11tIkvejvGkNb658IXucQpZO%2BkxrKdWm%2FgrRxDbh4ToZ6HcaSNU6VlT8sshfXC"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84660b875e2f5c9e-FRA
+Alt-Svc: h3=":443"; ma=86400

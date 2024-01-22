@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:54:17 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 255
+X-Sorting-Hat-Shopid: 1893269569
+X-Storefront-Renderer-Rendered: 1
+Location: https://ivyharborsprings.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 1893269569
+X-Shardid: 255
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=7, db;dur=2, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="qv2n", requestID;desc="bb4bd710-25a4-464d-a854-733b52be67c5"
+Server-Timing: cfRequestDuration;dur=36.999941
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: bb4bd710-25a4-464d-a854-733b52be67c5
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=4Is18FaPtRWiAJtCUh7rVSXyczy92JEBh74uHF0wzcvOWpPwrT%2FVyz2W5hJVxj8TsYIoJLwrHw3pAW%2F7w1NMCo83Nm4ITLuXvtGxvRemb3OJJcwgdxrtVgX6TG%2BERDVkM6acKLc3QclPiQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846629b08cc95d51-FRA
+Alt-Svc: h3=":443"; ma=86400

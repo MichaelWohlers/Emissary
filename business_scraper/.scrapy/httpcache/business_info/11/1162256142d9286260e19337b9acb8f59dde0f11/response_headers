@@ -1,0 +1,42 @@
+Date: Tue, 16 Jan 2024 11:42:15 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 190
+X-Sorting-Hat-Shopid: 15725756470
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=d683bfe8-ceda-4236-8526-b5223634da6e; path=/; expires=Tue, 16 Jan 2024 12:12:15 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:42:15 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 11:42:15 GMT
+Set-Cookie: cart_currency=EUR; path=/; expires=Tue, 30 Jan 2024 11:42:15 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=abejareinaboutique.com; path=/; expires=Wed, 17 Jan 2024 11:42:15 GMT; SameSite=Lax
+Set-Cookie: _tracking_consent=%7B%22con%22%3A%7B%22CMP%22%3A%7B%22s%22%3A%22%22%2C%22m%22%3A%22%22%2C%22a%22%3A%22%22%2C%22p%22%3A%22%22%7D%7D%2C%22lim%22%3A%5B%22CCPA%22%5D%2C%22v%22%3A%222.1%22%2C%22region%22%3A%22DERP%22%2C%22reg%22%3A%22GDPR%22%7D; Expires=Wed, 15-Jan-25 11:42:15 GMT; Domain=abejareinaboutique.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_y=f6a98faf-d30b-4905-bd4e-fd9be2f1d970; Expires=Wed, 15-Jan-25 11:42:15 GMT; Domain=abejareinaboutique.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=c4739e28-c2ef-4ff6-af63-c80750545418; Expires=Tue, 16-Jan-24 12:12:15 GMT; Domain=abejareinaboutique.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 11:42:15 GMT; Domain=abejareinaboutique.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2F; Expires=Tue, 30-Jan-24 11:42:15 GMT; Domain=abejareinaboutique.com; Path=/; HttpOnly; SameSite=Lax
+Etag: "cacheable:3bc423ec483fe9470a656da1646649cf"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 15725756470
+X-Shardid: 190
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=15, db;dur=5, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="126977704127", pageType;desc="index", servedBy;desc="bjmm", requestID;desc="b34c25f5-8c5a-4ce6-84f2-ae46b8eda226"
+Server-Timing: cfRequestDuration;dur=48.000097
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west4,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: b34c25f5-8c5a-4ce6-84f2-ae46b8eda226
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=SV0wJF9oIlF36ERt7zqoxMl0K5vEnABh3cHSX4gu8A%2FiZ6Dm1yngJiAfh0n6oey30dP%2BctdUPvFKzJzoDckqxPk0XteU01mlue3fkb3RmdHnt5%2FCgSYVEdV4FEe1YS6TlwtdYiZVXl0%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661811dea8bbef-FRA
+Alt-Svc: h3=":443"; ma=86400

@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:33:49 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 291
+X-Sorting-Hat-Shopid: 70804504868
+X-Storefront-Renderer-Rendered: 1
+Location: https://www.aislingeboutique.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 70804504868
+X-Shardid: 291
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=6, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="2jm5", requestID;desc="a11b02d3-c183-4487-b6b4-eb9bd1d8d1ef"
+Server-Timing: cfRequestDuration;dur=52.999973
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: a11b02d3-c183-4487-b6b4-eb9bd1d8d1ef
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=tN8iGVrYac8uUZP5hMD579bVwldsH9sYRYxuzn9tosmfAMUG8Ele3q26uvpzfulfsFG5mwJp8Z4M5Q%2BuViejHjxyBspICD0Z1hFr%2FEg6IE73OiC3bGQdawK7g%2FQPd9tCzQS9g3vT3ZfF2g%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84660bb69beabb67-FRA
+Alt-Svc: h3=":443"; ma=86400

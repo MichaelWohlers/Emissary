@@ -1,0 +1,41 @@
+Date: Tue, 16 Jan 2024 11:02:40 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 137
+X-Sorting-Hat-Shopid: 55415242890
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=942ee8e8-b763-4f32-bd88-f11314c4acd6; path=/; expires=Tue, 16 Jan 2024 11:32:40 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:02:40 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:02:40 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:02:40 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=modchiccouture.com; path=/; expires=Wed, 17 Jan 2024 11:02:40 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=390bc8cc-94cb-4728-9be4-5550bce13b26; Expires=Wed, 15-Jan-25 11:02:40 GMT; Domain=modchiccouture.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=1c936cdd-1b26-4985-ad08-817d621f2717; Expires=Tue, 16-Jan-24 11:32:40 GMT; Domain=modchiccouture.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 11:02:40 GMT; Domain=modchiccouture.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2F; Expires=Tue, 30-Jan-24 11:02:40 GMT; Domain=modchiccouture.com; Path=/; HttpOnly; SameSite=Lax
+Etag: "cacheable:00aaba9d57e347991fe7ff70a6e6bd28"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin, <//modchiccouture.com/cdn/shop/files/Untitled_design_1_SN.png?v=1686670451&width=600>; as="image"; rel="preload"; imagesrcset="//modchiccouture.com/cdn/shop/files/Untitled_design_1_SN.png?v=1686670451&width=150 150w, //modchiccouture.com/cdn/shop/files/Untitled_design_1_SN.png?v=1686670451&width=225 225w, //modchiccouture.com/cdn/shop/files/Untitled_design_1_SN.png?v=1686670451&width=300 300w"; imagesizes="(max-width: 300px) 50vw, 150px"
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 55415242890
+X-Shardid: 137
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=10, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="130641821834", pageType;desc="index", servedBy;desc="sdbg", requestID;desc="daab51bf-caea-473e-a7de-4db16021bfc2"
+Server-Timing: cfRequestDuration;dur=39.999962
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: daab51bf-caea-473e-a7de-4db16021bfc2
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=aChW8vVvxUNwMfjtrvp3cdIys7ZXYreiP7LGT10Mw3LhmaAUagAHDojAjTEnn48Tx4r8RyFEwL6lJv71guY%2FgzftCSiTLbK6PB4EpTgfcBwU9Faf22QgxDXBy51kuHPTIsjprQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8465de17bb7590fe-FRA
+Alt-Svc: h3=":443"; ma=86400

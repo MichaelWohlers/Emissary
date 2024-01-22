@@ -1,0 +1,19 @@
+Server: Sucuri/Cloudproxy
+Date: Tue, 16 Jan 2024 12:02:19 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sucuri-Id: 15006
+X-Xss-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: upgrade-insecure-requests;
+Vary: Accept-Encoding
+X-Cache-Enabled: True
+X-Robots-Tag: noindex, follow
+Link: <https://www.richtersmenswear.com/wp-json/>; rel="https://api.w.org/"
+X-Httpd: 1
+Host-Header: 8441280b0c35cbc1147f8ba998a563a7
+X-Proxy-Cache: HIT
+Content-Encoding: gzip
+Expires: Thu, 31 Dec 2037 23:55:55 GMT
+Cache-Control: max-age=315360000
+X-Sucuri-Cache: HIT

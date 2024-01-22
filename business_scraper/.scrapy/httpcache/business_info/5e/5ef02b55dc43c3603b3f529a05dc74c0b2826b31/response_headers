@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:47:53 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 224
+X-Sorting-Hat-Shopid: 27706720371
+X-Storefront-Renderer-Rendered: 1
+Location: https://adorn-boutique.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 27706720371
+X-Shardid: 224
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=5, db;dur=2, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="x6bp", requestID;desc="92f55185-4a1a-4d8d-b3e1-6b92b3a1647f"
+Server-Timing: cfRequestDuration;dur=32.999992
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 92f55185-4a1a-4d8d-b3e1-6b92b3a1647f
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=O4BeJDryA9N5qqFUWmreEEd000hPvXglHgWC1ro6cxmhL0OKN9Minz91HRV3g9hCn%2BNRPJYrpN8OVVLPW5q%2Bc0OcT4uAMfNtpzSH%2BXvB64t%2By9fkGUCpc0Xypbuc8EnbOuBGA1F072Y%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846620523d939048-FRA
+Alt-Svc: h3=":443"; ma=86400

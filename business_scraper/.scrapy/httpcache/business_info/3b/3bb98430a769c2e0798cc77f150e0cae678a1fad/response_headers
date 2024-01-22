@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:20:05 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 275
+X-Sorting-Hat-Shopid: 8783880
+X-Storefront-Renderer-Rendered: 1
+Location: https://www.mystiqueboutiquenyc.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 8783880
+X-Shardid: 275
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=11, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="gskx", requestID;desc="b7d9de2d-540d-44aa-9f8b-a00db7dccca1"
+Server-Timing: cfRequestDuration;dur=253.000021
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: b7d9de2d-540d-44aa-9f8b-a00db7dccca1
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=20XrHuYcjUt0uaRC5%2B131PoLqKsPqPT0StBOtY5CmOaEv1PbKM3%2BR2UtdqUaZ5DSMp1EjXT7e1M6FtSksKXJTHU3NuU5d5wt43PN%2FZkBB%2B7g32svuF5h8uoqmyvZrgQqD0yFPL15Qvu2m5CBzA%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8465f7986ddc1a86-FRA
+Alt-Svc: h3=":443"; ma=86400

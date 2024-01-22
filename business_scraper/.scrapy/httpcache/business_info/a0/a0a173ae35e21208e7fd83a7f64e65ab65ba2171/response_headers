@@ -1,0 +1,12 @@
+Content-Length: 67
+Server: nginx
+Date: Tue, 16 Jan 2024 11:42:51 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+X-Powered-By: WP Engine
+X-Robots-Tag: noindex, follow
+Link: <https://myformals.com/wp-json/>; rel="https://api.w.org/"
+X-Cacheable: CacheAlways: forever
+Cache-Control: max-age=14400, must-revalidate
+Accept-Ranges: bytes
+X-Cache: HIT: 1

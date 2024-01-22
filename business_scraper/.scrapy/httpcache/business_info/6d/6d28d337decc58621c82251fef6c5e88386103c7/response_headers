@@ -1,0 +1,41 @@
+Date: Tue, 16 Jan 2024 11:02:52 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 276
+X-Sorting-Hat-Shopid: 73850716437
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=ab6893be-52f0-4d8b-8dd8-29318b1b6dad; path=/; expires=Tue, 16 Jan 2024 11:32:52 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:02:52 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 11:02:52 GMT
+Set-Cookie: cart_currency=EUR; path=/; expires=Tue, 30 Jan 2024 11:02:52 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=demurestylez.com; path=/; expires=Wed, 17 Jan 2024 11:02:52 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=4a0f023b-a32c-4bbe-9892-93c39c933df3; Expires=Wed, 15-Jan-25 11:02:52 GMT; Domain=demurestylez.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=d77269cf-11b3-41cf-9ba3-9b5e6ff2ab5a; Expires=Tue, 16-Jan-24 11:32:52 GMT; Domain=demurestylez.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 11:02:52 GMT; Domain=demurestylez.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2F; Expires=Tue, 30-Jan-24 11:02:52 GMT; Domain=demurestylez.com; Path=/; HttpOnly; SameSite=Lax
+Etag: "cacheable:7dabb5d1cdbd125f3fccff557b12cec7"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin, <//demurestylez.com/cdn/shop/t/1/assets/pagefly-main.css?v=101508702348923859031690430164>; as="style"; rel="preload", <//demurestylez.com/cdn/shop/t/1/assets/component-localization-form.css?v=173603692892863148811680122949>; as="style"; rel="preload", <//demurestylez.com/cdn/shop/files/logo.jpg?v=1680715113&width=600>; as="image"; rel="preload"; imagesrcset="//demurestylez.com/cdn/shop/files/logo.jpg?v=1680715113&width=180 180w, //demurestylez.com/cdn/shop/files/logo.jpg?v=1680715113&width=270 270w, //demurestylez.com/cdn/shop/files/logo.jpg?v=1680715113&width=360 360w"; imagesizes="(max-width: 360px) 50vw, 180px"
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 73850716437
+X-Shardid: 276
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=15, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="146572247317", pageType;desc="index", servedBy;desc="gskx", requestID;desc="f2b3c1b6-f772-40f0-948e-0b721478607c"
+Server-Timing: cfRequestDuration;dur=52.000046
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: f2b3c1b6-f772-40f0-948e-0b721478607c
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=T0FUqGamNRg7z4yOdvF09%2FR1ljM2IzkFP5RmzeItH3CZFvIaXhzmegGeRZBUweKkvqsRTEgVxgguB7t3Q53EEH%2B2HLonQ1JVjBrQNOljVJE3qiiF6iBtKbf4mErcWk2zP3k%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8465de628e2dbbdf-FRA
+Alt-Svc: h3=":443"; ma=86400

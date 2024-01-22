@@ -1,0 +1,21 @@
+Date: Tue, 16 Jan 2024 11:02:57 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding,Cookie
+Link: <https://mayasdesiboutique.com/wp-json/>; rel="https://api.w.org/"
+Link: <https://mayasdesiboutique.com/wp-json/wp/v2/pages/51>; rel="alternate"; type="application/json"
+Link: <https://mayasdesiboutique.com/?p=51>; rel=shortlink
+X-Powered-By: WP Engine
+X-Cacheable: SHORT
+Cache-Control: max-age=600, must-revalidate
+X-Cache: HIT: 1
+X-Cache-Group: normal
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=sqAS9OzyxGFwosGgrMx33nq2S2voC1F16YQ53P7g9iibK0MmOMgfpx8BIHCF93YA9Bi4pJi0EAJu9lLsWUfa2p1CAXPJmaoAsdDlNSkboirMkbEEWDREiM8f%2Fyi9ngS2VZUJC4Nx6Fo%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8465de82ae8ed52a-CDG
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400

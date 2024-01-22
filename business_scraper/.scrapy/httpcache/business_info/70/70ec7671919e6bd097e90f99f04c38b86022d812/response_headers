@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:45:45 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 158
+X-Sorting-Hat-Shopid: 62684954783
+X-Storefront-Renderer-Rendered: 1
+Location: https://pookiedinero.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 62684954783
+X-Shardid: 158
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=13;desc="gc:1", db;dur=5, asn;desc="3209", edge;desc="FRA", country;desc="DE", pageType;desc="index", servedBy;desc="cnml", requestID;desc="8a14d842-a9b0-4f2d-959b-f6452e9640a0"
+Server-Timing: cfRequestDuration;dur=43.999910
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 8a14d842-a9b0-4f2d-959b-f6452e9640a0
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Ee7ejjA8%2FIqYkB3CXli03OF3Sf6z5l8CU0z7Ed52eILmkQNK7N09DQEImLmhGrq40%2FAm8%2BuFg8dKP8p0TAf4HAG3iFn48cEy%2Fez%2B6hfJ9ZiR%2BiFjoyPEwFilJZfta0Epr%2FU%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 84661d350ecb1c9f-FRA
+Alt-Svc: h3=":443"; ma=86400

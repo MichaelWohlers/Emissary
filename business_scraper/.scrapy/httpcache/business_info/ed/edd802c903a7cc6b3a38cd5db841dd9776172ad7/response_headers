@@ -1,0 +1,40 @@
+Date: Tue, 16 Jan 2024 12:04:26 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 257
+X-Sorting-Hat-Shopid: 23944825
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=f469a120-61da-442d-8c1b-826bc1594c00; path=/; expires=Tue, 16 Jan 2024 12:34:26 GMT; secure; HttpOnly; SameSite=None
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 12:04:26 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=CA; path=/; expires=Thu, 16 Jan 2025 12:04:26 GMT
+Set-Cookie: cart_currency=CAD; path=/; expires=Tue, 30 Jan 2024 12:04:26 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=jbevans.ca; path=/; expires=Wed, 17 Jan 2024 12:04:26 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=b2813318-36a6-4636-9cce-d76576ee7b60; Expires=Wed, 15-Jan-25 12:04:26 GMT; Domain=jbevans.ca; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=91d4ecf4-5c25-4da6-b0b1-ff1e9c29e9dd; Expires=Tue, 16-Jan-24 12:34:26 GMT; Domain=jbevans.ca; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 12:04:26 GMT; Domain=jbevans.ca; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2F; Expires=Tue, 30-Jan-24 12:04:26 GMT; Domain=jbevans.ca; Path=/; HttpOnly; SameSite=Lax
+Etag: "cacheable:13e31e4f9579bb5346b528eb04b6777e"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin, <//jbevans.ca/cdn/shop/t/23/assets/component-localization-form.css?v=143319823105703127341704567120>; as="style"; rel="preload", <//jbevans.ca/cdn/shop/files/jbevans-logo_for-site.png?v=1613516885&width=600>; as="image"; rel="preload"; imagesrcset="//jbevans.ca/cdn/shop/files/jbevans-logo_for-site.png?v=1613516885&width=100 100w, //jbevans.ca/cdn/shop/files/jbevans-logo_for-site.png?v=1613516885&width=150 150w, //jbevans.ca/cdn/shop/files/jbevans-logo_for-site.png?v=1613516885&width=200 200w"; imagesizes="(max-width: 200px) 50vw, 100px"
+X-Cache: hit, server
+Content-Security-Policy: block-all-mixed-content; frame-ancestors *; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 23944825
+X-Shardid: 257
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=10, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="139056218370", pageType;desc="index", servedBy;desc="pqvk", requestID;desc="926b177e-bd4d-4568-8b3f-3812dd93e867"
+Server-Timing: cfRequestDuration;dur=37.000179
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 926b177e-bd4d-4568-8b3f-3812dd93e867
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=juktX4P%2Bl8QClxPPbuzEiEhalLsrMnCbVsazkA%2FxIjjcWtrnz%2Bik4ANMtEpN0H6xZlhEN76h6F0e9T%2F5sH%2Bd6afvLXUlWNATLXLcPTTLGPPmyEdMkf%2Fh2icCFEk%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8466389029afbb74-FRA
+Alt-Svc: h3=":443"; ma=86400

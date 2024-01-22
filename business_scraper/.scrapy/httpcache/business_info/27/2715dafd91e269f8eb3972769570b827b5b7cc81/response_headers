@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:19:51 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 234
+X-Sorting-Hat-Shopid: 47170486428
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=3abee59d-107c-4a22-925a-81a47121b9ba; path=/; expires=Tue, 16 Jan 2024 11:49:51 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:19:51 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 11:19:51 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:19:51 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=vintagevibesboutique607.com; path=/; expires=Wed, 17 Jan 2024 11:19:51 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=4558dadc-ff2f-4a51-a8ce-350c27f2bd33; Expires=Wed, 15-Jan-25 11:19:51 GMT; Domain=vintagevibesboutique607.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=9eecbb4a-c49e-4bc6-a83d-06da4d16c583; Expires=Tue, 16-Jan-24 11:49:51 GMT; Domain=vintagevibesboutique607.com; Path=/; SameSite=Lax
+Etag: "cacheable:86f6efe2dbc51d33ccdb3f0c28d435bd"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 47170486428
+X-Shardid: 234
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=11, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="138415210731", servedBy;desc="mxgx", requestID;desc="dc58a78d-5e9b-4a64-90ea-4587f1b438b8"
+Server-Timing: cfRequestDuration;dur=37.999868
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: dc58a78d-5e9b-4a64-90ea-4587f1b438b8
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=KUD3t5qlj7wB6WaIrOCQFhXioNG9PqozR4q7a7AUtcUnGaMTP%2BpKJ78o6iUyjkJZgnpo%2FnT4Yq%2Fns%2FOCXhP2j1aie4qSAEZ7S%2BIEnGAi1RPshvH3fPUN3S70lXxptNbMUL9gCO9cY6eHKjICcg%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8465f7423ad7193c-FRA
+Alt-Svc: h3=":443"; ma=86400

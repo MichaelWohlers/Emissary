@@ -1,0 +1,41 @@
+Date: Tue, 16 Jan 2024 11:40:06 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 224
+X-Sorting-Hat-Shopid: 2209362
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=f5d73fce-17d2-483a-b728-300d09c9f165; path=/; expires=Tue, 16 Jan 2024 12:10:06 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:40:06 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/; expires=Thu, 16 Jan 2025 11:40:06 GMT
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:40:06 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=pistolsnvixens.com; path=/; expires=Wed, 17 Jan 2024 11:40:06 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=70f6287e-bf28-40b3-95b2-00518f302b3f; Expires=Wed, 15-Jan-25 11:40:06 GMT; Domain=pistolsnvixens.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=e2acd17d-18b3-4010-b24f-1095382f8d6c; Expires=Tue, 16-Jan-24 12:10:06 GMT; Domain=pistolsnvixens.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=; Expires=Tue, 30-Jan-24 11:40:06 GMT; Domain=pistolsnvixens.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2F; Expires=Tue, 30-Jan-24 11:40:06 GMT; Domain=pistolsnvixens.com; Path=/; HttpOnly; SameSite=Lax
+Etag: "cacheable:7b1e0b7372d1bb94adc838ab1bedd551"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin, <//www.pistolsnvixens.com/cdn/shop/t/3/assets/theme.css?v=117096400985073422601696454857>; as="style"; rel="preload"
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 2209362
+X-Shardid: 224
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=12, db;dur=5, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="134052741345", pageType;desc="index", servedBy;desc="l2p5", requestID;desc="5449c015-c78b-4859-bbe4-e58d2a671611"
+Server-Timing: cfRequestDuration;dur=64.000130
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 5449c015-c78b-4859-bbe4-e58d2a671611
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=rU6VuXhEMd0%2FI6MKKC3lt50jSHn3GXzLSe8gXCHOwD8NEeKwqu6fGv7EoXwnZsZqlDaQ7di3JHCuG5xTRYo0YKl56tUkuYSEii%2BoOGGfsTblDfIf6%2FZRiVT5udMjwS5D9mE8mrrSpO4%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846614ecbd6d2bf1-FRA
+Alt-Svc: h3=":443"; ma=86400

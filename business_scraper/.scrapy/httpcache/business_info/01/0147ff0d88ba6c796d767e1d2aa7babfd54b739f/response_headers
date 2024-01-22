@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:48:18 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 167
+X-Sorting-Hat-Shopid: 6595838016
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=a5be58f5-6101-46e0-8d00-3989ff0fc2d5; path=/; expires=Tue, 16 Jan 2024 12:18:18 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:48:18 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=CA; path=/; expires=Thu, 16 Jan 2025 11:48:18 GMT
+Set-Cookie: cart_currency=CAD; path=/; expires=Tue, 30 Jan 2024 11:48:18 GMT
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=eyeonfashion.ca; path=/; expires=Wed, 17 Jan 2024 11:48:18 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=968fb88d-0bec-47ad-b984-b1a299f096aa; Expires=Wed, 15-Jan-25 11:48:18 GMT; Domain=eyeonfashion.ca; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=d6d42389-814f-421d-9f85-1877c7627ffd; Expires=Tue, 16-Jan-24 12:18:18 GMT; Domain=eyeonfashion.ca; Path=/; SameSite=Lax
+Etag: "cacheable:d64df92e984b0b6e538d287f9ba88aca"
+Content-Encoding: gzip
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: hit, server
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 6595838016
+X-Shardid: 167
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=11, db;dur=3, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="132877156520", servedBy;desc="m89h", requestID;desc="fa14cb63-26c7-4595-ac11-8678c3bd916a"
+Server-Timing: cfRequestDuration;dur=35.999775
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: fa14cb63-26c7-4595-ac11-8678c3bd916a
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=a1olo1arIy01pewkuzeeNnvhacUB5JdH0MiBj%2BWwtH37Ze3hsdPPC%2FAcR%2B0n5SLzUKzPD3hwT9snsEy2szBNGd8uZRpPCzieeUjSD3evgujhDfzRPFDQ4ti%2BLKDB57HQXw%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846620ee0e1d18e3-FRA
+Alt-Svc: h3=":443"; ma=86400

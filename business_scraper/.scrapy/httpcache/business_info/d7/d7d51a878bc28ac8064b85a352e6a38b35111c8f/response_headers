@@ -1,0 +1,12 @@
+Link: <https://fonts.googleapis.com>; rel=preconnect; crossorigin,<https://fonts.gstatic.com>; rel=preconnect; crossorigin,<https://img1.wsimg.com>; rel=preconnect; crossorigin,<https://isteam.wsimg.com>; rel=preconnect; crossorigin
+Cache-Control: max-age=30
+Content-Security-Policy: frame-ancestors 'self' godaddy.com *.godaddy.com
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+Server: DPS/2.0.0+sha-07b5bb2
+X-Version: 07b5bb2
+X-Siteid: eu-central-1
+Set-Cookie: dps_site_id=eu-central-1; path=/; secure
+Etag: 6978a616c585d03cb5b542a891995efb
+Content-Encoding: gzip
+Date: Tue, 16 Jan 2024 11:52:48 GMT

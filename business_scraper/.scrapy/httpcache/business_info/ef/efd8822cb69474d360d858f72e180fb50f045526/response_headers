@@ -1,0 +1,9 @@
+Content-Length: 169
+Server: nginx/1.24.0
+Date: Tue, 16 Jan 2024 11:48:45 GMT
+Content-Type: text/html
+Location: https://pickyglambride.com/robots.txt
+Expires: Thu, 01 Jan 1970 00:00:01 GMT
+Cache-Control: no-cache
+Cache-Control: max-age=86400, public, must-revalidate, proxy-revalidate
+Pragma: public

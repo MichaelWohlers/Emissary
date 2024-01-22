@@ -1,0 +1,39 @@
+Date: Tue, 16 Jan 2024 11:20:02 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 216
+X-Sorting-Hat-Shopid: 4665147456
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=236ed1ae-e768-46cc-9f5d-42c137d221a7; path=/; expires=Tue, 16 Jan 2024 11:50:02 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 16 Jan 2025 11:20:02 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=DE; path=/; expires=Thu, 16 Jan 2025 11:20:02 GMT; SameSite=Lax
+Set-Cookie: cart_currency=USD; path=/; expires=Tue, 30 Jan 2024 11:20:02 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22p%22%3Atrue%2C%22a%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=stitchandtickle.com; path=/; expires=Wed, 17 Jan 2024 11:20:02 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=b427cbd8-f26c-4c34-81ce-b6ec854cec08; Expires=Wed, 15-Jan-25 11:20:02 GMT; Domain=stitchandtickle.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=583ed5c3-04c8-4998-8023-604d8fc79b62; Expires=Tue, 16-Jan-24 11:50:02 GMT; Domain=stitchandtickle.com; Path=/; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+Etag: "cacheable:530935677264640e79958e057a8557a4"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 4665147456
+X-Shardid: 216
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=27, db;dur=9, asn;desc="3209", edge;desc="FRA", country;desc="DE", theme;desc="131273523417", servedBy;desc="h7h8", requestID;desc="fb2bfabf-7b67-4047-8732-085b53a35e74"
+Server-Timing: cfRequestDuration;dur=56.999922
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: fb2bfabf-7b67-4047-8732-085b53a35e74
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=reUe9yLtf8kg8i%2FD1nH2L9UGe0hQ3bRo70ERLMuj3glHwNGKetaks56BqDG0U2yEfFA8HM%2FDI43qNN9U3c04lhtML179zgoZS6AGzicCYB7VfuBzRUbCdRaJtbcFV8YQnr25NTRV54r%2F"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8465f7844e544d95-FRA
+Alt-Svc: h3=":443"; ma=86400

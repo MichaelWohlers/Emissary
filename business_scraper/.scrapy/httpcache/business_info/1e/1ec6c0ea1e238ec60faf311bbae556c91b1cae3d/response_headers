@@ -1,0 +1,28 @@
+Date: Tue, 16 Jan 2024 11:38:20 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 44
+X-Sorting-Hat-Shopid: 26944503853
+X-Storefront-Renderer-Rendered: 1
+Location: https://splitarrowboutique.com/robots.txt
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 26944503853
+X-Shardid: 44
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=10, db;dur=4, asn;desc="3209", edge;desc="FRA", country;desc="DE", servedBy;desc="qbbb", requestID;desc="7c53be14-9708-4b68-99fd-c694550b0ed7"
+Server-Timing: cfRequestDuration;dur=36.999941
+X-Shopify-Stage: production
+X-Dc: gcp-europe-west3,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 7c53be14-9708-4b68-99fd-c694550b0ed7
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=8C5q8G81RmoW7BXrAWZafLqWfMYE8gm3oh%2BLkMbo0lVeKaoN8aqLNWOT69q3a65FQAWZkww4t3bTowgxP21gloLd7RmerhW6q9AXZSpMLU0iycZAHlVs4piJMPC44ewb%2Bxp8wPV0grUmY3fE"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 846612535a9b2ba3-FRA
+Alt-Svc: h3=":443"; ma=86400

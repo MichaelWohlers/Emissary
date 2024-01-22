@@ -1,0 +1,27 @@
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000
+Strict-Transport-Security: max-age=31536000
+Content-Security-Policy: media-src 'self' *.ebay.com *.ebaycdn.net blob:; font-src 'self' *.ebaystatic.com https://fonts.gstatic.com
+Accept-Ch: sec-ch-ua-model,sec-ch-ua-platform-version,sec-ch-ua-full-version
+Content-Security-Policy-Report-Only: style-src 'self' 'unsafe-inline' data: *.ebay.com *.ebay.de *.ebaystatic.com *.ebaystatic.de *.ebay.com *.googleapis.com; connect-src 'self' *.ebay.com *.ebay.de *.ebaystatic.com *.ebaystatic.de data: *.ebaycdn.net *.glance.net *.googleapis.com *.google.com ebay-prd.rest-ar.com cas.avalon.perfdrive.com track.uc.cn blob: *.ebayimg.com; script-src 'self' 'unsafe-eval' 'unsafe-inline' *.ebay.com *.ebay.de *.ebaystatic.com *.ebaystatic.de blob: data: *.googletagmanager.com *.googleadservices.com googleads.g.doubleclick.net *.ebayrtm.com *.paypal.com *.ebay-us.com *.facebook.net; frame-ancestors 'self' *.ebay.com *.ebay.de *.ebaystatic.com *.ebaystatic.de; default-src 'self' blob: data: wss: mediastream: *.ebay.com *.ebay.de *.ebaystatic.com *.ebaystatic.de *.ebayimg.com sslwidget.criteo.com *.doubleclick.com *.google.com *.ebayrtm.com ebay-prd.rest-ar.com sp.analytics.yahoo.com *.ebaycdn.net *.gstatic.com *.paypal.com googleads.g.doubleclick.net *.googleapis.com *.google.co.in *.google.com.br *.fontawesome.com *.facebook.com *.ucweb.com *.bluekai.com;  report-uri https://monitor.ebay.com/csp-report/storenode/storesweb?id=877595335435374121&rid=t6pqiufkicf%3F%3Ckuvuslwcilac*dg2%7F7(rbpv6601-18d120ce2cd-0x2405#pd
+Content-Type: text/html; charset=utf-8
+Rlogid: t6pqiufkicf%3F%3Ckuvuslwcilac*dg2%7F7(rbpv6601-18d120ce2cd-0x2405
+X-Envoy-Upstream-Service-Time: 726
+Content-Encoding: gzip
+Server: ebay-proxy-server
+X-Edgeconnect-Midmile-Rtt: 3
+X-Edgeconnect-Origin-Mex-Latency: 727
+Date: Tue, 16 Jan 2024 11:34:11 GMT
+Vary: Accept-Encoding
+Set-Cookie: dp1=bbl/DE6968d0b2^; Domain=.ebay.com; Path=/; Expires=Thu, 15 Jan 2026 11:34:11 GMT; Secure
+Set-Cookie: nonsession=BAQAAAYxL36hOAAaAADMABWeHnTI2Njc0MADKACBpaNCyMTIwY2UyZjkxOGQwYTI1NWJlZTdiMzJjZmZlNmJjZGMAywABZaZwujHF8ogGIhD+cKb/EcWMViJS6nCBVQ**; Domain=.ebay.com; Path=/; Expires=Thu, 15 Jan 2026 11:34:11 GMT; HttpOnly; Secure
+Set-Cookie: s=CgAD4ACBlp7syMTIwY2UyZjkxOGQwYTI1NWJlZTdiMzJjZmZlNmJjZGMdk1Zl; Domain=.ebay.com; Path=/; HttpOnly; Secure
+Set-Cookie: ebay=%5Esbf%3D%23000000%5E; Domain=.ebay.com; Path=/; Secure
+Set-Cookie: __deba=zip9824zKfN8EPhHJ_MMFdKOHose5DO3F3YhigW304JjXE5zfYMXw1SgeB6mp96eXR8UW1J2_XMwSXzXGqPFGN9js-HqdxrtAgnwhFBV2qDdNJcYJnvgSOn1ivYcVURSj_-MgtdrxL-T_ZAkoKr2mw==; HttpOnly; Secure; Path=/; Domain=.ebay.com; Expires=Sun, 14 Jul 2024 11:34:10 UTC
+Set-Cookie: __uzma=20e42577-8c34-481d-8684-2027f4dcac20; Path=/; Domain=.ebay.com; Expires=Sun, 14 Jul 2024 11:34:10 UTC
+Set-Cookie: __uzmb=1705404850; Path=/; Domain=.ebay.com; Expires=Sun, 14 Jul 2024 11:34:10 UTC
+Set-Cookie: __uzmc=241761080104; Path=/; Domain=.ebay.com; Expires=Sun, 14 Jul 2024 11:34:10 UTC
+Set-Cookie: __uzmd=1705404850; Path=/; Domain=.ebay.com; Expires=Sun, 14 Jul 2024 11:34:10 UTC
+Set-Cookie: __uzme=6119; Path=/; Domain=.ebay.com; Expires=Sun, 14 Jul 2024 11:34:10 UTC
+Set-Cookie: __uzmf=7f6000efa781f5-9757-4de7-b4c5-3f286b7da0c217054048508850-6acf0561a0b5103a10; Path=/; Domain=.ebay.com; Expires=Sun, 14 Jul 2024 11:34:10 UTC
+Set-Cookie: ak_bmsc=D917ED91524B716388A23F6C6A13326F~000000000000000000000000000000~YAAQFdU+FztmE/WMAQAAXuUMEhbXP/zhKpCQjoLjkYA/BQ3qI1s9UGa4TiGNre9ghgvvMINCfnzFVLuLjLtAtFaDyzBrg42E32ayDsAEVjC6twHsfHWzdYkKIGMfCgDWU0pjHBVq3F9zaw8NFSnz59lNbYdANpZ1gVL3JQmB9qs6h/0b3VyMvmXsPUnmjiGilOCgprrp1a7l/mW4HUp1Xqyoa7/mYGSYaOreHXAuaxMx397cgvIa1eO0Q2MuOvxCBSPfD+x1YBGs6AK5CxSgd5E2nUjZfb4ZatfwHlkv9xPnCo/19JSgN8AU2u/2hT6yzJosHPTm6xwvk8o8noBJGcCvHcDnnRKsyObgY+ozpJdldmzZ+Od4Wa0=; Domain=.ebay.com; Path=/; Expires=Tue, 16 Jan 2024 13:34:10 GMT; Max-Age=7199; HttpOnly

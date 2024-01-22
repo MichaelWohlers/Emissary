@@ -1,0 +1,10 @@
+Date: Tue, 16 Jan 2024 11:54:50 GMT
+Cache-Control: max-age=3600
+Expires: Tue, 16 Jan 2024 12:54:50 GMT
+Location: https://www.jeansunlimited.ca/robots.txt
+Set-Cookie: __cf_bm=WmRBmcm5ffYo5VwbJ7IQFNIPjBuq6BICxS7pYKAmuMQ-1705406090-1-AbM0/FCAWrtuPYXM/T6/83xB2nBvlAuHE0VopLL0AWBIt0jokqnsxd3xVEPaArictzukQ1kupA849gYppQT3R+U=; path=/; expires=Tue, 16-Jan-24 12:24:50 GMT; domain=.www.jeansunlimited.ca; HttpOnly; SameSite=None
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+Server: cloudflare
+Cf-Ray: 84662a80aa371c40-FRA
+Alt-Svc: h3=":443"; ma=86400
