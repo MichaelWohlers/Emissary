@@ -11,7 +11,7 @@ app = Flask(__name__)
 
 
 # Use environment variables for configuration
-app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get('DATABASE_URL')
+app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get('DATABASE_URL').replace("://", "ql://", 1)
 app.config['SECRET_KEY'] = os.environ.get('FLASK_SECRET_KEY')
 
 db.init_app(app)
