@@ -2,7 +2,7 @@
 from flask import render_template, request, jsonify, url_for, session, redirect, flash
 import requests
 #from config import GOOGLE_MAPS_API_KEY
-from models import Place, EmailTemplate, User
+from models import Place, EmailTemplate, clientUser
 from shared import db
 from flask import current_app  # Import at the top of your file
 import subprocess
@@ -33,7 +33,7 @@ def configure_routes(app):
                 flash('Passwords do not match!')
                 return redirect(url_for('register'))
 
-            new_user = User(first_name=first_name, last_name=last_name, email=email, permission_level='User')
+            new_user = clientUser(first_name=first_name, last_name=last_name, email=email, permission_level='User')
             new_user.set_password(password)  # Set the password using the set_password method
             db.session.add(new_user)
             db.session.commit()
@@ -49,7 +49,7 @@ def configure_routes(app):
         if request.method == 'POST':
             email = request.form['exampleInputEmail']
             password = request.form['exampleInputPassword']
-            user = User.query.filter_by(email=email).first()
+            user = clientUser.query.filter_by(email=email).first()
 
             # Check if user exists and password is correct
             if user and user.check_password(password):
@@ -343,13 +343,13 @@ def configure_routes(app):
             flash('Please log in to access the Admin page.', 'danger')
             return redirect(url_for('login'))
 
-        user = User.query.get(session['user_id'])
+        user = clientUser.query.get(session['user_id'])
         if user.permission_level != 'Admin':
             flash('You do not have permission to access the Admin page.', 'danger')
             return redirect(url_for('home'))
 
 
-        users = User.query.all()
+        users = clientUser.query.all()
         return render_template('admin.html', users=users)
     
     @app.route('/update-user/<int:user_id>', methods=['POST'])
@@ -358,12 +358,12 @@ def configure_routes(app):
             flash('Please log in to access the Admin page.', 'danger')
             return redirect(url_for('login'))
 
-        user = User.query.get(session['user_id'])
+        user = clientUser.query.get(session['user_id'])
         if user.permission_level != 'Admin':
             flash('You do not have permission to access the Admin page.', 'danger')
             return redirect(url_for('home'))
         
-        user = User.query.get(user_id)
+        user = clientUser.query.get(user_id)
         if user:
             user.email = request.form.get('email')
             user.permission_level = request.form.get('permission_level')

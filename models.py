@@ -95,7 +95,7 @@ class SavedKeyword(db.Model):
             'keyword': self.keyword
         }
 
-class User(db.Model):
+class clientUser(db.Model):
     id = db.Column(db.Integer, primary_key=True)
     first_name = db.Column(db.String(120), nullable=False)
     last_name = db.Column(db.String(120), nullable=False)
