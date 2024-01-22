@@ -6,12 +6,12 @@ from sqlalchemy.orm import joinedload
 
 class Place(db.Model):
     id = db.Column(db.Integer, primary_key=True)
-    name = db.Column(db.String(80), unique=True, nullable=False)
-    coordinates = db.Column(db.String(120), nullable=False)
-    website = db.Column(db.String(120))
+    name = db.Column(db.String(255), unique=True, nullable=False)
+    coordinates = db.Column(db.String(255), nullable=False)
+    website = db.Column(db.String(255))
     formatted_address = db.Column(db.String(255))
-    category = db.Column(db.String(120))
-    status = db.Column(db.String(50), default='Pending Approval')
+    category = db.Column(db.String(255))
+    status = db.Column(db.String(255), default='Pending Approval')
 
     # Ensure only one contact per place with uselist=False
     contact = db.relationship('Contact', backref='place', uselist=False, lazy='joined')
@@ -35,10 +35,10 @@ class Place(db.Model):
 
 class Contact(db.Model):
     id = db.Column(db.Integer, primary_key=True)
-    email = db.Column(db.String(120), nullable=True)
+    email = db.Column(db.String(255), nullable=True)
     phone_number = db.Column(db.String(20), nullable=True)
-    contact_name = db.Column(db.String(100), nullable=True)
-    contact_title = db.Column(db.String(100), nullable=True)
+    contact_name = db.Column(db.String(255), nullable=True)
+    contact_title = db.Column(db.String(255), nullable=True)
     place_id = db.Column(db.Integer, db.ForeignKey('place.id'), nullable=False, unique=True)
 
     def __repr__(self):
@@ -55,7 +55,7 @@ class Contact(db.Model):
 
 class EmailTemplate(db.Model):
     id = db.Column(db.Integer, primary_key=True)
-    template_name = db.Column(db.String(120), nullable=False)
+    template_name = db.Column(db.String(255), nullable=False)
     subject_content = db.Column(db.Text, nullable=False)
     body_content = db.Column(db.Text, nullable=False)
 
@@ -71,7 +71,7 @@ class EmailTemplate(db.Model):
 
 class BlockedSite(db.Model):
     id = db.Column(db.Integer, primary_key=True)
-    site_name = db.Column(db.String(120), nullable=False)
+    site_name = db.Column(db.String(255), nullable=False)
     site_website = db.Column(db.String(255), nullable=False)
 
     def __repr__(self):
@@ -85,7 +85,7 @@ class BlockedSite(db.Model):
 
 class SavedKeyword(db.Model):
     id = db.Column(db.Integer, primary_key=True)
-    keyword = db.Column(db.String(120), nullable=False)
+    keyword = db.Column(db.String(255), nullable=False)
 
     def __repr__(self):
         return f'<SavedKeyword {self.keyword}>'
@@ -97,12 +97,12 @@ class SavedKeyword(db.Model):
 
 class clientUser(db.Model):
     id = db.Column(db.Integer, primary_key=True)
-    first_name = db.Column(db.String(120), nullable=False)
-    last_name = db.Column(db.String(120), nullable=False)
-    email = db.Column(db.String(120), unique=True, nullable=False)
-    hashed_password = db.Column(db.String(128), nullable=False)
+    email = db.Column(db.String(255), unique=True, nullable=False)
+    hashed_password = db.Column(db.String(255), nullable=False)
     permission_level = db.Column(db.String(50), nullable=False, default='standard')
     status = db.Column(db.String(50), nullable=False, default='Pending Approval')
+    first_name = db.Column(db.String(255), nullable=False)
+    last_name = db.Column(db.String(255), nullable=False)
     
 
     def set_password(self, password):
