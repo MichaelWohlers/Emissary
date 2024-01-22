@@ -33,7 +33,7 @@ def configure_routes(app):
                 flash('Passwords do not match!')
                 return redirect(url_for('register'))
 
-            new_user = clientUser(first_name=first_name, last_name=last_name, email=email, permission_level='User')
+            new_user = clientUser(first_name=first_name, last_name=last_name, email=email, permission_level='standard')
             new_user.set_password(password)  # Set the password using the set_password method
             db.session.add(new_user)
             db.session.commit()

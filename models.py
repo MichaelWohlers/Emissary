@@ -101,7 +101,7 @@ class clientUser(db.Model):
     last_name = db.Column(db.String(120), nullable=False)
     email = db.Column(db.String(120), unique=True, nullable=False)
     hashed_password = db.Column(db.String(128), nullable=False)
-    permission_level = db.Column(db.String(50), nullable=False, default='User')
+    permission_level = db.Column(db.String(50), nullable=False, default='standard')
     status = db.Column(db.String(50), nullable=False, default='Pending Approval')
     
 
@@ -112,7 +112,7 @@ class clientUser(db.Model):
         return check_password_hash(self.hashed_password, password)
 
     def __repr__(self):
-        return f'<User {self.email}>'
+        return f'<clientUser {self.email}>'
 
     def to_dict(self):
         return {
