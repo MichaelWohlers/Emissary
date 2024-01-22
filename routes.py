@@ -358,26 +358,28 @@ def configure_routes(app):
             flash('Please log in to access the Admin page.', 'danger')
             return redirect(url_for('login'))
 
-        user = clientUser.query.get(session['user_id'])
-        if user.permission_level != 'Admin':
+        logged_in_user = clientUser.query.get(session['user_id'])
+        if logged_in_user.permission_level != 'Admin':
             flash('You do not have permission to access the Admin page.', 'danger')
             return redirect(url_for('home'))
         
-        user = clientUser.query.get(user_id)
-        if user:
-            user.email = request.form.get('email')
-            user.permission_level = request.form.get('permission_level')
-            user.status = request.form.get('status')
+        user_to_update = clientUser.query.get(user_id)
+        if user_to_update:
+            user_to_update.email = request.form.get('email')
+            user_to_update.permission_level = request.form.get('permission_level')
+            user_to_update.status = request.form.get('status')
 
             try:
                 db.session.commit()
                 flash("User updated successfully.", "success")
             except Exception as e:
+                db.session.rollback()  # Rollback in case of error
                 flash(str(e), "danger")  # Show error message
         else:
             flash("User not found.", "warning")
 
         return redirect(url_for('admin'))
+
 
 
 # Additional routes...
