@@ -352,33 +352,44 @@ def configure_routes(app):
         users = clientUser.query.all()
         return render_template('admin.html', users=users)
     
-    @app.route('/update-user/<int:user_id>', methods=['POST'])
+
+    @app.route('/api/update-user/<int:user_id>', methods=['POST'])
     def update_user(user_id):
         if 'user_id' not in session:
-            flash('Please log in to access the Admin page.', 'danger')
-            return redirect(url_for('login'))
+            return jsonify({'error': 'Unauthorized access'}), 401
 
         logged_in_user = clientUser.query.get(session['user_id'])
         if logged_in_user.permission_level != 'Admin':
-            flash('You do not have permission to access the Admin page.', 'danger')
-            return redirect(url_for('home'))
+            return jsonify({'error': 'Permission denied'}), 403
         
         user_to_update = clientUser.query.get(user_id)
         if user_to_update:
-            user_to_update.email = request.form.get('email')
-            user_to_update.permission_level = request.form.get('permission_level')
-            user_to_update.status = request.form.get('status')
+            data = request.get_json()
+            user_to_update.email = data.get('email')
+            user_to_update.permission_level = data.get('permission_level')
+            user_to_update.status = data.get('status')
 
             try:
                 db.session.commit()
-                flash("User updated successfully.", "success")
+                return jsonify({'message': 'User updated successfully'}), 200
             except Exception as e:
-                db.session.rollback()  # Rollback in case of error
-                flash(str(e), "danger")  # Show error message
+                db.session.rollback()
+                return jsonify({'error': str(e)}), 500
         else:
-            flash("User not found.", "warning")
+            return jsonify({'error': 'User not found'}), 404
 
-        return redirect(url_for('admin'))
+    @app.route('/api/users')
+    def api_users():
+        if 'user_id' not in session:
+            return jsonify({'error': 'Unauthorized access'}), 401
+
+        logged_in_user = clientUser.query.get(session['user_id'])
+        if logged_in_user.permission_level != 'Admin':
+            return jsonify({'error': 'Permission denied'}), 403
+
+        users = clientUser.query.all()
+        users_data = [user.to_dict() for user in users]
+        return jsonify({'users': users_data}), 200
 
 
 
