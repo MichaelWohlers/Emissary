@@ -17,6 +17,10 @@
 
 <!-- Custom styles for this template-->
 <link href="{{ url_for('static', filename='css/sb-admin-2.min.css') }}" rel="stylesheet">
+<link href="{{ url_for('static', filename='css/leaflet.css') }}" rel="stylesheet">
+<link rel="stylesheet" href="https://unpkg.com/leaflet-control-geocoder/dist/Control.Geocoder.css"/>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.draw/1.0.4/leaflet.draw.css"/>
+
 <style>
     .flash-messages {
         position: fixed;
@@ -30,6 +34,14 @@
         text-align: center;
     }
 </style>
+<style>
+    #map {
+      height: 400px;
+    }
+    #coordinates {
+      margin-top: 10px;
+    }
+  </style>
 
 </head>
 
@@ -240,32 +252,13 @@
                     <div class="row">
 
                         <!-- Search Area for google map --> 
-                        <div class="col-xl-8 col-lg-7">
-                            <div class="card shadow mb-4">
-                                <!-- Card Header - Dropdown -->
-                                <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
-                                    <h6 class="m-0 font-weight-bold text-primary">Map switch, prospecting mode, Saved Places mode with filters, full width map, mode and settings hove buttons, show total shown markers</h6>
-                                    <div class="dropdown no-arrow">
-                                        <a class="dropdown-toggle" href="#" role="button" id="dropdownMenuLink"
-                                            data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                            <i class="fas fa-ellipsis-v fa-sm fa-fw text-gray-400"></i>
-                                        </a>
-                                        <div class="dropdown-menu dropdown-menu-right shadow animated--fade-in"
-                                            aria-labelledby="dropdownMenuLink">
-                                            <div class="dropdown-header">Dropdown Header:</div>
-                                            <a class="dropdown-item" href="#">Action</a>
-                                            <a class="dropdown-item" href="#">Another action</a>
-                                            <div class="dropdown-divider"></div>
-                                            <a class="dropdown-item" href="#">Something else here</a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- Card Body -->
-                                <div class="card-body">
-                                    <div id="map" style="height: 550px;"></div> <!-- Adjust height as needed -->
-                                </div>
-                            </div>
+                       
+                        <div class="card-body col-xl-12 col-lg-12 shadow mb-4">
+                            <div id="map" style="height: 550px;"></div> <!-- Adjust height as needed -->
+                            <p><textarea id="bboxTextElement" readonly></textarea></p>
                         </div>
+                        
+                        
 
                         <!-- Search Settings-->
                         <div class="col-xl-4 col-lg-5">
@@ -411,8 +404,6 @@
 <script src="{{ url_for('static', filename='js/sb-admin-2.min.js') }}"></script>
 
 <!-- Page level custom scripts -->
-<script async defer src="https://maps.googleapis.com/maps/api/js?key={{ google_maps_api_key }}&libraries=places,geometry&callback=initMap"></script>
-<script src="{{ url_for('static', filename='js/gmap.js') }}"></script>
 <script>
     window.onload = function() {
         setTimeout(function() {
@@ -423,7 +414,11 @@
         }, 3000);
     };
 </script>
+<script src="{{ url_for('static', filename='js/leaflet.js') }}"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.draw/1.0.4/leaflet.draw.js"></script>
 
+<script src="https://unpkg.com/leaflet-control-geocoder/dist/Control.Geocoder.js"></script>
+<script src="{{ url_for('static', filename='js/indexContent.js') }}"></script>
 
 </body>
 

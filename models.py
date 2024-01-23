@@ -123,3 +123,7 @@ class clientUser(db.Model):
             'permission_level': self.permission_level,
             'status': self.status
         }
+    
+#create class dataset including named sets of keywords and exclusion words with relation to data
+#create class data including geojson data saved marker coordinates, relation to datasets many to many
+#create class exclusion keywords related to datasets many to mana
