@@ -7,7 +7,7 @@ load_dotenv()
 aws_access_key_id = os.environ.get('YOUR_ACCESS_KEY')
 aws_secret_access_key = os.environ.get('YOUR_SECRET_KEY')
 aws_default_region = os.environ.get('AWS_DEFAULT_REGION')
-place_location = os.environ.get('PLACE_FOLDER')
+place_location = os.environ.get('PLACE_SERVER')
 records_location=os.environ.get('RECORDS_FOLDER')
 
 def construct_query(keywords, exclusion_words, bbox):
