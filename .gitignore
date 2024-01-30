@@ -1,4 +1,19 @@
 node_modules
+files/emissary.parquet
+files/type=place
+files/allcat.geojson
+files/keyword.json
+files/keywordcat.json
+files/output.txt
+files/schema.json
+files/instance
+migrations
+allcat.py
+clean.py
+ducktester.py
+extract.py
+testConsumer.py
+usertest.py
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

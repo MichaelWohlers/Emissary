@@ -11,12 +11,212 @@
 
     <title>LeadGen About</title>
 
-    <!-- Custom fonts for this template-->
+ <!-- Custom fonts for this template-->
 <link href="{{ url_for('static', filename='vendor/fontawesome-free/css/all.min.css') }}" rel="stylesheet" type="text/css">
 <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
 
 <!-- Custom styles for this template-->
-<link href="{{ url_for('static', filename='css/sb-admin-2.min.css') }}" rel="stylesheet">
+<!-- jQuery -->
+<script src="{{ url_for('static', filename='vendor/jquery/jquery.min.js') }}"></script>
+
+<link href="{{ url_for('static', filename='css/dataTables.bootstrap4.min.css') }}" rel="stylesheet">
+<link href="{{ url_for('static', filename='css/sb-admin-2.css') }}" rel="stylesheet">
+
+<link href="{{ url_for('static', filename='css/leaflet.css') }}" rel="stylesheet">
+<link rel="stylesheet" href="https://unpkg.com/leaflet-control-geocoder/dist/Control.Geocoder.css"/>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.draw/1.0.4/leaflet.draw.css"/>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.0/MarkerCluster.Default.css" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.0/MarkerCluster.css" />
+
+
+<style>
+    .flash-messages {
+        position: fixed;
+        top: 20px;
+        left: 50%;
+        transform: translateX(-50%);
+        z-index: 1000;
+        width: auto;
+        max-width: 80%;
+        margin: 0 auto;
+        text-align: center;
+    }
+</style>
+
+
+</head>
+<style>/* Style for the dropdown button */
+    /* Increase padding inside the dropdown */
+.dropdown-menu {
+  padding: 10px; /* Adjust this value as needed */
+}
+
+/* Assuming a class for the dynamically added checkboxes */
+.checkbox-item {
+  margin-bottom: 5px; /* Adjust this value to increase space between checkboxes */
+}
+.ml-2 {
+  margin-left: 8px; /* Adjust this value as needed */
+  margin-right: 8px; /* Adjust this value as needed */
+  
+}
+.sidebar {
+    position: sticky; /* or position: sticky */
+    z-index: 1050; /* High value to stay on top */
+    top: 0; /* Align to the top of the viewport */
+    height: 100%; /* Optional: to make it full height */
+}
+#bboxTextElement {
+  color: black; /* Set the text color to black */
+  font-size: small; /* Set the text size to small */
+}
+#loadingGif {
+    width: 75px;  /* Adjust as needed */
+    height: auto;  /* This maintains the aspect ratio */
+    
+}
+#loadingIcon {
+    position: fixed;
+    top: 0%;
+    right: 2%;
+    transform: none;
+    z-index: 1060; /* High value to stay on top */
+
+}
+/* The switch - the box around the slider */
+.switch {
+  position: relative;
+  display: inline-block;
+  width: 45px;  /* Reduced from 60px */
+  height: 20px; /* Reduced from 34px */
+}
+
+/* Hide default checkbox */
+.switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+/* The slider */
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ccc;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 14px;  /* Reduced from 26px */
+  width: 14px;   /* Reduced from 26px */
+  left: 3px;     /* Reduced from 4px */
+  bottom: 3px;   /* Reduced from 4px */
+  background-color: white;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+input:checked + .slider {
+  background-color: #2196F3;
+}
+
+input:focus + .slider {
+  box-shadow: 0 0 1px #2196F3;
+}
+
+input:checked + .slider:before {
+  -webkit-transform: translateX(20px); /* Adjusted for new dimensions */
+  -ms-transform: translateX(20px);
+  transform: translateX(20px);
+}
+
+/* Rounded sliders */
+.slider.round {
+  border-radius: 17px; /* Adjusted for new dimensions */
+}
+
+.slider.round:before {
+  border-radius: 50%;
+}
+/* Style for the button */
+.collapse-item-button {
+    background-color: #28a745; /* Green color */
+    border: none;
+    color: white;
+    padding: 10px 60px; /* Adjust padding for a longer shape */
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 25px; /* Pillbox shape */
+    transition-duration: 0.4s;
+}
+
+.collapse-item-button:hover {
+    background-color: #218838; /* Darker green on hover */
+    color: white;
+}
+
+.center-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.search-options-container {
+    display: none; /* Ensure the container starts hidden */
+    
+}
+.gear-icon {
+    background: none;
+    border:none;
+    cursor: pointer;
+    font-size: 35px; /* Larger icon */
+    padding: 10px; /* Spacing around the icon */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 34px; /* Fixed height for the button */
+    width: 34px; /* Fixed width for the button */
+    text-align: center;
+    transform: translateY(0px); /* Corrected transform property */
+}
+.gear-icon.active {
+    margin-right: -35px; /* Margin applied when the button is active */
+    z-index: 1060;
+    transform: translateX(182px) translateY(-128px); /* Corrected transform property */
+
+}
+
+
+
+.gear-menu {
+    display: none; /* Initially hidden */
+
+    /* Additional styles for the menu */
+}
+
+.gear-menu:not(.hidden) {
+    display: block; /* Show when not hidden */
+    border: 1px solid rgba(106, 104, 104, 0.673);
+    border-radius: 5px;
+    
+}
+.flex-container {
+    display: flex;
+    align-items: center; /* Vertically align items in the middle */
+}
+
+    </style>
 
 </head>
 
@@ -359,6 +559,59 @@
 
                     <!-- Page Heading -->
                     <h1 class="h3 mb-4 text-gray-800">Blank Page</h1>
+                    <div class="bg-white py-2 collapse-inner rounded"><div class="center-container">
+                        <h6 class="collapse-header">Search Filters:</h6>
+                    </div>
+                        <form id="queryForm">
+                            <div class="dropdown">
+                                <div class="center-container">
+                                    <button class="collapse-item btn btn-secondary dropdown-toggle" style="padding: 7px 30px;" id="categoryDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                        Select Categories
+                                    </button>
+                                    <div id="categoryList" class="dropdown-menu" aria-labelledby="categoryDropdown" style="max-height: 300px; overflow-y: auto; max-width: 350px; overflow-x: auto;">
+                                        <!-- Search Bar for Categories -->
+                                        <div class="form-group">
+                                            <input type="text" class="form-control-sm" id="searchInput" placeholder="Search Categories">
+                                        </div>
+                                        <!-- Container for dynamically populated keywords -->
+                                        <div id="categoryItems">
+                                            <!-- Keywords will be populated dynamically with checkboxes here -->
+                                        </div>
+                                    </div>
+                                </div>    
+                            </div>
+                        
+                            <div class="dropdown mt-3  ">
+                                <div class="center-container mb-3">
+                                    <button class="collapse-item btn btn-secondary dropdown-toggle"style="padding: 7px 30px;" type="button" id="keywordDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                        Select Keywords
+                                    </button>
+                                    <div id="keywordList" class="dropdown-menu" aria-labelledby="keywordDropdown" style="max-height: 300px; overflow-y: auto; max-width: 350px; overflow-x: auto;">
+                                        <!-- Search Bar for Keywords -->
+                                        <div class="form-group">
+                                            <input type="text" class="form-control-sm" id="searchKeyword" placeholder="Search Keyword">
+                                        </div>
+                                        <!-- Container for dynamically populated keywords -->
+                                        <div id="keywordItems">
+                                            <!-- Keywords will be populated dynamically with checkboxes here -->
+                                        </div>
+                                    </div> 
+                                </div>
+                                <div style="border-bottom: 1px solid #ccc; margin: 5px 0;"></div>
+                                <div class="center-container">
+            
+                                    <h6 class="collapse-header">Do not Include:</h6>
+            
+                                    <div class="form-group mb-2">
+                                        <input type="text" class="collapse-item form-control-sm" id="exclusionWords" placeholder="JCPenny,Walmart,etc.">
+                                    </div>
+                                </div>
+                                <div style="border-bottom: 1px solid #ccc; margin: 5px 0;"></div>
+                                <div class="center-container">
+                                    <button type="submit" class="collapse-item-button btn btn-primary-sm"data-toggle="collapse" data-target="#formCollapse">Fetch Places</button>
+                                </div>
+                        </form>
+                        </div>
 
                 </div>
                 <!-- /.container-fluid -->
@@ -407,23 +660,42 @@
         </div>
     </div>
 
-    <!-- Bootstrap core JavaScript-->
+    <!-- jQuery -->
 <script src="{{ url_for('static', filename='vendor/jquery/jquery.min.js') }}"></script>
+<!-- DataTables JavaScript -->
+<script src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.min.js"></script>
+<script src="https://cdn.datatables.net/1.10.20/js/dataTables.bootstrap4.min.js"></script>
+
+
+<!-- Bootstrap Bundle (includes Bootstrap JS and Popper.js) -->
 <script src="{{ url_for('static', filename='vendor/bootstrap/js/bootstrap.bundle.min.js') }}"></script>
 
-<!-- Core plugin JavaScript-->
+<!-- Core Plugin JavaScript -->
 <script src="{{ url_for('static', filename='vendor/jquery-easing/jquery.easing.min.js') }}"></script>
 
-<!-- Custom scripts for all pages-->
-<script src="{{ url_for('static', filename='js/sb-admin-2.min.js') }}"></script>
+<!-- Custom Scripts for All Pages -->
+<script src="{{ url_for('static', filename='js/sb-admin-2.js') }}"></script>
 
-<!-- Page level plugins -->
-<script src="{{ url_for('static', filename='vendor/chart.js/Chart.min.js') }}"></script>
+<!-- Leaflet JavaScript -->
+<script src="{{ url_for('static', filename='js/leaflet.js') }}"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.draw/1.0.4/leaflet.draw.js"></script>
+<script src="https://unpkg.com/leaflet-control-geocoder/dist/Control.Geocoder.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.0/leaflet.markercluster-src.js"></script>
 
-<!-- Page level custom scripts -->
-<script src="{{ url_for('static', filename='js/demo/chart-area-demo.js') }}"></script>
-<script src="{{ url_for('static', filename='js/demo/chart-pie-demo.js') }}"></script>
+<!-- Custom Page-Level Scripts -->
+<script src="{{ url_for('static', filename='js/reindexContent.js') }}"></script>
 
+<!-- Inline Page-Level Script -->
+<script>
+    window.onload = function() {
+        setTimeout(function() {
+            var flashMessages = document.querySelector('.flash-messages');
+            if (flashMessages) {
+                flashMessages.style.display = 'none';
+            }
+        }, 3000);
+    };
+</script>
 
 </body>
 

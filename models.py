@@ -1,8 +1,11 @@
 #models.py
 from shared import db
 from werkzeug.security import generate_password_hash, check_password_hash
-
+import duckdb
 from sqlalchemy.orm import joinedload
+import duckdb
+import logging
+import json
 
 class Place(db.Model):
     id = db.Column(db.Integer, primary_key=True)
@@ -100,7 +103,7 @@ class clientUser(db.Model):
     email = db.Column(db.String(255), unique=True, nullable=False)
     hashed_password = db.Column(db.String(255), nullable=False)
     permission_level = db.Column(db.String(50), nullable=False, default='standard')
-    status = db.Column(db.String(50), nullable=False, default='Pending Approval')
+    user_status = db.Column(db.String(50), nullable=False, default='Pending Approval')
     first_name = db.Column(db.String(255), nullable=False)
     last_name = db.Column(db.String(255), nullable=False)
     
@@ -116,14 +119,87 @@ class clientUser(db.Model):
 
     def to_dict(self):
         return {
-            'id': self.id,
+            'email': self.email,
+            'hashed_password': self.hashed_password,
             'first_name': self.first_name,
             'last_name': self.last_name,
-            'email': self.email,
             'permission_level': self.permission_level,
-            'status': self.status
+            'user_status': self.user_status
         }
+    
+
+    """class takeData(data):
+            try:
+
+
+                # Connect to DuckDB
+                conn = duckdb.connect()
+                logging.debug("Connected to DuckDB")
+
+                # Execute the query and fetch results
+                result = conn.execute(query).fetchall()
+                logging.debug(f"Query executed: {query}")
+
+                # Close the connection
+                conn.close()
+                logging.debug("Connection closed")
+
+                # Read the content of squak.json
+                with open('files/squak.json', 'r') as file:
+                    duckling = json.load(file)
+                    return duckling
+
+            except Exception as e:
+                logging.error(f"Error executing query: {e}")
+                return None
+        
+    #class giveData(query):
+            try:
+
+
+                # Connect to DuckDB
+                conn = duckdb.connect()
+                logging.debug("Connected to DuckDB")
+
+                # Execute the query and fetch results
+                result = conn.execute(query).fetchall()
+                logging.debug(f"Query executed: {query}")
+
+                # Close the connection
+                conn.close()
+                logging.debug("Connection closed")
+
+                # Read the content of squak.json
+                with open('files/squak.json', 'r') as file:
+                    duckling = json.load(file)
+                    return duckling
+
+            except Exception as e:
+                logging.error(f"Error executing query: {e}")
+                return None
+
     
 #create class dataset including named sets of keywords and exclusion words with relation to data
 #create class data including geojson data saved marker coordinates, relation to datasets many to many
-#create class exclusion keywords related to datasets many to mana
+#create class exclusion keywords related to datasets many to mana"""
+
+from sqlalchemy.ext.declarative import declarative_base
+from sqlalchemy import Column, Integer, String, DateTime, JSON, Float
+from sqlalchemy.dialects.postgresql import JSONB  # If using PostgreSQL JSONB data type
+
+Base = declarative_base()
+
+class dbPlace(Base):
+    __tablename__ = 'places'
+    
+    id = Column(String, primary_key=True)
+    updatetime = Column(DateTime)
+    version = Column(Integer)
+    names = Column(JSONB)  # or JSON
+    categories = Column(JSONB)  # or JSON
+    confidence = Column(Float)
+    websites = Column(JSONB)  # or JSON
+    socials = Column(JSONB)  # or JSON
+    emails = Column(JSONB)  # or JSON
+    phones = Column(JSONB)  # or JSON
+    addresses = Column(JSONB)  # or JSON
