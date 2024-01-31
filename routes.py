@@ -7,12 +7,11 @@ import subprocess
 import smtplib
 import os
 from werkzeug.security import check_password_hash, generate_password_hash
-import duckdb
 import json
 import logging
 from dotenv import load_dotenv
 from queryBuilders import construct_query, fetch_userClient_query, add_userClient, delete_userClient, update_userClient
-from duckQueries import execute_query_and_fetch_data, execute_query_and_fetch_clientUser, execute_query_and_fetch_clientUsers
+from tasks import execute_query_and_fetch_data, execute_query_and_fetch_clientUser, execute_query_and_fetch_clientUsers
 
 load_dotenv()
 
@@ -396,17 +395,36 @@ def configure_routes(app):
             query = construct_query(keywords, exclusion_words, bbox)
 
             # Fetch GeoJSON data
-            geojson_data = execute_query_and_fetch_data(query)
-            if geojson_data is None:
-                return jsonify({'error': 'Error fetching data'}), 500
+            # Call the Celery task
+            task = execute_query_and_fetch_data.delay(query)
 
-            # Return the GeoJSON data
-            return jsonify(geojson_data)
+            # Return the task ID to the client
+            app.logger.info(f"Task {task.id} started successfully.")
+            return jsonify({'task_id': task.id}), 202
 
         except Exception as e:
-            app.logger.error(f"Error in fetch_geojson: {str(e)}")
+            # Detailed error logging
+            app.logger.error(f"Error in fetch_geojson: {str(e)}", exc_info=True)
             return jsonify({'error': str(e)}), 500
-        
+
+
+    @app.route('/check-task/<task_id>', methods=['GET'])
+    def check_task(task_id):
+        task = execute_query_and_fetch_data.AsyncResult(task_id)
+        if task.state == 'PENDING':
+            # Task is still running
+            return jsonify({'status': 'pending'}), 202
+        elif task.state == 'SUCCESS':
+            # Task completed successfully
+            return jsonify({'status': 'completed', 'result': task.result})
+        elif task.state == 'FAILURE':
+            # Task failed
+            return jsonify({'status': 'failed', 'error': str(task.info)}), 500
+        else:
+            # Task is in an unknown state
+            return jsonify({'status': 'unknown'}), 202
+
+            
     
 
     
@@ -468,7 +486,6 @@ def configure_routes(app):
                 state.is_new_read = True  # Reset when the file does not exist
 
             complete_data = final_header + new_data
-            print(complete_data)
             return make_response(jsonify(complete_data), 404)
 
         try:

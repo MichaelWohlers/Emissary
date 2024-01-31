@@ -310,7 +310,7 @@ function displayDataOnTable(data) {
 
 // Function to start the interval for fetchTempData
 function startFetchingTempData() {
-    intervalId = setInterval(fetchTempData, 5000); // Fetch every 5 seconds
+    intervalId = setInterval(fetchTempData, 3000); // Fetch every 5 seconds
     console.log('interval set')
     
 }
@@ -359,7 +359,6 @@ function fetchData(queryData) {
         const elapsedTime = endTime - startTime;
         console.log(`Request completed in ${elapsedTime} ms`);
 
-        document.getElementById('loadingIcon').style.display = 'none';
     })
     .catch(error => {
         // Hide the loading icon and log error and elapsed time
@@ -367,7 +366,6 @@ function fetchData(queryData) {
         const elapsedTime = endTime - startTime;
         console.error(`Error: ${error}. Request failed in ${elapsedTime} ms`);
 
-        document.getElementById('loadingIcon').style.display = 'none';
     });
 }
 
@@ -386,9 +384,7 @@ function fetchTempData() {
         return response.json();
     })
     .then(data => {
-        const endTime = Date.now();
-
-        const elapsedTime = endTime - startTime;
+        
 
         displayDataOnTable(data); // Populate the table with data
 
@@ -404,7 +400,12 @@ function fetchTempData() {
 
         if (error.message.includes('404')) { // Assuming 404 means file not found
             clearInterval(intervalId);
-            console.log('No more data to fetch, stopping interval.');
+            const endTime = Date.now();
+
+            const elapsedTime = endTime - startTime;
+            document.getElementById('loadingIcon').style.display = 'none';
+
+            console.log('No more data to fetch, stopping interval. Total Time = ',{elapsedTime});
         }
     });
 }
@@ -546,6 +547,8 @@ function filterKeywords() {
 $(document).ready(function() {
     initializeMap();
     fetchAndDisplayCategories();
+    startFetchingTempData();
+
 
 
 
@@ -597,7 +600,7 @@ $(document).ready(function() {
         setTimeout(function() {
             console.log('Starting to fetch temporary data...');
             startFetchingTempData();
-        }, 5000); // 10000 milliseconds = 10 seconds
+        }, 2000); // 10000 milliseconds = 10 seconds
             
     });
     document.getElementById('mapTableToggle').addEventListener('change', function() {

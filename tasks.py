@@ -5,7 +5,8 @@ from models import dbPlace
 import logging
 import json
 from flask import jsonify
-import json
+from shared import celery
+import os
 
 def parse_ndjson_to_dict(file_path):
     data_dict = {}
@@ -19,29 +20,40 @@ def parse_ndjson_to_dict(file_path):
     return data_dict
 ndjson_file_path = 'files/clientUser.json'
 
+@celery.task(name='tasks.execute_query_and_fetch_data')
+def execute_query_and_fetch_data(query):   
+    try:
+        # Connect to DuckDB
+        conn = duckdb.connect()
+        logging.debug("Connected to DuckDB")
 
-def execute_query_and_fetch_data(query):
-        try:
-            # Connect to DuckDB
-            conn = duckdb.connect()
-            logging.debug("Connected to DuckDB")
+        # Execute the query and fetch results
+        result = conn.execute(query).fetchall()
+        logging.debug(f"Query executed: {query}")
 
-            # Execute the query and fetch results
-            result = conn.execute(query).fetchall()
-            logging.debug(f"Query executed: {query}")
+        # Assuming the query results are written to output.geojson
+        # ...
 
-            # Close the connection
+    except Exception as e:
+        logging.error(f"Error executing query: {e}")
+        return {'status': 'error', 'message': str(e)}
+
+    finally:
+        # Ensure the connection is closed
+        if conn:
             conn.close()
             logging.debug("Connection closed")
 
-            # Read the content of output.geojson
-            with open('files/output.geojson', 'r') as file:
-                query_data = json.load(file)
-                return query_data
+    # Read the content of output.geojson
+    try:
+        with open('files/output.geojson', 'r') as file:
+            query_data = json.load(file)
+            return {'status': 'success', 'data': query_data}
 
-        except Exception as e:
-            logging.error(f"Error executing query: {e}")
-            return None
+    except Exception as e:
+        logging.error(f"Error reading output file: {e}")
+        return {'status': 'error', 'message': f"Error reading output file: {str(e)}"}
+
         
 def execute_query_and_fetch_clientUsers(query):
         try:
