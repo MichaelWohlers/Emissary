@@ -10,6 +10,7 @@
     <meta name="author" content="">
 
     <title>Emissary - Dashboard</title> 
+    
 
     <!-- Custom fonts for this template-->
 <link href="{{ url_for('static', filename='vendor/fontawesome-free/css/all.min.css') }}" rel="stylesheet" type="text/css">
@@ -479,6 +480,8 @@ input:checked + .slider:before {
 
 <!-- Core Plugin JavaScript -->
 <script src="{{ url_for('static', filename='vendor/jquery-easing/jquery.easing.min.js') }}"></script>
+<script src="https://cdn.socket.io/4.3.2/socket.io.min.js"></script>
+
 
 <!-- Custom Scripts for All Pages -->
 <script src="{{ url_for('static', filename='js/sb-admin-2.js') }}"></script>
@@ -491,6 +494,7 @@ input:checked + .slider:before {
 
 <!-- Custom Page-Level Scripts -->
 <script src="{{ url_for('static', filename='js/reindexContent.js') }}"></script>
+
 
 <!-- Inline Page-Level Script -->
 <script>
