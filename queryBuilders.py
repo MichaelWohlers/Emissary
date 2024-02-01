@@ -9,6 +9,7 @@ aws_secret_access_key = os.environ.get('YOUR_SECRET_KEY')
 aws_default_region = os.environ.get('AWS_DEFAULT_REGION')
 place_location = os.environ.get('PLACE_SERVER')
 records_location=os.environ.get('RECORDS_FOLDER')
+s3_output=os.environ.get('S3_OUTPUT')
 
 def construct_query(keywords, exclusion_words, bbox):
         # Split keywords and exclusion words into arrays
@@ -68,9 +69,10 @@ def construct_query(keywords, exclusion_words, bbox):
                     AND bbox.maxx < {bbox[2]}
                     AND bbox.miny > {bbox[1]}
                     AND bbox.maxy < {bbox[3]}
-            ) TO 'files/output.geojson'
+            ) TO 'files/output.json'
         WITH (FORMAT GDAL, DRIVER 'GeoJSON', SRS 'EPSG:4326');
         """
+        print(query)
         return query
 
 def fetch_userClient_query(key,value):

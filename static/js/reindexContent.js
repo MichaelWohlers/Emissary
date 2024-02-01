@@ -543,12 +543,35 @@ function filterKeywords() {
     });
 }
 
-// Document Ready Setup
 $(document).ready(function() {
     initializeMap();
     fetchAndDisplayCategories();
-    startFetchingTempData();
+    //startFetchingTempData();
 
+    // Connect to the Socket.IO server.
+    // The connection URL has to be updated with your actual server URL
+    var socket = io.connect('https://iemissary-e39e92466db2.herokuapp.com/'); // Use 'wss://your-server-url' for secure connections
+
+    socket.on('connect', function() {
+        console.log('WebSocket Connected');
+        // Request to start fetching data, if needed
+        socket.emit('startFetchingData', {});
+    });
+
+    socket.on('geojson_data', function(data) {
+        console.log('Received GeoJSON data:', data);
+        if (data.content) {
+            // Assuming your data comes in a property named 'content'
+            displayDataOnTable(data.content); // Populate the table with data
+            displayDataOnMap(data.content); // Handle the data on the map
+        }
+    });
+
+    socket.on('complete', function() {
+        console.log('Data fetching complete');
+        document.getElementById('loadingIcon').style.display = 'none';
+        socket.disconnect(); // Optionally disconnect after receiving all data
+    });
 
 
 
@@ -597,10 +620,10 @@ $(document).ready(function() {
         console.log('Fetching data...');
     
         // Set a delay of 10 seconds before fetching temporary data
-        setTimeout(function() {
-            console.log('Starting to fetch temporary data...');
-            startFetchingTempData();
-        }, 2000); // 10000 milliseconds = 10 seconds
+        //setTimeout(function() {
+        //    console.log('Starting to fetch temporary data...');
+        //    startFetchingTempData();
+       // }, 2000); // 10000 milliseconds = 10 seconds
             
     });
     document.getElementById('mapTableToggle').addEventListener('change', function() {

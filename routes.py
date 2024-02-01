@@ -12,7 +12,10 @@ import logging
 from dotenv import load_dotenv
 from queryBuilders import construct_query, fetch_userClient_query, add_userClient, delete_userClient, update_userClient
 from tasks import execute_query_and_fetch_data, execute_query_and_fetch_clientUser, execute_query_and_fetch_clientUsers
-
+import subprocess
+import redis
+import threading
+from app import socketio
 load_dotenv()
 
 
@@ -373,6 +376,30 @@ def configure_routes(app):
             # Log the exception e
             return jsonify({'error': 'An error occurred'}), 404
         
+    @socketio.on('connect')
+    def handle_connect():
+        print('Client connected')
+
+    @socketio.on('disconnect')
+    def handle_disconnect():
+        print('Client disconnected')
+        
+
+    def run_one_off_dyno(query):
+        # Adjust this command as per your environment setup
+        command = f"heroku run:detached --size=Performance-L --app iemissary 'python offLoad.py \"{json.dumps(query)}\"'"
+        subprocess.run(command, shell=True)
+
+    def listen_for_redis_messages():
+        r = redis.Redis.from_url(os.getenv('REDIS_URL'))
+        pubsub = r.pubsub()
+        pubsub.subscribe('geojson_channel')
+        
+        for message in pubsub.listen():
+            if message['type'] == 'message':
+                # Emitting message data to all connected clients
+                socketio.emit('geojson_data', {'data': message['data']})
+                # Break or continue based on your app's logic
 
     @app.route('/fetch-geojson', methods=['POST'])
     def fetch_geojson():
@@ -380,7 +407,6 @@ def configure_routes(app):
             return redirect(url_for('login'))
 
         try:
-            # Extract user inputs from the form
             data = request.json
             keywords = data['keywords']
             exclusion_words = data['exclusionWords']
@@ -393,18 +419,17 @@ def configure_routes(app):
 
             # Construct DuckDB query
             query = construct_query(keywords, exclusion_words, bbox)
+            
+            # Starting the one-off dyno in a separate thread
+            threading.Thread(target=run_one_off_dyno, args=(query,)).start()
+            
+            # Starting the Redis listener in a separate thread
+            threading.Thread(target=listen_for_redis_messages).start()
 
-            # Fetch GeoJSON data
-            # Call the Celery task
-            task = execute_query_and_fetch_data.delay(query)
-
-            # Return the task ID to the client
-            app.logger.info(f"Task {task.id} started successfully.")
-            return jsonify({'task_id': task.id}), 202
+            # Acknowledging the request; data will be streamed via WebSocket
+            return jsonify({'status': 'data_processing_started'})
 
         except Exception as e:
-            # Detailed error logging
-            app.logger.error(f"Error in fetch_geojson: {str(e)}", exc_info=True)
             return jsonify({'error': str(e)}), 500
 
 
@@ -525,68 +550,35 @@ def configure_routes(app):
         # Additional routes....
 
 
+    '''@app.route('/fetch-geojson', methods=['POST'])
+    def fetch_geojson():
+        if not is_logged_in():
+            return redirect(url_for('login'))
 
+        try:
+            # Extract user inputs from the form
+            data = request.json
+            keywords = data['keywords']
+            exclusion_words = data['exclusionWords']
+            bbox = tuple(data['bbox'])
 
-        """def construct_query(keywords, exclusion_words, bbox):
-        # Split keywords and exclusion words into arrays
-        keyword_list = keywords.split(',')
-        exclusion_list = exclusion_words.split(',')
-        # Set AWS credentials (replace with your credentials)
-        
+            # Validate bbox length
+            if len(bbox) != 4:
+                app.logger.error(f"Invalid bbox length: {len(bbox)}")
+                return jsonify({'error': 'Invalid bounding box dimensions'}), 400
 
-        # Function to format keywords, handling single quotes
-        def format_keyword(kw):
-            return kw.replace("'", "").strip()
+            # Construct DuckDB query
+            query = construct_query(keywords, exclusion_words, bbox)
 
-        # Construct WHERE clause for keywords
-        keyword_conditions = ' OR '.join([
-            f"JSON_EXTRACT_STRING(categories, 'main') = '{format_keyword(kw)}'" 
-            for kw in keyword_list if kw.strip()
-        ])
+            # Fetch GeoJSON data
+            # Call the Celery task
+            execute_query_and_fetch_data(query)
 
-        # Construct WHERE clause for exclusion words
-        exclusion_conditions = ' OR '.join([
-            f"JSON_EXTRACT_STRING(names, 'common') LIKE '%{format_keyword(ew)}%'" 
-            for ew in exclusion_list if ew.strip()
-        ])
+            # Return the task ID to the client
+            app.logger.info(f"Task started successfully.")
+            return jsonify('Query sent'), 200
 
-        # Validate the bbox parameter
-        #if not isinstance(bbox, tuple) or len(bbox) != 4:
-        #    raise ValueError("bbox must be a tuple with exactly 4 elements (minx, maxx, miny, maxy)")
-
-        # Accessing elements of bbox safely
-        #minx, maxx, miny, maxy = bbox
-        query = finsert triple quotes here!
-            INSTALL httpfs;
-            INSTALL spatial;
-            LOAD httpfs;
-            LOAD spatial;
-            SET s3_region = '{aws_default_region}';
-            SET s3_access_key_id = '{aws_access_key_id}';
-            SET s3_secret_access_key = '{aws_secret_access_key}';
-            COPY (
-                SELECT
-                    id,
-                    updatetime,
-                    version,
-                    CAST(names AS JSON) AS names,
-                    CAST(categories AS JSON) AS categories,
-                    CAST(websites AS JSON) AS websites,
-                    CAST(socials AS JSON) AS socials,
-                    CAST(phones AS JSON) AS phones,
-                    CAST(addresses AS JSON) AS addresses,
-                    ST_GeomFromWKB(geometry)
-                FROM
-                    read_parquet('{place_location}', hive_partitioning=1)
-                WHERE
-                    ({keyword_conditions})
-                    AND NOT ({exclusion_conditions})
-                    AND bbox.minx > {bbox[0]}
-                    AND bbox.maxx < {bbox[2]}
-                    AND bbox.miny > {bbox[1]}
-                    AND bbox.maxy < {bbox[3]}
-            ) TO 'files/output.geojson'
-        WITH (FORMAT GDAL, DRIVER 'GeoJSON', SRS 'EPSG:4326');
-       insert triple quotes here!
-        print(query)
-        return query"""
+        except Exception as e:
+            # Detailed error logging
+            app.logger.error(f"Error in fetch_geojson: {str(e)}", exc_info=True)
+            return jsonify({'error': str(e)}), 500'''

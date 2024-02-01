@@ -1,12 +1,7 @@
-from sqlalchemy.orm import sessionmaker
-from sqlalchemy import create_engine
 import duckdb
-from models import dbPlace
 import logging
 import json
-from flask import jsonify
 from shared import celery
-import os
 
 def parse_ndjson_to_dict(file_path):
     data_dict = {}
@@ -20,15 +15,16 @@ def parse_ndjson_to_dict(file_path):
     return data_dict
 ndjson_file_path = 'files/clientUser.json'
 
-@celery.task(name='tasks.execute_query_and_fetch_data')
-def execute_query_and_fetch_data(query):   
+#@celery.task(name='tasks.execute_query_and_fetch_data')
+def execute_query_and_fetch_data(query):  
+    print('executing fetch') 
     try:
         # Connect to DuckDB
         conn = duckdb.connect()
         logging.debug("Connected to DuckDB")
 
         # Execute the query and fetch results
-        result = conn.execute(query).fetchall()
+        conn.execute(query).fetchall()
         logging.debug(f"Query executed: {query}")
 
         # Assuming the query results are written to output.geojson
@@ -102,4 +98,17 @@ def execute_query_and_fetch_clientUser(query):
         except Exception as e:
             logging.error(f"Error executing query: {e}")
             return None
+
+import redis
+
+def subscribe_to_geojson_updates():
+    r = redis.Redis()
+    pubsub = r.pubsub()
+    pubsub.subscribe('geojson_channel')
+
+    for message in pubsub.listen():
+        if message['type'] == 'message':
+            geojson_data = message['data']
+            # Send this GeoJSON data to the frontend
+            return(geojson_data)
 
