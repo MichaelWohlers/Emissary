@@ -559,7 +559,7 @@ $(document).ready(function() {
 
     socket.on('geojson_data', function(data) {
         console.log('Received GeoJSON data:', data);
-        console.log('Type of received data:', data.constructor.name);
+        console.log('Actual ArrayBuffer:', data.data); // If `data` is an object containing the ArrayBuffer
     
         // Check if data is an instance of ArrayBuffer
         if (data instanceof ArrayBuffer) {
