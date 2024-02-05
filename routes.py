@@ -17,6 +17,7 @@ import redis
 import threading
 from app import socketio
 import heroku3
+import tempfile
 load_dotenv()
 
 
@@ -393,8 +394,12 @@ def configure_routes(app):
         # The name of your Heroku app
         app_name = "iemissary"
         
-        # The command you want to run in the one-off dyno
-        dyno_command = f"python offLoad.py '{json.dumps(query)}'"
+        with tempfile.NamedTemporaryFile(delete=False, mode='w') as tmpfile:
+            json.dump(query, tmpfile)
+            tmpfile_path = tmpfile.name
+        
+        # Command includes path to the temp file
+        dyno_command = f"python offLoad.py '{tmpfile_path}'"
         
         # Connect to Heroku with your API key
         heroku_conn = heroku3.from_key(HEROKU_API_KEY)

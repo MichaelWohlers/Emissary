@@ -66,6 +66,15 @@ def execute_query_and_fetch_data(query):
 
 if __name__ == "__main__":
     print('hello from offLoad.py')
-    query = sys.argv[1] if len(sys.argv) > 1 else exit("Query argument still missing")
+    query_file_path = sys.argv[1] if len(sys.argv) > 1 else exit("Query file path missing")
+    
+    # Load the query from the provided file path
+    with open(query_file_path, 'r') as query_file:
+        query = json.load(query_file)
+    
     print(query)
     execute_query_and_fetch_data(query)
+    
+    # Optionally delete the temp file if no longer needed
+    os.remove(query_file_path)
+
