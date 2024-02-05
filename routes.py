@@ -16,6 +16,7 @@ import subprocess
 import redis
 import threading
 from app import socketio
+import heroku3
 load_dotenv()
 
 
@@ -386,9 +387,27 @@ def configure_routes(app):
         
 
     def run_one_off_dyno(query):
-        # Adjust this command as per your environment setup
-        command = f"heroku run:detached --size=Performance-L --app iemissary 'python offLoad.py \"{json.dumps(query)}\"'"
-        subprocess.run(command, shell=True)
+        # Your Heroku API key, stored securely as an environment variable
+        HEROKU_API_KEY = os.environ['HEROKU_API_KEY']
+        
+        # The name of your Heroku app
+        app_name = "iemissary"
+        
+        # The command you want to run in the one-off dyno
+        dyno_command = f"python offLoad.py '{json.dumps(query)}'"
+        
+        # Connect to Heroku with your API key
+        heroku_conn = heroku3.from_key(HEROKU_API_KEY)
+        
+        # Fetch the app
+        app = heroku_conn.apps()[app_name]
+        
+        # Run a one-off dyno with the specified command
+        # Note: Adjust the size according to your needs or omit for default size
+        dyno = app.run_command_detached(dyno_command, size='Performance-L')
+        
+        print(f"One-off dyno {dyno.id} created: {dyno_command}")
+
 
     def listen_for_redis_messages():
         r = redis.Redis.from_url(os.getenv('REDISCLOUD_URL'))
