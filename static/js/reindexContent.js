@@ -559,12 +559,30 @@ $(document).ready(function() {
 
     socket.on('geojson_data', function(data) {
         console.log('Received GeoJSON data:', data);
-        if (data.content) {
-            // Assuming your data comes in a property named 'content'
-            displayDataOnTable(data.content); // Populate the table with data
-            displayDataOnMap(data.content); // Handle the data on the map
+    
+        // Check if data is an instance of ArrayBuffer
+        if (data instanceof ArrayBuffer) {
+            // Step 1: Convert ArrayBuffer to String
+            const stringFromBuffer = new TextDecoder("utf-8").decode(data);
+    
+            // Step 2: Parse String to JSON
+            try {
+                const jsonData = JSON.parse(stringFromBuffer);
+                console.log('Converted GeoJSON data:', jsonData);
+    
+                // Now that we have JSON, we can pass it to the display functions
+                displayDataOnTable(jsonData); // Populate the table with data
+                displayDataOnMap(jsonData); // Handle the data on the map
+            } catch (e) {
+                console.error("Error parsing JSON data:", e);
+            }
+        } else {
+            // If data is not an ArrayBuffer, assume it's already in the desired format
+            displayDataOnTable(data); // Populate the table with data
+            displayDataOnMap(data); // Handle the data on the map
         }
     });
+    
 
     socket.on('complete', function() {
         console.log('Data fetching complete');
