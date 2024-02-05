@@ -555,7 +555,6 @@ $(document).ready(function() {
     socket.on('connect', function() {
         console.log('WebSocket Connected');
         // Request to start fetching data, if needed
-        socket.emit('startFetchingData', {});
     });
 
     socket.on('geojson_data', function(data) {

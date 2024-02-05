@@ -65,6 +65,7 @@ def execute_query_and_fetch_data(query):
     exit_loop = True  # Signal to exit the monitoring loop after the query completes
 
 if __name__ == "__main__":
-    print('hello')
+    print('hello from offLoad.py')
     query = sys.argv[1] if len(sys.argv) > 1 else exit("Query argument still missing")
+    print(query)
     execute_query_and_fetch_data(query)
