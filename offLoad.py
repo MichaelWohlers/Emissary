@@ -13,14 +13,24 @@ redis_url = os.getenv('REDISCLOUD_URL')
 r = redis.from_url(redis_url)
 
 exit_loop = False
+class SingletonState:
+    _instance = None
+
+    def __new__(cls):
+        if cls._instance is None:
+            cls._instance = super(SingletonState, cls).__new__(cls)
+            # Initialize your variables here
+            cls._instance.last_read_position = 0
+            cls._instance.base_position = 149
+            cls._instance.is_new_read = True
+        return cls._instance
 
 def assemble_and_publish_geojson(file_path, redis_client):
     global exit_loop  # Ensure exit_loop is recognized within this function
+    state = SingletonState()  # Get the singleton instance
+
+    geojson_header = ('{"type": "FeatureCollection","features": [')
     
-    geojson_header = '{ "type": "FeatureCollection", "features": ['
-    is_new_read = True
-    last_read_position = 0
-    base_position = 149
 
     while not os.path.exists(file_path):
         time.sleep(2)  # Wait for the file to be created by the DuckDB query
@@ -29,16 +39,16 @@ def assemble_and_publish_geojson(file_path, redis_client):
         try:
             new_data = ''
             with open(file_path, 'r') as file:
-                file.seek(last_read_position)
+                file.seek(state.last_read_position)
                 new_data = file.read()
-                last_read_position = file.tell()
-                if last_read_position > base_position:
-                    last_read_position += 1
-                    base_position = last_read_position
+                state.last_read_position = file.tell()
+                if state.last_read_position > state.base_position:
+                    state.last_read_position += 1
+                    state.base_position = state.last_read_position
                 
             if new_data:
-                completed_json = (geojson_header + new_data) if is_new_read else new_data
-                is_new_read = False
+                completed_json = (geojson_header + new_data) if state.is_new_read else new_data
+                state.is_new_read = False
                 
                 if not completed_json.endswith(']}'):
                     completed_json += ']}'
