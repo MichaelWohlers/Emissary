@@ -43,6 +43,7 @@ def assemble_and_publish_geojson(file_path, redis_client):
                 if not completed_json.endswith(']}'):
                     completed_json += ']}'
                 
+                print(completed_json)
                 redis_client.publish('geojson_channel', completed_json)
             
             time.sleep(2)  # Check file again after a delay
@@ -66,18 +67,42 @@ def execute_query_and_fetch_data(query):
 
     exit_loop = True  # Signal to exit the monitoring loop after the query completes
 
+def checkFile():
+    # Specify the expected path of your output.geojson file
+    output_file_path = 'output.geojson'  # Adjust this path as necessary
+
+    # Check if the file exists
+    if os.path.exists(output_file_path):
+        print(f"File {output_file_path} exists.")
+    else:
+        print(f"File {output_file_path} does not exist.")
+
+    # List all files in the directory where output.geojson is supposed to be
+    directory = os.path.dirname(output_file_path)
+    print(f"Listing contents of directory: {directory or '.'}")
+    for filename in os.listdir(directory or '.'):
+        print(filename)
+
 if __name__ == "__main__":
     query_key='query_for_offload'
     print('hello from offLoad.py')
+    print(exit_loop)
     query = json.loads(r.get(query_key))
     # Start file monitoring in a separate thread
     thread = threading.Thread(target=assemble_and_publish_geojson, args=('output.geojson', r,))
+    print('starting thread')
+
     thread.start()
+    print('executing query')
 
     # Execute query and wait for completion
     execute_query_and_fetch_data(query)
+    time.sleep(2)
+    print(exit_loop)
+
     
-    # Ensure the monitoring thread completes
-    thread.join()
+    checkFile()
+
+   
     
 
