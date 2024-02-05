@@ -390,16 +390,18 @@ def configure_routes(app):
     def run_one_off_dyno(query):
         # Your Heroku API key, stored securely as an environment variable
         HEROKU_API_KEY = os.environ['HEROKU_API_KEY']
+        r = redis.Redis.from_url(os.getenv('REDISCLOUD_URL'))
+
         
         # The name of your Heroku app
         app_name = "iemissary"
         
-        with tempfile.NamedTemporaryFile(delete=False, mode='w') as tmpfile:
-            json.dump(query, tmpfile)
-            tmpfile_path = tmpfile.name
+        # Serialize and store the query in Redis
+        query_key = "query_for_offload"
+        r.set(query_key, json.dumps(query))
         
-        # Command includes path to the temp file
-        dyno_command = f"python offLoad.py '{tmpfile_path}'"
+        # Command 
+        dyno_command = f"python offLoad.py"
         
         # Connect to Heroku with your API key
         heroku_conn = heroku3.from_key(HEROKU_API_KEY)

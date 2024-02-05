@@ -7,6 +7,9 @@ import time
 import json
 from dotenv import load_dotenv
 load_dotenv()
+ # Initialize Redis connection
+redis_url = os.getenv('REDISCLOUD_URL')
+r = redis.from_url(redis_url)
 
 exit_loop = False
 
@@ -50,9 +53,7 @@ def assemble_and_publish_geojson(file_path, redis_client):
 def execute_query_and_fetch_data(query):
     global exit_loop  # Declare as global to modify it
     
-    # Initialize Redis connection
-    redis_url = os.getenv('REDISCLOUD_URL')
-    r = redis.from_url(redis_url)
+   
     
     # Start monitoring the output file in a separate thread or before executing the query
     # Consider threading or adjusting the flow to ensure this happens concurrently with query execution
@@ -65,16 +66,11 @@ def execute_query_and_fetch_data(query):
     exit_loop = True  # Signal to exit the monitoring loop after the query completes
 
 if __name__ == "__main__":
+    query_key='query_for_offload'
     print('hello from offLoad.py')
-    query_file_path = sys.argv[1] if len(sys.argv) > 1 else exit("Query file path missing")
-    
-    # Load the query from the provided file path
-    with open(query_file_path, 'r') as query_file:
-        query = json.load(query_file)
+    query = json.loads(r.get(query_key))
     
     print(query)
     execute_query_and_fetch_data(query)
     
-    # Optionally delete the temp file if no longer needed
-    os.remove(query_file_path)
 
