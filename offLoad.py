@@ -8,7 +8,6 @@ import json
 from dotenv import load_dotenv
 load_dotenv()
 
-
 exit_loop = False
 
 def assemble_and_publish_geojson(file_path, redis_client):
@@ -66,6 +65,6 @@ def execute_query_and_fetch_data(query):
     exit_loop = True  # Signal to exit the monitoring loop after the query completes
 
 if __name__ == "__main__":
-    query = sys.argv[1] if len(sys.argv) > 1 else exit("Query argument missing")
+    print('hello')
+    query = sys.argv[1] if len(sys.argv) > 1 else exit("Query argument still missing")
     execute_query_and_fetch_data(query)
-print('hello')
