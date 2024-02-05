@@ -5,6 +5,9 @@ import redis
 import os
 import time
 import json
+from dotenv import load_dotenv
+load_dotenv()
+
 
 exit_loop = False
 
@@ -49,7 +52,7 @@ def execute_query_and_fetch_data(query):
     global exit_loop  # Declare as global to modify it
     
     # Initialize Redis connection
-    redis_url = os.getenv('REDIS_URL')
+    redis_url = os.getenv('REDISCLOUD_URL')
     r = redis.from_url(redis_url)
     
     # Start monitoring the output file in a separate thread or before executing the query
@@ -65,3 +68,4 @@ def execute_query_and_fetch_data(query):
 if __name__ == "__main__":
     query = sys.argv[1] if len(sys.argv) > 1 else exit("Query argument missing")
     execute_query_and_fetch_data(query)
+print('hello')
