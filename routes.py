@@ -391,7 +391,7 @@ def configure_routes(app):
         subprocess.run(command, shell=True)
 
     def listen_for_redis_messages():
-        r = redis.Redis.from_url(os.getenv('REDIS_URL'))
+        r = redis.Redis.from_url(os.getenv('REDISCLOUD_URL'))
         pubsub = r.pubsub()
         pubsub.subscribe('geojson_channel')
         
