@@ -550,7 +550,7 @@ $(document).ready(function() {
 
     // Connect to the Socket.IO server.
     // The connection URL has to be updated with your actual server URL
-    var socket = io.connect('http://127.0.0.1:5000/'); // Use 'wss://your-server-url' for secure connections
+    var socket = io.connect('https://iemissary-e39e92466db2.herokuapp.com/'); // Use 'wss://your-server-url' for secure connections
 
     socket.on('connect', function() {
         console.log('WebSocket Connected');
