@@ -557,39 +557,29 @@ $(document).ready(function() {
         // Request to start fetching data, if needed
     });
 
-    socket.on('geojson_data', function(data) {
-        console.log('Received GeoJSON data:', data);
-        console.log('Actual ArrayBuffer:', data.data); // If `data` is an object containing the ArrayBuffer
+    socket.on('geojson_data', function(arrayBuffer) {
+        console.log('Received GeoJSON data:', arrayBuffer);
     
-        // Check if data is an instance of ArrayBuffer
-        if (data instanceof ArrayBuffer) {
-            // Step 1: Convert ArrayBuffer to String
-            const stringFromBuffer = new TextDecoder("utf-8").decode(data);
+        // Convert ArrayBuffer to String
+        const decoder = new TextDecoder('utf-8');
+        const geoJsonString = decoder.decode(arrayBuffer);
+        console.log('GeoJSON String:', geoJsonString);
     
-            // Step 2: Parse String to JSON
-            try {
-                const jsonData = JSON.parse(stringFromBuffer);
-                console.log('Converted GeoJSON data:', jsonData);
+        // Parse String as JSON
+        try {
+            const geoJsonObject = JSON.parse(geoJsonString);
+            console.log('GeoJSON Object:', geoJsonObject);
     
-                // Now that we have JSON, we can pass it to the display functions
-                displayDataOnTable(jsonData); // Populate the table with data
-                displayDataOnMap(jsonData); // Handle the data on the map
-            } catch (e) {
-                console.error("Error parsing JSON data:", e);
-            }
-        } else {
-            // If data is not an ArrayBuffer, assume it's already in the desired format
-            displayDataOnTable(data); // Populate the table with data
-            displayDataOnMap(data); // Handle the data on the map
+            // Now you can work with your GeoJSON object
+            // For example, you might want to display it on a map
+            displayDataOnMap(geoJsonObject); // Assuming this is a function you've defined elsewhere
+            displayDataOnTable(geoJsonObject); // Assuming this is a function you've defined elsewhere
+
+        } catch (error) {
+            console.error('Error parsing GeoJSON string:', error);
         }
     });
     
-
-    socket.on('complete', function() {
-        console.log('Data fetching complete');
-        document.getElementById('loadingIcon').style.display = 'none';
-        socket.disconnect(); // Optionally disconnect after receiving all data
-    });
 
 
 
