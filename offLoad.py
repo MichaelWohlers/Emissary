@@ -5,6 +5,7 @@ import redis
 import os
 import time
 import json
+import threading
 from dotenv import load_dotenv
 load_dotenv()
  # Initialize Redis connection
@@ -69,8 +70,14 @@ if __name__ == "__main__":
     query_key='query_for_offload'
     print('hello from offLoad.py')
     query = json.loads(r.get(query_key))
-    
-    print(query)
+    # Start file monitoring in a separate thread
+    thread = threading.Thread(target=assemble_and_publish_geojson, args=('output.geojson', r,))
+    thread.start()
+
+    # Execute query and wait for completion
     execute_query_and_fetch_data(query)
+    
+    # Ensure the monitoring thread completes
+    thread.join()
     
 

@@ -69,7 +69,7 @@ def construct_query(keywords, exclusion_words, bbox):
                     AND bbox.maxx < {bbox[2]}
                     AND bbox.miny > {bbox[1]}
                     AND bbox.maxy < {bbox[3]}
-            ) TO 'files/output.json'
+            ) TO 'output.json'
         WITH (FORMAT GDAL, DRIVER 'GeoJSON', SRS 'EPSG:4326');
         """
         print(query)
