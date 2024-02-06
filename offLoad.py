@@ -6,6 +6,7 @@ import os
 import time
 import json
 import threading
+from flask import jsonify
 from dotenv import load_dotenv
 load_dotenv()
  # Initialize Redis connection
@@ -46,15 +47,21 @@ def assemble_and_publish_geojson(file_path, redis_client):
                     state.last_read_position += 1
                     state.base_position = state.last_read_position
                 
-            if new_data:
-                completed_json = (geojson_header + new_data) if state.is_new_read else new_data
-                state.is_new_read = False
+            if state.is_new_read:
+                completed_json = new_data
+                state.is_new_read = False  
+            else:
+                completed_json = geojson_header + new_data
+
+            if not completed_json.endswith(']}'):
+                completed_json += ']}'
+            
+
+            geojson_data = json.loads(completed_json)
+            jsonify(geojson_data)
+            redis_client.publish('geojson_channel', geojson_data)    
                 
-                if not completed_json.endswith(']}'):
-                    completed_json += ']}'
                 
-                print(completed_json)
-                redis_client.publish('geojson_channel', completed_json)
             
             time.sleep(2)  # Check file again after a delay
 
