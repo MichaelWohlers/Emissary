@@ -423,9 +423,15 @@ def configure_routes(app):
         
         for message in pubsub.listen():
             if message['type'] == 'message':
-                # Emitting message data to all connected clients
-                socketio.emit('geojson_data', {'data': message['data']})
-                # Break or continue based on your app's logic
+                # Check for a special "complete" message
+                if message['data'] == b'COMPLETE':
+                    # Emitting 'complete' event to signal the end of data transmission
+                    socketio.emit('complete', {})
+                    break  # Optionally break if no more messages are expected
+                else:
+                    # Emitting regular GeoJSON data to clients
+                    socketio.emit('geojson_data', {'data': message['data']})
+
 
     @app.route('/fetch-geojson', methods=['POST'])
     def fetch_geojson():

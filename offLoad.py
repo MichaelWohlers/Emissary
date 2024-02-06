@@ -13,6 +13,11 @@ load_dotenv()
 redis_url = os.getenv('REDISCLOUD_URL')
 r = redis.from_url(redis_url)
 
+def signal_completion():
+    r = redis.Redis.from_url(os.getenv('REDISCLOUD_URL'))
+    # Publishing a special "COMPLETE" message to indicate the end of data transmission
+    r.publish('geojson_channel', 'COMPLETE')
+
 exit_loop = False
 class SingletonState:
     _instance = None
@@ -101,6 +106,9 @@ def checkFile():
     for filename in os.listdir(directory or '.'):
         print(filename)
 
+
+
+
 if __name__ == "__main__":
     query_key='query_for_offload'
     print('hello from offLoad.py')
@@ -116,10 +124,7 @@ if __name__ == "__main__":
     # Execute query and wait for completion
     execute_query_and_fetch_data(query)
     time.sleep(2)
-    print(exit_loop)
-
-    
-    checkFile()
+    signal_completion()
 
    
     
