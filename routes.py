@@ -401,7 +401,7 @@ def configure_routes(app):
         r.set(query_key, json.dumps(query))
         
         # Command 
-        dyno_command = f"python offLoad.py"
+        dyno_command = f"python offLoad.py size=performance-l"
         
         # Connect to Heroku with your API key
         heroku_conn = heroku3.from_key(HEROKU_API_KEY)
