@@ -61,12 +61,7 @@ def assemble_and_publish_geojson(file_path, redis_client):
             if not completed_json.endswith(']}'):
                 completed_json += ']}'
 
-            # Convert the completed JSON to a string
-            geojson_data_str = json.dumps(json.loads(completed_json))
-
-            # Publish the string to Redis
-            redis_client.publish('geojson_channel', geojson_data_str)  
-                
+            redis_client.publish('geojson_channel', completed_json) 
                 
             
             time.sleep(2)  # Check file again after a delay
@@ -124,6 +119,7 @@ if __name__ == "__main__":
     # Execute query and wait for completion
     execute_query_and_fetch_data(query)
     time.sleep(2)
+    print('Signaling Complete')
     signal_completion()
 
    
