@@ -401,7 +401,7 @@ def configure_routes(app):
         r.set(query_key, json.dumps(query))
         
         # Command 
-        dyno_command = f"python offLoad.py size=performance-l"
+        dyno_command = f"python offLoad.py"
         
         # Connect to Heroku with your API key
         heroku_conn = heroku3.from_key(HEROKU_API_KEY)
@@ -411,8 +411,7 @@ def configure_routes(app):
         
         # Run a one-off dyno with the specified command
         # Note: Adjust the size according to your needs or omit for default size
-        dyno = app.run_command_detached(dyno_command)
-        
+        dyno = app.run_command_detached(dyno_command, size="Performance-L")        
         print(f"One-off dyno {dyno.id} created: {dyno_command}")
 
 
