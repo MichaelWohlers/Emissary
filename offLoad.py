@@ -55,11 +55,12 @@ def assemble_and_publish_geojson(file_path, redis_client):
 
             if not completed_json.endswith(']}'):
                 completed_json += ']}'
-            
 
-            geojson_data = json.loads(completed_json)
-            jsonify(geojson_data)
-            redis_client.publish('geojson_channel', geojson_data)    
+            # Convert the completed JSON to a string
+            geojson_data_str = json.dumps(json.loads(completed_json))
+
+            # Publish the string to Redis
+            redis_client.publish('geojson_channel', geojson_data_str)  
                 
                 
             
