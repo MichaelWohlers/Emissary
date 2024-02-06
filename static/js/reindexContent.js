@@ -592,7 +592,6 @@ $(document).ready(function() {
     socket.on('complete', function() {
         console.log('Data fetching complete');
         document.getElementById('loadingIcon').style.display = 'none';
-        socket.disconnect(); // Optionally disconnect after receiving all data
     });
 
 

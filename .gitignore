@@ -13,6 +13,7 @@ ducktester.py
 extract.py
 testConsumer.py
 usertest.py
+files/sortedByCountry
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

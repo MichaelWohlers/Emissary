@@ -51,8 +51,6 @@ def construct_query(keywords, exclusion_words, bbox):
             COPY (
                 SELECT
                     id,
-                    updatetime,
-                    version,
                     CAST(names AS JSON) AS names,
                     CAST(categories AS JSON) AS categories,
                     CAST(websites AS JSON) AS websites,
