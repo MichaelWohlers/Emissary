@@ -40,7 +40,11 @@ function startIntroTour() {
             {
                 // Step 2: Gear Icon for opening the filter menu
                 element: document.querySelector('.gear-icon'),
-                intro: "Click the gear icon to open the search filters and initiate a search. First, select one or many categories to populate keywords. Then you can select one or many keywords to search for. If you want to prevent certain companys from appearing in the results, you can enter the name of the company in the 'Do Not Include' field.",
+                intro: "After defining a search area, click the gear icon to setup the search filters. Here's how to navigate:<br><br>" +
+                "1. <strong>Select Categories</strong>: Kick things off by choosing one or several categories. This will bring up relevant keywords for a more precise search.<br>" +
+                "2. <strong>Pick Keywords</strong>: With your categories set, select one or more keywords that best describe what you're looking for.<br>" +
+                "3. <strong>Exclude Companies</strong>: Want to keep certain companies out of your search results? Simply enter their names in the 'Do Not Include' section.<br><br>" +
+                "Let's tailor your search to find exactly what you need!",
                 position: 'left'
             },
             {

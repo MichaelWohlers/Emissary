@@ -28,7 +28,8 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.draw/1.0.4/leaflet.draw.css"/>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.0/MarkerCluster.Default.css" />
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.0/MarkerCluster.css" />
-<link href="https://cdn.jsdelivr.net/npm/intro.js/minified/introjs.min.css" rel="stylesheet">
+<link href="{{ url_for('static', filename='css/intro.css') }}" rel="stylesheet">
+
 
 
 <style>
@@ -198,7 +199,7 @@ input:checked + .slider:before {
 .gear-icon.active {
     margin-right: -35px; /* Margin applied when the button is active */
     z-index: 1060;
-    transform: translateX(182px) translateY(-128px); /* Corrected transform property */
+    transform: translateX(182px) translateY(-135px); /* Corrected transform property */
 
 }
 
@@ -500,7 +501,7 @@ input:checked + .slider:before {
 
 <!-- Custom Page-Level Scripts -->
 <script src="{{ url_for('static', filename='js/reindexContent.js') }}"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/intro.js/7.2.0/intro.min.js"></script>
+<script src="{{ url_for('static', filename='js/intro.js') }}"></script>
 
 
 <!-- Inline Page-Level Script -->
