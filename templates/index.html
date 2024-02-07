@@ -28,6 +28,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.draw/1.0.4/leaflet.draw.css"/>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.0/MarkerCluster.Default.css" />
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.0/MarkerCluster.css" />
+<link href="https://cdn.jsdelivr.net/npm/intro.js/minified/introjs.min.css" rel="stylesheet">
 
 
 <style>
@@ -332,6 +333,7 @@ input:checked + .slider:before {
                                     <li class="nav-item dropdown no-arrow">
                                         <a class="nav-link dropdown-toggle" href="#" id="userDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                             <span class="mr-2 d-none d-lg-inline text-gray-600 small" id="userName">{{ user_name }}</span>
+                                            <span class="mr-2 d-none d-lg-inline text-gray-600 small" id="userStatus">{{ user_status }}</span>
                                             <div class="profile-container">
                                                 <img class="img-profile rounded-circle" src="{{ url_for('static', filename='img/undraw_profile.svg') }}" alt="...">
                                                 <div id="loadingIcon" class="loading-icon">
@@ -379,12 +381,24 @@ input:checked + .slider:before {
                         {% endif %}
                       {% endwith %}
                     </div>
+                    {% if user_status == 'first time user' %}
+                    <script>
+                        // JavaScript to trigger the tutorial
+                        showTutorial();
+                    </script>
+                    {% endif %}
                    
                     <!-- Content Row -->    
 
                     <div class="row">
 
-                        
+                        <div id="step1" data-intro="This is step 1. Welcome to our site!" data-step="1">
+                            Welcome to the site!
+                          </div>
+                          <div id="step2" data-intro="This is step 2. Here's how to use this feature." data-step="2">
+                            Feature explanation here.
+                          </div>
+                          
                         
                         <div class="card-body col-xl-12 col-lg-12 shadow mb-0 mt-0" >
                         
@@ -494,6 +508,7 @@ input:checked + .slider:before {
 
 <!-- Custom Page-Level Scripts -->
 <script src="{{ url_for('static', filename='js/reindexContent.js') }}"></script>
+<script src="https://cdn.jsdelivr.net/npm/intro.js/minified/introjs.min.js"></script>
 
 
 <!-- Inline Page-Level Script -->

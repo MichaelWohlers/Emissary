@@ -403,9 +403,15 @@ input:checked + .slider:before {
                                     <form action="{{ url_for('update_user') }}" method="post">
                                         <input type="hidden" name="user_id" value="{{ user.id }}">
                                         <input type="hidden" name="column" value="user_status">
-                                        <input type="hidden" name="value" value="active">
-                                        <button type="submit">Approve</button>
+                                        <select name="value">
+                                            <option value="pending approval">Pending Approval</option>
+                                            <option value="first time user">First Time User</option>
+                                            <option value="active">Active</option>
+                                            <option value="disabled">Disabled</option>
+                                        </select>
+                                        <button type="submit">Update Status</button>
                                     </form>
+                                    
                                 </td>
                                 
                                 <!-- Add other user details as needed -->

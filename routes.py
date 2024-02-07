@@ -100,7 +100,7 @@ def configure_routes(app):
 
             session['user_id'] = user.id
             session['user_permission'] = user.permission_level
-
+            session['user_status'] = user.user_status
             session['user_name'] = user.first_name + " " + user.last_name
             return redirect(url_for('home'))
             
@@ -159,8 +159,9 @@ def configure_routes(app):
     def home():
         if not is_logged_in():
             return redirect(url_for('login'))
-        user_name = session.get('user_name', 'Default User')
-        return render_template('index.html', user_name=user_name)
+        user_name = session.get('user_name', 'Default User')        
+        user_status = session.get('user_status', 'active')
+        return render_template('index.html', user_name=user_name,user_status=user_status)
     
     @app.route('/email')
     def email():

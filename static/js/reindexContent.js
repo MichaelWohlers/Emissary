@@ -23,6 +23,20 @@ function initializeMap() {
     addGearMenuControl(drawnItems);
     
 }
+function showTutorial() {
+    // Using jQuery to check if the tutorial should be shown
+    if ($("#tutorialTrigger").length) {
+        // If using Intro.js
+        introJs().start();
+
+        // If not using Intro.js, you can manually highlight or focus elements
+        // For example, simply focusing on the first element:
+        $("#step1").focus(); // Just an example, tailor it to your needs
+
+        // Or, create custom logic to display modals or tooltips step by step
+        // This part can be as simple or complex as you need
+    }
+}
 
 function setupGeocoder(drawnItems) {
     var geocoder = L.Control.geocoder({
@@ -546,6 +560,10 @@ function filterKeywords() {
 $(document).ready(function() {
     initializeMap();
     fetchAndDisplayCategories();
+    var userStatus = $("#userStatus").val(); // Assuming you have a hidden input or other element storing this
+    if (userStatus === "first time user") {
+        showTutorial();
+    }
     //startFetchingTempData();
 
     // Connect to the Socket.IO server.
