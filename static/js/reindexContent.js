@@ -345,11 +345,11 @@ function displayDataOnTable(data) {
 // Utility Functions
 
 // Function to start the interval for fetchTempData
-function startFetchingTempData() {
-    intervalId = setInterval(fetchTempData, 3000); // Fetch every 5 seconds
-    console.log('interval set')
+//function startFetchingTempData() {
+//    intervalId = setInterval(fetchTempData, 3000); // Fetch every 5 seconds
+//    console.log('interval set')
     
-}
+//}
 function updateBboxText(layer) {
     var bounds = layer.getBounds();
     var sw = bounds.getSouthWest();
