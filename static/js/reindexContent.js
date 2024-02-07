@@ -582,6 +582,13 @@ function filterKeywords() {
 $(document).ready(function() {
     initializeMap();
     fetchAndDisplayCategories();
+    var userStatusElement = document.getElementById('userStatus');
+    var userStatus = userStatusElement ? userStatusElement.value : null;
+
+    if (userStatus === 'first time user') {
+        startIntroTour(); // Function to start the tour
+    }
+
 
     //startFetchingTempData();
 
@@ -633,10 +640,7 @@ $(document).ready(function() {
 
 
 
-    document.getElementById('userStatus').value;
-    if (userStatus === 'first time user') {
-        startIntroTour(); // Start the tour for first-time users
-    }
+
     document.getElementById('searchInput').addEventListener('input', filterCategories);
     document.getElementById('searchKeyword').addEventListener('input', filterKeywords);
     document.getElementById('queryForm').addEventListener('submit', function(e) {
