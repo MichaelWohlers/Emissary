@@ -46,7 +46,7 @@ function startIntroTour() {
             {
                 // Step 2: Gear Icon for opening the filter menu
                 element: document.querySelector('.gear-icon'),
-                intro: "After defining a search area, click the gear icon to setup the search filters." +"1. <strong>Select Categories</strong>: Choose one or several categories. This will bring up relevant keywords for a your search.<br>" +"2. <strong>Pick Keywords</strong>: Select one or more keywords that best describe what you're looking for.<br>" +"3. <strong>Exclude Companies</strong>: If you want to keep certain companies out of your search results, enter their names in the 'Do Not Include' section.<br><br>",
+                intro: "After defining a search area, click the gear icon to setup the search filters.",
                 position: 'top'
             },
             
