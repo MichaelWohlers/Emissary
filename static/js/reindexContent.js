@@ -34,19 +34,25 @@ function startIntroTour() {
             {
                 // Step 1: Draw Rectangle Button
                 element: document.querySelector('.leaflet-draw-draw-rectangle'),
-                intro: "Click here to draw a rectangle on the map.",
+                intro: "Click here to draw the search area on the map.",
                 position: 'right'
             },
             {
                 // Step 2: Gear Icon for opening the filter menu
                 element: document.querySelector('.gear-icon'),
-                intro: "Click the gear icon to open the search filters.",
+                intro: "Click the gear icon to open the search filters and initiate a search.",
                 position: 'left'
             },
             {
                 // Step 3: Search Field
                 element: document.querySelector('.leaflet-control-geocoder-icon'),
-                intro: "Use this search field to find specific locations on the map.",
+                intro: "[Optional]Use this search field to find specific locations on the map instead of drawing the search area.",
+                position: 'bottom'
+            },
+            {
+                // Step 4: results switch
+                element: document.querySelector('.slider'),
+                intro: "View results on the map or in a searchable table (table action buttons are still WIP)",
                 position: 'bottom'
             }
         ],
@@ -224,6 +230,7 @@ function addGearMenuControl(drawnItems) {
                     <div class="center-container">
                         <button type="submit" id='fetchDataButton' class="collapse-item-button btn btn-primary-sm"data-toggle="collapse" data-target="#formCollapse">Fetch Places</button>
                     </div>
+                    <span>Average Request Time = 3 min.</span>
             </form>
             </div>
 `;
