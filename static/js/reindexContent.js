@@ -23,19 +23,41 @@ function initializeMap() {
     addGearMenuControl(drawnItems);
     
 }
-function showTutorial() {
-    // Using jQuery to check if the tutorial should be shown
-    if ($("#tutorialTrigger").length) {
-        // If using Intro.js
-        introJs().start();
+// Function to start the tour
+function startIntroTour() {
+    // Create an Intro.js instance
+    var intro = introJs();
 
-        // If not using Intro.js, you can manually highlight or focus elements
-        // For example, simply focusing on the first element:
-        $("#step1").focus(); // Just an example, tailor it to your needs
+    // Set options and steps programmatically
+    intro.setOptions({
+        steps: [
+            {
+                // Step 1: Draw Rectangle Button
+                element: document.querySelector('.leaflet-draw-draw-rectangle'),
+                intro: "Click here to draw a rectangle on the map.",
+                position: 'right'
+            },
+            {
+                // Step 2: Gear Icon for opening the filter menu
+                element: document.querySelector('.gear-icon'),
+                intro: "Click the gear icon to open the search filters.",
+                position: 'left'
+            },
+            {
+                // Step 3: Search Field
+                element: document.querySelector('.leaflet-control-geocoder-icon'),
+                intro: "Use this search field to find specific locations on the map.",
+                position: 'bottom'
+            }
+        ],
+        showBullets: false, // Optionally, disable navigation bullets
+        showProgress: true, // Optionally, show progress through the tour
+        exitOnOverlayClick: true, // Allow users to exit the tour by clicking the overlay
+        scrollToElement: true // Scroll to the highlighted element
+    });
 
-        // Or, create custom logic to display modals or tooltips step by step
-        // This part can be as simple or complex as you need
-    }
+    // Start the tour
+    intro.start();
 }
 
 function setupGeocoder(drawnItems) {
@@ -560,10 +582,7 @@ function filterKeywords() {
 $(document).ready(function() {
     initializeMap();
     fetchAndDisplayCategories();
-    var userStatus = $("#userStatus").val(); // Assuming you have a hidden input or other element storing this
-    if (userStatus === "first time user") {
-        showTutorial();
-    }
+
     //startFetchingTempData();
 
     // Connect to the Socket.IO server.
@@ -614,7 +633,10 @@ $(document).ready(function() {
 
 
 
-
+    document.getElementById('userStatus').value;
+    if (userStatus === 'first time user') {
+        startIntroTour(); // Start the tour for first-time users
+    }
     document.getElementById('searchInput').addEventListener('input', filterCategories);
     document.getElementById('searchKeyword').addEventListener('input', filterKeywords);
     document.getElementById('queryForm').addEventListener('submit', function(e) {

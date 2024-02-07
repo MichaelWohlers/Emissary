@@ -94,7 +94,7 @@ def configure_routes(app):
                 flash('Invalid Password')
                 return render_template('login.html')
 
-            if user.user_status!= 'active':
+            if user.user_status == 'pending approval':
                 flash('Your account is not active. Please contact the administrator.')
                 return render_template('login.html')
 
