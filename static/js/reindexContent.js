@@ -40,7 +40,7 @@ function startIntroTour() {
             {
                 // Step 2: Gear Icon for opening the filter menu
                 element: document.querySelector('.gear-icon'),
-                intro: "Click the gear icon to open the search filters and initiate a search.",
+                intro: "Click the gear icon to open the search filters and initiate a search. First, select one or many categories to populate keywords. Then you can select one or many keywords to search for. If you want to prevent certain companys from appearing in the results, you can enter the name of the company in the 'Do Not Include' field.",
                 position: 'left'
             },
             {
