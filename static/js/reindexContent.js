@@ -582,12 +582,9 @@ function filterKeywords() {
 $(document).ready(function() {
     initializeMap();
     fetchAndDisplayCategories();
-    var userStatusElement = document.getElementById('userStatus');
-    var userStatus = userStatusElement ? userStatusElement.value : null;
-
-    if (userStatus === 'first time user') {
-        startIntroTour(); // Function to start the tour
-    }
+    document.getElementById('startTourButton').addEventListener('click', function() {
+        startIntroTour();
+    });
 
 
     //startFetchingTempData();
