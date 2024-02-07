@@ -43,9 +43,8 @@ function startIntroTour() {
                 intro: "After defining a search area, click the gear icon to setup the search filters. Here's how to navigate:<br><br>" +
                 "1. <strong>Select Categories</strong>: Kick things off by choosing one or several categories. This will bring up relevant keywords for a more precise search.<br>" +
                 "2. <strong>Pick Keywords</strong>: With your categories set, select one or more keywords that best describe what you're looking for.<br>" +
-                "3. <strong>Exclude Companies</strong>: Want to keep certain companies out of your search results? Simply enter their names in the 'Do Not Include' section.<br><br>" +
-                "Let's tailor your search to find exactly what you need!",
-                position: 'left'
+                "3. <strong>Exclude Companies</strong>: Want to keep certain companies out of your search results? Simply enter their names in the 'Do Not Include' section.<br><br>",
+                position: 'bottom'
             },
             {
                 // Step 3: Search Field
