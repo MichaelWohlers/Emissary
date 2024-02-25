@@ -441,7 +441,7 @@ def configure_routes(app):
         try:
             data = request.json
             keywords = data['keywords']
-            exclusion_words = data['exclusionWords']
+            exclusion_words = data.get('exclusionWords', '')
             bbox = tuple(data['bbox'])
 
             # Validate bbox length

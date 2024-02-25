@@ -8,4 +8,4 @@ from routes import configure_routes
 configure_routes(app)
 
 if __name__ == "__main__":
-    socketio.run(app, debug=False)
+    socketio.run(app, debug=True)

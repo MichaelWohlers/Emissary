@@ -600,8 +600,13 @@ $(document).ready(function() {
 
     // Connect to the Socket.IO server.
     // The connection URL has to be updated with your actual server URL
-    var socket = io.connect('https://iemissary-e39e92466db2.herokuapp.com/'); // Use 'wss://your-server-url' for secure connections
-
+    var socket;
+    if (window.location.hostname === "localhost") {
+        socket = io.connect('http://localhost:5000');
+    } else {
+        socket = io.connect('https://iemissary-e39e92466db2.herokuapp.com/');
+    }
+    
     socket.on('connect', function() {
         console.log('WebSocket Connected');
         // Request to start fetching data, if needed
