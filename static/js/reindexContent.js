@@ -343,8 +343,7 @@ function displayDataOnTable(data) {
             feature.properties.websites ? `<a href="${feature.properties.websites[0]}">${feature.properties.websites[0]}</a>` : 'N/A',
             feature.properties.socials ? feature.properties.socials.map(social => `<a href="${social}">${new URL(social).hostname}</a>`).join(', ') : 'N/A',
             feature.properties.phones ? feature.properties.phones[0] : 'N/A',
-            address || 'N/A',
-            '<button class="btn btn-primary btn-sm">Action</button>'
+            address || 'N/A'
         ]);
     });
 
@@ -596,7 +595,44 @@ $(document).ready(function() {
     });
 
 
-    //startFetchingTempData();
+    $('#addToContactsBtn').click(function() {
+        var table = $('#dataTable').DataTable();
+        
+        var selectedData = [];
+        
+        $('#dataTable input[type="checkbox"]:checked').each(function() {
+            var rowData = table.row($(this).closest('tr')).data();
+            
+            // Generate a unique ID using the current time and a random number
+            var uniqueId = Date.now() + Math.floor(Math.random() * 100);
+    
+            selectedData.push({
+                id: uniqueId, // Use the generated unique ID
+                name: rowData[1], // Adjust indices based on your table structure
+                category: rowData[2],
+                website: $(rowData[3]).attr('href'), // Extract the href attribute if it's a link
+                socials: rowData[4], // This might need parsing depending on your structure
+                phone: rowData[5],
+                address: rowData[6]
+            });
+        });
+    
+        // Now, send the selectedData array to your server
+        $.ajax({
+            url: '/save-to-contacts',
+            type: 'POST',
+            contentType: 'application/json',
+            data: JSON.stringify(selectedData),
+            success: function(response) {
+                console.log('Contacts saved:', response);
+            },
+            error: function(xhr, status, error) {
+                console.error('Error saving contacts:', error);
+            }
+        });
+    });
+    
+    
 
     // Connect to the Socket.IO server.
     // The connection URL has to be updated with your actual server URL

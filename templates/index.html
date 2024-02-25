@@ -399,7 +399,10 @@ input:checked + .slider:before {
                             <div id="searchOptionsContainer"></div> 
                             <div id="map" style="height: 675px; margin-top: 0; margin-bottom: 0"></div> <!-- Adjust height as needed -->
                             <!-- Table Container (Initially Hidden) -->
-                            <div class="table-responsive"style="display: none;" id="tableContainer">
+                            <div class="table-responsive" style="display: none;" id="tableContainer">
+                                <!-- Button placed outside the table but within the table container -->
+                                <button type="button" id="addToContactsBtn" class="btn btn-primary mb2">Add to Contacts</button>
+                                
                                 <table id="dataTable" class="table table-striped table-bordered" style="width:100%">
                                     <thead>
                                         <tr>
@@ -410,7 +413,7 @@ input:checked + .slider:before {
                                             <th>Social Media</th>
                                             <th>Phone</th>
                                             <th>Address</th>
-                                            <th>Action</th>
+                                            <!-- Removed Action column -->
                                         </tr>
                                     </thead>
                                     <tbody id="tableView">
@@ -418,6 +421,7 @@ input:checked + .slider:before {
                                     </tbody>
                                 </table>
                             </div>
+                            
                         </div>
                         
                         <div class="form-group">

@@ -214,3 +214,42 @@ def update_userClient(user_id, column, value):
         print("An error occurred:", e)
         # Handle the error appropriately
 
+def save_contact(contacts, user_id):
+    conn = duckdb.connect()
+
+    # Read the existing data
+    existing_data = conn.execute(f"""
+        INSTALL httpfs;
+        LOAD httpfs;
+        SET s3_region = '{aws_default_region}';
+        SET s3_access_key_id = '{aws_access_key_id}';
+        SET s3_secret_access_key = '{aws_secret_access_key}';
+        SELECT * FROM 
+        read_parquet('s3://emissarybucket/records/userData/{user_id}/contacts.parquet')""").fetchdf()
+
+    # Create a new DataFrame for the record to be added
+    new_record = pd.DataFrame({
+        'id': [contacts['id']],
+        'name': [contacts['name']],
+        'category': [contacts['category']],
+        'website': [contacts['website']],
+        'socials': [contacts['socials']],
+        'phone': [contacts['phone']],
+        'address': [contacts['address']]
+    })
+
+    # Append the new record to the existing data
+    updated_data = pd.concat([existing_data, new_record], ignore_index=True)
+    
+    # Write the updated data to a S3
+    conn.execute(f"""
+        INSTALL httpfs;
+        LOAD httpfs;
+        SET s3_region = '{aws_default_region}';
+        SET s3_access_key_id = '{aws_access_key_id}';
+        SET s3_secret_access_key = '{aws_secret_access_key}';
+        CREATE TABLE contactData AS SELECT * FROM updated_data; 
+        COPY contactData TO 's3://emissarybucket/records/userData/{user_id}/contacts.parquet';
+        """)
+
+    conn.close()

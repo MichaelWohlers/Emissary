@@ -10,14 +10,17 @@ from werkzeug.security import check_password_hash, generate_password_hash
 import json
 import logging
 from dotenv import load_dotenv
-from queryBuilders import construct_query, fetch_userClient_query, add_userClient, delete_userClient, update_userClient
+from queryBuilders import construct_query, fetch_userClient_query, add_userClient, delete_userClient, update_userClient, save_contact
 from tasks import execute_query_and_fetch_data, execute_query_and_fetch_clientUser, execute_query_and_fetch_clientUsers
 import subprocess
 import redis
 import threading
 from app import socketio
 import heroku3
-import tempfile
+from io import BytesIO
+import boto3
+import pandas as pd
+
 load_dotenv()
 
 
@@ -30,6 +33,8 @@ aws_secret_access_key = os.environ.get('YOUR_SECRET_KEY')
 aws_default_region = os.environ.get('AWS_DEFAULT_REGION')
 place_location = os.environ.get('PLACE_FOLDER')
 records_location=os.environ.get('RECORDS_FOLDER')
+os.environ['AWS_ACCESS_KEY_ID'] = os.getenv('YOUR_ACCESS_KEY')
+os.environ['AWS_SECRET_ACCESS_KEY'] = os.getenv('YOUR_SECRET_KEY')
 
 class SingletonState:
     _instance = None
@@ -578,39 +583,55 @@ def configure_routes(app):
 
         except Exception as e:
             return jsonify({"error": "Invalid JSON format or other error: " + str(e)}), 500
-
-        # Additional routes....
-
-
-    '''@app.route('/fetch-geojson', methods=['POST'])
-    def fetch_geojson():
+        
+    @app.route('/save-to-contacts', methods=['POST'])
+    def save_to_contacts():
         if not is_logged_in():
             return redirect(url_for('login'))
+        
+        data = request.get_json()
+        if data:
+            user_id = session.get('user_id')
+            if not user_id:
+                return jsonify({'status': 'error', 'message': 'User ID not found in session'}), 401
 
-        try:
-            # Extract user inputs from the form
-            data = request.json
-            keywords = data['keywords']
-            exclusion_words = data['exclusionWords']
-            bbox = tuple(data['bbox'])
+            s3_client = boto3.client('s3')
+            bucket_name = 'emissarybucket'
+            object_key = f'records/userData/{user_id}/contacts.parquet'
 
-            # Validate bbox length
-            if len(bbox) != 4:
-                app.logger.error(f"Invalid bbox length: {len(bbox)}")
-                return jsonify({'error': 'Invalid bounding box dimensions'}), 400
+            try:
+                # Attempt to check if the object exists
+                s3_client.head_object(Bucket=bucket_name, Key=object_key)
+                file_exists = True
+            except s3_client.exceptions.ClientError as e:
+                # The object does not exist, file_exists is False
+                if e.response['Error']['Code'] == '404':
+                    file_exists = False
+                else:
+                    # Other errors (e.g., permission issues, etc.)
+                    raise
 
-            # Construct DuckDB query
-            query = construct_query(keywords, exclusion_words, bbox)
+            if not file_exists:
+                # Create an empty DataFrame with specified columns
+                df = pd.DataFrame(columns=['id', 'name', 'category', 'website', 'socials', 'phone', 'address'])
 
-            # Fetch GeoJSON data
-            # Call the Celery task
-            execute_query_and_fetch_data(query)
+                # Convert DataFrame to a Parquet file in memory
+                buffer = BytesIO()
+                df.to_parquet(buffer, index=False)
 
-            # Return the task ID to the client
-            app.logger.info(f"Task started successfully.")
-            return jsonify('Query sent'), 200
+                # Reset buffer position to the beginning
+                buffer.seek(0)
 
-        except Exception as e:
-            # Detailed error logging
-            app.logger.error(f"Error in fetch_geojson: {str(e)}", exc_info=True)
-            return jsonify({'error': str(e)}), 500'''
+                # Upload the Parquet file to S3
+                s3_client.upload_fileobj(Fileobj=buffer, Bucket=bucket_name, Key=object_key)
+                print(f"New contacts.parquet file created at s3://{bucket_name}/{object_key}")
+
+            # Now, call save_contact (or your logic to handle the received data)
+
+            return jsonify({'status': 'success', 'message': 'Operation completed successfully'}), 200
+
+        else:
+            return jsonify({'status': 'error', 'message': 'No data received'}), 400
+
+
+        # Additional routes....
