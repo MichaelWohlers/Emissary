@@ -2,6 +2,7 @@ from dotenv import load_dotenv
 import os
 import pandas as pd
 import duckdb
+from io import BytesIO  
 
 load_dotenv()
 aws_access_key_id = os.environ.get('YOUR_ACCESS_KEY')
@@ -214,7 +215,7 @@ def update_userClient(user_id, column, value):
         print("An error occurred:", e)
         # Handle the error appropriately
 
-def save_contact(contacts, user_id):
+def save_contactssss(contacts, user_id):
     conn = duckdb.connect()
     # Ensure contacts is always a list to simplify processing
     if isinstance(contacts, dict):
@@ -250,6 +251,50 @@ def save_contact(contacts, user_id):
         """)
 
     conn.close()
+
+def save_contact(contacts, user_id):
+
+    # Initialize DuckDB connection with the httpfs extension for S3 access
+    conn = duckdb.connect(database=':memory:', read_only=False)
+    conn.execute("INSTALL httpfs;")
+    conn.execute("LOAD httpfs;")
+
+    # Set AWS credentials and default region in DuckDB session for S3 access
+    conn.execute(f"SET s3_region = '{aws_default_region}';")
+    conn.execute(f"SET s3_access_key_id = '{aws_access_key_id}';")
+    conn.execute(f"SET s3_secret_access_key = '{aws_secret_access_key}';")
+
+    # Ensure contacts is always a list to simplify processing
+    if isinstance(contacts, dict):
+        contacts = [contacts]  # Wrap a single contact dictionary in a list
+
+    # Create a DataFrame for the new contacts
+    new_records = pd.DataFrame(contacts)
+
+    s3_path = f"s3://emissarybucket/records/userData/{user_id}/contacts.parquet"
+
+    # Attempt to load existing data from S3
+    try:
+        existing_data = conn.execute(f"SELECT * FROM read_parquet('{s3_path}')").df()
+    except Exception as e:
+        print(f"Could not read existing data from {s3_path}: {e}")
+        # Create an empty DataFrame with specified columns if no existing data
+        existing_data = pd.DataFrame(columns=new_records.columns)
+
+    # Append the new records to the existing data
+    updated_data = pd.concat([existing_data, new_records], ignore_index=True)
+
+    # Writing the updated DataFrame back to S3 as a Parquet file
+    # Convert updated DataFrame to Parquet format in memory
+    buffer = BytesIO()
+    updated_data.to_parquet(buffer, index=False)
+    buffer.seek(0)
+
+    # Use DuckDB to write the buffer to S3
+    conn.execute(f"COPY updated_data FROM '{buffer.getvalue()}' (FORMAT 'parquet') TO '{s3_path}';")
+
+    conn.close()
+    return True
 
 def fetch_contacts(user_id, key, value):
     query = f"""
