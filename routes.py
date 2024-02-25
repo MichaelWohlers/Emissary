@@ -412,7 +412,7 @@ def configure_routes(app):
         
         # Run a one-off dyno with the specified command
         # Note: Adjust the size according to your needs or omit for default size
-        dyno = app.run_command_detached(dyno_command)        #, size="Performance-L"
+        dyno = app.run_command_detached(dyno_command, size="Performance-L")        #, size="Performance-L"
         print(f"One-off dyno {dyno.id} created: {dyno_command}")
 
 
