@@ -1,0 +1,553 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Emissary - Address Book</title> 
+
+<!-- Custom fonts for this template-->
+<link href="{{ url_for('static', filename='vendor/fontawesome-free/css/all.min.css') }}" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
+
+<!-- Custom styles for this template-->
+<!-- jQuery -->
+<script src="{{ url_for('static', filename='vendor/jquery/jquery.min.js') }}"></script>
+
+<link href="{{ url_for('static', filename='css/dataTables.bootstrap4.min.css') }}" rel="stylesheet">
+<link href="{{ url_for('static', filename='css/sb-admin-2.css') }}" rel="stylesheet">
+
+<link href="{{ url_for('static', filename='css/leaflet.css') }}" rel="stylesheet">
+<link rel="stylesheet" href="https://unpkg.com/leaflet-control-geocoder/dist/Control.Geocoder.css"/>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.draw/1.0.4/leaflet.draw.css"/>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.0/MarkerCluster.Default.css" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.0/MarkerCluster.css" />
+
+
+<style>
+    .flash-messages {
+        position: fixed;
+        top: 20px;
+        left: 50%;
+        transform: translateX(-50%);
+        z-index: 1000;
+        width: auto;
+        max-width: 80%;
+        margin: 0 auto;
+        text-align: center;
+    }
+</style>
+
+
+</head>
+<style>/* Style for the dropdown button */
+    /* Increase padding inside the dropdown */
+.dropdown-menu {
+  padding: 10px; /* Adjust this value as needed */
+}
+
+/* Assuming a class for the dynamically added checkboxes */
+.checkbox-item {
+  margin-bottom: 5px; /* Adjust this value to increase space between checkboxes */
+}
+.ml-2 {
+  margin-left: 8px; /* Adjust this value as needed */
+  margin-right: 8px; /* Adjust this value as needed */
+  
+}
+.sidebar {
+    position: sticky; /* or position: sticky */
+    z-index: 1050; /* High value to stay on top */
+    top: 0; /* Align to the top of the viewport */
+    height: 100%; /* Optional: to make it full height */
+}
+#bboxTextElement {
+  color: black; /* Set the text color to black */
+  font-size: small; /* Set the text size to small */
+}
+#loadingGif {
+    width: 75px;  /* Adjust as needed */
+    height: auto;  /* This maintains the aspect ratio */
+    
+}
+#loadingIcon {
+    position: fixed;
+    top: 0%;
+    right: 2%;
+    transform: none;
+    z-index: 1060; /* High value to stay on top */
+
+}
+/* The switch - the box around the slider */
+.switch {
+  position: relative;
+  display: inline-block;
+  width: 45px;  /* Reduced from 60px */
+  height: 20px; /* Reduced from 34px */
+}
+
+/* Hide default checkbox */
+.switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+/* The slider */
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ccc;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 14px;  /* Reduced from 26px */
+  width: 14px;   /* Reduced from 26px */
+  left: 3px;     /* Reduced from 4px */
+  bottom: 3px;   /* Reduced from 4px */
+  background-color: white;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+input:checked + .slider {
+  background-color: #2196F3;
+}
+
+input:focus + .slider {
+  box-shadow: 0 0 1px #2196F3;
+}
+
+input:checked + .slider:before {
+  -webkit-transform: translateX(20px); /* Adjusted for new dimensions */
+  -ms-transform: translateX(20px);
+  transform: translateX(20px);
+}
+
+/* Rounded sliders */
+.slider.round {
+  border-radius: 17px; /* Adjusted for new dimensions */
+}
+
+.slider.round:before {
+  border-radius: 50%;
+}
+/* Style for the button */
+.collapse-item-button {
+    background-color: #28a745; /* Green color */
+    border: none;
+    color: white;
+    padding: 10px 60px; /* Adjust padding for a longer shape */
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 25px; /* Pillbox shape */
+    transition-duration: 0.4s;
+}
+
+.collapse-item-button:hover {
+    background-color: #218838; /* Darker green on hover */
+    color: white;
+}
+
+.center-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.search-options-container {
+    display: none; /* Ensure the container starts hidden */
+    
+}
+.gear-icon {
+    background: none;
+    border:none;
+    cursor: pointer;
+    font-size: 35px; /* Larger icon */
+    padding: 10px; /* Spacing around the icon */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 34px; /* Fixed height for the button */
+    width: 34px; /* Fixed width for the button */
+    text-align: center;
+    transform: translateY(0px); /* Corrected transform property */
+}
+.gear-icon.active {
+    margin-right: -35px; /* Margin applied when the button is active */
+    z-index: 1060;
+    transform: translateX(182px) translateY(-128px); /* Corrected transform property */
+
+}
+
+
+
+.gear-menu {
+    display: none; /* Initially hidden */
+
+    /* Additional styles for the menu */
+}
+
+.gear-menu:not(.hidden) {
+    display: block; /* Show when not hidden */
+    border: 1px solid rgba(106, 104, 104, 0.673);
+    border-radius: 5px;
+    
+}
+.flex-container {
+    display: flex;
+    align-items: center; /* Vertically align items in the middle */
+}
+
+    </style>
+
+<body id="page-top">
+
+    <!-- Page Wrapper -->
+    <div id="wrapper">
+
+
+        <!-- End of Sidebar -->
+
+        <!-- Content Wrapper -->
+        <div id="content-wrapper" class="d-flex flex-column">
+
+            <!-- Main Content -->
+            <div id="content">
+                                <!-- Topbar -->
+                                <nav class="navbar navbar-expand navbar-light bg-white topbar mb-1 static-top shadow">
+                                    <!-- Sidebar - Brand -->
+                                    <a class="sidebar-brand d-flex align-items-center justify-content-center" href="{{ url_for('home') }}">
+                                        <div class="sidebar-brand-icon ">
+                                            <i class="fas fa-address-card rotate-n-15"></i>
+                                        
+                                        </div>
+                                        <div class="sidebar-brand-text mx-3">Emissary <sup>V1</sup></div>
+
+                                    </a>
+
+                                    
+                                    <ul class="navbar-nav ml-auto">
+                                    <hr class="topbar-divider">
+
+                                    <!-- Nav Item - Tools Dropdown Menu -->
+                                    <li class="nav-item dropdown no-arrow ml-1 mr-4">
+                                        <a class="nav-link collapsed" href="#" id= "toolsDropdown" role="button"
+                                            data-toggle="dropdown"aria-haspopup="true" aria-expanded="false"style="transform: translateX(-20%)">
+                                            <span class="fas fa-fw fa-wrench">Tools</span>
+                                        </a>
+                                        <div class="dropdown-menu dropdown-menu-right shadow animated--grow-in" aria-labelledby="toolsDropdown" style="z-index: 1060;">
+                                                <a class="dropdown-item" href="{{ url_for('address_book') }}">Address Book</a>
+                                                <a class="dropdown-item" href="{{ url_for('email') }}">Email</a>
+                                                <a class="dropdown-item" href="{{ url_for('admin') }}">*Admin*</a>
+                                                <a class="dropdown-item" href="{{ url_for('template') }}">Email Template</a>
+                                                <a class="dropdown-item" href="{{ url_for('template') }}">Custom Search</a>
+                                        </div>
+                                    </li>
+                                    <hr class="topbar-divider">
+                                    
+                                     <!-- Toggle Switch -->
+                                    <div class="form-group center-container" style="margin-bottom: 1px;">
+                                        <i class="fas fa-fw fa-map-marked-alt mb-1"></i>
+                                        <label class="switch">
+                                            <input type="checkbox" id="mapTableToggle" class="rounded-circle border-0">
+                                            <span class="slider round"></span>
+                                        </label>
+                                    </div>
+
+                                    <!-- Nav Item - Alerts -->
+                                    <li class="nav-item dropdown no-arrow mx-1">
+                                        <a class="nav-link dropdown-toggle" href="#" id="alertsDropdown" role="button"
+                                            data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                            <i class="fas fa-bell fa-fw"></i>
+                                            <!-- Counter - Alerts -->
+                                            <span class="badge badge-danger badge-counter">3+</span>
+                                        </a>
+                                        <!-- Dropdown - Alerts -->
+                                        <div class="dropdown-list dropdown-menu dropdown-menu-right shadow animated--grow-in"
+                                            aria-labelledby="alertsDropdown"style="z-index: 1060;">
+                                            <h6 class="dropdown-header">
+                                                Alerts Center
+                                            </h6>
+                                            <a class="dropdown-item d-flex align-items-center" href="#">
+                                                <div class="mr-3">
+                                                    <div class="icon-circle bg-primary">
+                                                        <i class="fas fa-file-alt text-white"></i>
+                                                    </div>
+                                                </div>
+                                                <div>
+                                                    <div class="small text-gray-500">December 12, 2019</div>
+                                                    <span class="font-weight-bold">A new monthly report is ready to download!</span>
+                                                </div>
+                                            </a>
+                                            <a class="dropdown-item d-flex align-items-center" href="#">
+                                                 <div class="mr-3">
+                                                    <div class="icon-circle bg-success">
+                                                        <i class="fas fa-donate text-white"></i>
+                                                    </div>
+                                                </div>
+                                                <div>
+                                                    <div class="small text-gray-500">December 7, 2019</div>
+                                                    $290.29 has been deposited into your account!
+                                                </div>
+                                            </a>
+                                            <a class="dropdown-item d-flex align-items-center" href="#">
+                                                <div class="mr-3">
+                                                    <div class="icon-circle bg-warning">
+                                                        <i class="fas fa-exclamation-triangle text-white"></i>
+                                                    </div>
+                                                </div>
+                                                <div>
+                                                    <div class="small text-gray-500">December 2, 2019</div>
+                                                    Spending Alert: We've noticed unusually high spending for your account.
+                                                </div>
+                                            </a>
+                                             <a class="dropdown-item text-center small text-gray-500" href="#">Show All Alerts</a>
+                                        </div>
+                                    </li>
+
+                                    <li class="nav-item dropdown no-arrow">
+                                        <a class="nav-link dropdown-toggle" href="#" id="userDropdown" role="button"
+                                            data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                            <span class="mr-2 d-none d-lg-inline text-gray-600 small">Michael Wohlers</span>
+                                            <img class="img-profile rounded-circle"
+                                            src="{{ url_for('static', filename='img/undraw_profile.svg') }}" alt="...">
+                                        </a>
+                                        <!-- Dropdown - User Information -->
+                                        <div class="dropdown-menu dropdown-menu-right shadow animated--grow-in"
+                                            aria-labelledby="userDropdown"style="z-index: 1060;">
+                                            <a class="dropdown-item" href="#">
+                                                <i class="fas fa-user fa-sm fa-fw mr-2 text-gray-400"></i>
+                                                Profile
+                                            </a>
+                                            <a class="dropdown-item" href="#">
+                                                <i class="fas fa-cogs fa-sm fa-fw mr-2 text-gray-400"></i>
+                                                Settings
+                                            </a>
+                                            <div class="dropdown-divider"></div>
+                                            <a class="dropdown-item" href="#" data-toggle="modal" data-target="#logoutModal">
+                                                <i class="fas fa-sign-out-alt fa-sm fa-fw mr-2 text-gray-400"></i>
+                                                Logout
+                                            </a>
+                                        </div>
+                                    </li>
+                                    </ul>
+                                </nav>
+                                
+                                <!-- End of Topbar -->
+
+                
+
+                <!-- Begin Page Content -->
+                <div class="container-fluid">
+                    <div>{% with messages = get_flashed_messages() %}
+                        {% if messages %}
+                          <div class="flash-messages">
+                            {% for message in messages %}
+                              <div class="alert alert-warning" role="alert">
+                                {{ message }}
+                              </div>
+                            {% endfor %}
+                          </div>
+                        {% endif %}
+                      {% endwith %}
+                    </div>
+
+
+                    <!-- Page Heading Address Book - implement https://www.garmentory.com scraping-->
+                    <h1 class="h3 mb-4 text-gray-800">Under Construction</h1>
+                    <button id="scrape-contacts-btn">Scrape Contacts</button>
+
+                    <div id="progressPopup" class="popup" style="display:none;">
+                        <div class="popup-content">
+                            <span class="close-btn">&times;</span>
+                            <!-- Progress Bar -->
+                            <div class="progress" style="height: 15px;">
+                                <div class="progress-bar" role="progressbar" style="width: 99%; line-height: 6px; display: block;" id="progressBar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100">0%</div>
+                            </div>
+                        </div>
+                    </div>
+                    
+
+                    <!-- Log Display -->
+                    <div id="logDisplay" style="margin-top: 20px;"></div>
+
+
+                    <div id="tableStats" class="text-primary my-3 font-weight-bold table table-bordered" style="width:100%; text-align: left; white-space: nowrap;"></div>
+                    <div class="popover-body popover-content" style="display: none;" id="filterArea">
+                        <div class="filter-area">
+                            <div class="filter-edit-area">
+                                <div class="text-muted empty-filters text-center" style="display: none;">
+                                    No filters selected
+                                </div>
+                                <div class="filter-box">
+                                    <div class="visible-xs flex justify-flex-end">
+                                        <span class="remove-filter">Remove</span>
+                                    </div>
+                                    <div class="list_filter row">
+                                        <div class="fieldname-select-area col-sm-4 ui-front form-group">
+                                            <div class="awesomplete">
+                                                <input class="form-control input-xs" autocomplete="off" aria-expanded="false">
+                                                <ul role="listbox" hidden=""></ul>
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-3 form-group">
+                                            <select class="condition form-control input-xs">
+                                                <option value="=">Equals</option>
+                                                <option value="!=">Not Equals</option>
+                                                <option value="like">Like</option>
+                                                <option value="not like">Not Like</option>
+                                                <option value="in">In</option>
+                                                <option value="not in">Not In</option>
+                                                <!-- Other conditions -->
+                                            </select>
+                                        </div>
+                                        <div class="col-sm-4 form-group">
+                                            <div class="filter-field">
+                                                <input type="text" class="input-with-feedback form-control input-xs" placeholder="">
+                                            </div>
+                                            <div class="text-muted small filter-description">use % as wildcard</div>
+                                        </div>
+                                        <div class="remove-filter col-sm-1 text-center hidden-xs">
+                                            <svg class="icon icon-sm">
+                                                <use href="#icon-close" class="close"></use>
+                                            </svg>
+                                        </div>
+                                    </div>
+                                </div>
+                                <hr class="divider">
+                                <div class="filter-action-buttons mt-2">
+                                    <button class="text-muted add-filter btn btn-xs">
+                                        + Add a Filter
+                                    </button>
+                                    <div>
+                                        <button class="btn btn-secondary btn-xs clear-filters">
+                                            Clear Filters
+                                        </button>
+                                        <button class="btn btn-primary btn-xs apply-filters">
+                                            Apply Filters
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <table class="table" id="placesTable">
+                        <thead>
+                            <tr>
+                                <th>Actions</th>                                
+                            </tr>
+                            <tr>
+                                <th>Name</th>
+                                <th>Email</th>
+                                <th>Phone Number</th>
+                                <th>Website</th>
+                                <th>Address</th>
+                                <th>Category</th>
+                                <th>Status</th>
+                                <th>Actions</th>                                
+                            </tr>
+                        </thead>
+                        <tbody id="placesTableBody">
+                            <!-- Table rows will be dynamically populated here -->
+                        </tbody>
+                    </table>
+                    
+                    <!-- New resultsContainer -->
+                    <div id="resultsContainer" style="margin-top: 20px;">
+                        <!-- Content for resultsContainer will be dynamically populated here -->
+                    </div>
+                    
+                <!-- /.container-fluid -->
+
+            </div>
+            <!-- End of Main Content -->
+            
+            
+            <!-- Footer -->
+            <footer class="sticky-footer bg-white">
+                <div class="container my-auto">
+                    <div class="copyright text-center my-auto">
+                        <span>Copyright &copy; Emissary 2024</span>
+                    </div>
+                </div>
+            </footer>
+            <!-- End of Footer -->
+
+        </div>
+        <!-- End of Content Wrapper -->
+
+    </div>
+    <!-- End of Page Wrapper -->
+
+    <!-- Scroll to Top Button-->
+    <a class="scroll-to-top rounded" href="#page-top">
+        <i class="fas fa-angle-up"></i>
+    </a>
+
+    <!-- Logout Modal-->
+    <div class="modal fade" id="logoutModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+        aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">Ready to Leave?</h5>
+                    <button class="close" type="button" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">×</span>
+                    </button>
+                </div>
+                <div class="modal-body">Select "Logout" below if you are ready to end your current session.</div>
+                <div class="modal-footer">
+                    <button class="btn btn-secondary" type="button" data-dismiss="modal">Cancel</button>
+                    <a class="btn btn-primary" href="login.html">Logout</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+   <!-- jQuery -->
+<script src="{{ url_for('static', filename='vendor/jquery/jquery.min.js') }}"></script>
+
+<!-- DataTables -->
+<script src="{{ url_for('static', filename='js/jquery.dataTables.min.js') }}"></script> <!-- Correct the file extension -->
+
+<!-- DataTables Bootstrap integration -->
+<script src="{{ url_for('static', filename='js/dataTables.bootstrap4.min.js') }}"></script>
+
+<!-- Bootstrap JS -->
+<script src="{{ url_for('static', filename='vendor/bootstrap/js/bootstrap.bundle.min.js') }}"></script>
+
+<!-- Core plugin JavaScript-->
+<script src="{{ url_for('static', filename='vendor/jquery-easing/jquery.easing.min.js') }}"></script>
+
+<!-- Custom scripts for all pages-->
+<script src="{{ url_for('static', filename='js/sb-admin-2.min.js') }}"></script>
+
+<!-- Page level plugins -->
+<script src="{{ url_for('static', filename='vendor/chart.js/Chart.min.js') }}"></script>
+
+<!-- Page level custom scripts -->
+<script src="{{ url_for('static', filename='js/addressbook.js') }}"></script>
+
+
+</body>
+
+</html>

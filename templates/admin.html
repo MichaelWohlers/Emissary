@@ -1,0 +1,499 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Emissary Admin</title>
+<!-- Custom fonts for this template-->
+<link href="{{ url_for('static', filename='vendor/fontawesome-free/css/all.min.css') }}" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
+
+<!-- Custom styles for this template-->
+<!-- jQuery -->
+<script src="{{ url_for('static', filename='vendor/jquery/jquery.min.js') }}"></script>
+
+<link href="{{ url_for('static', filename='css/dataTables.bootstrap4.min.css') }}" rel="stylesheet">
+<link href="{{ url_for('static', filename='css/sb-admin-2.css') }}" rel="stylesheet">
+
+<link href="{{ url_for('static', filename='css/leaflet.css') }}" rel="stylesheet">
+<link rel="stylesheet" href="https://unpkg.com/leaflet-control-geocoder/dist/Control.Geocoder.css"/>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.draw/1.0.4/leaflet.draw.css"/>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.0/MarkerCluster.Default.css" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.0/MarkerCluster.css" />
+
+
+<style>
+    .flash-messages {
+        position: fixed;
+        top: 20px;
+        left: 50%;
+        transform: translateX(-50%);
+        z-index: 1000;
+        width: auto;
+        max-width: 80%;
+        margin: 0 auto;
+        text-align: center;
+    }
+</style>
+
+
+</head>
+<style>/* Style for the dropdown button */
+    /* Increase padding inside the dropdown */
+.dropdown-menu {
+  padding: 10px; /* Adjust this value as needed */
+}
+
+/* Assuming a class for the dynamically added checkboxes */
+.checkbox-item {
+  margin-bottom: 5px; /* Adjust this value to increase space between checkboxes */
+}
+.ml-2 {
+  margin-left: 8px; /* Adjust this value as needed */
+  margin-right: 8px; /* Adjust this value as needed */
+  
+}
+.sidebar {
+    position: sticky; /* or position: sticky */
+    z-index: 1050; /* High value to stay on top */
+    top: 0; /* Align to the top of the viewport */
+    height: 100%; /* Optional: to make it full height */
+}
+#bboxTextElement {
+  color: black; /* Set the text color to black */
+  font-size: small; /* Set the text size to small */
+}
+#loadingGif {
+    width: 75px;  /* Adjust as needed */
+    height: auto;  /* This maintains the aspect ratio */
+    
+}
+#loadingIcon {
+    position: fixed;
+    top: 0%;
+    right: 2%;
+    transform: none;
+    z-index: 1060; /* High value to stay on top */
+
+}
+/* The switch - the box around the slider */
+.switch {
+  position: relative;
+  display: inline-block;
+  width: 45px;  /* Reduced from 60px */
+  height: 20px; /* Reduced from 34px */
+}
+
+/* Hide default checkbox */
+.switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+/* The slider */
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ccc;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 14px;  /* Reduced from 26px */
+  width: 14px;   /* Reduced from 26px */
+  left: 3px;     /* Reduced from 4px */
+  bottom: 3px;   /* Reduced from 4px */
+  background-color: white;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+input:checked + .slider {
+  background-color: #2196F3;
+}
+
+input:focus + .slider {
+  box-shadow: 0 0 1px #2196F3;
+}
+
+input:checked + .slider:before {
+  -webkit-transform: translateX(20px); /* Adjusted for new dimensions */
+  -ms-transform: translateX(20px);
+  transform: translateX(20px);
+}
+
+/* Rounded sliders */
+.slider.round {
+  border-radius: 17px; /* Adjusted for new dimensions */
+}
+
+.slider.round:before {
+  border-radius: 50%;
+}
+/* Style for the button */
+.collapse-item-button {
+    background-color: #28a745; /* Green color */
+    border: none;
+    color: white;
+    padding: 10px 60px; /* Adjust padding for a longer shape */
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 25px; /* Pillbox shape */
+    transition-duration: 0.4s;
+}
+
+.collapse-item-button:hover {
+    background-color: #218838; /* Darker green on hover */
+    color: white;
+}
+
+.center-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.search-options-container {
+    display: none; /* Ensure the container starts hidden */
+    
+}
+.gear-icon {
+    background: none;
+    border:none;
+    cursor: pointer;
+    font-size: 35px; /* Larger icon */
+    padding: 10px; /* Spacing around the icon */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 34px; /* Fixed height for the button */
+    width: 34px; /* Fixed width for the button */
+    text-align: center;
+    transform: translateY(0px); /* Corrected transform property */
+}
+.gear-icon.active {
+    margin-right: -35px; /* Margin applied when the button is active */
+    z-index: 1060;
+    transform: translateX(182px) translateY(-128px); /* Corrected transform property */
+
+}
+
+
+
+.gear-menu {
+    display: none; /* Initially hidden */
+
+    /* Additional styles for the menu */
+}
+
+.gear-menu:not(.hidden) {
+    display: block; /* Show when not hidden */
+    border: 1px solid rgba(106, 104, 104, 0.673);
+    border-radius: 5px;
+    
+}
+.flex-container {
+    display: flex;
+    align-items: center; /* Vertically align items in the middle */
+}
+
+    </style>
+
+<body id="page-top">
+
+    <!-- Page Wrapper -->
+    <div id="wrapper">
+
+
+        <!-- End of Sidebar -->
+
+        <!-- Content Wrapper -->
+        <div id="content-wrapper" class="d-flex flex-column">
+
+            <!-- Main Content -->
+            <div id="content">
+                                <!-- Topbar -->
+                                <nav class="navbar navbar-expand navbar-light bg-white topbar mb-1 static-top shadow">
+                                    <!-- Sidebar - Brand -->
+                                    <a class="sidebar-brand d-flex align-items-center justify-content-center" href="{{ url_for('home') }}">
+                                        <div class="sidebar-brand-icon ">
+                                            <i class="fas fa-address-card rotate-n-15"></i>
+                                        
+                                        </div>
+                                        <div class="sidebar-brand-text mx-3">Emissary <sup>V1</sup></div>
+
+                                    </a>
+
+                                    
+                                    <ul class="navbar-nav ml-auto">
+                                    <hr class="topbar-divider">
+
+                                    <!-- Nav Item - Tools Dropdown Menu -->
+                                    <li class="nav-item dropdown no-arrow ml-1 mr-4">
+                                        <a class="nav-link collapsed" href="#" id= "toolsDropdown" role="button"
+                                            data-toggle="dropdown"aria-haspopup="true" aria-expanded="false"style="transform: translateX(-20%)">
+                                            <span class="fas fa-fw fa-wrench">Tools</span>
+                                        </a>
+                                        <div class="dropdown-menu dropdown-menu-right shadow animated--grow-in" aria-labelledby="toolsDropdown" style="z-index: 1060;">
+                                                <a class="dropdown-item" href="{{ url_for('address_book') }}">Address Book</a>
+                                                <a class="dropdown-item" href="{{ url_for('email') }}">Email</a>
+                                                <a class="dropdown-item" href="{{ url_for('admin') }}">*Admin*</a>
+                                                <a class="dropdown-item" href="{{ url_for('template') }}">Email Template</a>
+                                                <a class="dropdown-item" href="{{ url_for('template') }}">Custom Search</a>
+                                        </div>
+                                    </li>
+                                    <hr class="topbar-divider">
+                                    
+                                     <!-- Toggle Switch -->
+                                    <div class="form-group center-container" style="margin-bottom: 1px;">
+                                        <i class="fas fa-fw fa-map-marked-alt mb-1"></i>
+                                        <label class="switch">
+                                            <input type="checkbox" id="mapTableToggle" class="rounded-circle border-0">
+                                            <span class="slider round"></span>
+                                        </label>
+                                    </div>
+
+                                    <!-- Nav Item - Alerts -->
+                                    <li class="nav-item dropdown no-arrow mx-1">
+                                        <a class="nav-link dropdown-toggle" href="#" id="alertsDropdown" role="button"
+                                            data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                            <i class="fas fa-bell fa-fw"></i>
+                                            <!-- Counter - Alerts -->
+                                            <span class="badge badge-danger badge-counter">3+</span>
+                                        </a>
+                                        <!-- Dropdown - Alerts -->
+                                        <div class="dropdown-list dropdown-menu dropdown-menu-right shadow animated--grow-in"
+                                            aria-labelledby="alertsDropdown"style="z-index: 1060;">
+                                            <h6 class="dropdown-header">
+                                                Alerts Center
+                                            </h6>
+                                            <a class="dropdown-item d-flex align-items-center" href="#">
+                                                <div class="mr-3">
+                                                    <div class="icon-circle bg-primary">
+                                                        <i class="fas fa-file-alt text-white"></i>
+                                                    </div>
+                                                </div>
+                                                <div>
+                                                    <div class="small text-gray-500">December 12, 2019</div>
+                                                    <span class="font-weight-bold">A new monthly report is ready to download!</span>
+                                                </div>
+                                            </a>
+                                            <a class="dropdown-item d-flex align-items-center" href="#">
+                                                 <div class="mr-3">
+                                                    <div class="icon-circle bg-success">
+                                                        <i class="fas fa-donate text-white"></i>
+                                                    </div>
+                                                </div>
+                                                <div>
+                                                    <div class="small text-gray-500">December 7, 2019</div>
+                                                    $290.29 has been deposited into your account!
+                                                </div>
+                                            </a>
+                                            <a class="dropdown-item d-flex align-items-center" href="#">
+                                                <div class="mr-3">
+                                                    <div class="icon-circle bg-warning">
+                                                        <i class="fas fa-exclamation-triangle text-white"></i>
+                                                    </div>
+                                                </div>
+                                                <div>
+                                                    <div class="small text-gray-500">December 2, 2019</div>
+                                                    Spending Alert: We've noticed unusually high spending for your account.
+                                                </div>
+                                            </a>
+                                             <a class="dropdown-item text-center small text-gray-500" href="#">Show All Alerts</a>
+                                        </div>
+                                    </li>
+
+                                    <li class="nav-item dropdown no-arrow">
+                                        <a class="nav-link dropdown-toggle" href="#" id="userDropdown" role="button"
+                                            data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                            <span class="mr-2 d-none d-lg-inline text-gray-600 small">Michael Wohlers</span>
+                                            <img class="img-profile rounded-circle"
+                                            src="{{ url_for('static', filename='img/undraw_profile.svg') }}" alt="...">
+                                        </a>
+                                        <!-- Dropdown - User Information -->
+                                        <div class="dropdown-menu dropdown-menu-right shadow animated--grow-in"
+                                            aria-labelledby="userDropdown"style="z-index: 1060;">
+                                            <a class="dropdown-item" href="#">
+                                                <i class="fas fa-user fa-sm fa-fw mr-2 text-gray-400"></i>
+                                                Profile
+                                            </a>
+                                            <a class="dropdown-item" href="#">
+                                                <i class="fas fa-cogs fa-sm fa-fw mr-2 text-gray-400"></i>
+                                                Settings
+                                            </a>
+                                            <div class="dropdown-divider"></div>
+                                            <a class="dropdown-item" href="#" data-toggle="modal" data-target="#logoutModal">
+                                                <i class="fas fa-sign-out-alt fa-sm fa-fw mr-2 text-gray-400"></i>
+                                                Logout
+                                            </a>
+                                        </div>
+                                    </li>
+                                    </ul>
+                                </nav>
+                                
+                                <!-- End of Topbar -->
+
+                
+
+                <!-- Begin Page Content -->
+                <div class="container-fluid">
+                    <div>{% with messages = get_flashed_messages() %}
+                        {% if messages %}
+                          <div class="flash-messages">
+                            {% for message in messages %}
+                              <div class="alert alert-warning" role="alert">
+                                {{ message }}
+                              </div>
+                            {% endfor %}
+                          </div>
+                        {% endif %}
+                      {% endwith %}
+                    </div>
+             
+                
+                <!-- /.container-fluid -->
+
+            </div>
+            <div>
+                <h1>Users List</h1>
+                {% if users %}
+                    <table>
+                        <tr>
+                            <th>ID</th>
+                            <th>Email</th>
+                            <th>First Name</th>
+                            <th>Last Name</th>
+                            <th>Permission</th>
+                            <th>Status</th>
+                            <!-- Add other headers as needed -->
+                        </tr>
+                        {% for user_id, user in users.items() %}
+                            <tr>
+                                <td>{{ user.id }}</td>
+                                <td>{{ user.email }}</td>
+                                <td>{{ user.first_name }}</td>
+                                <td>{{ user.last_name }}</td>
+                                <td>{{ user.permission_level }}</td>
+                                <td>{{ user.user_status }}</td>
+                                <td>
+                                    <form action="{{ url_for('delete_user', user_id=user.id) }}" method="post">
+                                        <button type="submit">Delete</button>
+                                    </form>
+                                </td>
+                                <td>
+                                    <form action="{{ url_for('update_user') }}" method="post">
+                                        <input type="hidden" name="user_id" value="{{ user.id }}">
+                                        <input type="hidden" name="column" value="user_status">
+                                        <select name="value">
+                                            <option value="pending approval">Pending Approval</option>
+                                            <option value="first time user">First Time User</option>
+                                            <option value="active">Active</option>
+                                            <option value="disabled">Disabled</option>
+                                        </select>
+                                        <button type="submit">Update Status</button>
+                                    </form>
+                                    
+                                </td>
+                                
+                                <!-- Add other user details as needed -->
+                            </tr>
+                        {% endfor %}
+                    </table>
+                {% else %}
+                    <p>No users found.</p>
+                {% endif %}
+                <!-- End of Main Content -->
+            </div>
+            
+            <!-- Footer -->
+            <footer class="sticky-footer bg-white">
+                <div class="container my-auto">
+                    <div class="copyright text-center my-auto">
+                        <span>Copyright &copy; Your Website 2020</span>
+                    </div>
+                </div>
+            </footer>
+            <!-- End of Footer -->
+
+
+        </div>
+        <!-- End of Content Wrapper -->
+
+    </div>
+    <!-- End of Page Wrapper -->
+
+    <!-- Scroll to Top Button-->
+    <a class="scroll-to-top rounded" href="#page-top">
+        <i class="fas fa-angle-up"></i>
+    </a>
+
+    <!-- Logout Modal-->
+    <div class="modal fade" id="logoutModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+        aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">Ready to Leave?</h5>
+                    <button class="close" type="button" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">×</span>
+                    </button>
+                </div>
+                <div class="modal-body">Select "Logout" below if you are ready to end your current session.</div>
+                <div class="modal-footer">
+                    <button class="btn btn-secondary" type="button" data-dismiss="modal">Cancel</button>
+                    <a class="btn btn-primary" href="login.html">Logout</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Bootstrap core JavaScript-->
+<script src="{{ url_for('static', filename='vendor/jquery/jquery.min.js') }}"></script>
+<script src="{{ url_for('static', filename='vendor/bootstrap/js/bootstrap.bundle.min.js') }}"></script>
+
+<!-- Core plugin JavaScript-->
+<script src="{{ url_for('static', filename='vendor/jquery-easing/jquery.easing.min.js') }}"></script>
+
+<!-- Custom scripts for all pages-->
+<script src="{{ url_for('static', filename='js/sb-admin-2.min.js') }}"></script>
+
+<!-- Page level plugins -->
+<script src="{{ url_for('static', filename='vendor/chart.js/Chart.min.js') }}"></script>
+
+<!-- Page level custom scripts -->
+<script src="{{ url_for('static', filename='js/admin.js') }}"></script>
+<script>
+    window.onload = function() {
+        setTimeout(function() {
+            var flashMessages = document.querySelector('.flash-messages');
+            if (flashMessages) {
+                flashMessages.style.display = 'none';
+            }
+        }, 3000);
+    };
+</script>
+
+
+
+</body>
+
+</html>
