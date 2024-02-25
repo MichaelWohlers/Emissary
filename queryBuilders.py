@@ -12,66 +12,63 @@ records_location=os.environ.get('RECORDS_FOLDER')
 s3_output=os.environ.get('S3_OUTPUT')
 
 def construct_query(keywords, exclusion_words, bbox):
-        # Split keywords and exclusion words into arrays
-        keyword_list = keywords.split(',')
-        exclusion_list = exclusion_words.split(',')
-        # Set AWS credentials (replace with your credentials)
-        
+    # Split keywords and exclusion words into arrays
+    keyword_list = keywords.split(',')
+    exclusion_list = exclusion_words.split(',') if exclusion_words else []
 
-        # Function to format keywords, handling single quotes
-        def format_keyword(kw):
-            return kw.replace("'", "").strip()
+    # Function to format keywords, handling single quotes
+    def format_keyword(kw):
+        return kw.replace("'", "").strip()
 
-        # Construct WHERE clause for keywords
-        keyword_conditions = ' OR '.join([
-            f"JSON_EXTRACT_STRING(categories, 'main') = '{format_keyword(kw)}'" 
-            for kw in keyword_list if kw.strip()
-        ])
+    # Construct WHERE clause for keywords
+    keyword_conditions = ' OR '.join([
+        f"JSON_EXTRACT_STRING(categories, 'main') = '{format_keyword(kw)}'" 
+        for kw in keyword_list if kw.strip()
+    ])
 
-        # Construct WHERE clause for exclusion words
-        exclusion_conditions = ' OR '.join([
+    # Construct WHERE clause for exclusion words, if any
+    if exclusion_list:
+        exclusion_conditions = ' AND NOT (' + ' OR '.join([
             f"JSON_EXTRACT_STRING(names, 'common') LIKE '%{format_keyword(ew)}%'" 
             for ew in exclusion_list if ew.strip()
-        ])
+        ]) + ')'
+    else:
+        exclusion_conditions = ''
 
-        # Validate the bbox parameter
-        #if not isinstance(bbox, tuple) or len(bbox) != 4:
-        #    raise ValueError("bbox must be a tuple with exactly 4 elements (minx, maxx, miny, maxy)")
+    # Construct the query
+    query = f"""
+        INSTALL httpfs;
+        INSTALL spatial;
+        LOAD httpfs;
+        LOAD spatial;
+        SET s3_region = '{aws_default_region}';
+        SET s3_access_key_id = '{aws_access_key_id}';
+        SET s3_secret_access_key = '{aws_secret_access_key}';
+        COPY (
+            SELECT
+                id,
+                CAST(names AS JSON) AS names,
+                CAST(categories AS JSON) AS categories,
+                CAST(websites AS JSON) AS websites,
+                CAST(socials AS JSON) AS socials,
+                CAST(phones AS JSON) AS phones,
+                CAST(addresses AS JSON) AS addresses,
+                ST_GeomFromWKB(geometry)
+            FROM
+                read_parquet('{place_location}', hive_partitioning=1)
+            WHERE
+                ({keyword_conditions})
+                {exclusion_conditions}
+                AND bbox.minx > {bbox[0]}
+                AND bbox.maxx < {bbox[2]}
+                AND bbox.miny > {bbox[1]}
+                AND bbox.maxy < {bbox[3]}
+        ) TO 'output.geojson'
+    WITH (FORMAT GDAL, DRIVER 'GeoJSON', SRS 'EPSG:4326');
+    """
+    print(query)
+    return query
 
-        # Accessing elements of bbox safely
-        #minx, maxx, miny, maxy = bbox
-        query = f"""
-            INSTALL httpfs;
-            INSTALL spatial;
-            LOAD httpfs;
-            LOAD spatial;
-            SET s3_region = '{aws_default_region}';
-            SET s3_access_key_id = '{aws_access_key_id}';
-            SET s3_secret_access_key = '{aws_secret_access_key}';
-            COPY (
-                SELECT
-                    id,
-                    CAST(names AS JSON) AS names,
-                    CAST(categories AS JSON) AS categories,
-                    CAST(websites AS JSON) AS websites,
-                    CAST(socials AS JSON) AS socials,
-                    CAST(phones AS JSON) AS phones,
-                    CAST(addresses AS JSON) AS addresses,
-                    ST_GeomFromWKB(geometry)
-                FROM
-                    read_parquet('{place_location}', hive_partitioning=1)
-                WHERE
-                    ({keyword_conditions})
-                    AND NOT ({exclusion_conditions})
-                    AND bbox.minx > {bbox[0]}
-                    AND bbox.maxx < {bbox[2]}
-                    AND bbox.miny > {bbox[1]}
-                    AND bbox.maxy < {bbox[3]}
-            ) TO 'output.geojson'
-        WITH (FORMAT GDAL, DRIVER 'GeoJSON', SRS 'EPSG:4326');
-        """
-        print(query)
-        return query
 
 def fetch_userClient_query(key,value):
     method=key
