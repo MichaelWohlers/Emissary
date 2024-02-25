@@ -626,12 +626,15 @@ def configure_routes(app):
                 s3_client.upload_fileobj(Fileobj=buffer, Bucket=bucket_name, Key=object_key)
                 print(f"New contacts.parquet file created at s3://{bucket_name}/{object_key}")
 
-            # Now, call save_contact (or your logic to handle the received data)
-
-            return jsonify({'status': 'success', 'message': 'Operation completed successfully'}), 200
-
+             # Now, call save_contact with the data and user_id
+            success = save_contact(data, user_id)
+            if success:
+                return jsonify({'status': 'success', 'message': 'Contacts saved successfully'}), 200
+            else:
+                return jsonify({'status': 'error', 'message': 'Failed to save contacts'}), 500
         else:
             return jsonify({'status': 'error', 'message': 'No data received'}), 400
+
 
 
         # Additional routes....
