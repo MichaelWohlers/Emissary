@@ -216,6 +216,11 @@ def update_userClient(user_id, column, value):
 
 def save_contact(contacts, user_id):
     conn = duckdb.connect()
+    # Ensure contacts is always a list to simplify processing
+    if isinstance(contacts, dict):
+        # Single contact provided, wrap it in a list
+        contacts = [contacts]
+     # Assuming contacts is now a list of dictionaries
 
     # Read the existing data
     existing_data = conn.execute(f"""
@@ -227,19 +232,11 @@ def save_contact(contacts, user_id):
         SELECT * FROM 
         read_parquet('s3://emissarybucket/records/userData/{user_id}/contacts.parquet')""").fetchdf()
 
-    # Create a new DataFrame for the record to be added
-    new_record = pd.DataFrame({
-        'id': [contacts['id']],
-        'name': [contacts['name']],
-        'category': [contacts['category']],
-        'website': [contacts['website']],
-        'socials': [contacts['socials']],
-        'phone': [contacts['phone']],
-        'address': [contacts['address']]
-    })
+    # Create a DataFrame for the new contacts
+    new_records = pd.DataFrame(contacts)
 
     # Append the new record to the existing data
-    updated_data = pd.concat([existing_data, new_record], ignore_index=True)
+    updated_data = pd.concat([existing_data, new_records], ignore_index=True)
     
     # Write the updated data to a S3
     conn.execute(f"""
@@ -253,3 +250,28 @@ def save_contact(contacts, user_id):
         """)
 
     conn.close()
+
+def fetch_contacts(user_id, key, value):
+    query = f"""
+        INSTALL httpfs;
+        LOAD httpfs;
+        SET s3_region = '{aws_default_region}';
+        SET s3_access_key_id = '{aws_access_key_id}';
+        SET s3_secret_access_key = '{aws_secret_access_key}';
+        COPY (
+            SELECT
+                id,
+                name,
+                category,
+                website,
+                socials,
+                phone,
+                address
+            FROM
+            read_parquet('s3://emissarybucket/records/userData/{user_id}/contacts.parquet')
+            WHERE
+                {key} = '{value}'
+        ) TO 'files/contacts.json'
+    ;
+    """
+    return query

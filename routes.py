@@ -204,14 +204,6 @@ def configure_routes(app):
 
             return jsonify(status_values)
 
-        
-    
-    
-
-
-    
-
-
     
     @app.route('/get-places')
     def get_places():
