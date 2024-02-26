@@ -10,8 +10,9 @@
     <meta name="author" content="">
 
     <title>Emissary - Address Book</title> 
+    
 
-<!-- Custom fonts for this template-->
+    <!-- Custom fonts for this template-->
 <link href="{{ url_for('static', filename='vendor/fontawesome-free/css/all.min.css') }}" rel="stylesheet" type="text/css">
 <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
 
@@ -27,6 +28,8 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.draw/1.0.4/leaflet.draw.css"/>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.0/MarkerCluster.Default.css" />
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.0/MarkerCluster.css" />
+<link href="{{ url_for('static', filename='css/intro.css') }}" rel="stylesheet">
+
 
 
 <style>
@@ -60,12 +63,7 @@
   margin-right: 8px; /* Adjust this value as needed */
   
 }
-.sidebar {
-    position: sticky; /* or position: sticky */
-    z-index: 1050; /* High value to stay on top */
-    top: 0; /* Align to the top of the viewport */
-    height: 100%; /* Optional: to make it full height */
-}
+
 #bboxTextElement {
   color: black; /* Set the text color to black */
   font-size: small; /* Set the text size to small */
@@ -75,13 +73,23 @@
     height: auto;  /* This maintains the aspect ratio */
     
 }
-#loadingIcon {
-    position: fixed;
-    top: 0%;
-    right: 2%;
-    transform: none;
-    z-index: 1060; /* High value to stay on top */
+.profile-container {
+    position: relative;
+    display: inline-block;
+}
 
+.img-profile {
+    /* Adjust dimensions as needed */
+    width: 50px;
+    height: 50px;
+}
+
+.loading-icon {
+    position: absolute;
+    top: 0;
+    left: 50%; /* Center horizontally */
+    transform: translate(-50%, -22%); /* Adjust for exact centering */
+    display: none; /* Hide by default */
 }
 /* The switch - the box around the slider */
 .switch {
@@ -128,7 +136,7 @@ input:checked + .slider {
 }
 
 input:focus + .slider {
-  box-shadow: 0 0 1px #2196F3;
+  box-shadow: 0 0 1px white;
 }
 
 input:checked + .slider:before {
@@ -172,10 +180,8 @@ input:checked + .slider:before {
     align-items: center;
     justify-content: center;
 }
-.search-options-container {
-    display: none; /* Ensure the container starts hidden */
-    
-}
+
+
 .gear-icon {
     background: none;
     border:none;
@@ -193,7 +199,7 @@ input:checked + .slider:before {
 .gear-icon.active {
     margin-right: -35px; /* Margin applied when the button is active */
     z-index: 1060;
-    transform: translateX(182px) translateY(-128px); /* Corrected transform property */
+    transform: translateX(182px) translateY(-135px); /* Corrected transform property */
 
 }
 
@@ -242,16 +248,19 @@ input:checked + .slider:before {
                                         <div class="sidebar-brand-text mx-3">Emissary <sup>V1</sup></div>
 
                                     </a>
+                                    
+                                    <button id=startTourButton>Start Tour</button>
 
                                     
                                     <ul class="navbar-nav ml-auto">
                                     <hr class="topbar-divider">
 
                                     <!-- Nav Item - Tools Dropdown Menu -->
-                                    <li class="nav-item dropdown no-arrow ml-1 mr-4">
-                                        <a class="nav-link collapsed" href="#" id= "toolsDropdown" role="button"
+                                    <li class="nav-item dropdown no-arrow ml-4 mr-2">
+                                        <a class="nav-link collapsed center-container" href="#" id= "toolsDropdown" role="button"
                                             data-toggle="dropdown"aria-haspopup="true" aria-expanded="false"style="transform: translateX(-20%)">
-                                            <span class="fas fa-fw fa-wrench">Tools</span>
+                                            <i class="fas fa-fw fa-wrench"></i>
+                                            <label>Tools</label>
                                         </a>
                                         <div class="dropdown-menu dropdown-menu-right shadow animated--grow-in" aria-labelledby="toolsDropdown" style="z-index: 1060;">
                                                 <a class="dropdown-item" href="{{ url_for('address_book') }}">Address Book</a>
@@ -272,15 +281,15 @@ input:checked + .slider:before {
                                         </label>
                                     </div>
 
-                                    <!-- Nav Item - Alerts -->
+                                    <!-- Nav Item - Alerts --
                                     <li class="nav-item dropdown no-arrow mx-1">
                                         <a class="nav-link dropdown-toggle" href="#" id="alertsDropdown" role="button"
                                             data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                             <i class="fas fa-bell fa-fw"></i>
-                                            <!-- Counter - Alerts -->
+                                            !-- Counter - Alerts --
                                             <span class="badge badge-danger badge-counter">3+</span>
                                         </a>
-                                        <!-- Dropdown - Alerts -->
+                                        -- Dropdown - Alerts --
                                         <div class="dropdown-list dropdown-menu dropdown-menu-right shadow animated--grow-in"
                                             aria-labelledby="alertsDropdown"style="z-index: 1060;">
                                             <h6 class="dropdown-header">
@@ -321,18 +330,24 @@ input:checked + .slider:before {
                                             </a>
                                              <a class="dropdown-item text-center small text-gray-500" href="#">Show All Alerts</a>
                                         </div>
-                                    </li>
+                                    </li>-->
 
                                     <li class="nav-item dropdown no-arrow">
-                                        <a class="nav-link dropdown-toggle" href="#" id="userDropdown" role="button"
-                                            data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                            <span class="mr-2 d-none d-lg-inline text-gray-600 small">Michael Wohlers</span>
-                                            <img class="img-profile rounded-circle"
-                                            src="{{ url_for('static', filename='img/undraw_profile.svg') }}" alt="...">
+                                        <a class="nav-link dropdown-toggle" href="#" id="userDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                            <span class="mr-2 d-none d-lg-inline text-gray-600 small" id="userName">{{ user_name }}</span>
+                                            <div class="profile-container">
+                                                <img class="img-profile rounded-circle" src="{{ url_for('static', filename='img/undraw_profile.svg') }}" alt="...">
+                                                <div id="loadingIcon" class="loading-icon">
+                                                    <img src="gif/cat-spin.gif" alt="Loading" id="loadingGif" />
+                                                </div>
+                                            </div>
                                         </a>
+                                        
                                         <!-- Dropdown - User Information -->
                                         <div class="dropdown-menu dropdown-menu-right shadow animated--grow-in"
                                             aria-labelledby="userDropdown"style="z-index: 1060;">
+                                            <span type=hidden class="mr-2 d-none d-lg-inline text-gray-600 small" id="userStatus">{{ user_status }}</span>
+
                                             <a class="dropdown-item" href="#">
                                                 <i class="fas fa-user fa-sm fa-fw mr-2 text-gray-400"></i>
                                                 Profile
@@ -353,6 +368,7 @@ input:checked + .slider:before {
                                 
                                 <!-- End of Topbar -->
 
+
                 
 
                 <!-- Begin Page Content -->
@@ -372,7 +388,7 @@ input:checked + .slider:before {
 
 
                     <!-- Page Heading Address Book - implement https://www.garmentory.com scraping-->
-                    <h1 class="h3 mb-4 text-gray-800">Under Construction</h1>
+                    <h1 class="h3 mb-4 text-gray-800">Scrape Contacts Is Under Construction</h1>
 
                     <div id="progressPopup" class="popup" style="display:none;">
                         <div class="popup-content">
@@ -445,25 +461,26 @@ input:checked + .slider:before {
         <i class="fas fa-angle-up"></i>
     </a>
 
-    <!-- Logout Modal-->
-    <div class="modal fade" id="logoutModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
-        aria-hidden="true">
-        <div class="modal-dialog" role="document">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <h5 class="modal-title" id="exampleModalLabel">Ready to Leave?</h5>
-                    <button class="close" type="button" data-dismiss="modal" aria-label="Close">
-                        <span aria-hidden="true">×</span>
-                    </button>
-                </div>
-                <div class="modal-body">Select "Logout" below if you are ready to end your current session.</div>
-                <div class="modal-footer">
-                    <button class="btn btn-secondary" type="button" data-dismiss="modal">Cancel</button>
-                    <a class="btn btn-primary" href="login.html">Logout</a>
-                </div>
-            </div>
-        </div>
-    </div>
+ <!-- Logout Modal-->
+ <div class="modal fade" id="logoutModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+ aria-hidden="true">
+ <div class="modal-dialog" role="document">
+     <div class="modal-content">
+         <div class="modal-header">
+             <h5 class="modal-title" id="exampleModalLabel">Ready to Leave?</h5>
+             <button class="close" type="button" data-dismiss="modal" aria-label="Close">
+                 <span aria-hidden="true">×</span>
+             </button>
+         </div>
+         <div class="modal-body">Select "Logout" below if you are ready to end your current session.</div>
+         <div class="modal-footer">
+             <button class="btn btn-secondary" type="button" data-dismiss="modal">Cancel</button>
+             <a class="btn btn-primary" href="{{ url_for('logout') }}">Logout</a>
+         </div>
+         
+     </div>
+ </div>
+</div>
 
 
    <!-- jQuery -->

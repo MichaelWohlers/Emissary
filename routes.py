@@ -10,7 +10,7 @@ from werkzeug.security import check_password_hash, generate_password_hash
 import json
 import logging
 from dotenv import load_dotenv
-from queryBuilders import construct_query, fetch_userClient_query, add_userClient, delete_userClient, update_userClient, save_contact, fetch_contacts
+from queryBuilders import construct_query, fetch_userClient_query, add_userClient, delete_userClient, update_userClient, save_contact, fetch_contacts, delete_contacts
 from tasks import execute_query_and_fetch_data, execute_query_and_fetch_clientUser, execute_query_and_fetch_clientUsers
 import subprocess
 import redis
@@ -234,7 +234,9 @@ def configure_routes(app):
     def address_book():
         if not is_logged_in():
             return redirect(url_for('login'))
-        return render_template('addressbook.html')
+        user_name = session.get('user_name', 'Default User')        
+        user_status = session.get('user_status', 'active')
+        return render_template('addressbook.html', user_name=user_name,user_status=user_status)
 
     
 
@@ -643,4 +645,29 @@ def configure_routes(app):
         
         data = fetch_contacts(user_id, key, value)
         return jsonify(data), 200
-        # Additional routes....
+
+    @app.route('/delete-contacts', methods=['POST'])
+    def route_delete_contacts():
+        if 'user_id' not in session:
+            # User not logged in or session expired
+            return jsonify({'status': 'error', 'message': 'User not authenticated'}), 401
+
+        # Extract user_id from session
+        user_id = session['user_id']
+
+        # Get JSON data from request
+        data = request.get_json()
+        if data is None or 'ids' not in data:
+            return jsonify({'status': 'error', 'message': 'Invalid request'}), 400
+
+        # Extract contact IDs to delete
+        contact_ids = data['ids']
+
+        # Call the delete_contacts function
+        try:
+            delete_contacts(contact_ids, user_id)
+            return jsonify({'status': 'success', 'message': 'Contacts deleted successfully'}), 200
+        except Exception as e:
+            return jsonify({'status': 'error', 'message': str(e)}), 500
+        
+            # Additional routes....

@@ -215,44 +215,6 @@ def update_userClient(user_id, column, value):
         print("An error occurred:", e)
         # Handle the error appropriately
 
-def save_contactssss(data, user_id):
-    conn = duckdb.connect()
-    # This line ensures that 'contacts' is a list. If 'data' is a dictionary,
-    # it is wrapped in a list. If 'data' is already a list, it is used directly.
-    # If 'data' is neither (else case), an empty list is used.
-    contacts = [data] if isinstance(data, dict) else data if isinstance(data, list) else []
-
-    # Create a DataFrame for the new contacts
-    new_records = pd.DataFrame(contacts)
-
-    # Read the existing data
-    existing_data = conn.execute(f"""
-        INSTALL httpfs;
-        LOAD httpfs;
-        SET s3_region = '{aws_default_region}';
-        SET s3_access_key_id = '{aws_access_key_id}';
-        SET s3_secret_access_key = '{aws_secret_access_key}';
-        SELECT * FROM 
-        read_parquet('s3://emissarybucket/records/userData/{user_id}/contacts.parquet')""").fetchdf()
-
-    
-
-    # Append the new record to the existing data
-    updated_data = pd.concat([existing_data, new_records], ignore_index=True)
-    
-    # Write the updated data to a S3
-    conn.execute(f"""
-        INSTALL httpfs;
-        LOAD httpfs;
-        SET s3_region = '{aws_default_region}';
-        SET s3_access_key_id = '{aws_access_key_id}';
-        SET s3_secret_access_key = '{aws_secret_access_key}';
-        CREATE TABLE contactData AS SELECT * FROM {updated_data}; 
-        COPY contactData TO 's3://emissarybucket/records/userData/{user_id}/contacts.parquet';
-        """)
-
-    conn.close()
-
 def save_contact(data, user_id):
     try:
         conn = duckdb.connect()
@@ -343,3 +305,40 @@ def fetch_contacts(user_id, key=None, value=None):
         print(f"Error fetching contacts: {e}")
         # Return an empty list or any suitable error indication as per your application's needs
         return []
+    
+def delete_contacts(contact_ids, user_id):
+    print(f'Attempting to delete contacts with IDs: {contact_ids}')
+    try:
+        # Establish connection to DuckDB
+        conn = duckdb.connect(database=':memory:', read_only=False)
+        conn.execute("INSTALL httpfs;")
+        conn.execute("LOAD httpfs;")
+        conn.execute(f"SET s3_region = '{aws_default_region}';")
+        conn.execute(f"SET s3_access_key_id = '{aws_access_key_id}';")
+        conn.execute(f"SET s3_secret_access_key = '{aws_secret_access_key}';")
+
+        # Convert contact_ids to a comma-separated string for inclusion in the SQL statement
+        contact_ids_str = ', '.join([str(id) for id in contact_ids])
+
+        # Read contacts, excluding those with specified IDs
+        sql_query = f"""
+            CREATE TEMPORARY TABLE tempContacts AS 
+            SELECT * FROM read_parquet('s3://emissarybucket/records/userData/{user_id}/contacts.parquet')
+            WHERE id NOT IN ({contact_ids_str});
+        """
+        conn.execute(sql_query)
+
+        # Assuming DuckDB can handle direct overwrite of the S3 file
+        # Write the updated temporary table back to S3
+        save_query = f"""
+            COPY tempContacts 
+            TO 's3://emissarybucket/records/userData/{user_id}/contacts.parquet' (FORMAT 'parquet');
+        """
+        conn.execute(save_query)
+
+        conn.close()
+        print('Contact deletion completed')
+        return True
+    except Exception as e:
+        print(f"An error occurred during deletion: {e}")
+        return False

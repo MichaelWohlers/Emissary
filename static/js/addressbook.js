@@ -53,28 +53,37 @@ $(document).ready(function() {
             var data = table.row($(this).closest('tr')).data();
             ids.push(data.id); // Collect the ID
         });
-
-        // Now you have an array of selected IDs in 'ids'
+    
         if (ids.length > 0) { // Check if there's at least one ID to delete
+            // Show the loading indicator
+            $('#loadingIcon').show();
+    
             $.ajax({
                 url: '/delete-contacts',
                 type: 'POST',
                 data: JSON.stringify({ids: ids}), // Sending the array of IDs
                 contentType: 'application/json; charset=utf-8',
                 success: function(response) {
+                    // Hide the loading indicator
+                    $('#loadingIcon').hide();
+                    
                     // Refresh the table or handle the response
                     table.ajax.reload();
                 },
                 error: function(xhr, status, error) {
+                    // Hide the loading indicator
+                    $('#loadingIcon').hide();
+                    
                     // Handle error
                     console.error("Error deleting contacts:", error);
+                    alert("An error occurred while deleting contacts.");
                 }
             });
         } else {
             alert("No contacts selected for deletion.");
         }
     });
-
+    
 
 
 
