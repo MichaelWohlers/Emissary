@@ -627,6 +627,14 @@ def configure_routes(app):
         else:
             return jsonify({'status': 'error', 'message': 'No data received'}), 400
 
-
-
+    #@app.route('/load-contacts', methods=['GET'])
+    #def load_contacts():
+    #    if not is_logged_in():
+    #        return redirect(url_for('login'))
+    #    fetch_contacts(session('user_id'), key=None, value=None)
+#
+    #def fetch_contacts(session('user_id'), key=None, value=None):
+    #    query = fetch_userClient_query(session('user_id'), key=None, value=None)
+    #    data = execute_query_and_fetch_clientUsers(query)
+    #    return data
         # Additional routes....
