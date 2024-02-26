@@ -256,8 +256,6 @@ def save_contactssss(data, user_id):
 def save_contact(data, user_id):
     try:
         conn = duckdb.connect()
-
-        # Assuming aws_default_region, aws_access_key_id, and aws_secret_access_key are defined
         conn.execute("INSTALL httpfs;")
         conn.execute("LOAD httpfs;")
         conn.execute(f"SET s3_region = '{aws_default_region}';")
@@ -282,12 +280,12 @@ def save_contact(data, user_id):
         # Register the updated DataFrame as a temporary table
         conn.register('updated_data', updated_data)
 
-        # Write the updated DataFrame to S3
-        # Note: Adjust the following to use the correct SQL syntax for writing back to S3
-        conn.execute("""
+        # Dynamically insert the user_id into the COPY command string
+        copy_command = f"""
             COPY updated_data 
-            TO 's3://emissarybucket/records/userData/{user_id}/contacts.parquet';
-        """)
+            TO 's3://emissarybucket/records/userData/{user_id}/contacts.parquet' (FORMAT 'parquet');
+        """
+        conn.execute(copy_command)
 
         conn.close()
         return True  # Indicate success
