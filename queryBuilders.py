@@ -217,11 +217,13 @@ def update_userClient(user_id, column, value):
 
 def save_contact(data, user_id):
     conn = duckdb.connect()
-    # Ensure contacts is always a list to simplify processing
-    if isinstance(data, dict):
-        # Single contact provided, wrap it in a list
-        contacts = [data]
-     # Assuming contacts is now a list of dictionaries
+    # This line ensures that 'contacts' is a list. If 'data' is a dictionary,
+    # it is wrapped in a list. If 'data' is already a list, it is used directly.
+    # If 'data' is neither (else case), an empty list is used.
+    contacts = [data] if isinstance(data, dict) else data if isinstance(data, list) else []
+
+    # Create a DataFrame for the new contacts
+    new_records = pd.DataFrame(contacts)
 
     # Read the existing data
     existing_data = conn.execute(f"""
@@ -233,8 +235,7 @@ def save_contact(data, user_id):
         SELECT * FROM 
         read_parquet('s3://emissarybucket/records/userData/{user_id}/contacts.parquet')""").fetchdf()
 
-    # Create a DataFrame for the new contacts
-    new_records = pd.DataFrame(contacts)
+    
 
     # Append the new record to the existing data
     updated_data = pd.concat([existing_data, new_records], ignore_index=True)
@@ -254,13 +255,23 @@ def save_contact(data, user_id):
 
 
 
-def fetch_contacts(user_id, key, value):
+def fetch_contacts(user_id, key=None, value=None):
+    where_clause = ""
+    if key and value:  # Ensure both key and value are provided and non-empty
+        # Ensure the key is a valid column name to mitigate injection risks
+        # This is a basic check; consider more robust validation based on your context
+        if key in ['id', 'name', 'category', 'website', 'socials', 'phone', 'address']:
+            where_clause = f"WHERE {key} = '{value}'"  # Basic validation applied
+        else:
+            # Handle invalid key case, e.g., by raising an error or logging a warning
+            raise ValueError("Invalid key provided for filtering.")
+
     query = f"""
         INSTALL httpfs;
         LOAD httpfs;
-        SET s3_region = '{aws_default_region}';
-        SET s3_access_key_id = '{aws_access_key_id}';
-        SET s3_secret_access_key = '{aws_secret_access_key}';
+        SET s3_region = 'your_aws_default_region';
+        SET s3_access_key_id = 'your_aws_access_key_id';
+        SET s3_secret_access_key = 'your_aws_secret_access_key';
         COPY (
             SELECT
                 id,
@@ -272,8 +283,7 @@ def fetch_contacts(user_id, key, value):
                 address
             FROM
             read_parquet('s3://emissarybucket/records/userData/{user_id}/contacts.parquet')
-            WHERE
-                {key} = '{value}'
+            {where_clause}
         ) TO 'files/contacts.json'
     ;
     """
