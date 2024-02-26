@@ -254,41 +254,46 @@ def save_contactssss(data, user_id):
     conn.close()
 
 def save_contact(data, user_id):
-    conn = duckdb.connect()
+    try:
+        conn = duckdb.connect()
 
-    # Assuming aws_default_region, aws_access_key_id, and aws_secret_access_key are defined
-    conn.execute("INSTALL httpfs;")
-    conn.execute("LOAD httpfs;")
-    conn.execute(f"SET s3_region = '{aws_default_region}';")
-    conn.execute(f"SET s3_access_key_id = '{aws_access_key_id}';")
-    conn.execute(f"SET s3_secret_access_key = '{aws_secret_access_key}';")
+        # Assuming aws_default_region, aws_access_key_id, and aws_secret_access_key are defined
+        conn.execute("INSTALL httpfs;")
+        conn.execute("LOAD httpfs;")
+        conn.execute(f"SET s3_region = '{aws_default_region}';")
+        conn.execute(f"SET s3_access_key_id = '{aws_access_key_id}';")
+        conn.execute(f"SET s3_secret_access_key = '{aws_secret_access_key}';")
 
-    contacts = [data] if isinstance(data, dict) else data if isinstance(data, list) else []
-    new_records = pd.DataFrame(contacts)
-    
-    # Create a temporary table for the new records
-    conn.register('new_records', new_records)
-    
-    # Assuming the existing data is structured similarly to the new data
-    existing_data = conn.execute(f"""
-        SELECT * FROM 
-        read_parquet('s3://emissarybucket/records/userData/{user_id}/contacts.parquet')
-    """).df()
+        contacts = [data] if isinstance(data, dict) else data if isinstance(data, list) else []
+        new_records = pd.DataFrame(contacts)
+        
+        # Create a temporary table for the new records
+        conn.register('new_records', new_records)
+        
+        # Assuming the existing data is structured similarly to the new data
+        existing_data = conn.execute(f"""
+            SELECT * FROM 
+            read_parquet('s3://emissarybucket/records/userData/{user_id}/contacts.parquet')
+        """).df()
 
-    # Append the new records to the existing data
-    updated_data = pd.concat([existing_data, new_records], ignore_index=True)
+        # Append the new records to the existing data
+        updated_data = pd.concat([existing_data, new_records], ignore_index=True)
 
-    # Register the updated DataFrame as a temporary table
-    conn.register('updated_data', updated_data)
+        # Register the updated DataFrame as a temporary table
+        conn.register('updated_data', updated_data)
 
-    # Write the updated DataFrame to S3
-    # Note: Adjust the following to use the correct SQL syntax for writing back to S3
-    conn.execute("""
-        COPY updated_data 
-        TO 's3://emissarybucket/records/userData/{user_id}/contacts.parquet' (FORMAT 'parquet');
-    """)
+        # Write the updated DataFrame to S3
+        # Note: Adjust the following to use the correct SQL syntax for writing back to S3
+        conn.execute("""
+            COPY updated_data 
+            TO 's3://emissarybucket/records/userData/{user_id}/contacts.parquet';
+        """)
 
-    conn.close()
+        conn.close()
+        return True  # Indicate success
+    except Exception as e:
+        print(f"Error saving contact: {e}")
+        return False  # Indicate failure
 
 
 
