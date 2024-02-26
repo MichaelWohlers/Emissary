@@ -53,7 +53,13 @@ function startIntroTour() {
             {
                 // Step 4: results switch
                 element: document.querySelector('.slider'),
-                intro: "View results on the map or in a searchable table (table action buttons are still WIP)",
+                intro: "View results on the map or in a searchable table. You can save results by selecting them in the table and clicking the add to contacts button.",
+                position: 'bottom'
+            },
+            {
+                // Step 5: Tools menu
+                element: document.getElementById('toolsDropdown'),
+                intro: "View saved contacts in address book, or use the other tools as they are added here.",
                 position: 'bottom'
             }
         ],
