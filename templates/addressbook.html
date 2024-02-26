@@ -373,7 +373,6 @@ input:checked + .slider:before {
 
                     <!-- Page Heading Address Book - implement https://www.garmentory.com scraping-->
                     <h1 class="h3 mb-4 text-gray-800">Under Construction</h1>
-                    <button id="scrape-contacts-btn">Scrape Contacts</button>
 
                     <div id="progressPopup" class="popup" style="display:none;">
                         <div class="popup-content">
@@ -386,94 +385,38 @@ input:checked + .slider:before {
                     </div>
                     
 
-                    <!-- Log Display -->
-                    <div id="logDisplay" style="margin-top: 20px;"></div>
-
-
-                    <div id="tableStats" class="text-primary my-3 font-weight-bold table table-bordered" style="width:100%; text-align: left; white-space: nowrap;"></div>
-                    <div class="popover-body popover-content" style="display: none;" id="filterArea">
-                        <div class="filter-area">
-                            <div class="filter-edit-area">
-                                <div class="text-muted empty-filters text-center" style="display: none;">
-                                    No filters selected
-                                </div>
-                                <div class="filter-box">
-                                    <div class="visible-xs flex justify-flex-end">
-                                        <span class="remove-filter">Remove</span>
-                                    </div>
-                                    <div class="list_filter row">
-                                        <div class="fieldname-select-area col-sm-4 ui-front form-group">
-                                            <div class="awesomplete">
-                                                <input class="form-control input-xs" autocomplete="off" aria-expanded="false">
-                                                <ul role="listbox" hidden=""></ul>
-                                            </div>
-                                        </div>
-                                        <div class="col-sm-3 form-group">
-                                            <select class="condition form-control input-xs">
-                                                <option value="=">Equals</option>
-                                                <option value="!=">Not Equals</option>
-                                                <option value="like">Like</option>
-                                                <option value="not like">Not Like</option>
-                                                <option value="in">In</option>
-                                                <option value="not in">Not In</option>
-                                                <!-- Other conditions -->
-                                            </select>
-                                        </div>
-                                        <div class="col-sm-4 form-group">
-                                            <div class="filter-field">
-                                                <input type="text" class="input-with-feedback form-control input-xs" placeholder="">
-                                            </div>
-                                            <div class="text-muted small filter-description">use % as wildcard</div>
-                                        </div>
-                                        <div class="remove-filter col-sm-1 text-center hidden-xs">
-                                            <svg class="icon icon-sm">
-                                                <use href="#icon-close" class="close"></use>
-                                            </svg>
-                                        </div>
-                                    </div>
-                                </div>
-                                <hr class="divider">
-                                <div class="filter-action-buttons mt-2">
-                                    <button class="text-muted add-filter btn btn-xs">
-                                        + Add a Filter
-                                    </button>
-                                    <div>
-                                        <button class="btn btn-secondary btn-xs clear-filters">
-                                            Clear Filters
-                                        </button>
-                                        <button class="btn btn-primary btn-xs apply-filters">
-                                            Apply Filters
-                                        </button>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <table class="table" id="placesTable">
-                        <thead>
-                            <tr>
-                                <th>Actions</th>                                
-                            </tr>
-                            <tr>
-                                <th>Name</th>
-                                <th>Email</th>
-                                <th>Phone Number</th>
-                                <th>Website</th>
-                                <th>Address</th>
-                                <th>Category</th>
-                                <th>Status</th>
-                                <th>Actions</th>                                
-                            </tr>
-                        </thead>
-                        <tbody id="placesTableBody">
-                            <!-- Table rows will be dynamically populated here -->
-                        </tbody>
-                    </table>
                     
-                    <!-- New resultsContainer -->
-                    <div id="resultsContainer" style="margin-top: 20px;">
-                        <!-- Content for resultsContainer will be dynamically populated here -->
+                        
+                            
+                        <!-- Table Container (Initially Hidden) -->
+                        <div class="table-responsive" id="tableContainer">
+                            <button type="button" id="scrape-contacts-btn" class="btn btn-primary mb-2">Scrape Contacts</button>
+                            <!-- Add a delete button -->
+                            <button type="button" id="delete-contacts-btn" class="btn btn-danger mb-2">Delete Selected Contacts</button>
+                            
+                            <table id="contactsTable" class="table table-striped table-bordered" style="width:100%">
+                                <thead>
+                                    <tr>
+                                        <th><input type="checkbox" id="select-all"></th> <!-- Checkbox in header for select all -->
+                                        <th>Name</th>
+                                        <th>Category</th>
+                                        <th>Website</th>
+                                        <th>Social Media</th>
+                                        <th>Phone</th>
+                                        <th>Address</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="tableView">
+                                    <!-- Data will be inserted here by DataTables -->
+                                </tbody>
+                            </table>
+                        </div>
+                                                
+                        
                     </div>
+
+
+                    
                     
                 <!-- /.container-fluid -->
 

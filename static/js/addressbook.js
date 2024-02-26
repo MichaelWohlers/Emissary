@@ -1,13 +1,88 @@
-document.addEventListener('DOMContentLoaded', function () {
-    fetchAndDisplayPlaces(); // Fetch and display places data on page load
-    // Initialize the DataTable with specific options and store the reference
-    var table = $('#placesTable').DataTable({
-        "pagingType": "full_numbers",
-        "lengthMenu": [[10, 25, 50, -1], [10, 25, 50, "All"]]
+$(document).ready(function() {
+    var table = $('#contactsTable').DataTable({
+        "ajax": {
+            "url": "/load-contacts",
+            "dataSrc": ""
+        },
+        "columns": [
+            { // Checkbox column
+                "data": null,
+                "defaultContent": '<input type="checkbox" class="select-checkbox">',
+                "orderable": false,
+                "className": 'dt-center',
+                "searchable": false,
+                "width": "1%"
+            },
+            // Assuming `id` is not needed in the DataTable display; if needed, adjust accordingly.
+            { "data": "name" },
+            { "data": "category" },
+            { "data": "website" },
+            { "data": "socials" },
+            { "data": "phone" },
+            { "data": "address" }
+        ],
+        "order": [[1, 'asc']] // Adjust the initial ordering; now starts with the name column.
     });
 
 
+    // Handle click on "select all" control
+    $('#select-all').on('click', function(){
+        // Check/uncheck all checkboxes in the table
+        var rows = table.rows({ 'search': 'applied' }).nodes();
+        $('input[type="checkbox"]', rows).prop('checked', this.checked);
+    });
+
+    // Handle click on checkbox to set state of "Select all" control
+    $('#contactsTable tbody').on('change', 'input[type="checkbox"]', function(){
+        // If checkbox is not checked
+        if(!this.checked){
+           var el = $('#select-all').get(0);
+           // If "Select all" control is checked and has 'indeterminate' property
+           if(el && el.checked && ('indeterminate' in el)){
+              el.indeterminate = true;
+           }
+        }
+    });
+
+    // Handle button click for deleting contacts
+    $('#delete-contacts-btn').on('click', function(e) {
+        e.preventDefault();
+        // Collect IDs of contacts that are selected for deletion
+        var ids = [];
+        table.$('input[type="checkbox"]:checked').each(function() {
+            var data = table.row($(this).closest('tr')).data();
+            ids.push(data.id); // Collect the ID
+        });
+
+        // Now you have an array of selected IDs in 'ids'
+        if (ids.length > 0) { // Check if there's at least one ID to delete
+            $.ajax({
+                url: '/delete-contacts',
+                type: 'POST',
+                data: JSON.stringify({ids: ids}), // Sending the array of IDs
+                contentType: 'application/json; charset=utf-8',
+                success: function(response) {
+                    // Refresh the table or handle the response
+                    table.ajax.reload();
+                },
+                error: function(xhr, status, error) {
+                    // Handle error
+                    console.error("Error deleting contacts:", error);
+                }
+            });
+        } else {
+            alert("No contacts selected for deletion.");
+        }
+    });
+
+
+
+
+
+
+
 // Custom search function
+/*
 $.fn.dataTable.ext.search.push(function(settings, data, dataIndex) {
     for (let column in filters) {
         let columnIndex = table.column(column + ':name').index();
@@ -223,7 +298,7 @@ function addFilter(column, filter) {
         filters[column].push(filter);
     }
     refreshDataTable(); // Refresh the DataTable with new filters
-    updateFilterButtonAppearance(); // Update the appearance of filter buttons
+    updateFilterButtonAppearance(); // Update the appearance of filter buttons/scraping-status
 }
 
 function deleteFilter(column, filter) {
@@ -244,4 +319,5 @@ document.getElementById('filterButton').addEventListener('click', function() {
     } else {
         filterArea.style.display = 'none'; // Hide the filter area
     }
+    */
 });

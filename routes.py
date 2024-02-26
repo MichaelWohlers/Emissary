@@ -10,7 +10,7 @@ from werkzeug.security import check_password_hash, generate_password_hash
 import json
 import logging
 from dotenv import load_dotenv
-from queryBuilders import construct_query, fetch_userClient_query, add_userClient, delete_userClient, update_userClient, save_contact
+from queryBuilders import construct_query, fetch_userClient_query, add_userClient, delete_userClient, update_userClient, save_contact, fetch_contacts
 from tasks import execute_query_and_fetch_data, execute_query_and_fetch_clientUser, execute_query_and_fetch_clientUsers
 import subprocess
 import redis
@@ -627,14 +627,20 @@ def configure_routes(app):
         else:
             return jsonify({'status': 'error', 'message': 'No data received'}), 400
 
-    #@app.route('/load-contacts', methods=['GET'])
-    #def load_contacts():
-    #    if not is_logged_in():
-    #        return redirect(url_for('login'))
-    #    fetch_contacts(session('user_id'), key=None, value=None)
-#
-    #def fetch_contacts(session('user_id'), key=None, value=None):
-    #    query = fetch_userClient_query(session('user_id'), key=None, value=None)
-    #    data = execute_query_and_fetch_clientUsers(query)
-    #    return data
+    @app.route('/load-contacts', methods=['GET'])
+    def load_contacts():
+        # Assuming you have a function is_logged_in() to check user login status
+        if not is_logged_in():
+            return redirect(url_for('login'))
+        
+        user_id = session.get('user_id')
+        if user_id is None:
+            return jsonify({'error': 'User not logged in'}), 401
+        
+        # Optional: Retrieve query parameters for filtering
+        key = request.args.get('key')
+        value = request.args.get('value')
+        
+        data = fetch_contacts(user_id, key, value)
+        return jsonify(data), 200
         # Additional routes....

@@ -295,36 +295,51 @@ def save_contact(data, user_id):
 
 
 
-def fetch_contacts(user_id, key=None, value=None):
+def fetch_contacts_query(user_id, key=None, value=None):
     where_clause = ""
-    if key and value:  # Ensure both key and value are provided and non-empty
-        # Ensure the key is a valid column name to mitigate injection risks
-        # This is a basic check; consider more robust validation based on your context
-        if key in ['id', 'name', 'category', 'website', 'socials', 'phone', 'address']:
-            where_clause = f"WHERE {key} = '{value}'"  # Basic validation applied
-        else:
-            # Handle invalid key case, e.g., by raising an error or logging a warning
-            raise ValueError("Invalid key provided for filtering.")
+    if key and value and key in ['id', 'name', 'category', 'website', 'socials', 'phone', 'address']:
+        # Assuming value sanitization and escaping is handled appropriately
+        where_clause = f"WHERE {key} = '{value}'"  # Placeholder for proper value handling
 
     query = f"""
-        INSTALL httpfs;
-        LOAD httpfs;
-        SET s3_region = 'your_aws_default_region';
-        SET s3_access_key_id = 'your_aws_access_key_id';
-        SET s3_secret_access_key = 'your_aws_secret_access_key';
-        COPY (
-            SELECT
-                id,
-                name,
-                category,
-                website,
-                socials,
-                phone,
-                address
-            FROM
-            read_parquet('s3://emissarybucket/records/userData/{user_id}/contacts.parquet')
-            {where_clause}
-        ) TO 'files/contacts.json'
-    ;
+        SELECT
+            id,
+            name,
+            category,
+            website,
+            socials,
+            phone,
+            address
+        FROM
+        read_parquet('s3://emissarybucket/records/userData/{user_id}/contacts.parquet')
+        {where_clause}
     """
     return query
+
+def fetch_contacts(user_id, key=None, value=None):
+    query = fetch_contacts_query(user_id, key, value)
+    
+    try:
+        # Establish connection to DuckDB
+        conn = duckdb.connect(database=':memory:', read_only=False)
+        conn.execute("INSTALL httpfs;")
+        conn.execute("LOAD httpfs;")
+        conn.execute(f"SET s3_region = '{aws_default_region}';")
+        conn.execute(f"SET s3_access_key_id = '{aws_access_key_id}';")
+        conn.execute(f"SET s3_secret_access_key = '{aws_secret_access_key}';")
+
+        
+        # Execute the query
+        result_df = conn.execute(query).fetchdf()
+        
+        # Convert the DataFrame to a list of dictionaries for JSON response
+        result_data = result_df.to_dict(orient='records')
+        
+        # Close the DuckDB connection
+        conn.close()
+        
+        return result_data
+    except Exception as e:
+        print(f"Error fetching contacts: {e}")
+        # Return an empty list or any suitable error indication as per your application's needs
+        return []
