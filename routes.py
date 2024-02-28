@@ -36,6 +36,10 @@ records_location=os.environ.get('RECORDS_FOLDER')
 os.environ['AWS_ACCESS_KEY_ID'] = os.getenv('YOUR_ACCESS_KEY')
 os.environ['AWS_SECRET_ACCESS_KEY'] = os.getenv('YOUR_SECRET_KEY')
 
+# Load the merged GeoJSON data
+with open('files/updated_usaCounties.geojson', 'r') as file:
+    county_data = json.load(file)
+
 class SingletonState:
     _instance = None
 
@@ -669,5 +673,9 @@ def configure_routes(app):
             return jsonify({'status': 'success', 'message': 'Contacts deleted successfully'}), 200
         except Exception as e:
             return jsonify({'status': 'error', 'message': str(e)}), 500
+        
+    @app.route('/county-data', methods=['GET'])
+    def get_county_data():
+        return jsonify(county_data)
         
             # Additional routes....

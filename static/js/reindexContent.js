@@ -23,55 +23,7 @@ function initializeMap() {
     addGearMenuControl(drawnItems);
     
 }
-// Function to start the tour
-function startIntroTour() {
-    // Create an Intro.js instance
-    var intro = introJs();
 
-    // Set options and steps programmatically
-    intro.setOptions({
-        steps: [
-            {
-                // Step 1: Draw Rectangle Button
-                element: document.querySelector('.leaflet-draw-draw-rectangle'),
-                intro: "Click here to draw the search area on the map.",
-                position: 'right'
-            },
-            {
-                // Step 3: Search Field
-                element: document.querySelector('.leaflet-control-geocoder-icon'),
-                intro: "[Optional]Use this search field to find specific locations on the map instead of drawing the search area.",
-                position: 'bottom'
-            },
-            {
-                // Step 2: Gear Icon for opening the filter menu
-                element: document.querySelector('.gear-icon'),
-                intro: "After defining a search area, click the gear icon to setup the search filters.",
-                position: 'top'
-            },
-            
-            {
-                // Step 4: results switch
-                element: document.querySelector('.slider'),
-                intro: "View results on the map or in a searchable table. You can save results by selecting them in the table and clicking the add to contacts button.",
-                position: 'bottom'
-            },
-            {
-                // Step 5: Tools menu
-                element: document.getElementById('toolsDropdown'),
-                intro: "View saved contacts in address book, or use the other tools as they are added here.",
-                position: 'bottom'
-            }
-        ],
-        showBullets: false, // Optionally, disable navigation bullets
-        showProgress: true, // Optionally, show progress through the tour
-        exitOnOverlayClick: true, // Allow users to exit the tour by clicking the overlay
-        scrollToElement: true // Scroll to the highlighted element
-    });
-
-    // Start the tour
-    intro.start();
-}
 
 function setupGeocoder(drawnItems) {
     var geocoder = L.Control.geocoder({
@@ -182,7 +134,50 @@ function addGearMenuControl(drawnItems) {
             }
 
            
-        
+            function fetchAndDisplayCountyData() {
+                fetch('/county-data')
+                    .then(response => response.json())
+                    .then(data => {
+                        displayDataOnMap(data);
+                    })
+                    .catch(error => console.error('Error fetching county data:', error));
+            }
+            
+            function onEachFeature(feature, layer) {
+                if (feature.properties) {
+                    var popupContent = "<div>Name: " + feature.properties.name + "</div>" +
+                                       "<div>Population: " + feature.properties.population + "</div>" +
+                                       "<div>Area: " + feature.properties.area + "</div>" +
+                                       "<div>Per Capita Income: " + feature.properties.perCapitaIncome + "</div>";
+            
+                    layer.bindPopup(popupContent);
+                }
+                layer.on({
+                    mouseover: function(e) {
+                        var layer = e.target;
+                        layer.setStyle({
+                            weight: 3,
+                            color: '#00FFFF',
+                            dashArray: '',
+                            fillOpacity: 0.7
+                        });
+                        if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
+                            layer.bringToFront();
+                        }
+                    },
+                    mouseout: function(e) {
+                        newGeoJsonLayer.resetStyle(e.target);
+                    }
+                });
+            }
+            
+            // Adjust this to call 'fetchAndDisplayCountyData' at the appropriate time,
+            // for example, after the map has been initialized.
+            document.addEventListener('DOMContentLoaded', function() {
+                initializeMap();
+                fetchAndDisplayCountyData(); // Ensure this is called after the map initialization
+            });
+            
 
             // Menu Container (Initially Hidden)
             var menu = L.DomUtil.create('div', 'gear-menu hidden', container);
@@ -327,7 +322,55 @@ function onEachFeature(feature, layer) {
 
 }  
 
+// Function to start the tour
+function startIntroTour() {
+    // Create an Intro.js instance
+    var intro = introJs();
 
+    // Set options and steps programmatically
+    intro.setOptions({
+        steps: [
+            {
+                // Step 1: Draw Rectangle Button
+                element: document.querySelector('.leaflet-draw-draw-rectangle'),
+                intro: "Click here to draw the search area on the map.",
+                position: 'right'
+            },
+            {
+                // Step 3: Search Field
+                element: document.querySelector('.leaflet-control-geocoder-icon'),
+                intro: "[Optional]Use this search field to find specific locations on the map instead of drawing the search area.",
+                position: 'bottom'
+            },
+            {
+                // Step 2: Gear Icon for opening the filter menu
+                element: document.querySelector('.gear-icon'),
+                intro: "After defining a search area, click the gear icon to setup the search filters.",
+                position: 'top'
+            },
+            
+            {
+                // Step 4: results switch
+                element: document.querySelector('.slider'),
+                intro: "View results on the map or in a searchable table. You can save results by selecting them in the table and clicking the add to contacts button.",
+                position: 'bottom'
+            },
+            {
+                // Step 5: Tools menu
+                element: document.getElementById('toolsDropdown'),
+                intro: "View saved contacts in address book, or use the other tools as they are added here.",
+                position: 'bottom'
+            }
+        ],
+        showBullets: false, // Optionally, disable navigation bullets
+        showProgress: true, // Optionally, show progress through the tour
+        exitOnOverlayClick: true, // Allow users to exit the tour by clicking the overlay
+        scrollToElement: true // Scroll to the highlighted element
+    });
+
+    // Start the tour
+    intro.start();
+}
 
 // Function to update table data
 function displayDataOnTable(data) {

@@ -1,11 +1,8 @@
 #models.py
 from shared import db
 from werkzeug.security import generate_password_hash, check_password_hash
-import duckdb
-from sqlalchemy.orm import joinedload
-import duckdb
-import logging
-import json
+
+
 
 class Place(db.Model):
     id = db.Column(db.Integer, primary_key=True)

@@ -14,6 +14,12 @@ extract.py
 testConsumer.py
 usertest.py
 files/sortedByCountry
+files/theme=admins
+files/USA
+files/data_issues_log.txt
+datamerge.py
+geojson.py
+parquet.py
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
