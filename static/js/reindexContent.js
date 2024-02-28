@@ -171,12 +171,7 @@ function addGearMenuControl(drawnItems) {
                 });
             }
             
-            // Adjust this to call 'fetchAndDisplayCountyData' at the appropriate time,
-            // for example, after the map has been initialized.
-            document.addEventListener('DOMContentLoaded', function() {
-                initializeMap();
-                fetchAndDisplayCountyData(); // Ensure this is called after the map initialization
-            });
+           
             
 
             // Menu Container (Initially Hidden)
@@ -638,6 +633,7 @@ function filterKeywords() {
 
 $(document).ready(function() {
     initializeMap();
+    fetchAndDisplayCountyData()
     fetchAndDisplayCategories();
     document.getElementById('startTourButton').addEventListener('click', function() {
         startIntroTour();
