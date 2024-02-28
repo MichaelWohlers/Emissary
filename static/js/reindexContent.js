@@ -134,42 +134,7 @@ function addGearMenuControl(drawnItems) {
             }
 
            
-            function fetchAndDisplayCountyData() {
-                fetch('/county-data')
-                    .then(response => response.json())
-                    .then(data => {
-                        displayDataOnMap(data);
-                    })
-                    .catch(error => console.error('Error fetching county data:', error));
-            }
             
-            function onEachFeature(feature, layer) {
-                if (feature.properties) {
-                    var popupContent = "<div>Name: " + feature.properties.name + "</div>" +
-                                       "<div>Population: " + feature.properties.population + "</div>" +
-                                       "<div>Area: " + feature.properties.area + "</div>" +
-                                       "<div>Per Capita Income: " + feature.properties.perCapitaIncome + "</div>";
-            
-                    layer.bindPopup(popupContent);
-                }
-                layer.on({
-                    mouseover: function(e) {
-                        var layer = e.target;
-                        layer.setStyle({
-                            weight: 3,
-                            color: '#00FFFF',
-                            dashArray: '',
-                            fillOpacity: 0.7
-                        });
-                        if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
-                            layer.bringToFront();
-                        }
-                    },
-                    mouseout: function(e) {
-                        newGeoJsonLayer.resetStyle(e.target);
-                    }
-                });
-            }
             
            
             
@@ -630,7 +595,42 @@ function filterKeywords() {
         }
     });
 }
+function fetchAndDisplayCountyData() {
+    fetch('/county-data')
+        .then(response => response.json())
+        .then(data => {
+            displayDataOnMap(data);
+        })
+        .catch(error => console.error('Error fetching county data:', error));
+}
 
+function onEachFeature(feature, layer) {
+    if (feature.properties) {
+        var popupContent = "<div>Name: " + feature.properties.name + "</div>" +
+                           "<div>Population: " + feature.properties.population + "</div>" +
+                           "<div>Area: " + feature.properties.area + "</div>" +
+                           "<div>Per Capita Income: " + feature.properties.perCapitaIncome + "</div>";
+
+        layer.bindPopup(popupContent);
+    }
+    layer.on({
+        mouseover: function(e) {
+            var layer = e.target;
+            layer.setStyle({
+                weight: 3,
+                color: '#00FFFF',
+                dashArray: '',
+                fillOpacity: 0.7
+            });
+            if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
+                layer.bringToFront();
+            }
+        },
+        mouseout: function(e) {
+            newGeoJsonLayer.resetStyle(e.target);
+        }
+    });
+}
 $(document).ready(function() {
     initializeMap();
     fetchAndDisplayCountyData();
