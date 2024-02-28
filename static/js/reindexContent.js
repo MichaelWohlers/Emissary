@@ -633,7 +633,7 @@ function filterKeywords() {
 
 $(document).ready(function() {
     initializeMap();
-    fetchAndDisplayCountyData()
+    fetchAndDisplayCountyData();
     fetchAndDisplayCategories();
     document.getElementById('startTourButton').addEventListener('click', function() {
         startIntroTour();
