@@ -4,38 +4,31 @@ var markerLayerGroup;
 var intervalId; // Global scope declaration
 var markersClusterGroup;
 var heatmapLayer;
-var currentHeatmapType = 0; // 0: perCapitaIncome, 1: population, 2: prosperity index
-
+var currentHeatmapType = -1; // -1: off, 0: perCapitaIncome, 1: population, 2: prosperity index
 function prepareHeatmapData(data, currentHeatmapType) {
     var heatmapData = [];
     data.features.forEach(function(feature) {
         if (feature.geometry && feature.geometry.type === "MultiPolygon") {
-            // Calculate centroid for MultiPolygon as before
-            var centroid = calculateCentroid(feature.geometry.coordinates);
-            var lat = centroid[1];
-            var lng = centroid[0];
-            var intensity;
+            // Directly calculate the centroid for MultiPolygon
+            var centroids = [];
+            feature.geometry.coordinates.forEach(polygon => {
+                var centroidLng = 0, centroidLat = 0, totalPoints = 0;
+                polygon[0].forEach(coord => { // Assuming polygon[0] is the outer ring
+                    centroidLng += coord[0];
+                    centroidLat += coord[1];
+                    totalPoints++;
+                });
+                centroids.push([centroidLng / totalPoints, centroidLat / totalPoints]);
+            });
 
-            // Determine intensity based on heatmap type and handle missing data
-            switch(currentHeatmapType) {
-                case 0: // perCapitaIncome
-                    intensity = feature.properties.perCapitaIncome ? parseFloat(feature.properties.perCapitaIncome) : 0;
-                    break;
-                case 1: // population
-                    intensity = feature.properties.population ? parseInt(feature.properties.population, 10) : 0;
-                    break;
-                case 2: // prosperity index (example)
-                    if (feature.properties.population && feature.properties.perCapitaIncome && feature.properties.area) {
-                        intensity = (parseInt(feature.properties.population, 10) * parseFloat(feature.properties.perCapitaIncome)) / parseFloat(feature.properties.area);
-                    } else {
-                        intensity = 0; // Missing data
-                    }
-                    break;
-            }
+            // Average the centroids if there are multiple
+            var avgCentroid = centroids.reduce((acc, cur) => {
+                return [acc[0] + cur[0] / centroids.length, acc[1] + cur[1] / centroids.length];
+            }, [0, 0]);
 
-            if (intensity === 0) { // Handle missing data
-                // Optional: Assign a specific intensity value for missing data if you want it visualized differently
-            }
+            var lat = avgCentroid[1];
+            var lng = avgCentroid[0];
+            var intensity = determineIntensity(feature, currentHeatmapType);
 
             heatmapData.push([lat, lng, intensity]);
         }
@@ -43,37 +36,65 @@ function prepareHeatmapData(data, currentHeatmapType) {
     return heatmapData;
 }
 
+function determineIntensity(feature, currentHeatmapType) {
+    var intensity = 0; // Default for missing data
+    switch(currentHeatmapType) {
+        case 0: // perCapitaIncome
+            return feature.properties.perCapitaIncome ? parseFloat(feature.properties.perCapitaIncome) : 0;
+        case 1: // population
+            return feature.properties.population ? parseInt(feature.properties.population, 10) : 0;
+        case 2: // prosperity index
+            if (feature.properties.population && feature.properties.perCapitaIncome && feature.properties.area) {
+                return (parseInt(feature.properties.population, 10) * parseFloat(feature.properties.perCapitaIncome)) / parseFloat(feature.properties.area);
+            }
+            return 0; // Missing data
+    }
+    return intensity;
+}
+
+
 
 // Assuming calculateCentroid is correctly defined elsewhere in your code
 
 function toggleHeatmap() {
+    // Increment currentHeatmapType to cycle through the states.
+    currentHeatmapType = (currentHeatmapType + 1) % 4; // Cycle through -1 to 2
+
+    // Remove existing heatmap layer if it exists
     if (heatmapLayer) {
         map.removeLayer(heatmapLayer);
+        heatmapLayer = null; // Clear the heatmapLayer reference
     }
 
+    // If currentHeatmapType is -1 after incrementing, the heatmap should be turned off.
+    if (currentHeatmapType === -1) {
+        // The heatmap is already removed, so we can simply return here.
+        return;
+    }
+
+    // Proceed to load and display the heatmap for the currentHeatmapType
     fetch('/county-data')
-    .then(response => response.json())
-    .then(data => {
-        var heatmapData = prepareHeatmapData(data, currentHeatmapType); // Use the prepared data
+        .then(response => response.json())
+        .then(data => {
+            var heatmapData = prepareHeatmapData(data, currentHeatmapType);
 
-        var customGradient = {
-            0.0: '#ccc',
-            0.2: 'blue',
-            0.4: 'lime',
-            0.6: 'yellow',
-            1.0: 'red'
-        };
+            var customGradient = {
+                0.0: '#ccc',
+                0.2: 'blue',
+                0.4: 'lime',
+                0.6: 'yellow',
+                1.0: 'red'
+            };
 
-        heatmapLayer = L.heatLayer(heatmapData, {
-            radius: 25,
-            blur: 15,
-            gradient: customGradient
-        }).addTo(map);
-
-        currentHeatmapType = (currentHeatmapType + 1) % 3;
-    })
-    .catch(error => console.error('Error loading county data for heatmap:', error));
+            heatmapLayer = L.heatLayer(heatmapData, {
+                radius: 25,
+                blur: 15,
+                gradient: customGradient
+            }).addTo(map);
+        })
+        .catch(error => console.error('Error loading county data for heatmap:', error));
 }
+
 
 
 
