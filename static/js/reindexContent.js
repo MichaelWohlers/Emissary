@@ -66,6 +66,7 @@ function determineIntensity(feature, currentHeatmapType) {
 function toggleHeatmap() {
     // Increment currentHeatmapType to cycle through the states.
     currentHeatmapType = (currentHeatmapType + 1) % 4; // Cycle through -1 to 2
+    console.log("toggleHeatmap called. Current state:", currentHeatmapType);
 
     // Remove existing heatmap layer if it exists.
     if (heatmapLayer) {
@@ -76,6 +77,7 @@ function toggleHeatmap() {
     // If currentHeatmapType is -1 (off), reinitialize the heatmap layer without data.
     if (currentHeatmapType === -1) {
         // Reload the page as a temporary workaround
+        console.log("Reloading the page...");
         window.location.reload();
         return;
     }
