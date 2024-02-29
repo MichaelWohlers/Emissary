@@ -75,8 +75,8 @@ function toggleHeatmap() {
 
     // If currentHeatmapType is -1 (off), reinitialize the heatmap layer without data.
     if (currentHeatmapType === -1) {
-        // Reinitialize the heatmapLayer with an empty dataset or hide it.
-        initializeMap();
+        // Reload the page as a temporary workaround
+        window.location.reload();
         return;
     }
 
