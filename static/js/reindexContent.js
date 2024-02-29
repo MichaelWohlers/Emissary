@@ -83,7 +83,7 @@ function updateHeatmapExponent(exponent) {
 
 function toggleHeatmap(refresh = false) {
     // If not a refresh, toggle through the heatmap types
-    if (refresh) {
+    if (!refresh) {
         currentHeatmapType = (currentHeatmapType + 1) % 4;
         console.log("toggleHeatmap called. Current state:", currentHeatmapType);
     }
@@ -258,7 +258,7 @@ function initializeMap() {
     var heatmapToggleControl = L.control({position: 'topright'});
     heatmapToggleControl.onAdd = function(map) {
         L.DomEvent.disableClickPropagation(heatmapControlDiv);
-        L.DomEvent.on(heatmapControlDiv.querySelector('#heatmapToggle'), 'click', toggleHeatmap);
+        L.DomEvent.on(heatmapControlDiv.querySelector('#heatmapToggle'), 'click', toggleHeatmap(false));
         L.DomEvent.on(heatmapControlDiv.querySelector('#exponentSlider'), 'input', function(e) {
             var exponent = e.target.value;
             document.getElementById('exponentValue').textContent = exponent;
