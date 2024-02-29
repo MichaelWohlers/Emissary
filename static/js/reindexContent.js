@@ -269,9 +269,6 @@ function initializeMap() {
     var heatmapToggleControl = L.control({position: 'topright'});
     heatmapToggleControl.onAdd = function(map) {
         L.DomEvent.disableClickPropagation(heatmapControlDiv);
-        L.DomEvent.on(heatmapControlDiv.querySelector('.heatmap-toggle-icon'), 'click', function() {
-            heatmapControlDiv.classList.toggle('expanded');
-        });
         L.DomEvent.on(heatmapControlDiv.querySelector('#heatmapToggle'), 'click', function(e) {
             e.preventDefault(); // Prevent default action, if any
             toggleHeatmap(); // Directly call toggleHeatmap without parameters
