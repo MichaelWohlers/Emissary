@@ -637,7 +637,7 @@ function fetchAndDisplayCountyData() {
 
                     // Initial style makes counties blend in or be invisible
                     return {
-                        weight: 0.5,
+                        weight: 0,
                         color: '#666', // Outline color remains for missing data indication
                         fillColor: hasMissingData ? '#ccc' : '#3388ff', // Use grey for missing data, blue otherwise
                         fillOpacity: 0 // Change here: counties are not highlighted by default
@@ -664,7 +664,7 @@ function setupCountyInteraction(feature, layer) {
         mouseover: function(e) {
             var layer = e.target;
             layer.setStyle({
-                weight: 2,
+                weight: 0,
                 color: '#666', // Keep the outline color on mouseover
                 fillColor: '#3388ff', // Highlight color on mouseover
                 fillOpacity: 0.7 // Highlight on mouseover
