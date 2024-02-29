@@ -173,14 +173,14 @@ function startIntroTour() {
             },
             {
                 // Step 4: Heatmap menu
-                element: document.querySelector('.heatmap-toggle-icon'),
-                intro: "Cycle through varioius heatmaps to see where your marketing efforts will be most effective. Set heatmap type to 'Prosperity Index' how wealthy an erea is compared to the rest of the country. You can click on any county on the map to see more details.",
+                element: document.querySelector('.gear-icon'),
+                intro: "Cycle through varioius heatmaps to see where your marketing efforts will be most effective. Set heatmap type to 'Prosperity Index' to see how wealthy regions are. You can click on any county on the map to see more details.",
                 position: 'bottom'
             },
             {
                 // Step 3: Gear Icon for opening the filter menu
                 element: document.querySelector('.gear-icon'),
-                intro: "After defining a search area, click the gear icon to setup the search filters.",
+                intro: "After defining a search area, you can set your search filters here by first selecting one or many categories and then selecting one or many keywords. You can add any keywords you want to exclude from the results.",
                 position: 'top'
             },
            
@@ -377,10 +377,10 @@ function addGearMenuControl(drawnItems) {
 
             // Menu Container (Initially Hidden)
             var menu = L.DomUtil.create('div', 'gear-menu hidden', container);
-            menu.innerHTML = `<div class="gear-menu-container text-center">
+            menu.innerHTML = `<div class="gear-menu-container text-center" style="width: calc(100% - 50px);">
                 <div class="gear-menu-section">
                     <h6 class="gear-menu-header">Prosperity Index Heatmap</h6>
-                    <button id="heatmapToggle" class="btn btn-primary mb-2">Toggle Heatmap</button>
+                    <button id="heatmapToggle" class="btn btn-primary mb-2" style="width: 100%; height: 40px;">Toggle Heatmap</button>
                     <div class="slider-container mb-2">
                         <label for="exponentSlider">Adjust Intensity Exponent: <span id="exponentValue">0.7</span></label>
                         <input type="range" id="exponentSlider" class="custom-range" min="0.1" max="1.5" step="0.1" value="0.7">
@@ -391,7 +391,7 @@ function addGearMenuControl(drawnItems) {
                 <div class="gear-menu-section">
                     <h6 class="gear-menu-header mb-2">Search Filters</h6>
                     <div class="dropdown mb-2">
-                        <button class="btn btn-secondary dropdown-toggle" id="categoryDropdown" data-toggle="dropdown">Select Categories</button>
+                        <button class="btn btn-secondary dropdown-toggle" id="categoryDropdown" data-toggle="dropdown" style="width: 100%; height: 40px;">Select Categories</button>
                         <div id="categoryList" class="dropdown-menu">
                             <input type="text" class="form-control-sm mb-2" id="searchInput" placeholder="Search Categories">
                             <div id="categoryItems">
@@ -400,7 +400,7 @@ function addGearMenuControl(drawnItems) {
                         </div>
                     </div>
                     <div class="dropdown mb-3">
-                        <button class="btn btn-secondary dropdown-toggle" id="keywordDropdown" data-toggle="dropdown">Select Keywords</button>
+                        <button class="btn btn-secondary dropdown-toggle" id="keywordDropdown" data-toggle="dropdown" style="width: 100%; height: 40px;">Select Keywords</button>
                         <div id="keywordList" class="dropdown-menu">
                             <input type="text" class="form-control-sm mb-2" id="searchKeyword" placeholder="Search Keyword">
                             <div id="keywordItems">
@@ -410,7 +410,7 @@ function addGearMenuControl(drawnItems) {
                     </div>
                     <input type="text" class="form-control-sm mb-3" id="exclusionWords" placeholder="Exclude: JCPenny, Walmart, etc.">
                 </div>
-                <button type="submit" id="fetchDataButton" class="btn btn-primary mb-2">Fetch Places</button>
+                <button type="submit" id="fetchDataButton" class="btn btn-primary mb-2" style="width: 100%; height: 40px;">Fetch Places</button>
                 <span class="d-block mb-2">Average Request Time = 3 min.</span>
             </div>
             `;
