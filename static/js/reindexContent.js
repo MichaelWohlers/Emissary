@@ -6,7 +6,7 @@ var markersClusterGroup;
 var heatmapLayer;
 var currentHeatmapType = 3; // 3: off, 0: perCapitaIncome, 1: population, 2: prosperity index
 var countyLayer; // Declare countyLayer globally
-var currentExponent = 0.5; // Default exponent value
+var currentExponent = 0.7; // Default exponent value
 
 function prepareHeatmapData(data, currentHeatmapType) {
     var heatmapData = [];
@@ -242,7 +242,7 @@ function filterKeywords() {
 
 // Initialization Functions
 function initializeMap() {
-    map = L.map('map').setView([38.497, -90.394], 8);
+    map = L.map('map').setView([38.497, -90.394], 10);
     markerLayerGroup = L.layerGroup().addTo(map);
 
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
