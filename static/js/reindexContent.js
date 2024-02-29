@@ -39,20 +39,25 @@ function prepareHeatmapData(data, currentHeatmapType) {
 }
 
 function determineIntensity(feature, currentHeatmapType) {
-    var intensity = 0; // Default for missing data
-    switch(currentHeatmapType) {
+    // If the heatmap is meant to be off, ensure no intensity values are returned.
+    if (currentHeatmapType === -1) {
+        return null; // Or use a specific value that you're sure won't be rendered.
+    }
+
+    switch (currentHeatmapType) {
         case 0: // perCapitaIncome
-            return feature.properties.perCapitaIncome ? parseFloat(feature.properties.perCapitaIncome) : 0;
+            return feature.properties.perCapitaIncome ? parseFloat(feature.properties.perCapitaIncome) : null;
         case 1: // population
-            return feature.properties.population ? parseInt(feature.properties.population, 10) : 0;
+            return feature.properties.population ? parseInt(feature.properties.population, 10) : null;
         case 2: // prosperity index
             if (feature.properties.population && feature.properties.perCapitaIncome && feature.properties.area) {
                 return (parseInt(feature.properties.population, 10) * parseFloat(feature.properties.perCapitaIncome)) / parseFloat(feature.properties.area);
             }
-            return 0; // Missing data
+            return null; // Missing data or heatmap off
     }
-    return intensity;
+    return null; // Ensure that unhandled cases don't produce intensity values.
 }
+
 
 
 
