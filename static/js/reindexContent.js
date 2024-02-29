@@ -3,6 +3,89 @@ var map;
 var markerLayerGroup;
 var intervalId; // Global scope declaration
 var markersClusterGroup;
+//var newGeoJsonLayer; // Add this line
+
+// Function to start the tour
+function startIntroTour() {
+    // Create an Intro.js instance
+    var intro = introJs();
+
+    // Set options and steps programmatically
+    intro.setOptions({
+        steps: [
+            {
+                // Step 1: Draw Rectangle Button
+                element: document.querySelector('.leaflet-draw-draw-rectangle'),
+                intro: "Click here to draw the search area on the map.",
+                position: 'right'
+            },
+            {
+                // Step 3: Search Field
+                element: document.querySelector('.leaflet-control-geocoder-icon'),
+                intro: "[Optional]Use this search field to find specific locations on the map instead of drawing the search area.",
+                position: 'bottom'
+            },
+            {
+                // Step 2: Gear Icon for opening the filter menu
+                element: document.querySelector('.gear-icon'),
+                intro: "After defining a search area, click the gear icon to setup the search filters.",
+                position: 'top'
+            },
+            
+            {
+                // Step 4: results switch
+                element: document.querySelector('.slider'),
+                intro: "View results on the map or in a searchable table. You can save results by selecting them in the table and clicking the add to contacts button.",
+                position: 'bottom'
+            },
+            {
+                // Step 5: Tools menu
+                element: document.getElementById('toolsDropdown'),
+                intro: "View saved contacts in address book, or use the other tools as they are added here.",
+                position: 'bottom'
+            }
+        ],
+        showBullets: false, // Optionally, disable navigation bullets
+        showProgress: true, // Optionally, show progress through the tour
+        exitOnOverlayClick: true, // Allow users to exit the tour by clicking the overlay
+        scrollToElement: true // Scroll to the highlighted element
+    });
+
+    // Start the tour
+    intro.start();
+}
+// UI Interaction Functions
+function filterCategories() {
+    var searchInput = document.getElementById('searchInput').value.toLowerCase();
+    var labels = document.querySelectorAll('#categoryList label');
+
+    labels.forEach(function(label) {
+        var text = label.textContent.toLowerCase();
+        if (text.includes(searchInput)) {
+            label.style.display = "block";
+            label.style.whiteSpace = 'nowrap';
+
+        } else {
+            label.style.display = "none";
+        }
+    });
+}
+
+function filterKeywords() {
+    var searchInput = document.getElementById('searchKeyword').value.toLowerCase();
+    var labels = document.querySelectorAll('#keywordItems label');
+
+    labels.forEach(function(label) {
+        var text = label.textContent.toLowerCase();
+        if (text.includes(searchInput)) {
+            label.style.display = "block";
+            label.style.whiteSpace = 'nowrap';
+
+        } else {
+            label.style.display = "none";
+        }
+    });
+}
 
 // Initialization Functions
 function initializeMap() {
@@ -84,8 +167,8 @@ function onDrawEdited(event) {
 }
 
 // Data Display Functions
-function displayDataOnMap(geojsonData) {
-    if (!map) {
+function displayDataOnMap(geojsonData, interactionHandler) {
+        if (!map) {
         console.error('Map not initialized');
         return;
     }
@@ -94,7 +177,7 @@ function displayDataOnMap(geojsonData) {
         pointToLayer: function(feature, latlng) {
             return L.marker(latlng);
         },
-        onEachFeature: onEachFeature
+        onEachFeature: interactionHandler || onEachFeature
     });
 
     newGeoJsonLayer.eachLayer(function(layer) {
@@ -282,55 +365,7 @@ function onEachFeature(feature, layer) {
 
 }  
 
-// Function to start the tour
-function startIntroTour() {
-    // Create an Intro.js instance
-    var intro = introJs();
 
-    // Set options and steps programmatically
-    intro.setOptions({
-        steps: [
-            {
-                // Step 1: Draw Rectangle Button
-                element: document.querySelector('.leaflet-draw-draw-rectangle'),
-                intro: "Click here to draw the search area on the map.",
-                position: 'right'
-            },
-            {
-                // Step 3: Search Field
-                element: document.querySelector('.leaflet-control-geocoder-icon'),
-                intro: "[Optional]Use this search field to find specific locations on the map instead of drawing the search area.",
-                position: 'bottom'
-            },
-            {
-                // Step 2: Gear Icon for opening the filter menu
-                element: document.querySelector('.gear-icon'),
-                intro: "After defining a search area, click the gear icon to setup the search filters.",
-                position: 'top'
-            },
-            
-            {
-                // Step 4: results switch
-                element: document.querySelector('.slider'),
-                intro: "View results on the map or in a searchable table. You can save results by selecting them in the table and clicking the add to contacts button.",
-                position: 'bottom'
-            },
-            {
-                // Step 5: Tools menu
-                element: document.getElementById('toolsDropdown'),
-                intro: "View saved contacts in address book, or use the other tools as they are added here.",
-                position: 'bottom'
-            }
-        ],
-        showBullets: false, // Optionally, disable navigation bullets
-        showProgress: true, // Optionally, show progress through the tour
-        exitOnOverlayClick: true, // Allow users to exit the tour by clicking the overlay
-        scrollToElement: true // Scroll to the highlighted element
-    });
-
-    // Start the tour
-    intro.start();
-}
 
 // Function to update table data
 function displayDataOnTable(data) {
@@ -361,12 +396,7 @@ function displayDataOnTable(data) {
 
 // Utility Functions
 
-// Function to start the interval for fetchTempData
-//function startFetchingTempData() {
-//    intervalId = setInterval(fetchTempData, 3000); // Fetch every 5 seconds
-//    console.log('interval set')
-    
-//}
+
 function updateBboxText(layer) {
     var bounds = layer.getBounds();
     var sw = bounds.getSouthWest();
@@ -422,83 +452,7 @@ function fetchData(queryData) {
     });
 }
 
-function fetchTempData() {
-    // Record the start time
-    const startTime = Date.now();
-    fetch('/fetch-temp-geojson', {
-        method: 'GET'
-    })
-    .then(response => {
-        if (!response.ok) {
-            return response.json().then(errData => {
-                throw new Error(`HTTP error! Status: ${response.status}, Message: ${errData.message}`);
-            });
-        }
-        return response.json();
-    })
-    .then(data => {
-        
 
-        displayDataOnTable(data); // Populate the table with data
-
-        displayDataOnMap(data); // Handle the data
-    })
-    .catch(error => {
-        const endTime = Date.now();
-
-        const elapsedTime = endTime - startTime;
-        // log error, and stop interval
-        console.error(`Error: ${error}. Request failed in ${elapsedTime} ms`);
-
-
-        if (error.message.includes('404')) { // Assuming 404 means file not found
-            clearInterval(intervalId);
-            const endTime = Date.now();
-
-            const elapsedTime = endTime - startTime;
-            document.getElementById('loadingIcon').style.display = 'none';
-
-            console.log('No more data to fetch, stopping interval. Total Time = ',{elapsedTime});
-        }
-    });
-}
-
-function fetchSavedData() {
-    // Display the loading icon
-    document.getElementById('loadingIcon').style.display = 'block';
-
-    // Record the start time
-    const startTime = Date.now();
-
-    fetch('geojson/output.geojson', {
-        method: 'GET'
-        
-    })
-    .then(response => {
-        if (!response.ok) {
-            throw new Error(`HTTP error! Status: ${response.status}`);
-        }
-        return response.json();
-    })
-    .then(data => {
-        displayDataOnTable(data); // Populate the table with data
-        // Calculate and log the elapsed time
-        const endTime = Date.now();
-        const elapsedTime = endTime - startTime;
-        console.log(`Request completed in ${elapsedTime} ms`);
-
-        document.getElementById('loadingIcon').style.display = 'none';
-        displayDataOnMap(data); // Handle the data
-    })
-    .catch(error => {
-        // Hide the loading icon and log error and elapsed time
-        const endTime = Date.now();
-        const elapsedTime = endTime - startTime;
-        console.error(`Error: ${error}. Request failed in ${elapsedTime} ms`);
-
-        document.getElementById('loadingIcon').style.display = 'none';
-    });
-}
 
 function fetchAndDisplayCategories() {
     console.log('fetching Categories')
@@ -563,56 +517,28 @@ function fetchAndDisplayKeywords() {
     .catch(error => console.error('Error fetching keywords:', error));
 }
 
-// UI Interaction Functions
-function filterCategories() {
-    var searchInput = document.getElementById('searchInput').value.toLowerCase();
-    var labels = document.querySelectorAll('#categoryList label');
 
-    labels.forEach(function(label) {
-        var text = label.textContent.toLowerCase();
-        if (text.includes(searchInput)) {
-            label.style.display = "block";
-            label.style.whiteSpace = 'nowrap';
-
-        } else {
-            label.style.display = "none";
-        }
-    });
-}
-
-function filterKeywords() {
-    var searchInput = document.getElementById('searchKeyword').value.toLowerCase();
-    var labels = document.querySelectorAll('#keywordItems label');
-
-    labels.forEach(function(label) {
-        var text = label.textContent.toLowerCase();
-        if (text.includes(searchInput)) {
-            label.style.display = "block";
-            label.style.whiteSpace = 'nowrap';
-
-        } else {
-            label.style.display = "none";
-        }
-    });
-}
 function fetchAndDisplayCountyData() {
     fetch('/county-data')
         .then(response => response.json())
         .then(data => {
-            displayDataOnMap(data);
+            // Ensure we use the correct onEachFeature function for general info popups
+            // and use highlightFeatureOnHover for interaction effects
+            displayDataOnMap(data, highlightFeatureOnHover);
         })
         .catch(error => console.error('Error fetching county data:', error));
 }
 
-function onEachFeature(feature, layer) {
-    if (feature.properties) {
-        var popupContent = "<div>Name: " + feature.properties.name + "</div>" +
-                           "<div>Population: " + feature.properties.population + "</div>" +
-                           "<div>Area: " + feature.properties.area + "</div>" +
-                           "<div>Per Capita Income: " + feature.properties.perCapitaIncome + "</div>";
 
-        layer.bindPopup(popupContent);
-    }
+function highlightFeatureOnHover(feature, layer) {
+    // Popup content configuration remains the same
+    var popupContent = "<div>Name: " + feature.properties.name + "</div>" +
+                       "<div>Population: " + feature.properties.population + "</div>" +
+                       "<div>Area: " + feature.properties.area + "</div>" +
+                       "<div>Per Capita Income: " + feature.properties.perCapitaIncome + "</div>";
+    layer.bindPopup(popupContent);
+
+    // Interaction handlers
     layer.on({
         mouseover: function(e) {
             var layer = e.target;
@@ -631,6 +557,7 @@ function onEachFeature(feature, layer) {
         }
     });
 }
+
 $(document).ready(function() {
     initializeMap();
     fetchAndDisplayCountyData();
@@ -776,11 +703,7 @@ $(document).ready(function() {
         fetchData(queryData);
         console.log('Fetching data...');
     
-        // Set a delay of 10 seconds before fetching temporary data
-        //setTimeout(function() {
-        //    console.log('Starting to fetch temporary data...');
-        //    startFetchingTempData();
-       // }, 2000); // 10000 milliseconds = 10 seconds
+
             
     });
     document.getElementById('mapTableToggle').addEventListener('change', function() {
@@ -818,3 +741,93 @@ function setupDataTableEventHandlers(table) {
     // ... other event handlers ...
 }
 
+//function fetchTempData() {
+    // Record the start time
+    //const startTime = Date.now();
+  //  fetch('/fetch-temp-geojson', {
+    //    method: 'GET'
+    //})
+    //.then(response => {
+      //  if (!response.ok) {
+        //    return response.json().then(errData => {
+          //      throw new Error(`HTTP error! Status: ${response.status}, Message: ${errData.message}`);
+            //});
+        //}
+        //return response.json();
+    //})
+    //.then(data => {
+        
+
+      //  displayDataOnTable(data); // Populate the table with data
+
+        //displayDataOnMap(data); // Handle the data
+    //})
+    //.catch(error => {
+      //  const endTime = Date.now();
+
+        //const elapsedTime = endTime - startTime;
+        // log error, and stop interval
+        //console.error(`Error: ${error}. Request failed in ${elapsedTime} ms`);
+
+
+       // if (error.message.includes('404')) { // Assuming 404 means file not found
+         //   clearInterval(intervalId);
+           // const endTime = Date.now();
+
+            //const elapsedTime = endTime - startTime;
+            //document.getElementById('loadingIcon').style.display = 'none';
+
+            //console.log('No more data to fetch, stopping interval. Total Time = ',{elapsedTime});
+        //}
+    //});
+//}
+
+//function fetchSavedData() {
+    // Display the loading icon
+  //  document.getElementById('loadingIcon').style.display = 'block';
+
+    // Record the start time
+    //const startTime = Date.now();
+
+    //fetch('geojson/output.geojson', {
+      //  method: 'GET'
+        
+   // })
+   // .then(response => {
+     //   if (!response.ok) {
+       //     throw new Error(`HTTP error! Status: ${response.status}`);
+        //}
+        //return response.json();
+    //})
+    //.then(data => {
+      //  displayDataOnTable(data); // Populate the table with data
+        // Calculate and log the elapsed time
+        //const endTime = Date.now();
+        //const elapsedTime = endTime - startTime;
+        //console.log(`Request completed in ${elapsedTime} ms`);
+
+        //document.getElementById('loadingIcon').style.display = 'none';
+        //displayDataOnMap(data); // Handle the data
+    //})
+    //.catch(error => {
+        // Hide the loading icon and log error and elapsed time
+      //  const endTime = Date.now();
+        //const elapsedTime = endTime - startTime;
+        //console.error(`Error: ${error}. Request failed in ${elapsedTime} ms`);
+
+        //document.getElementById('loadingIcon').style.display = 'none';
+    //});
+//}
+
+        // Set a delay of 10 seconds before fetching temporary data
+        //setTimeout(function() {
+        //    console.log('Starting to fetch temporary data...');
+        //    startFetchingTempData();
+       // }, 2000); // 10000 milliseconds = 10 seconds
+
+       // Function to start the interval for fetchTempData
+//function startFetchingTempData() {
+//    intervalId = setInterval(fetchTempData, 3000); // Fetch every 5 seconds
+//    console.log('interval set')
+    
+//}
