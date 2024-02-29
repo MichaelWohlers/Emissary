@@ -5,6 +5,8 @@ var intervalId; // Global scope declaration
 var markersClusterGroup;
 var heatmapLayer;
 var currentHeatmapType = -1; // -1: off, 0: perCapitaIncome, 1: population, 2: prosperity index
+var countyLayer; // Declare countyLayer globally
+
 function prepareHeatmapData(data, currentHeatmapType) {
     var heatmapData = [];
     data.features.forEach(function(feature) {
@@ -628,8 +630,8 @@ function fetchAndDisplayCountyData() {
     fetch('/county-data')
         .then(response => response.json())
         .then(data => {
-            var countyLayer = L.geoJSON(data, {
-                style: function(feature) {
+            countyLayer = L.geoJSON(data, { // Initialize the global variable
+                                style: function(feature) {
                     // Check for missing data. You might need to adjust this check based on what constitutes 'missing' data in your dataset.
                     var hasMissingData = !feature.properties.population || !feature.properties.perCapitaIncome || !feature.properties.area;
 
