@@ -522,39 +522,44 @@ function fetchAndDisplayCountyData() {
     fetch('/county-data')
         .then(response => response.json())
         .then(data => {
-            displayDataOnMap(data, setupCountyInteraction); // Pass the correct interaction handler
+            // Use a separate variable for the county layer
+            var countyLayer = L.geoJSON(data, {
+                style: function(feature) {
+                    return {
+                        weight: 0, // No outline
+                        fillOpacity: 0 // Fully transparent initially
+                    };
+                },
+                onEachFeature: setupCountyInteraction
+            }).addTo(map); // Add the county layer directly to the map
         })
         .catch(error => console.error('Error fetching county data:', error));
 }
 
-
-
 function setupCountyInteraction(feature, layer) {
-    // Bind popup content as before
     var popupContent = "<div>Name: " + feature.properties.name + "</div>" +
                        "<div>Population: " + feature.properties.population + "</div>" +
                        "<div>Area: " + feature.properties.area + "</div>" +
                        "<div>Per Capita Income: " + feature.properties.perCapitaIncome + "</div>";
     layer.bindPopup(popupContent);
 
-    // Set up mouseover and mouseout interaction
     layer.on({
         mouseover: function(e) {
             var layer = e.target;
             layer.setStyle({
-                weight: 2,
-                color: '#3388ff', // Change the color to soft dark blue
-                dashArray: '',
-                fillOpacity: 0.2 // Make it soft transparent
+                weight: 0, // Ensure no outline
+                fillColor: '#3388ff', // Fill color for mouseover
+                fillOpacity: 0.2 // Soft transparent fill
             });
         },
         mouseout: function(e) {
             e.target.setStyle({
-                fillOpacity: 0 // Reset the fill opacity
+                fillOpacity: 0 // Fully transparent again
             });
         }
     });
 }
+
 
 
 $(document).ready(function() {
