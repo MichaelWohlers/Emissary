@@ -254,11 +254,15 @@ function initializeMap() {
     // Add custom controls for toggling the heatmap and adjusting the exponent
     var heatmapControlDiv = L.DomUtil.create('div', 'heatmap-control');
     heatmapControlDiv.innerHTML = `
+    <div class="heatmap-toggle">
         <button id="heatmapToggle">Toggle Heatmap</button>
+    </div>
+    <div class="heatmap-exponent">
         <label for="exponentSlider">Adjust Intensity Exponent: <span id="exponentValue">0.5</span></label>
         <input type="range" id="exponentSlider" min="0.1" max="1" step="0.1" value="0.5">
-        <div id="heatmapState">Current State: Off</div>
-    `;
+    </div>
+    <div id="heatmapState" class="heatmap-state">Current State: Off</div>
+`;
 
     var heatmapToggleControl = L.control({position: 'topright'});
     heatmapToggleControl.onAdd = function(map) {

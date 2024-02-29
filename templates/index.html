@@ -44,6 +44,7 @@
         margin: 0 auto;
         text-align: center;
     }
+    
 </style>
 
 
@@ -221,6 +222,41 @@ input:checked + .slider:before {
     display: flex;
     align-items: center; /* Vertically align items in the middle */
 }
+.heatmap-control {
+    background-color: #fff;
+    border-radius: 8px;
+    padding: 10px;
+    box-shadow: 0 1px 5px rgba(0,0,0,0.2);
+    font-family: Arial, sans-serif;
+}
+
+.heatmap-control button {
+    background-color: #007bff;
+    color: #ffffff;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.heatmap-control button:hover {
+    background-color: #0056b3;
+}
+
+.heatmap-control label {
+    display: block;
+    margin: 10px 0 5px 0;
+}
+
+.heatmap-control input[type="range"] {
+    width: 100%;
+}
+
+.heatmap-control #heatmapState {
+    margin-top: 10px;
+    font-weight: bold;
+}
+
 
     </style>
 
