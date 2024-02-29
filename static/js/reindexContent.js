@@ -11,11 +11,10 @@ function prepareHeatmapData(data, currentHeatmapType) {
     var heatmapData = [];
     data.features.forEach(function(feature) {
         if (feature.geometry && feature.geometry.type === "MultiPolygon") {
-            // Directly calculate the centroid for MultiPolygon
             var centroids = [];
             feature.geometry.coordinates.forEach(polygon => {
                 var centroidLng = 0, centroidLat = 0, totalPoints = 0;
-                polygon[0].forEach(coord => { // Assuming polygon[0] is the outer ring
+                polygon[0].forEach(coord => {
                     centroidLng += coord[0];
                     centroidLat += coord[1];
                     totalPoints++;
@@ -23,7 +22,6 @@ function prepareHeatmapData(data, currentHeatmapType) {
                 centroids.push([centroidLng / totalPoints, centroidLat / totalPoints]);
             });
 
-            // Average the centroids if there are multiple
             var avgCentroid = centroids.reduce((acc, cur) => {
                 return [acc[0] + cur[0] / centroids.length, acc[1] + cur[1] / centroids.length];
             }, [0, 0]);
@@ -32,36 +30,42 @@ function prepareHeatmapData(data, currentHeatmapType) {
             var lng = avgCentroid[0];
             var intensity = determineIntensity(feature, currentHeatmapType);
 
-            heatmapData.push([lat, lng, intensity]);
+            if (intensity !== null) {
+                // Optionally transform the intensity here to ensure it's within a good range
+                intensity = Math.sqrt(intensity); // Example transformation
+                heatmapData.push([lat, lng, intensity]);
+            }
         }
     });
     return heatmapData;
 }
 
+
 function determineIntensity(feature, currentHeatmapType) {
     if (currentHeatmapType === 3) {
         return null;
     }
-    var population = parseInt(feature.properties.population, 10);
-    var perCapitaIncome = parseFloat(feature.properties.perCapitaIncome);
-    var area = parseFloat(feature.properties.area);
+
+    var population = parseInt(feature.properties.population, 10) || 0;
+    var perCapitaIncome = parseFloat(feature.properties.perCapitaIncome) || 0;
+    var area = parseFloat(feature.properties.area) || 1; // Default to 1 to prevent division by zero
 
     switch (currentHeatmapType) {
         case 0: // perCapitaIncome
-            return perCapitaIncome || null;
+            return perCapitaIncome ? Math.sqrt(perCapitaIncome) : null; // Apply transformation if needed
         case 1: // population
-            return population || null;
+            return population ? Math.sqrt(population) : null; // Apply transformation if needed
         case 2: // prosperity index
-            // Ensuring we have all the needed data to calculate the prosperity index
             if (population && perCapitaIncome && area) {
-                // Calculate prosperity index as (population * perCapitaIncome) / area
-                return (population * perCapitaIncome) / area;
+                var prosperityIndex = (population * perCapitaIncome) / area;
+                return Math.sqrt(prosperityIndex); // Apply transformation if needed
             }
             return null;
         default:
             return null;
     }
 }
+
 
 
 
@@ -80,7 +84,7 @@ function toggleHeatmap() {
         heatmapLayer = null; // Ensure the reference is cleared.
     }
 
-    // If currentHeatmapType is -1 (off), reinitialize the heatmap layer without data.
+    // If currentHeatmapType is 3 (off), reinitialize the heatmap layer without data.
     if (currentHeatmapType === 3) {
         // Reinitialize the heatmapLayer with an empty dataset or hide it.
         heatmapLayer = L.heatLayer([], {
@@ -100,11 +104,12 @@ function toggleHeatmap() {
 
             // Define custom gradient here as before.
             var customGradient = {
-                0.0: 'rgba(0,0,0,0)', // Fully transparent for the base state
-                0.2: 'blue', // Cooler colors for lower values
-                0.4: 'lime', // Intermediate values
-                0.6: 'yellow', // Warmer colors for higher values
-                1.0: 'red' // Hot colors for the highest values
+                0.0: '#00f', // Blue for the lowest values
+                0.2: '#0ff', // Cyan for low-medium values
+                0.4: '#0f0', // Green for medium values
+                0.6: '#ff0', // Yellow for medium-high values
+                0.8: '#f90', // Orange for high values
+                1.0: '#f00' // Red for the highest values
             };
 
             // Create and add the heatmap layer if we're not in the "off" state (-1).
