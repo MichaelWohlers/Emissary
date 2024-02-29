@@ -252,23 +252,25 @@ function initializeMap() {
     addGearMenuControl(drawnItems);
 
     // Add custom controls for toggling the heatmap and adjusting the exponent
-    var heatmapControlDiv = L.DomUtil.create('div', 'heatmap-control');
-    heatmapControlDiv.innerHTML = `
-    <div class="heatmap-toggle">
-        <button id="heatmapToggle">Toggle Heatmap</button>
-    </div>
-    <div class="heatmap-exponent">
-        <label for="exponentSlider">Adjust Intensity Exponent: <span id="exponentValue">0.5</span></label>
-        <input type="range" id="exponentSlider" min="0.1" max="1" step="0.1" value="0.5">
-    </div>
-    <div id="heatmapState" class="heatmap-state">Current State: Off</div>
-`;
+    var heatmapControlDiv = L.DomUtil.create('div', 'heatmap-control collapsed');
+    var toggleIcon = `<div class="heatmap-toggle-icon">&#9776;</div>`; // Using a hamburger icon as an example
+    var menuContent = `
+            <div class="heatmap-toggle">
+            <button id="heatmapToggle">Toggle Heatmap</button>
+        </div>
+        <div class="heatmap-exponent">
+            <label for="exponentSlider">Adjust Intensity Exponent: <span id="exponentValue">0.5</span></label>
+            <input type="range" id="exponentSlider" min="0.1" max="1" step="0.1" value="0.5">
+        </div>
+        <div id="heatmapState" class="heatmap-state">Current State: Off</div>
+    `;
+    heatmapControlDiv.innerHTML = toggleIcon + menuContent;
 
     var heatmapToggleControl = L.control({position: 'topright'});
     heatmapToggleControl.onAdd = function(map) {
         L.DomEvent.disableClickPropagation(heatmapControlDiv);
-        L.DomEvent.on(heatmapControlDiv.querySelector('#heatmapToggle'), 'click', function() {
-            toggleHeatmap(false); // Correctly calling toggleHeatmap with false
+        L.DomEvent.on(heatmapControlDiv.querySelector('.heatmap-toggle-icon'), 'click', function() {
+            heatmapControlDiv.classList.toggle('expanded');
         });
         L.DomEvent.on(heatmapControlDiv.querySelector('#exponentSlider'), 'input', function(e) {
             var exponent = e.target.value;

@@ -156,7 +156,7 @@ input:checked + .slider:before {
 }
 /* Style for the button */
 .collapse-item-button {
-    background-color: #28a745; /* Green color */
+    background-color: #007bff; /* Green color */
     border: none;
     color: white;
     padding: 10px 60px; /* Adjust padding for a longer shape */
@@ -171,7 +171,7 @@ input:checked + .slider:before {
 }
 
 .collapse-item-button:hover {
-    background-color: #218838; /* Darker green on hover */
+    background-color: #0056b3; /* Darker green on hover */
     color: white;
 }
 
@@ -223,11 +223,14 @@ input:checked + .slider:before {
     align-items: center; /* Vertically align items in the middle */
 }
 .heatmap-control {
+    position: relative;
     background-color: #fff;
     border-radius: 8px;
     padding: 10px;
     box-shadow: 0 1px 5px rgba(0,0,0,0.2);
-    font-family: Arial, sans-serif;
+    width: 50px; /* Initially small to just show the icon */
+    overflow: hidden;
+    transition: width 0.3s ease-in-out;
 }
 
 .heatmap-control button {
@@ -237,6 +240,23 @@ input:checked + .slider:before {
     padding: 5px 10px;
     border-radius: 5px;
     cursor: pointer;
+}
+.heatmap-control.expanded {
+    width: 250px; /* Expand to show full content */
+}
+
+.heatmap-control .heatmap-toggle-icon {
+    cursor: pointer;
+    font-size: 24px; /* Adjust as needed */
+    /* Position it to be visible in collapsed state */
+}
+
+.heatmap-control .heatmap-menu-content {
+    display: none; /* Initially hidden */
+}
+
+.heatmap-control.expanded .heatmap-menu-content {
+    display: block; /* Show content in expanded state */
 }
 
 .heatmap-control button:hover {
