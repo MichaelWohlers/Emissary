@@ -130,7 +130,7 @@ function toggleHeatmap(refresh = false) {
 
         // Create and add the heatmap layer if we're not in the "off" state (3)
         heatmapLayer = L.heatLayer(heatmapData, {
-            radius: 25,
+            radius: 45,
             blur: 15,
             gradient: customGradient
         }).addTo(map);
