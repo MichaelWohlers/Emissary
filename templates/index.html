@@ -223,15 +223,17 @@ input:checked + .slider:before {
     align-items: center; /* Vertically align items in the middle */
 }
 .heatmap-control {
-    position: relative;
     background-color: #fff;
     border-radius: 8px;
-    padding: 10px;
+    padding: 5px;
     box-shadow: 0 1px 5px rgba(0,0,0,0.2);
-    width: 50px; /* Initially small to just show the icon */
     overflow: hidden;
-    transition: width 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    width: 40px; /* Width to only accommodate the toggle icon */
+    height: 40px; /* Height to only accommodate the toggle icon */
+    cursor: pointer;
 }
+
 
 .heatmap-control button {
     background-color: #007bff;
@@ -242,8 +244,12 @@ input:checked + .slider:before {
     cursor: pointer;
 }
 .heatmap-control.expanded {
-    width: 250px; /* Expand to show full content */
+    width: 250px; /* Adjust as needed */
+    height: auto; /* Adjust to fit content */
+    padding: 10px; /* Add padding when expanded */
+    cursor: default;
 }
+
 
 .heatmap-control .heatmap-toggle-icon {
     cursor: pointer;
@@ -275,6 +281,15 @@ input:checked + .slider:before {
 .heatmap-control #heatmapState {
     margin-top: 10px;
     font-weight: bold;
+}
+.heatmap-toggle-icon {
+    display: block; /* Ensure the icon is always visible */
+    width: 100%;
+    text-align: center; /* Center the hamburger icon */
+    font-size: 24px; /* Icon size, adjust as needed */
+}
+.heatmap-control:not(.expanded) .heatmap-menu-content {
+    display: none;
 }
 
 

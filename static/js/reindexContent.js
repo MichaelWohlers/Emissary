@@ -272,6 +272,13 @@ function initializeMap() {
         L.DomEvent.on(heatmapControlDiv.querySelector('.heatmap-toggle-icon'), 'click', function() {
             heatmapControlDiv.classList.toggle('expanded');
         });
+        L.DomEvent.on(heatmapControlDiv.querySelector('#heatmapToggle'), 'click', function(e) {
+            e.preventDefault(); // Prevent default action, if any
+            toggleHeatmap(); // Directly call toggleHeatmap without parameters
+        });
+        L.DomEvent.on(heatmapControlDiv.querySelector('.heatmap-toggle-icon'), 'click', function() {
+            heatmapControlDiv.classList.toggle('expanded');
+        });
         L.DomEvent.on(heatmapControlDiv.querySelector('#exponentSlider'), 'input', function(e) {
             var exponent = e.target.value;
             document.getElementById('exponentValue').textContent = exponent;
