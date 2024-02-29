@@ -79,7 +79,12 @@ function updateHeatmapExponent(exponent) {
 }
 
 
+
+
+
+
 // Assuming calculateCentroid is correctly defined elsewhere in your code
+
 
 function toggleHeatmap(refresh = false) {
     // If not a refresh, toggle through the heatmap types
@@ -258,7 +263,7 @@ function initializeMap() {
     var heatmapToggleControl = L.control({position: 'topright'});
     heatmapToggleControl.onAdd = function(map) {
         L.DomEvent.disableClickPropagation(heatmapControlDiv);
-        L.DomEvent.on(heatmapControlDiv.querySelector('#heatmapToggle'), 'click', toggleHeatmap(false));
+        L.DomEvent.on(heatmapControlDiv.querySelector('#heatmapToggle'), 'click', toggleHeatmap);
         L.DomEvent.on(heatmapControlDiv.querySelector('#exponentSlider'), 'input', function(e) {
             var exponent = e.target.value;
             document.getElementById('exponentValue').textContent = exponent;
