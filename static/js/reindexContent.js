@@ -4,7 +4,7 @@ var markerLayerGroup;
 var intervalId; // Global scope declaration
 var markersClusterGroup;
 var heatmapLayer;
-var currentHeatmapType = -1; // -1: off, 0: perCapitaIncome, 1: population, 2: prosperity index
+var currentHeatmapType = 3; // 3: off, 0: perCapitaIncome, 1: population, 2: prosperity index
 var countyLayer; // Declare countyLayer globally
 
 function prepareHeatmapData(data, currentHeatmapType) {
@@ -75,10 +75,14 @@ function toggleHeatmap() {
     }
 
     // If currentHeatmapType is -1 (off), reinitialize the heatmap layer without data.
-    if (currentHeatmapType === -1) {
-        // Reload the page as a temporary workaround
-        console.log("Reloading the page...");
-        window.location.reload();
+    if (currentHeatmapType === 3) {
+        // Reinitialize the heatmapLayer with an empty dataset or hide it.
+        heatmapLayer = L.heatLayer([], {
+            radius: 25,
+            blur: 15,
+            // Ensure the gradient is such that it would not display any data.
+            gradient: {0.0: 'rgba(0,0,0,0)'}
+        }).addTo(map);
         return;
     }
 
