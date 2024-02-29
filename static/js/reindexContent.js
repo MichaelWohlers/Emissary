@@ -258,39 +258,7 @@ function initializeMap() {
     setupGeocoder(drawnItems);
     addGearMenuControl(drawnItems);
 
-    // Add custom controls for toggling the heatmap and adjusting the exponent
-    var heatmapControlDiv = L.DomUtil.create('div', 'heatmap-control collapsed');
-    var toggleIcon = `<div class="heatmap-toggle-icon">&#9776;</div>`; // Using a hamburger icon as an example
-    var menuContent = `
-            <div class="heatmap-toggle">
-            <button id="heatmapToggle">Toggle Heatmap</button>
-        </div>
-        <div class="heatmap-exponent">
-            <label for="exponentSlider">Adjust Intensity Exponent: <span id="exponentValue">0.7</span></label>
-            <input type="range" id="exponentSlider" min="0.1" max="1.5" step="0.1" value="0.7">
-        </div>
-        <div id="heatmapState" class="heatmap-state">Current State: Off</div>
-    `;
-    heatmapControlDiv.innerHTML = toggleIcon + menuContent;
 
-    var heatmapToggleControl = L.control({position: 'topright'});
-    heatmapToggleControl.onAdd = function(map) {
-        L.DomEvent.disableClickPropagation(heatmapControlDiv);
-        L.DomEvent.on(heatmapControlDiv.querySelector('#heatmapToggle'), 'click', function(e) {
-            e.preventDefault(); // Prevent default action, if any
-            toggleHeatmap(); // Directly call toggleHeatmap without parameters
-        });
-        L.DomEvent.on(heatmapControlDiv.querySelector('.heatmap-toggle-icon'), 'click', function() {
-            heatmapControlDiv.classList.toggle('expanded');
-        });
-        L.DomEvent.on(heatmapControlDiv.querySelector('#exponentSlider'), 'input', function(e) {
-            var exponent = e.target.value;
-            document.getElementById('exponentValue').textContent = exponent;
-            updateHeatmapExponent(parseFloat(exponent)); // Ensuring updateHeatmapExponent is correctly called
-        });
-        return heatmapControlDiv;
-    };
-    heatmapToggleControl.addTo(map);
 }
 
 function setupGeocoder(drawnItems) {
@@ -410,6 +378,16 @@ function addGearMenuControl(drawnItems) {
             // Menu Container (Initially Hidden)
             var menu = L.DomUtil.create('div', 'gear-menu hidden', container);
             menu.innerHTML = `<div class="bg-white py-2 collapse-inner rounded"><div class="center-container">
+            <h6 class="collapse-header">Prosperity Index Heatmap:</h6>
+            <div class="heatmap-toggle">
+            <button id="heatmapToggle">Toggle Heatmap</button>
+        </div>
+        <div class="heatmap-exponent">
+            <label for="exponentSlider">Adjust Intensity Exponent: <span id="exponentValue">0.7</span></label>
+            <input type="range" id="exponentSlider" min="0.1" max="1.5" step="0.1" value="0.7">
+        </div>
+        <div id="heatmapState" class="heatmap-state">Current State: Off</div>
+            <div style="border-bottom: 1px solid #ccc; margin: 5px 0;"></div>
             <h6 class="collapse-header">Search Filters:</h6>
         </div>
             <form id="queryForm">
@@ -465,7 +443,24 @@ function addGearMenuControl(drawnItems) {
             </form>
             </div>
 `;
-            
+            // Event listeners for the heatmap controls
+            var heatmapToggleBtn = container.querySelector('#heatmapToggle');
+            var exponentSlider = container.querySelector('#exponentSlider');
+
+            if (heatmapToggleBtn) {
+                heatmapToggleBtn.addEventListener('click', function(e) {
+                    e.preventDefault();
+                    toggleHeatmap(); // Call your toggleHeatmap function
+                });
+            }
+
+            if (exponentSlider) {
+                exponentSlider.addEventListener('input', function(e) {
+                    var exponent = e.target.value;
+                    document.getElementById('exponentValue').textContent = exponent;
+                    updateHeatmapExponent(parseFloat(exponent)); // Call your updateHeatmapExponent function
+                });
+            }
 
             return container;
         }
