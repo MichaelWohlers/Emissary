@@ -513,9 +513,9 @@ map.addControl(new L.Control.ToggleView({ position: 'topright' })); // You can c
 
 
 function onEachFeature(feature, layer) {
-        if (feature.properties) {
+    if (feature.properties) {
         var popupContent = '<div style="font-family: Arial, sans-serif; color: #333;">' +
-                           '<h3 style="color: #007bff; margin-bottom: 5px;">' + (feature.properties.names?.common[0]?.value || 'N/A') + '</h2>' +
+                           '<h3 style="color: #007bff; margin-bottom: 5px;">' + (feature.properties.names?.common[0]?.value || 'N/A') + '</h3>' +
                            '<p><strong>Category:</strong> ' + (feature.properties.categories?.main || 'N/A') + '</p>';
 
         if (Array.isArray(feature.properties.socials) && feature.properties.socials.length > 0) {
@@ -543,11 +543,55 @@ function onEachFeature(feature, layer) {
         } else {
             popupContent += '<p><strong>Website:</strong> N/A</p>';
         }
+        // Add a button to the popup content
+        popupContent += '<button onclick="addToAddressBook(' + JSON.stringify(feature.properties).replace(/"/g, '&quot;') + ')">Add to Address Book</button>';
+
 
         popupContent += '</div>';
         layer.bindPopup(popupContent);
     }
 
+    function onEachFeature(feature, layer) {
+        if (feature.properties) {
+            var popupContent = '<div style="font-family: Arial, sans-serif; color: #333;">' +
+                               '<h3 style="color: #007bff; margin-bottom: 5px;">' + (feature.properties.names?.common[0]?.value || 'N/A') + '</h3>' +
+                               '<p><strong>Category:</strong> ' + (feature.properties.categories?.main || 'N/A') + '</p>';
+    
+            // Add more content as before
+    
+            // Add a button to the popup content
+            popupContent += '<button onclick="addToAddressBook(' + JSON.stringify(feature.properties).replace(/"/g, '&quot;') + ')">Add to Address Book</button>';
+    
+            layer.bindPopup(popupContent);
+        }
+    }
+    
+    // Function to be called when the "Add to Address Book" button is clicked
+    function addToAddressBook(properties) {
+        // Prepare the data to be sent
+        var data = { properties: properties };
+        
+        // Send the data to the server using fetch API
+        fetch('/save-to-contacts', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+            },
+            body: JSON.stringify(data),
+        })
+        .then(response => response.json())
+        .then(data => {
+            console.log('Success:', data);
+            // Handle success response
+            alert('Contact added to address book successfully!');
+        })
+        .catch((error) => {
+            console.error('Error:', error);
+            // Handle errors here
+            alert('Failed to add contact to address book.');
+        });
+    }
+    
 }  
 
 
@@ -569,8 +613,8 @@ function displayDataOnTable(data) {
             '<input type="checkbox" name="id[]" value="' + feature.properties.id + '">',
             feature.properties.names.common[0].value,
             feature.properties.categories.main,
-            feature.properties.websites ? `<a href="${feature.properties.websites[0]}">${feature.properties.websites[0]}</a>` : 'N/A',
-            feature.properties.socials ? feature.properties.socials.map(social => `<a href="${social}">${new URL(social).hostname}</a>`).join(', ') : 'N/A',
+            feature.properties.websites ? `<a target="_blank" href="${feature.properties.websites[0]}">${feature.properties.websites[0]}</a>` : 'N/A',
+            feature.properties.socials ? feature.properties.socials.map(social => `<a target="_blank" href="${social}">${new URL(social).hostname}</a>`).join(', ') : 'N/A',
             feature.properties.phones ? feature.properties.phones[0] : 'N/A',
             address || 'N/A'
         ]);
@@ -578,6 +622,7 @@ function displayDataOnTable(data) {
 
     table.draw(); // Redraw the DataTable
 }
+
 
 // Utility Functions
 
