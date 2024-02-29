@@ -6,6 +6,7 @@ var markersClusterGroup;
 var heatmapLayer;
 var currentHeatmapType = 3; // 3: off, 0: perCapitaIncome, 1: population, 2: prosperity index
 var countyLayer; // Declare countyLayer globally
+var currentExponent = 0.5; // Default exponent value
 
 function prepareHeatmapData(data, currentHeatmapType) {
     var heatmapData = [];
@@ -46,14 +47,11 @@ function determineIntensity(feature, currentHeatmapType) {
         return null; // Heatmap is turned off
     }
 
-    // Extracting properties
     var population = parseInt(feature.properties.population, 10) || 0;
     var perCapitaIncome = parseFloat(feature.properties.perCapitaIncome) || 0;
-    var area = parseFloat(feature.properties.area) || 1; // Prevent division by zero by defaulting to 1
+    var area = parseFloat(feature.properties.area) || 1;
 
-    // Initialize rawIntensity variable
     var rawIntensity = 0;
-
     switch (currentHeatmapType) {
         case 0: // perCapitaIncome
             rawIntensity = perCapitaIncome;
@@ -62,20 +60,23 @@ function determineIntensity(feature, currentHeatmapType) {
             rawIntensity = population;
             break;
         case 2: // prosperity index
-            if (population && perCapitaIncome && area > 0) { // Ensure area is positive to prevent division by zero
-                rawIntensity = (population * perCapitaIncome) / area;
-            }
+            rawIntensity = population && perCapitaIncome && area > 0 ? (population * perCapitaIncome) / area : 0;
             break;
-        default:
-            return null; // Return null for unsupported heatmap types
     }
 
-    // Apply a logarithmic transformation if the raw intensity is positive
-    // Adding a small constant (e.g., 1) to the rawIntensity to ensure it's positive for the logarithm function
-    // The constant helps avoid -Infinity for zero values and errors for negative values
-    return rawIntensity > 0 ? Math.log(rawIntensity + 1) : 0;
+    return rawIntensity > 0 ? Math.pow(rawIntensity, currentExponent) : 0;
 }
 
+
+
+function updateHeatmapExponent(exponent) {
+    currentExponent = parseFloat(exponent); // Update the global exponent
+    console.log('Updated exponent:', currentExponent);
+    // Refresh the heatmap with the new exponent
+    if (currentHeatmapType !== 3) { // Check if the heatmap is not turned off
+        toggleHeatmap(true); // Call toggleHeatmap with a flag to indicate a refresh, not a toggle
+    }
+}
 
 
 
@@ -84,56 +85,64 @@ function determineIntensity(feature, currentHeatmapType) {
 
 // Assuming calculateCentroid is correctly defined elsewhere in your code
 
-function toggleHeatmap() {
-    // Increment currentHeatmapType to cycle through the states.
-    currentHeatmapType = (currentHeatmapType + 1) % 4; // Cycle through -1 to 2
-    console.log("toggleHeatmap called. Current state:", currentHeatmapType);
+var currentExponent = 0.5; // Global variable to store the current exponent
 
-    // Remove existing heatmap layer if it exists.
-    if (heatmapLayer) {
-        map.removeLayer(heatmapLayer);
-        heatmapLayer = null; // Ensure the reference is cleared.
+function toggleHeatmap(refresh = false) {
+    // If not a refresh, toggle through the heatmap types
+    if (!refresh) {
+        currentHeatmapType = (currentHeatmapType + 1) % 4;
+        console.log("toggleHeatmap called. Current state:", currentHeatmapType);
     }
 
-    // If currentHeatmapType is 3 (off), reinitialize the heatmap layer without data.
+    // Remove existing heatmap layer if it exists
+    if (heatmapLayer) {
+        map.removeLayer(heatmapLayer);
+        heatmapLayer = null; // Ensure the reference is cleared
+    }
+
+    // If currentHeatmapType is 3 (off), reinitialize the heatmap layer without data
     if (currentHeatmapType === 3) {
-        // Reinitialize the heatmapLayer with an empty dataset or hide it.
+        // Reinitialize the heatmapLayer with an empty dataset or hide it
         heatmapLayer = L.heatLayer([], {
             radius: 25,
             blur: 15,
-            // Ensure the gradient is such that it would not display any data.
-            gradient: {0.0: 'rgba(0,0,0,0)'}
+            gradient: {0.0: 'rgba(0,0,0,0)'} // Ensuring no data is displayed
         }).addTo(map);
+        document.getElementById('heatmapState').textContent = "Current State: Off"; // Update state description
         return;
     }
 
-    // Proceed to load and display the heatmap for the currentHeatmapType if not -1.
+    // Proceed to load and display the heatmap for the currentHeatmapType if not -1
     fetch('/county-data')
-        .then(response => response.json())
-        .then(data => {
-            var heatmapData = prepareHeatmapData(data, currentHeatmapType);
+    .then(response => response.json())
+    .then(data => {
+        var heatmapData = prepareHeatmapData(data, currentHeatmapType);
 
-            // Define custom gradient here as before.
-            var customGradient = {
-                0.0: '#0000FF', // Blue for the lowest values
-                0.1: '#0099FF', // Light blue for slightly higher values
-                0.2: '#00FF00', // Green for low-medium values
-                0.3: '#FFFF00', // Yellow for medium values
-                0.4: '#FFA500', // Orange for medium-high values
-                0.5: '#FF0000', // Red for high values
-                0.6: '#990000', // Dark red for higher values
-                1.0: '#660000'  // Very dark red for the highest values
-            };
+        var customGradient = {
+            0.0: '#0000FF', // Blue for the lowest values
+            0.1: '#0099FF', // Light blue for slightly higher values
+            0.2: '#00FF00', // Green for low-medium values
+            0.3: '#FFFF00', // Yellow for medium values
+            0.4: '#FFA500', // Orange for medium-high values
+            0.5: '#FF0000', // Red for high values
+            0.6: '#990000', // Dark red for higher values
+            1.0: '#660000'  // Very dark red for the highest values
+        };
 
-            // Create and add the heatmap layer if we're not in the "off" state (-1).
-            heatmapLayer = L.heatLayer(heatmapData, {
-                radius: 25,
-                blur: 15,
-                gradient: customGradient
-            }).addTo(map);
-        })
-        .catch(error => console.error('Error loading county data for heatmap:', error));
+        // Create and add the heatmap layer if we're not in the "off" state (3)
+        heatmapLayer = L.heatLayer(heatmapData, {
+            radius: 25,
+            blur: 15,
+            gradient: customGradient
+        }).addTo(map);
+
+        // Update the state description based on currentHeatmapType
+        var stateDescriptions = ["Per Capita Income", "Population", "Prosperity Index", "Off"];
+        document.getElementById('heatmapState').textContent = "Current State: " + stateDescriptions[currentHeatmapType];
+    })
+    .catch(error => console.error('Error loading county data for heatmap:', error));
 }
+
 
 
 
@@ -232,7 +241,7 @@ function initializeMap() {
 
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
         maxZoom: 19,
-        attribution: '© OpenStreetMap / OveratureMaps'
+        attribution: '© OpenStreetMap contributors'
     }).addTo(map);
     markersClusterGroup = L.markerClusterGroup().addTo(map);
 
@@ -242,20 +251,30 @@ function initializeMap() {
     setupDrawControl(drawnItems);
     setupGeocoder(drawnItems);
     addGearMenuControl(drawnItems);
-    // Add a custom control for toggling the heatmap
+
+    // Add custom controls for toggling the heatmap and adjusting the exponent
+    var heatmapControlDiv = L.DomUtil.create('div', 'heatmap-control');
+    heatmapControlDiv.innerHTML = `
+        <button id="heatmapToggle">Toggle Heatmap</button>
+        <label for="exponentSlider">Adjust Intensity Exponent: <span id="exponentValue">0.5</span></label>
+        <input type="range" id="exponentSlider" min="0.1" max="1" step="0.1" value="0.5">
+        <div id="heatmapState">Current State: Off</div>
+    `;
+
     var heatmapToggleControl = L.control({position: 'topright'});
-    heatmapToggleControl.onAdd = function (map) {
-        var div = L.DomUtil.create('div', 'control-custom');
-        div.innerHTML = '<button id="heatmapToggle">Toggle Heatmap</button>';
-        L.DomEvent.on(div, 'click', function (e) {
-            L.DomEvent.stopPropagation(e);
-            toggleHeatmap(); // Function to toggle heatmap views
+    heatmapToggleControl.onAdd = function(map) {
+        L.DomEvent.disableClickPropagation(heatmapControlDiv);
+        L.DomEvent.on(heatmapControlDiv.querySelector('#heatmapToggle'), 'click', toggleHeatmap);
+        L.DomEvent.on(heatmapControlDiv.querySelector('#exponentSlider'), 'input', function(e) {
+            var exponent = e.target.value;
+            document.getElementById('exponentValue').textContent = exponent;
+            // Update heatmap based on the new exponent value
+            updateHeatmapExponent(exponent);
         });
-        return div;
+        return heatmapControlDiv;
     };
     heatmapToggleControl.addTo(map);
 }
-
 
 function setupGeocoder(drawnItems) {
     var geocoder = L.Control.geocoder({
