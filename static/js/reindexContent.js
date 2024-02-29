@@ -6,8 +6,47 @@ var markersClusterGroup;
 var heatmapLayer;
 var currentHeatmapType = 0; // 0: perCapitaIncome, 1: population, 2: prosperity index
 
+function prepareHeatmapData(data, currentHeatmapType) {
+    var heatmapData = [];
+    data.features.forEach(function(feature) {
+        if (feature.geometry && feature.geometry.type === "MultiPolygon") {
+            // Calculate centroid for MultiPolygon as before
+            var centroid = calculateCentroid(feature.geometry.coordinates);
+            var lat = centroid[1];
+            var lng = centroid[0];
+            var intensity;
+
+            // Determine intensity based on heatmap type and handle missing data
+            switch(currentHeatmapType) {
+                case 0: // perCapitaIncome
+                    intensity = feature.properties.perCapitaIncome ? parseFloat(feature.properties.perCapitaIncome) : 0;
+                    break;
+                case 1: // population
+                    intensity = feature.properties.population ? parseInt(feature.properties.population, 10) : 0;
+                    break;
+                case 2: // prosperity index (example)
+                    if (feature.properties.population && feature.properties.perCapitaIncome && feature.properties.area) {
+                        intensity = (parseInt(feature.properties.population, 10) * parseFloat(feature.properties.perCapitaIncome)) / parseFloat(feature.properties.area);
+                    } else {
+                        intensity = 0; // Missing data
+                    }
+                    break;
+            }
+
+            if (intensity === 0) { // Handle missing data
+                // Optional: Assign a specific intensity value for missing data if you want it visualized differently
+            }
+
+            heatmapData.push([lat, lng, intensity]);
+        }
+    });
+    return heatmapData;
+}
+
+
+// Assuming calculateCentroid is correctly defined elsewhere in your code
+
 function toggleHeatmap() {
-    // Remove existing heatmap layer if it exists
     if (heatmapLayer) {
         map.removeLayer(heatmapLayer);
     }
@@ -15,40 +54,27 @@ function toggleHeatmap() {
     fetch('/county-data')
     .then(response => response.json())
     .then(data => {
-        var heatmapData = [];
-        data.features.forEach(function(feature) {
-            var lat = feature.geometry.coordinates[1]; // Adjusted for typical GeoJSON [lng, lat] order
-            var lng = feature.geometry.coordinates[0]; // Adjusted for typical GeoJSON [lng, lat] order
-            var intensity = 0; // Default intensity
+        var heatmapData = prepareHeatmapData(data, currentHeatmapType); // Use the prepared data
 
-            switch(currentHeatmapType) {
-                case 0:
-                    intensity = feature.properties.perCapitaIncome;
-                    break;
-                case 1:
-                    intensity = feature.properties.population;
-                    break;
-                case 2:
-                    // Example calculation for prosperity index
-                    intensity = (feature.properties.population * feature.properties.perCapitaIncome) / feature.properties.area;
-                    break;
-            }
+        var customGradient = {
+            0.0: '#ccc',
+            0.2: 'blue',
+            0.4: 'lime',
+            0.6: 'yellow',
+            1.0: 'red'
+        };
 
-            heatmapData.push([lat, lng, intensity]); // Use an array of [lat, lng, intensity] for leaflet-heat
-        });
-
-        // Use L.heatLayer for leaflet-heat
         heatmapLayer = L.heatLayer(heatmapData, {
             radius: 25,
             blur: 15,
-            gradient: {0.4: 'blue', 0.65: 'lime', 1: 'red'} // Example gradient
+            gradient: customGradient
         }).addTo(map);
 
-        // Prepare for the next toggle
         currentHeatmapType = (currentHeatmapType + 1) % 3;
     })
     .catch(error => console.error('Error loading county data for heatmap:', error));
 }
+
 
 
 //var newGeoJsonLayer; // Add this line
@@ -581,43 +607,50 @@ function fetchAndDisplayCountyData() {
     fetch('/county-data')
         .then(response => response.json())
         .then(data => {
-            // Use a separate variable for the county layer
             var countyLayer = L.geoJSON(data, {
                 style: function(feature) {
+                    // Check for missing data. You might need to adjust this check based on what constitutes 'missing' data in your dataset.
+                    var hasMissingData = !feature.properties.population || !feature.properties.perCapitaIncome || !feature.properties.area;
+
                     return {
-                        weight: 0, // No outline
-                        fillOpacity: 0 // Fully transparent initially
+                        weight: 0.5,
+                        color: '#666', // Outline color
+                        fillColor: hasMissingData ? '#ccc' : '#3388ff', // Use grey for missing data, blue otherwise
+                        fillOpacity: 0.7
                     };
                 },
                 onEachFeature: setupCountyInteraction
-            }).addTo(map); // Add the county layer directly to the map
+            }).addTo(map);
         })
         .catch(error => console.error('Error fetching county data:', error));
 }
 
+
 function setupCountyInteraction(feature, layer) {
+    var missingDataMessage = "Data not available";
     var popupContent = "<div>Name: " + feature.properties.name + "</div>" +
-                       "<div>Population: " + feature.properties.population + "</div>" +
-                       "<div>Area: " + feature.properties.area + "</div>" +
-                       "<div>Per Capita Income: " + feature.properties.perCapitaIncome + "</div>";
+                       "<div>Population: " + (feature.properties.population || missingDataMessage) + "</div>" +
+                       "<div>Area: " + (feature.properties.area || missingDataMessage) + "</div>" +
+                       "<div>Per Capita Income: " + (feature.properties.perCapitaIncome || missingDataMessage) + "</div>";
+    
     layer.bindPopup(popupContent);
 
     layer.on({
         mouseover: function(e) {
             var layer = e.target;
+            var hasMissingData = !e.target.feature.properties.population || !e.target.feature.properties.perCapitaIncome || !e.target.feature.properties.area;
             layer.setStyle({
-                weight: 0, // Ensure no outline
-                fillColor: '#3388ff', // Fill color for mouseover
-                fillOpacity: 0.2 // Soft transparent fill
+                weight: 2,
+                fillColor: hasMissingData ? '#ccc' : '#3388ff', // Adjust color on mouseover based on data availability
+                fillOpacity: 0.5
             });
         },
         mouseout: function(e) {
-            e.target.setStyle({
-                fillOpacity: 0 // Fully transparent again
-            });
+            countyLayer.resetStyle(e.target); // Reset to original style on mouseout
         }
     });
 }
+
 
 
 
