@@ -71,12 +71,7 @@ function toggleHeatmap() {
     // If currentHeatmapType is -1 (off), reinitialize the heatmap layer without data.
     if (currentHeatmapType === -1) {
         // Reinitialize the heatmapLayer with an empty dataset or hide it.
-        heatmapLayer = L.heatLayer([], {
-            radius: 25,
-            blur: 15,
-            // Ensure the gradient is such that it would not display any data.
-            gradient: {0.0: 'rgba(0,0,0,0)'}
-        }).addTo(map);
+        initializeMap();
         return;
     }
 
