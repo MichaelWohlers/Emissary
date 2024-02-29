@@ -166,26 +166,33 @@ function startIntroTour() {
                 position: 'right'
             },
             {
-                // Step 3: Search Field
+                // Step 2: Search Field
                 element: document.querySelector('.leaflet-control-geocoder-icon'),
                 intro: "[Optional]Use this search field to find specific locations on the map instead of drawing the search area.",
                 position: 'bottom'
             },
             {
-                // Step 2: Gear Icon for opening the filter menu
+                // Step 4: Heatmap menu
+                element: document.querySelector('.heatmap-toggle-icon'),
+                intro: "Cycle through varioius heatmaps to see where your marketing efforts will be most effective. Set heatmap type to 'Prosperity Index' how wealthy an erea is compared to the rest of the country. You can click on any county on the map to see more details.",
+                position: 'bottom'
+            },
+            {
+                // Step 3: Gear Icon for opening the filter menu
                 element: document.querySelector('.gear-icon'),
                 intro: "After defining a search area, click the gear icon to setup the search filters.",
                 position: 'top'
             },
+           
             
             {
-                // Step 4: results switch
+                // Step 5: results switch
                 element: document.querySelector('.slider'),
                 intro: "View results on the map or in a searchable table. You can save results by selecting them in the table and clicking the add to contacts button.",
                 position: 'bottom'
             },
             {
-                // Step 5: Tools menu
+                // Step 6: Tools menu
                 element: document.getElementById('toolsDropdown'),
                 intro: "View saved contacts in address book, or use the other tools as they are added here.",
                 position: 'bottom'
