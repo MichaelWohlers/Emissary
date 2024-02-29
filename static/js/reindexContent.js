@@ -39,24 +39,30 @@ function prepareHeatmapData(data, currentHeatmapType) {
 }
 
 function determineIntensity(feature, currentHeatmapType) {
-    // If the heatmap is meant to be off, ensure no intensity values are returned.
-    if (currentHeatmapType === -1) {
-        return null; // Or use a specific value that you're sure won't be rendered.
+    if (currentHeatmapType === 3) {
+        return null;
     }
+    var population = parseInt(feature.properties.population, 10);
+    var perCapitaIncome = parseFloat(feature.properties.perCapitaIncome);
+    var area = parseFloat(feature.properties.area);
 
     switch (currentHeatmapType) {
         case 0: // perCapitaIncome
-            return feature.properties.perCapitaIncome ? parseFloat(feature.properties.perCapitaIncome) : null;
+            return perCapitaIncome || null;
         case 1: // population
-            return feature.properties.population ? parseInt(feature.properties.population, 10) : null;
+            return population || null;
         case 2: // prosperity index
-            if (feature.properties.population && feature.properties.perCapitaIncome && feature.properties.area) {
-                return (parseInt(feature.properties.population, 10) * parseFloat(feature.properties.perCapitaIncome)) / parseFloat(feature.properties.area);
+            // Ensuring we have all the needed data to calculate the prosperity index
+            if (population && perCapitaIncome && area) {
+                // Calculate prosperity index as (population * perCapitaIncome) / area
+                return (population * perCapitaIncome) / area;
             }
-            return null; // Missing data or heatmap off
+            return null;
+        default:
+            return null;
     }
-    return null; // Ensure that unhandled cases don't produce intensity values.
 }
+
 
 
 
@@ -94,11 +100,11 @@ function toggleHeatmap() {
 
             // Define custom gradient here as before.
             var customGradient = {
-                0.0: 'rgba(0,0,0,0)', // Fully transparent for the base state.
-                0.2: 'blue',
-                0.4: 'lime',
-                0.6: 'yellow',
-                1.0: 'red'
+                0.0: 'rgba(0,0,0,0)', // Fully transparent for the base state
+                0.2: 'blue', // Cooler colors for lower values
+                0.4: 'lime', // Intermediate values
+                0.6: 'yellow', // Warmer colors for higher values
+                1.0: 'red' // Hot colors for the highest values
             };
 
             // Create and add the heatmap layer if we're not in the "off" state (-1).
