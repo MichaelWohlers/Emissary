@@ -69,25 +69,28 @@ function toggleHeatmap() {
     }
 
     // If currentHeatmapType is -1 after incrementing, the heatmap should be turned off.
+    // This means not adding a heatmap layer at all.
     if (currentHeatmapType === -1) {
-        // The heatmap is already removed, so we can simply return here.
+        // Heatmap is considered off, so just return without doing anything further.
         return;
     }
 
-    // Proceed to load and display the heatmap for the currentHeatmapType
+    // Proceed to load and display the heatmap for the currentHeatmapType only if it's not -1
     fetch('/county-data')
         .then(response => response.json())
         .then(data => {
             var heatmapData = prepareHeatmapData(data, currentHeatmapType);
 
+            // Define custom gradient here as before, this part remains unchanged
             var customGradient = {
-                0.0: '#ccc',
+                0.0: '#ccc', // Consider making this fully transparent if it's still showing
                 0.2: 'blue',
                 0.4: 'lime',
                 0.6: 'yellow',
                 1.0: 'red'
             };
 
+            // Only create and add the heatmap layer if we're not in the "off" state (-1)
             heatmapLayer = L.heatLayer(heatmapData, {
                 radius: 25,
                 blur: 15,
@@ -96,6 +99,7 @@ function toggleHeatmap() {
         })
         .catch(error => console.error('Error loading county data for heatmap:', error));
 }
+
 
 
 
