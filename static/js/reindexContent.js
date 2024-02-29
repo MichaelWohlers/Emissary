@@ -630,16 +630,17 @@ function fetchAndDisplayCountyData() {
     fetch('/county-data')
         .then(response => response.json())
         .then(data => {
-            countyLayer = L.geoJSON(data, { // Initialize the global variable
-                                style: function(feature) {
-                    // Check for missing data. You might need to adjust this check based on what constitutes 'missing' data in your dataset.
+            countyLayer = L.geoJSON(data, {
+                style: function(feature) {
+                    // Check for missing data as before
                     var hasMissingData = !feature.properties.population || !feature.properties.perCapitaIncome || !feature.properties.area;
 
+                    // Initial style makes counties blend in or be invisible
                     return {
                         weight: 0.5,
-                        color: '#666', // Outline color
+                        color: '#666', // Outline color remains for missing data indication
                         fillColor: hasMissingData ? '#ccc' : '#3388ff', // Use grey for missing data, blue otherwise
-                        fillOpacity: 0.7
+                        fillOpacity: 0 // Change here: counties are not highlighted by default
                     };
                 },
                 onEachFeature: setupCountyInteraction
@@ -647,6 +648,7 @@ function fetchAndDisplayCountyData() {
         })
         .catch(error => console.error('Error fetching county data:', error));
 }
+
 
 
 function setupCountyInteraction(feature, layer) {
@@ -661,18 +663,20 @@ function setupCountyInteraction(feature, layer) {
     layer.on({
         mouseover: function(e) {
             var layer = e.target;
-            var hasMissingData = !e.target.feature.properties.population || !e.target.feature.properties.perCapitaIncome || !e.target.feature.properties.area;
             layer.setStyle({
                 weight: 2,
-                fillColor: hasMissingData ? '#ccc' : '#3388ff', // Adjust color on mouseover based on data availability
-                fillOpacity: 0.5
+                color: '#666', // Keep the outline color on mouseover
+                fillColor: '#3388ff', // Highlight color on mouseover
+                fillOpacity: 0.7 // Highlight on mouseover
             });
         },
         mouseout: function(e) {
-            countyLayer.resetStyle(e.target); // Reset to original style on mouseout
+            // Reset to the initial style on mouseout; it automatically considers the missing data styling
+            countyLayer.resetStyle(e.target);
         }
     });
 }
+
 
 
 
