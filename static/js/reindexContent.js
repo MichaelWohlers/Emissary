@@ -242,7 +242,7 @@ function filterKeywords() {
 
 // Initialization Functions
 function initializeMap() {
-    map = L.map('map').setView([38.497, -90.394], 10);
+    map = L.map('map').setView([38.497, -90.394], 6);
     markerLayerGroup = L.layerGroup().addTo(map);
 
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
