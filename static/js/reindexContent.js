@@ -377,71 +377,43 @@ function addGearMenuControl(drawnItems) {
 
             // Menu Container (Initially Hidden)
             var menu = L.DomUtil.create('div', 'gear-menu hidden', container);
-            menu.innerHTML = `<div class="bg-white py-2 collapse-inner rounded"><div class="center-container">
-            <h6 class="collapse-header">Prosperity Index Heatmap:</h6>
-            <div class="heatmap-toggle">
-            <button id="heatmapToggle">Toggle Heatmap</button>
-        </div>
-        <div class="heatmap-exponent">
-            <label for="exponentSlider">Adjust Intensity Exponent: <span id="exponentValue">0.7</span></label>
-            <input type="range" id="exponentSlider" min="0.1" max="1.5" step="0.1" value="0.7">
-        </div>
-        <div id="heatmapState" class="heatmap-state">Current State: Off</div>
-            <div style="border-bottom: 1px solid #ccc; margin: 5px 0;"></div>
-            <h6 class="collapse-header">Search Filters:</h6>
-        </div>
-            <form id="queryForm">
-                <div class="dropdown">
-                    <div class="center-container">
-                        <button class="collapse-item btn btn-secondary dropdown-toggle" style="padding: 7px 30px;" id="categoryDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                            Select Categories
-                        </button>
-                        <div id="categoryList" class="dropdown-menu" aria-labelledby="categoryDropdown" style="max-height: 300px; overflow-y: auto; max-width: 350px; overflow-x: auto;">
-                            <!-- Search Bar for Categories -->
-                            <div class="form-group">
-                                <input type="text" class="form-control-sm" id="searchInput" placeholder="Search Categories">
-                            </div>
-                            <!-- Container for dynamically populated keywords -->
-                            <div id="categoryItems">
-                                <!-- Keywords will be populated dynamically with checkboxes here -->
-                            </div>
-                        </div>
-                    </div>    
+            menu.innerHTML = `<div class="gear-menu-container">
+            <div class="gear-menu-section">
+                <h6 class="gear-menu-header">Prosperity Index Heatmap</h6>
+                <button id="heatmapToggle" class="btn btn-primary">Toggle Heatmap</button>
+                <div class="slider-container">
+                    <label for="exponentSlider">Adjust Intensity Exponent: <span id="exponentValue">0.7</span></label>
+                    <input type="range" id="exponentSlider" min="0.1" max="1.5" step="0.1" value="0.7">
                 </div>
-            
-                <div class="dropdown mt-3  ">
-                    <div class="center-container mb-3">
-                        <button class="collapse-item btn btn-secondary dropdown-toggle"style="padding: 7px 30px;" type="button" id="keywordDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                            Select Keywords
-                        </button>
-                        <div id="keywordList" class="dropdown-menu" aria-labelledby="keywordDropdown" style="max-height: 300px; overflow-y: auto; max-width: 350px; overflow-x: auto;">
-                            <!-- Search Bar for Keywords -->
-                            <div class="form-group">
-                                <input type="text" class="form-control-sm" id="searchKeyword" placeholder="Search Keyword">
-                            </div>
-                            <!-- Container for dynamically populated keywords -->
-                            <div id="keywordItems">
-                                <!-- Keywords will be populated dynamically with checkboxes here -->
-                            </div>
-                        </div> 
-                    </div>
-                    <div style="border-bottom: 1px solid #ccc; margin: 5px 0;"></div>
-                    <div class="center-container">
-
-                        <h6 class="collapse-header">Do not Include:</h6>
-
-                        <div class="form-group mb-2">
-                            <input type="text" class="collapse-item form-control-sm" id="exclusionWords" placeholder="JCPenny,Walmart,etc.">
+                <div id="heatmapState">Current State: Off</div>
+            </div>
+            <hr class="gear-menu-divider">
+            <div class="gear-menu-section">
+                <h6 class="gear-menu-header">Search Filters</h6>
+                <div class="dropdown">
+                    <button class="btn btn-secondary dropdown-toggle" id="categoryDropdown" data-toggle="dropdown">Select Categories</button>
+                    <div id="categoryList" class="dropdown-menu">
+                        <input type="text" class="form-control-sm" id="searchInput" placeholder="Search Categories">
+                        <div id="categoryItems">
+                            <!-- Dynamically populated categories -->
                         </div>
                     </div>
-                    <div style="border-bottom: 1px solid #ccc; margin: 5px 0;"></div>
-                    <div class="center-container">
-                        <button type="submit" id='fetchDataButton' class="collapse-item-button btn btn-primary-sm"data-toggle="collapse" data-target="#formCollapse">Fetch Places</button>
-                        <span>Average Request Time = 3 min.</span>
+                </div>
+                <div class="dropdown">
+                    <button class="btn btn-secondary dropdown-toggle" id="keywordDropdown" data-toggle="dropdown">Select Keywords</button>
+                    <div id="keywordList" class="dropdown-menu">
+                        <input type="text" class="form-control-sm" id="searchKeyword" placeholder="Search Keyword">
+                        <div id="keywordItems">
+                            <!-- Dynamically populated keywords -->
+                        </div>
                     </div>
-                    
-            </form>
+                </div>
+                <input type="text" class="form-control-sm" id="exclusionWords" placeholder="Exclude: JCPenny, Walmart, etc.">
             </div>
+            <button type="submit" id="fetchDataButton" class="btn btn-primary">Fetch Places</button>
+            <span>Average Request Time = 3 min.</span>
+        </div>
+        
 `;
             // Event listeners for the heatmap controls
             var heatmapToggleBtn = container.querySelector('#heatmapToggle');

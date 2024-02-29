@@ -183,113 +183,54 @@ input:checked + .slider:before {
 }
 
 
-.gear-icon {
-    background: none;
-    border:none;
-    cursor: pointer;
-    font-size: 35px; /* Larger icon */
-    padding: 10px; /* Spacing around the icon */
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 34px; /* Fixed height for the button */
-    width: 34px; /* Fixed width for the button */
-    text-align: center;
-    transform: translateY(0px); /* Corrected transform property */
-}
-.gear-icon.active {
-    margin-right: -35px; /* Margin applied when the button is active */
-    z-index: 1060;
-    transform: translateX(182px) translateY(-135px); /* Corrected transform property */
-
-}
-
-
-
-.gear-menu {
-    display: none; /* Initially hidden */
-
-    /* Additional styles for the menu */
-}
-
-.gear-menu:not(.hidden) {
-    display: block; /* Show when not hidden */
-    border: 1px solid rgba(106, 104, 104, 0.673);
-    border-radius: 5px;
-    
-}
-.flex-container {
-    display: flex;
-    align-items: center; /* Vertically align items in the middle */
-}
-.heatmap-control {
+.gear-menu-container {
     background-color: #fff;
-    border-radius: 8px;
-    padding: 5px;
-    box-shadow: 0 1px 5px rgba(0,0,0,0.2);
-    overflow: hidden;
-    transition: all 0.3s ease-in-out;
-    width: 40px; /* Width to only accommodate the toggle icon */
-    height: 40px; /* Height to only accommodate the toggle icon */
-    cursor: pointer;
-}
-
-
-.heatmap-control button {
-    background-color: #007bff;
-    color: #ffffff;
-    border: none;
-    padding: 5px 10px;
+    padding: 20px;
     border-radius: 5px;
-    cursor: pointer;
-}
-.heatmap-control.expanded {
-    width: 250px; /* Adjust as needed */
-    height: auto; /* Adjust to fit content */
-    padding: 10px; /* Add padding when expanded */
-    cursor: default;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
 
-
-.heatmap-control .heatmap-toggle-icon {
-    cursor: pointer;
-    font-size: 24px; /* Adjust as needed */
-    /* Position it to be visible in collapsed state */
+.gear-menu-header {
+    margin-bottom: 10px;
+    font-weight: bold;
+    color: #333;
 }
 
-.heatmap-control .heatmap-menu-content {
-    display: none; /* Initially hidden */
+.btn-primary {
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
 }
 
-.heatmap-control.expanded .heatmap-menu-content {
-    display: block; /* Show content in expanded state */
+.btn-secondary {
+    color: #fff;
+    background-color: #6c757d;
+    border-color: #6c757d;
 }
 
-.heatmap-control button:hover {
-    background-color: #0056b3;
+.slider-container {
+    margin: 10px 0;
 }
 
-.heatmap-control label {
-    display: block;
-    margin: 10px 0 5px 0;
+.dropdown-menu {
+    max-height: 300px;
+    overflow-y: auto;
+    overflow-x: hidden;
 }
 
-.heatmap-control input[type="range"] {
+.form-control-sm {
+    margin: 10px 0;
     width: 100%;
 }
 
-.heatmap-control #heatmapState {
+.gear-menu-divider {
+    margin: 20px 0;
+    border-top: 1px solid #ccc;
+}
+
+#heatmapState {
     margin-top: 10px;
     font-weight: bold;
-}
-.heatmap-toggle-icon {
-    display: block; /* Ensure the icon is always visible */
-    width: 100%;
-    text-align: center; /* Center the hamburger icon */
-    font-size: 24px; /* Icon size, adjust as needed */
-}
-.heatmap-control:not(.expanded) .heatmap-menu-content {
-    display: none;
 }
 
 
