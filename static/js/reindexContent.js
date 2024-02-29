@@ -266,8 +266,8 @@ function initializeMap() {
             <button id="heatmapToggle">Toggle Heatmap</button>
         </div>
         <div class="heatmap-exponent">
-            <label for="exponentSlider">Adjust Intensity Exponent: <span id="exponentValue">0.5</span></label>
-            <input type="range" id="exponentSlider" min="0.1" max="1" step="0.1" value="0.5">
+            <label for="exponentSlider">Adjust Intensity Exponent: <span id="exponentValue">0.7</span></label>
+            <input type="range" id="exponentSlider" min="0.1" max="1.5" step="0.1" value="0.7">
         </div>
         <div id="heatmapState" class="heatmap-state">Current State: Off</div>
     `;
