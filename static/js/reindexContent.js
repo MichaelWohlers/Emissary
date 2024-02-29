@@ -12,16 +12,14 @@ function toggleHeatmap() {
         map.removeLayer(heatmapLayer);
     }
 
-    // Load county data and process based on the current heatmap type
     fetch('/county-data')
     .then(response => response.json())
     .then(data => {
         var heatmapData = [];
         data.features.forEach(function(feature) {
-            // Assuming your county data has latitude and longitude properties
-            var lat = feature.geometry.coordinates[0];
-            var lng = feature.geometry.coordinates[1];
-            var intensity;
+            var lat = feature.geometry.coordinates[1]; // Adjusted for typical GeoJSON [lng, lat] order
+            var lng = feature.geometry.coordinates[0]; // Adjusted for typical GeoJSON [lng, lat] order
+            var intensity = 0; // Default intensity
 
             switch(currentHeatmapType) {
                 case 0:
@@ -31,17 +29,20 @@ function toggleHeatmap() {
                     intensity = feature.properties.population;
                     break;
                 case 2:
-                    // Calculate prosperity index (example calculation)
+                    // Example calculation for prosperity index
                     intensity = (feature.properties.population * feature.properties.perCapitaIncome) / feature.properties.area;
                     break;
             }
 
-            heatmapData.push({lat: lat, lng: lng, value: intensity});
+            heatmapData.push([lat, lng, intensity]); // Use an array of [lat, lng, intensity] for leaflet-heat
         });
 
-        // Create and add the heatmap layer
-        heatmapLayer = L.heatmapLayer(heatmapData, {radius: 25, blur: 15});
-        map.addLayer(heatmapLayer);
+        // Use L.heatLayer for leaflet-heat
+        heatmapLayer = L.heatLayer(heatmapData, {
+            radius: 25,
+            blur: 15,
+            gradient: {0.4: 'blue', 0.65: 'lime', 1: 'red'} // Example gradient
+        }).addTo(map);
 
         // Prepare for the next toggle
         currentHeatmapType = (currentHeatmapType + 1) % 3;
