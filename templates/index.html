@@ -156,7 +156,7 @@ input:checked + .slider:before {
 }
 /* Style for the button */
 .collapse-item-button {
-    background-color: #007bff; /* Green color */
+    background-color: #007bff; /*  color */
     border: none;
     color: white;
     padding: 10px 60px; /* Adjust padding for a longer shape */
@@ -200,7 +200,7 @@ input:checked + .slider:before {
 .gear-icon.active {
     margin-right: -35px; /* Margin applied when the button is active */
     z-index: 1060;
-    transform: translateX(200px) translateY(-200px); /* Corrected transform property */
+    transform: translateX(300px) translateY(-200px); /* Corrected transform property */
 
 }
 
@@ -340,6 +340,44 @@ input:checked + .slider:before {
     margin-top: 10px;
     font-weight: bold;
 }
+/* Adjust spacing between dropdowns */
+.dropdown {
+    margin-bottom: 15px; /* Increase space below each dropdown */
+}
+
+.center-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* This will center the flex items horizontally */
+    justify-content: center; /* This will center the flex items vertically if the flex direction is row */
+    width: 100%; /* Ensure the container takes full width to center content effectively */
+}
+
+/* Ensure dropdown buttons are styled uniformly and centered */
+.collapse-item.btn {
+    width: auto; /* Adjust width as necessary, or use 'auto' for content width */
+    margin: 0 auto; /* This centers the button if the container has a specific width */
+    display: block; /* Makes the button a block element to fill the container width */
+    text-align: center; /* Centers the text inside the button */
+}
+
+/* Style for the dropdown menu to ensure it is centered */
+.dropdown-menu {
+    text-align: center; /* Center align the text */
+    margin: 0 auto; /* Auto margins to center the dropdown menu */
+    display: flex; /* Use flexbox to center items */
+    flex-direction: column; /* Stack items vertically */
+    align-items: center; /* Center items horizontally */
+}
+
+/* Adjustments to ensure consistent spacing and alignment */
+.form-group {
+    width: 90%; /* Adjust width as necessary */
+    margin: 10px auto; /* Adds margin to the top and bottom, auto centers horizontally */
+}
+
+/* If you're using Bootstrap and your changes don't seem to apply, ensure your custom CSS is loaded after Bootstrap's CSS, or use more specific selectors to override Bootstrap styles. */
+
 
     </style>
 

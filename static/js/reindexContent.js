@@ -390,7 +390,7 @@ function addGearMenuControl(drawnItems) {
             <hr class="gear-menu-divider">
             <div class="gear-menu-section">
                 <h6 class="gear-menu-header">Search Filters</h6>
-                <div class="dropdown" mb2>
+                <div class="dropdown">
                     <button class="btn btn-secondary dropdown-toggle" id="categoryDropdown" data-toggle="dropdown">Select Categories</button>
                     <div id="categoryList" class="dropdown-menu">
                         <input type="text" class="form-control-sm" id="searchInput" placeholder="Search Categories">
