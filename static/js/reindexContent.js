@@ -62,32 +62,40 @@ function toggleHeatmap() {
     // Increment currentHeatmapType to cycle through the states.
     currentHeatmapType = (currentHeatmapType + 1) % 4; // Cycle through -1 to 2
 
-    // Remove existing heatmap layer if it exists
+    // Remove existing heatmap layer if it exists.
     if (heatmapLayer) {
         map.removeLayer(heatmapLayer);
-        heatmapLayer = null; // Ensure the reference is cleared
+        heatmapLayer = null; // Ensure the reference is cleared.
     }
 
-    // If currentHeatmapType is -1 (off), ensure no heatmap is displayed.
+    // If currentHeatmapType is -1 (off), reinitialize the heatmap layer without data.
     if (currentHeatmapType === -1) {
-        // Optionally, force a redraw of the map or its tiles here if necessary
-        map.invalidateSize(); // This can help force the map to redraw
+        // Reinitialize the heatmapLayer with an empty dataset or hide it.
+        heatmapLayer = L.heatLayer([], {
+            radius: 25,
+            blur: 15,
+            // Ensure the gradient is such that it would not display any data.
+            gradient: {0.0: 'rgba(0,0,0,0)'}
+        }).addTo(map);
         return;
     }
 
-    // Load and display the heatmap for the currentHeatmapType if not -1
+    // Proceed to load and display the heatmap for the currentHeatmapType if not -1.
     fetch('/county-data')
         .then(response => response.json())
         .then(data => {
             var heatmapData = prepareHeatmapData(data, currentHeatmapType);
+
+            // Define custom gradient here as before.
             var customGradient = {
-                0.0: 'rgba(0,0,0,0)', // Fully transparent for the base state
+                0.0: 'rgba(0,0,0,0)', // Fully transparent for the base state.
                 0.2: 'blue',
                 0.4: 'lime',
                 0.6: 'yellow',
                 1.0: 'red'
             };
 
+            // Create and add the heatmap layer if we're not in the "off" state (-1).
             heatmapLayer = L.heatLayer(heatmapData, {
                 radius: 25,
                 blur: 15,
@@ -96,6 +104,7 @@ function toggleHeatmap() {
         })
         .catch(error => console.error('Error loading county data for heatmap:', error));
 }
+
 
 
 
