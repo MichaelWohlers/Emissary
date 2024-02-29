@@ -399,7 +399,7 @@ function addGearMenuControl(drawnItems) {
                         </div>
                     </div>
                 </div>
-                <div class="dropdown">
+                <div class="dropdown mb2">
                     <button class="btn btn-secondary dropdown-toggle" id="keywordDropdown" data-toggle="dropdown">Select Keywords</button>
                     <div id="keywordList" class="dropdown-menu">
                         <input type="text" class="form-control-sm" id="searchKeyword" placeholder="Search Keyword">
