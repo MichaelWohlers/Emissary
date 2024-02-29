@@ -79,17 +79,11 @@ function updateHeatmapExponent(exponent) {
 }
 
 
-
-
-
-
 // Assuming calculateCentroid is correctly defined elsewhere in your code
-
-var currentExponent = 0.5; // Global variable to store the current exponent
 
 function toggleHeatmap(refresh = false) {
     // If not a refresh, toggle through the heatmap types
-    if (!refresh) {
+    if (refresh) {
         currentHeatmapType = (currentHeatmapType + 1) % 4;
         console.log("toggleHeatmap called. Current state:", currentHeatmapType);
     }
