@@ -43,28 +43,39 @@ function prepareHeatmapData(data, currentHeatmapType) {
 
 function determineIntensity(feature, currentHeatmapType) {
     if (currentHeatmapType === 3) {
-        return null;
+        return null; // Heatmap is turned off
     }
 
+    // Extracting properties
     var population = parseInt(feature.properties.population, 10) || 0;
     var perCapitaIncome = parseFloat(feature.properties.perCapitaIncome) || 0;
-    var area = parseFloat(feature.properties.area) || 1; // Default to 1 to prevent division by zero
+    var area = parseFloat(feature.properties.area) || 1; // Prevent division by zero by defaulting to 1
+
+    // Initialize rawIntensity variable
+    var rawIntensity = 0;
 
     switch (currentHeatmapType) {
         case 0: // perCapitaIncome
-            return perCapitaIncome ? Math.sqrt(perCapitaIncome) : null; // Apply transformation if needed
+            rawIntensity = perCapitaIncome;
+            break;
         case 1: // population
-            return population ? Math.sqrt(population) : null; // Apply transformation if needed
+            rawIntensity = population;
+            break;
         case 2: // prosperity index
-            if (population && perCapitaIncome && area) {
-                var prosperityIndex = (population * perCapitaIncome) / area;
-                return Math.sqrt(prosperityIndex); // Apply transformation if needed
+            if (population && perCapitaIncome && area > 0) { // Ensure area is positive to prevent division by zero
+                rawIntensity = (population * perCapitaIncome) / area;
             }
-            return null;
+            break;
         default:
-            return null;
+            return null; // Return null for unsupported heatmap types
     }
+
+    // Apply a logarithmic transformation if the raw intensity is positive
+    // Adding a small constant (e.g., 1) to the rawIntensity to ensure it's positive for the logarithm function
+    // The constant helps avoid -Infinity for zero values and errors for negative values
+    return rawIntensity > 0 ? Math.log(rawIntensity + 1) : 0;
 }
+
 
 
 
@@ -104,12 +115,14 @@ function toggleHeatmap() {
 
             // Define custom gradient here as before.
             var customGradient = {
-                0.0: '#00f', // Blue for the lowest values
-                0.2: '#0ff', // Cyan for low-medium values
-                0.4: '#0f0', // Green for medium values
-                0.6: '#ff0', // Yellow for medium-high values
-                0.8: '#f90', // Orange for high values
-                1.0: '#f00' // Red for the highest values
+                0.0: '#0000FF', // Blue for the lowest values
+                0.1: '#0099FF', // Light blue for slightly higher values
+                0.2: '#00FF00', // Green for low-medium values
+                0.3: '#FFFF00', // Yellow for medium values
+                0.4: '#FFA500', // Orange for medium-high values
+                0.5: '#FF0000', // Red for high values
+                0.6: '#990000', // Dark red for higher values
+                1.0: '#660000'  // Very dark red for the highest values
             };
 
             // Create and add the heatmap layer if we're not in the "off" state (-1).
