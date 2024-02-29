@@ -3,6 +3,53 @@ var map;
 var markerLayerGroup;
 var intervalId; // Global scope declaration
 var markersClusterGroup;
+var heatmapLayer;
+var currentHeatmapType = 0; // 0: perCapitaIncome, 1: population, 2: prosperity index
+
+function toggleHeatmap() {
+    // Remove existing heatmap layer if it exists
+    if (heatmapLayer) {
+        map.removeLayer(heatmapLayer);
+    }
+
+    // Load county data and process based on the current heatmap type
+    fetch('/county-data')
+    .then(response => response.json())
+    .then(data => {
+        var heatmapData = [];
+        data.features.forEach(function(feature) {
+            // Assuming your county data has latitude and longitude properties
+            var lat = feature.geometry.coordinates[0];
+            var lng = feature.geometry.coordinates[1];
+            var intensity;
+
+            switch(currentHeatmapType) {
+                case 0:
+                    intensity = feature.properties.perCapitaIncome;
+                    break;
+                case 1:
+                    intensity = feature.properties.population;
+                    break;
+                case 2:
+                    // Calculate prosperity index (example calculation)
+                    intensity = (feature.properties.population * feature.properties.perCapitaIncome) / feature.properties.area;
+                    break;
+            }
+
+            heatmapData.push({lat: lat, lng: lng, value: intensity});
+        });
+
+        // Create and add the heatmap layer
+        heatmapLayer = L.heatmapLayer(heatmapData, {radius: 25, blur: 15});
+        map.addLayer(heatmapLayer);
+
+        // Prepare for the next toggle
+        currentHeatmapType = (currentHeatmapType + 1) % 3;
+    })
+    .catch(error => console.error('Error loading county data for heatmap:', error));
+}
+
+
 //var newGeoJsonLayer; // Add this line
 
 // Function to start the tour
@@ -104,7 +151,18 @@ function initializeMap() {
     setupDrawControl(drawnItems);
     setupGeocoder(drawnItems);
     addGearMenuControl(drawnItems);
-    
+    // Add a custom control for toggling the heatmap
+    var heatmapToggleControl = L.control({position: 'topright'});
+    heatmapToggleControl.onAdd = function (map) {
+        var div = L.DomUtil.create('div', 'control-custom');
+        div.innerHTML = '<button id="heatmapToggle">Toggle Heatmap</button>';
+        L.DomEvent.on(div, 'click', function (e) {
+            L.DomEvent.stopPropagation(e);
+            toggleHeatmap(); // Function to toggle heatmap views
+        });
+        return div;
+    };
+    heatmapToggleControl.addTo(map);
 }
 
 
