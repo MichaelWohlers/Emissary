@@ -377,7 +377,7 @@ function addGearMenuControl(drawnItems) {
 
             // Menu Container (Initially Hidden)
             var menu = L.DomUtil.create('div', 'gear-menu hidden', container);
-            menu.innerHTML = `<div class="gear-menu-container text-center" style="width: calc(100% - 50px);">
+            menu.innerHTML = `<div class="gear-menu-container text-center">
                 <div class="gear-menu-section">
                     <h6 class="gear-menu-header">Prosperity Index Heatmap</h6>
                     <button id="heatmapToggle" class="btn btn-primary mb-2" style="width: 100%; height: 40px;">Toggle Heatmap</button>
