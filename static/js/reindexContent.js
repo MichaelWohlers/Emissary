@@ -377,44 +377,44 @@ function addGearMenuControl(drawnItems) {
 
             // Menu Container (Initially Hidden)
             var menu = L.DomUtil.create('div', 'gear-menu hidden', container);
-            menu.innerHTML = `<div class="gear-menu-container">
-            <div class="gear-menu-section">
-                <h6 class="gear-menu-header">Prosperity Index Heatmap</h6>
-                <button id="heatmapToggle" class="btn btn-primary">Toggle Heatmap</button>
-                <div class="slider-container">
-                    <label for="exponentSlider">Adjust Intensity Exponent: <span id="exponentValue">0.7</span></label>
-                    <input type="range" id="exponentSlider" min="0.1" max="1.5" step="0.1" value="0.7">
+            menu.innerHTML = `<div class="gear-menu-container text-center">
+                <div class="gear-menu-section">
+                    <h6 class="gear-menu-header">Prosperity Index Heatmap</h6>
+                    <button id="heatmapToggle" class="btn btn-primary mb-2">Toggle Heatmap</button>
+                    <div class="slider-container mb-2">
+                        <label for="exponentSlider">Adjust Intensity Exponent: <span id="exponentValue">0.7</span></label>
+                        <input type="range" id="exponentSlider" class="custom-range" min="0.1" max="1.5" step="0.1" value="0.7">
+                    </div>
+                    <div id="heatmapState" class="mb-3">Current State: Off</div>
                 </div>
-                <div id="heatmapState">Current State: Off</div>
-            </div>
-            <hr class="gear-menu-divider">
-            <div class="gear-menu-section">
-                <h6 class="gear-menu-header">Search Filters</h6>
-                <div class="dropdown">
-                    <button class="btn btn-secondary dropdown-toggle" id="categoryDropdown" data-toggle="dropdown">Select Categories</button>
-                    <div id="categoryList" class="dropdown-menu">
-                        <input type="text" class="form-control-sm" id="searchInput" placeholder="Search Categories">
-                        <div id="categoryItems">
-                            <!-- Dynamically populated categories -->
+                <hr class="gear-menu-divider mb-3">
+                <div class="gear-menu-section">
+                    <h6 class="gear-menu-header mb-2">Search Filters</h6>
+                    <div class="dropdown mb-2">
+                        <button class="btn btn-secondary dropdown-toggle" id="categoryDropdown" data-toggle="dropdown">Select Categories</button>
+                        <div id="categoryList" class="dropdown-menu">
+                            <input type="text" class="form-control-sm mb-2" id="searchInput" placeholder="Search Categories">
+                            <div id="categoryItems">
+                                <!-- Dynamically populated categories -->
+                            </div>
                         </div>
                     </div>
-                </div>
-                <div class="dropdown mb2">
-                    <button class="btn btn-secondary dropdown-toggle" id="keywordDropdown" data-toggle="dropdown">Select Keywords</button>
-                    <div id="keywordList" class="dropdown-menu">
-                        <input type="text" class="form-control-sm" id="searchKeyword" placeholder="Search Keyword">
-                        <div id="keywordItems">
-                            <!-- Dynamically populated keywords -->
+                    <div class="dropdown mb-3">
+                        <button class="btn btn-secondary dropdown-toggle" id="keywordDropdown" data-toggle="dropdown">Select Keywords</button>
+                        <div id="keywordList" class="dropdown-menu">
+                            <input type="text" class="form-control-sm mb-2" id="searchKeyword" placeholder="Search Keyword">
+                            <div id="keywordItems">
+                                <!-- Dynamically populated keywords -->
+                            </div>
                         </div>
                     </div>
+                    <input type="text" class="form-control-sm mb-3" id="exclusionWords" placeholder="Exclude: JCPenny, Walmart, etc.">
                 </div>
-                <input type="text" class="form-control-sm" id="exclusionWords" placeholder="Exclude: JCPenny, Walmart, etc.">
+                <button type="submit" id="fetchDataButton" class="btn btn-primary mb-2">Fetch Places</button>
+                <span class="d-block mb-2">Average Request Time = 3 min.</span>
             </div>
-            <button type="submit" id="fetchDataButton" class="btn btn-primary">Fetch Places</button>
-            <span>Average Request Time = 3 min.</span>
-        </div>
-        
-`;
+            `;
+            
             // Event listeners for the heatmap controls
             var heatmapToggleBtn = container.querySelector('#heatmapToggle');
             var exponentSlider = container.querySelector('#exponentSlider');
