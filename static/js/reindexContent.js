@@ -874,7 +874,7 @@ $(document).ready(function() {
 
     document.getElementById('searchInput').addEventListener('input', filterCategories);
     document.getElementById('searchKeyword').addEventListener('input', filterKeywords);
-    document.getElementById('fetchDataButton').addEventListener('submit', function(e) {
+    document.getElementById('fetchDataButton').addEventListener('click', function(e) {
         e.preventDefault(); // Prevent the default form submission
         // Access the gear button and menu
         var gearButton = document.querySelector('.gear-icon');
