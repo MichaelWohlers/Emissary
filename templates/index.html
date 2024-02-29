@@ -200,7 +200,7 @@ input:checked + .slider:before {
 .gear-icon.active {
     margin-right: -35px; /* Margin applied when the button is active */
     z-index: 1060;
-    transform: translateX(315px) translateY(-225px); /* Corrected transform property */
+    transform: translateX(315px) translateY(-250px); /* Corrected transform property */
 
 }
 
@@ -208,9 +208,13 @@ input:checked + .slider:before {
 
 .gear-menu {
     display: none; /* Initially hidden */
-
-    /* Additional styles for the menu */
+    width: auto; /* Adjust to content width or set a specific width */
+    max-width: 250px; /* Example: Adjust based on your preference */
+    border: 1px solid rgba(106, 104, 104, 0.673);
+    border-radius: 5px;
+    padding: 10px; /* Add some padding for aesthetic purposes */
 }
+
 
 .gear-menu:not(.hidden) {
     display: block; /* Show when not hidden */
