@@ -468,7 +468,7 @@ function addGearMenuControl(drawnItems) {
             if (heatmapToggleBtn) {
                 heatmapToggleBtn.addEventListener('click', function(e) {
                     e.preventDefault();
-                    toggleHeatmap(true); // Call your toggleHeatmap function
+                    toggleHeatmap(); // Call your toggleHeatmap function
                 });
             }
 
