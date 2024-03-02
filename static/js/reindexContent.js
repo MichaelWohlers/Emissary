@@ -479,10 +479,7 @@ function addGearMenuControl(drawnItems) {
                     updateHeatmapExponent(parseFloat(exponent)); // Call your updateHeatmapExponent function
                 });
             }
-                            // Listen for changes on the transformSelect element to update the heatmap accordingly
-            document.getElementById('transformSelect').addEventListener('change', function() {
-                toggleHeatmap(true); // Assuming toggleHeatmap(true) refreshes the heatmap
-            });
+
 
             return container;
         }
@@ -861,6 +858,10 @@ $(document).ready(function() {
         if (currentHeatmapType !== 3 && heatmapLayer) {
             addHeatmapLayer(globalHeatmapData); // Use global data, no need to re-fetch
         }
+    });
+                        // Listen for changes on the transformSelect element to update the heatmap accordingly
+    document.getElementById('transformSelect').addEventListener('change', function() {
+        toggleHeatmap(true); // Assuming toggleHeatmap(true) refreshes the heatmap
     });
 
 
