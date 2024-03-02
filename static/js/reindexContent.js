@@ -4,6 +4,7 @@ var markerLayerGroup;
 var intervalId; // Global scope declaration
 var markersClusterGroup;
 var heatmapLayer;
+var globalHeatmapData = [];
 var currentHeatmapType = 3; // 3: off, 0: perCapitaIncome, 1: population, 2: prosperity index
 var countyLayer; // Declare countyLayer globally
 var currentExponent = 0.7; // Default exponent value
@@ -120,50 +121,68 @@ function toggleHeatmap(refresh = false) {
         heatmapLayer = null; // Ensure the reference is cleared
     }
 
-    // If currentHeatmapType is 3 (off), reinitialize the heatmap layer without data
+    // Check for the "off" state
     if (currentHeatmapType === 3) {
-        // Reinitialize the heatmapLayer with an empty dataset or hide it
         heatmapLayer = L.heatLayer([], {
             radius: 25,
             blur: 15,
-            gradient: {0.0: 'rgba(0,0,0,0)'} // Ensuring no data is displayed
+            gradient: {0.0: 'rgba(0,0,0,0)'}
         }).addTo(map);
-        document.getElementById('heatmapState').textContent = "Current State: Off"; // Update state description
+        document.getElementById('heatmapState').textContent = "Current State: Off";
         return;
     }
 
-    // Proceed to load and display the heatmap for the currentHeatmapType if not -1
+    // Fetch data and create heatmap
     fetch('/county-data')
     .then(response => response.json())
     .then(data => {
-        var heatmapData = prepareHeatmapData(data, currentHeatmapType);
-
-        var customGradient = {
-            0.0: '#0000FF', // Blue for the lowest values
-            0.1: '#0099FF', // Light blue for slightly higher values
-            0.2: '#00FF00', // Green for low-medium values
-            0.3: '#FFFF00', // Yellow for medium values
-            0.4: '#FFA500', // Orange for medium-high values
-            0.5: '#FF0000', // Red for high values
-            0.6: '#990000', // Dark red for higher values
-            1.0: '#660000'  // Very dark red for the highest values
-        };
-
-        // Create and add the heatmap layer if we're not in the "off" state (3)
-        heatmapLayer = L.heatLayer(heatmapData, {
-            radius: 45,
-            blur: 15,
-            gradient: customGradient
-        }).addTo(map);
-
-        // Update the state description based on currentHeatmapType
+        globalHeatmapData = prepareHeatmapData(data, currentHeatmapType); // Store for re-use
+        addHeatmapLayer(globalHeatmapData); // Use the stored data
+                // Update the state description based on currentHeatmapType
         var stateDescriptions = ["Per Capita Income", "Population", "Prosperity Index", "Off"];
         document.getElementById('heatmapState').textContent = "Current State: " + stateDescriptions[currentHeatmapType];
     })
     .catch(error => console.error('Error loading county data for heatmap:', error));
 }
+// Separate function to add the heatmap layer with dynamic radius and blur
+function addHeatmapLayer(heatmapData) {
+    var currentZoom = map.getZoom();
+    var radius = calculateRadiusBasedOnZoom(currentZoom);
+    var blur = calculateBlurBasedOnZoom(currentZoom);
 
+    var customGradient = {
+        0.0: '#0000FF', // Blue for the lowest values
+        0.1: '#0099FF', // Light blue for slightly higher values
+        0.2: '#00FF00', // Green for low-medium values
+        0.3: '#FFFF00', // Yellow for medium values
+        0.4: '#FFA500', // Orange for medium-high values
+        0.5: '#FF0000', // Red for high values
+        0.6: '#990000', // Dark red for higher values
+        1.0: '#660000'  // Very dark red for the highest values
+    };
 
+    heatmapLayer = L.heatLayer(heatmapData, {
+        radius: radius,
+        blur: blur,
+        gradient: customGradient
+    }).addTo(map);
+}
+// Adjust heatmap settings dynamically upon zoom
+map.on('zoomend', function() {
+    if (currentHeatmapType !== 3 && heatmapLayer) {
+        addHeatmapLayer(globalHeatmapData); // Use global data, no need to re-fetch
+    }
+});
+
+// Helper functions to calculate radius and blur based on zoom level
+function calculateRadiusBasedOnZoom(zoomLevel) {
+    // Simple example: adjust radius based on zoom level
+    return zoomLevel > 13 ? 40 : zoomLevel > 10 ? 30 : 20;
+}
+function calculateBlurBasedOnZoom(zoomLevel) {
+    // Simple example: adjust blur based on zoom level
+    return zoomLevel > 13 ? 25 : zoomLevel > 10 ? 20 : 15;
+}
 
 
 
@@ -454,7 +473,7 @@ function addGearMenuControl(drawnItems) {
             if (heatmapToggleBtn) {
                 heatmapToggleBtn.addEventListener('click', function(e) {
                     e.preventDefault();
-                    toggleHeatmap(); // Call your toggleHeatmap function
+                    toggleHeatmap(true); // Call your toggleHeatmap function
                 });
             }
 
@@ -465,13 +484,19 @@ function addGearMenuControl(drawnItems) {
                     updateHeatmapExponent(parseFloat(exponent)); // Call your updateHeatmapExponent function
                 });
             }
+                            // Listen for changes on the transformSelect element to update the heatmap accordingly
+            document.getElementById('transformSelect').addEventListener('change', function() {
+                toggleHeatmap(true); // Assuming toggleHeatmap(true) refreshes the heatmap
+            });
 
             return container;
         }
     });
 
+
     map.addControl(new L.Control.GearMenu({ position: 'topright' }));
 }
+
 function toggleMapView(drawnItems){L.Control.ToggleView = L.Control.extend({
     onAdd: function(map) {
         // Create a div to hold the control
@@ -930,17 +955,9 @@ $(document).ready(function() {
 
 
 
-        // Listen for changes on the transformSelect element to update the heatmap accordingly
-    document.getElementById('transformSelect').addEventListener('change', function() {
-        toggleHeatmap(true); // Assuming toggleHeatmap(true) refreshes the heatmap
-    });
 
-    // Existing logic to update exponentValue and refresh heatmap based on exponentSlider
-    document.getElementById('exponentSlider').addEventListener('input', function(event) {
-        var exponentValue = parseFloat(event.target.value);
-        document.getElementById('exponentValue').textContent = exponentValue.toString();
-        updateHeatmapExponent(exponentValue); // Adjust currentExponent and refresh heatmap
-    });
+
+    
     document.getElementById('searchInput').addEventListener('input', filterCategories);
     document.getElementById('searchKeyword').addEventListener('input', filterKeywords);
     document.getElementById('fetchDataButton').addEventListener('click', function(e) {
