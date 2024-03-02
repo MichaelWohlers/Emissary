@@ -742,49 +742,48 @@ function fetchAndDisplayCountyData() {
 
 function setupCountyInteraction(feature, layer) {
     var missingDataMessage = "Data not available";
-    var popupContent = "<div>Name: " + feature.properties.name + "</div>" +
-                       "<h4>Population</h4>" +
-                       "<div title='The population of people in a specified geographic area on April 1, 2020.'>2020 Population: " + (feature.properties['Population.2020 Population'] || missingDataMessage) + "</div>" +
-                       "<div title='The population of people in a specified geographic area on April 1, 2010.'>2010 Population: " + (feature.properties['Population.2010 Population'] || missingDataMessage) + "</div>" +
-                       "<div title='Population and housing unit density computed by dividing the total population or number of housing units within a geographic entity by the land area of that entity measured in square miles or in square kilometers in 2010.'>Population per Square Mile: " + (feature.properties['Population.Population per Square Mile'] || missingDataMessage) + "</div>" +
-                       "<div title='Estimated percentage of population whose ages are equal or greater than 65 years old.'>Percent 65 and Older: " + (feature.properties['Age.Percent 65 and Older'] || missingDataMessage) + "</div>" +
-                       "<div title='Estimated percentage of population whose ages are under 18 years old.'>Percent Under 18 Years: " + (feature.properties['Age.Percent Under 18 Years'] || missingDataMessage) + "</div>" +
-                       "<div title='Estimated percentage of population whose ages are under 5 years old.'>Percent Under 5 Years: " + (feature.properties['Age.Percent Under 5 Years'] || missingDataMessage) + "</div>" +
-                       "<h4>Education</h4>" +
-                       "<div title='Percentage for the people who attended college but did not receive a degree and people who received an associate\'s, bachelor\'s, master\'s, professional, or doctorate degree.'>Bachelor's Degree or Higher: " + (feature.properties['Education.Bachelor\'s Degree or Higher'] || missingDataMessage) + "%</div>" +
-                       "<div title='Percentage of people whose highest degree was a high school diploma or its equivalent, people who attended college but did not receive a degree, and people who received an associate\'s, bachelor\'s, master\'s, professional, or doctorate degree.'>High School or Higher: " + (feature.properties['Education.High School or Higher'] || missingDataMessage) + "%</div>" +
-                       "<h4>Employment</h4>" +
-                       "<div title='Number of establishments without employees.'>Nonemployer Establishments: " + (feature.properties['Employment.Nonemployer Establishments'] || missingDataMessage) + "</div>" +
-                       "<div title='All nonfarm businesses filing Internal Revenue Service tax forms.'>Total Firms: " + (feature.properties['Employment.Firms.Total'] || missingDataMessage) + "</div>" +
-                       "<div title='All women-owned nonfarm businesses filing Internal Revenue Service tax forms.'>Women-Owned Firms: " + (feature.properties['Employment.Firms.Women-Owned'] || missingDataMessage) + "</div>" +
-                       "<div title='All nonfarm businesses owned by equally minority filing Internal Revenue Service tax forms.'>Minority-Owned Firms: " + (feature.properties['Employment.Firms.Minority-Owned'] || missingDataMessage) + "</div>" +
-                       "<h4>Ethnicities</h4>" +
-                       "<div title='Estimated percentage of population having origins in any of the original peoples of Europe, the Middle East, or North Africa.'>White Alone: " + (feature.properties['Ethnicities.White Alone'] || missingDataMessage) + "%</div>" +
-                       "<div title='Estimated percentage of population having origins in any of the Black racial groups of Africa.'>Black Alone: " + (feature.properties['Ethnicities.Black Alone'] || missingDataMessage) + "%</div>" +
-                       "<div title='Estimated percentage of population of Cuban, Mexican, Puerto Rican, South or Central American, or other Spanish culture or origin, regardless of race.'>Hispanic or Latino: " + (feature.properties['Ethnicities.Hispanic or Latino'] || missingDataMessage) + "%</div>" +
-                       "<div title='Estimated percentage of population having origins in any of the original peoples of the Far East, Southeast Asia, or the Indian subcontinent.'>Asian Alone: " + (feature.properties['Ethnicities.Asian Alone'] || missingDataMessage) + "%</div>" +
-                       "<h4>Housing</h4>" +
-                       "<div title='A housing unit is owner-occupied if the owner or co-owner lives in the unit.'>Homeownership Rate: " + (feature.properties['Housing.Homeownership Rate'] || missingDataMessage) + "%</div>" +
-                       "<div title='Median value of housing units which are owner-occupied.'>Median Value of Owner-Occupied Units: $" + (feature.properties['Housing.Median Value of Owner-Occupied Units'] || missingDataMessage) + "</div>" +
-                       "<h4>Income</h4>" +
-                       "<div title='Median of income in the past 12 months.'>Median Household Income: $" + (feature.properties['Income.Median Houseold Income'] || missingDataMessage) + "</div>" +
-                       "<div title='Per capita income is the mean income computed for every man, woman, and child in a particular group.'>Per Capita Income: $" + (feature.properties['Income.Per Capita Income'] || missingDataMessage) + "</div>" +
-                       "<h4>Miscellaneous</h4>" +
-                       "<div title='Estimated percentage of population who was not a U.S. citizen at birth.'>Foreign Born: " + (feature.properties['Miscellaneous.Foreign Born'] || missingDataMessage) + "%</div>" +
-                       "<div title='Land area measurements are originally recorded as whole square meters.'>Land Area: " + (feature.properties['Miscellaneous.Land Area'] || missingDataMessage) + " sq mi</div>" +
-                       "<div title='Travel time to work refers to the total number of minutes that it usually took the person to get from home to work each day.'>Mean Travel Time to Work: " + (feature.properties['Miscellaneous.Mean Travel Time to Work'] || missingDataMessage) + " minutes</div>";
+    
+    // Constructing the tooltip content
+    var tooltipContent = "<div><strong>Name:</strong> " + feature.properties.name + "</div>" +
+                         "<div><strong>2020 Population:</strong> " + (feature.properties['Population.2020 Population'] || missingDataMessage) + " (Population as of April 1, 2020)</div>" +
+                         "<div><strong>2010 Population:</strong> " + (feature.properties['Population.2010 Population'] || missingDataMessage) + " (Population as of April 1, 2010)</div>" +
+                         "<div><strong>Population Density (2010):</strong> " + (feature.properties['Population.Population per Square Mile'] || missingDataMessage) + " per sq mi</div>" +
+                         "<div><strong>% Aged 65+:</strong> " + (feature.properties['Age.Percent 65 and Older'] || missingDataMessage) + "</div>" +
+                         "<div><strong>% Under 18:</strong> " + (feature.properties['Age.Percent Under 18 Years'] || missingDataMessage) + "</div>" +
+                         "<div><strong>% Under 5:</strong> " + (feature.properties['Age.Percent Under 5 Years'] || missingDataMessage) + "</div>" +
+                         "<div><strong>Bachelor's or Higher:</strong> " + (feature.properties['Education.Bachelor\'s Degree or Higher'] || missingDataMessage) + "%</div>" +
+                         "<div><strong>High School or Higher:</strong> " + (feature.properties['Education.High School or Higher'] || missingDataMessage) + "%</div>" +
+                         "<div><strong>Nonemployer Establishments:</strong> " + (feature.properties['Employment.Nonemployer Establishments'] || missingDataMessage) + "</div>" +
+                         "<div><strong>Total Firms:</strong> " + (feature.properties['Employment.Firms.Total'] || missingDataMessage) + "</div>" +
+                         "<div><strong>Women-Owned Firms:</strong> " + (feature.properties['Employment.Firms.Women-Owned'] || missingDataMessage) + "</div>" +
+                         "<div><strong>Minority-Owned Firms:</strong> " + (feature.properties['Employment.Firms.Minority-Owned'] || missingDataMessage) + "</div>" +
+                         "<div><strong>Homeownership Rate:</strong> " + (feature.properties['Housing.Homeownership Rate'] || missingDataMessage) + "%</div>" +
+                         "<div><strong>Median Value of Homes:</strong> $" + (feature.properties['Housing.Median Value of Owner-Occupied Units'] || missingDataMessage) + "</div>" +
+                         "<div><strong>Median Income:</strong> $" + (feature.properties['Income.Median Houseold Income'] || missingDataMessage) + "</div>" +
+                         "<div><strong>Per Capita Income:</strong> $" + (feature.properties['Income.Per Capita Income'] || missingDataMessage) + "</div>" +
+                         "<div><strong>Foreign Born:</strong> " + (feature.properties['Miscellaneous.Foreign Born'] || missingDataMessage) + "%</div>" +
+                         "<div><strong>Land Area:</strong> " + (feature.properties['Miscellaneous.Land Area'] || missingDataMessage) + " sq mi</div>" +
+                         "<div><strong>Travel Time to Work:</strong> " + (feature.properties['Miscellaneous.Mean Travel Time to Work'] || missingDataMessage) + " mins</div>";
 
-    layer.bindPopup(popupContent);
+    // Bind the tooltip with the constructed content to the layer
+    layer.bindTooltip(tooltipContent, {
+        className: 'custom-tooltip', // A custom class for styling if needed
+        direction: 'auto', // Automatically positions the tooltip in a way that fits the map best
+        sticky: true // Makes the tooltip follow the mouse
+    });
+
+    // You can still bind a popup here if you want to show detailed information on click
+    layer.bindPopup(tooltipContent); // Or a more detailed version of the content, if preferred
 
     layer.on({
         mouseover: function(e) {
             var layer = e.target;
             layer.setStyle({
-                weight: 0,
-                color: '#666',
-                fillColor: '#3388ff',
+                weight: 2, // Make the border thicker on hover for better visibility
+                color: '#666', // Outline color
+                fillColor: '#3388ff', // Fill color
                 fillOpacity: 0.7
-            });
+           });
         },
         mouseout: function(e) {
             countyLayer.resetStyle(e.target);
