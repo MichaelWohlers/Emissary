@@ -146,6 +146,10 @@ function toggleHeatmap(refresh = false) {
 }
 // Separate function to add the heatmap layer with dynamic radius and blur
 function addHeatmapLayer(heatmapData) {
+    // Remove existing heatmap layer if it exists
+    if (heatmapLayer) {
+        map.removeLayer(heatmapLayer);
+    }
     var currentZoom = map.getZoom();
     var radius = calculateRadiusBasedOnZoom(currentZoom);
     var blur = calculateBlurBasedOnZoom(currentZoom);
