@@ -78,7 +78,8 @@ function determineIntensity(feature, currentHeatmapType) {
             case 'power':
                 return Math.pow(rawIntensity, currentExponent);
             case 'logarithmic':
-                return Math.log1p(rawIntensity);
+                // Scale the logarithm result by the exponentSlider value
+                return Math.log1p(rawIntensity) * currentExponent;
             default:
                 return rawIntensity; // Fallback case
         }
@@ -410,10 +411,11 @@ function addGearMenuControl(drawnItems) {
                     <div class="transform-container mb-2">
                         <label for="transformSelect">Intensity Transformation:</label>
                         <select id="transformSelect" class="custom-select">
-                            <option value="power">Power</option>
-                            <option value="logarithmic" selected>Logarithmic</option>
+                            <option value="power" title="Scales intensity exponentially based on the slider value. Higher values increase contrast.">Power</option>
+                            <option value="logarithmic" title="Compresses intensity using a logarithmic scale. The slider adjusts the scale factor, fine-tuning the compression." selected>Logarithmic</option>
                         </select>
                     </div>
+                
                     
                     <div id="heatmapState" class="mb-3">Current State: Off</div>
                 
