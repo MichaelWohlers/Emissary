@@ -174,19 +174,29 @@ function addHeatmapLayer(heatmapData) {
 
 
 function calculateRadiusBasedOnZoom(zoomLevel) {
-    // Adjust these thresholds and values based on testing and appearance
-    if (zoomLevel >= 15) return 60;
-    if (zoomLevel >= 13) return 50;
-    if (zoomLevel >= 10) return 40;
-    return 30; // Default for zoom levels < 10
+    console.log("Calculating Radius - Current Zoom Level:", zoomLevel);
+    let radius;
+    if (zoomLevel >= 15) radius = 60;
+    else if (zoomLevel >= 13) radius = 50;
+    else if (zoomLevel >= 10) radius = 40;
+    else radius = 30; // Default for zoom levels < 10
+
+    console.log("Calculated Radius:", radius);
+    return radius;
 }
 
 function calculateBlurBasedOnZoom(zoomLevel) {
-    if (zoomLevel >= 15) return 35;
-    if (zoomLevel >= 13) return 30;
-    if (zoomLevel >= 10) return 25;
-    return 20; // Default for zoom levels < 10
+    console.log("Calculating Blur - Current Zoom Level:", zoomLevel);
+    let blur;
+    if (zoomLevel >= 15) blur = 35;
+    else if (zoomLevel >= 13) blur = 30;
+    else if (zoomLevel >= 10) blur = 25;
+    else blur = 20; // Default for zoom levels < 10
+
+    console.log("Calculated Blur:", blur);
+    return blur;
 }
+
 
 
 
