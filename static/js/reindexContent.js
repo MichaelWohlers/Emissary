@@ -48,8 +48,13 @@ function determineIntensity(feature, currentHeatmapType) {
     }
 
     var population = parseInt(feature.properties.population, 10) || 0;
-    var perCapitaIncome = parseFloat(feature.properties.perCapitaIncome) || 0;
     var area = parseFloat(feature.properties.area) || 1;
+    var populationDensity = parseFloat(feature.properties['Population.Population per Square Mile']) || 0;
+    var medianIncome = parseFloat(feature.properties['Income.Median Houseold Income']) || 0;
+    var educationLevel = parseFloat(feature.properties['Education.Bachelor\'s Degree or Higher']) || 0;
+    var housingValue = parseFloat(feature.properties['Housing.Median Value of Owner-Occupied Units']) || 0;
+    var perCapitaIncome = parseFloat(feature.properties['Income.Per Capita Income']) || 0;
+
 
     var rawIntensity = 0;
     switch (currentHeatmapType) {
@@ -60,11 +65,26 @@ function determineIntensity(feature, currentHeatmapType) {
             rawIntensity = population;
             break;
         case 2: // prosperity index
-            rawIntensity = population && perCapitaIncome && area > 0 ? (population * perCapitaIncome) / area : 0;
+            rawIntensity = (populationDensity + medianIncome + educationLevel * 1000 + housingValue / 1000 + perCapitaIncome) / 5;            
             break;
     }
 
-    return rawIntensity > 0 ? Math.pow(rawIntensity, currentExponent) : 0;
+    // Retrieve the selected transformation type
+    var transformType = document.getElementById('transformSelect').value;
+
+    // Apply the selected transformation
+    if (rawIntensity > 0) {
+        switch (transformType) {
+            case 'power':
+                return Math.pow(rawIntensity, currentExponent);
+            case 'logarithmic':
+                return Math.log1p(rawIntensity);
+            default:
+                return rawIntensity; // Fallback case
+        }
+    } else {
+        return 0;
+    }
 }
 
 
@@ -379,14 +399,24 @@ function addGearMenuControl(drawnItems) {
             var menu = L.DomUtil.create('div', 'gear-menu hidden', container);
             menu.innerHTML = `<div class="gear-menu-container text-center">
                 <div class="gear-menu-section">
-                    <h6 class="gear-menu-header">Prosperity Index Heatmap</h6>
-                    <button id="heatmapToggle" class="btn btn-primary mb-2" style="width: 100%; height: 40px;">Toggle Heatmap</button>
+                    <h6 class="gear-menu-header">Heatmap Controls</h6>
+                    <button id="heatmapToggle" class="btn btn-primary mb-2" style="width: 100%; height: 40px;">Cycle Heatmaps</button>
+                    
                     <div class="slider-container mb-2">
                         <label for="exponentSlider">Adjust Intensity Exponent: <span id="exponentValue">0.7</span></label>
                         <input type="range" id="exponentSlider" class="custom-range" min="0.1" max="1.5" step="0.1" value="0.7">
                     </div>
+                    
+                    <div class="transform-container mb-2">
+                        <label for="transformSelect">Intensity Transformation:</label>
+                        <select id="transformSelect" class="custom-select">
+                            <option value="power">Power</option>
+                            <option value="logarithmic" selected>Logarithmic</option>
+                        </select>
+                    </div>
+                    
                     <div id="heatmapState" class="mb-3">Current State: Off</div>
-                </div>
+                
                 <hr class="gear-menu-divider mb-3">
                 <div class="gear-menu-section">
                     <h6 class="gear-menu-header mb-2">Search Filters</h6>
@@ -898,7 +928,17 @@ $(document).ready(function() {
 
 
 
+        // Listen for changes on the transformSelect element to update the heatmap accordingly
+    document.getElementById('transformSelect').addEventListener('change', function() {
+        toggleHeatmap(true); // Assuming toggleHeatmap(true) refreshes the heatmap
+    });
 
+    // Existing logic to update exponentValue and refresh heatmap based on exponentSlider
+    document.getElementById('exponentSlider').addEventListener('input', function(event) {
+        var exponentValue = parseFloat(event.target.value);
+        document.getElementById('exponentValue').textContent = exponentValue.toString();
+        updateHeatmapExponent(exponentValue); // Adjust currentExponent and refresh heatmap
+    });
     document.getElementById('searchInput').addEventListener('input', filterCategories);
     document.getElementById('searchKeyword').addEventListener('input', filterKeywords);
     document.getElementById('fetchDataButton').addEventListener('click', function(e) {
