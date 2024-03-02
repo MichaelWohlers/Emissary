@@ -151,16 +151,16 @@ function addHeatmapLayer(heatmapData) {
     var blur = calculateBlurBasedOnZoom(currentZoom);
 
     var customGradient = {
-        0.0: '#0000FF', // Blue for the lowest values
-        0.1: '#0099FF', // Light blue for slightly higher values
-        0.2: '#00FF00', // Green for low-medium values
-        0.3: '#FFFF00', // Yellow for medium values
-        0.4: '#FFA500', // Orange for medium-high values
-        0.5: '#FF0000', // Red for high values
-        0.6: '#990000', // Dark red for higher values
-        1.0: '#660000'  // Very dark red for the highest values
+        0.0: 'rgba(0, 0, 255, 0.6)', // Blue with transparency
+        0.1: 'rgba(0, 153, 255, 0.6)', // Light blue with transparency
+        0.2: 'rgba(0, 255, 0, 0.6)', // Green with transparency
+        0.3: 'rgba(255, 255, 0, 0.6)', // Yellow with transparency
+        0.4: 'rgba(255, 165, 0, 0.6)', // Orange with transparency
+        0.5: 'rgba(255, 0, 0, 0.6)', // Red with transparency
+        0.6: 'rgba(153, 0, 0, 0.6)', // Dark red with transparency
+        1.0: 'rgba(102, 0, 0, 0.6)'  // Very dark red with transparency
     };
-
+    
     heatmapLayer = L.heatLayer(heatmapData, {
         radius: radius,
         blur: blur,
@@ -169,14 +169,19 @@ function addHeatmapLayer(heatmapData) {
 }
 
 
-// Helper functions to calculate radius and blur based on zoom level
 function calculateRadiusBasedOnZoom(zoomLevel) {
-    // Simple example: adjust radius based on zoom level
-    return zoomLevel > 13 ? 40 : zoomLevel > 10 ? 30 : 20;
+    // Adjust these thresholds and values based on testing and appearance
+    if (zoomLevel >= 15) return 60;
+    if (zoomLevel >= 13) return 50;
+    if (zoomLevel >= 10) return 40;
+    return 30; // Default for zoom levels < 10
 }
+
 function calculateBlurBasedOnZoom(zoomLevel) {
-    // Simple example: adjust blur based on zoom level
-    return zoomLevel > 13 ? 25 : zoomLevel > 10 ? 20 : 15;
+    if (zoomLevel >= 15) return 35;
+    if (zoomLevel >= 13) return 30;
+    if (zoomLevel >= 10) return 25;
+    return 20; // Default for zoom levels < 10
 }
 
 
