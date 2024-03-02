@@ -176,9 +176,12 @@ function addHeatmapLayer(heatmapData) {
 function calculateRadiusBasedOnZoom(zoomLevel) {
     console.log("Calculating Radius - Current Zoom Level:", zoomLevel);
     let radius;
-    if (zoomLevel >= 15) radius = 60;
-    else if (zoomLevel >= 13) radius = 50;
-    else if (zoomLevel >= 10) radius = 40;
+    if (zoomLevel >= 15) radius = 120;
+    else if (zoomLevel >= 11) radius = 100;
+    else if (zoomLevel >= 9) radius = 80;
+    else if (zoomLevel >= 8) radius = 70;
+    else if (zoomLevel >= 7) radius = 60;
+    else if (zoomLevel >= 6) radius = 40;
     else radius = 30; // Default for zoom levels < 10
 
     console.log("Calculated Radius:", radius);
