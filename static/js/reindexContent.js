@@ -167,12 +167,7 @@ function addHeatmapLayer(heatmapData) {
         gradient: customGradient
     }).addTo(map);
 }
-// Adjust heatmap settings dynamically upon zoom
-map.on('zoomend', function() {
-    if (currentHeatmapType !== 3 && heatmapLayer) {
-        addHeatmapLayer(globalHeatmapData); // Use global data, no need to re-fetch
-    }
-});
+
 
 // Helper functions to calculate radius and blur based on zoom level
 function calculateRadiusBasedOnZoom(zoomLevel) {
@@ -860,6 +855,12 @@ $(document).ready(function() {
     fetchAndDisplayCategories();
     document.getElementById('startTourButton').addEventListener('click', function() {
         startIntroTour();
+    });
+        // Adjust heatmap settings dynamically upon zoom
+    map.on('zoomend', function() {
+        if (currentHeatmapType !== 3 && heatmapLayer) {
+            addHeatmapLayer(globalHeatmapData); // Use global data, no need to re-fetch
+        }
     });
 
 
